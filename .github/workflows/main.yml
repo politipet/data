@@ -16,7 +16,7 @@ jobs:
       - run: |
           : fetch brav-m petition signatures count
           (
-          printf "$(date +'%F %T')\t"
+          printf "$(TZ='Europe/Paris' date +'%F %T')\t"
           curl -s https://petitions.assemblee-nationale.fr/initiatives/i-1446 \
           | grep progress__bar__number \
           | sed 's/[^>]*>//; s/<.*//; s/ //'
