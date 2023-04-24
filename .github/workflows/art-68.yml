@@ -1,0 +1,29 @@
+name: 'Art-68 polling'
+on:
+  push:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+
+  brav-m:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - run: |
+          : fetch art-68 petition signatures count
+          (
+          printf "$(TZ='Europe/Paris' date +'%F %T')\t"
+          curl -s https://petitions.assemblee-nationale.fr/initiatives/i-1123 \
+          | grep progress__bar__number \
+          | sed 's/[^>]*>//; s/<.*//; s/ //'
+          )  >> art-68.txt
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update brav-m.txt
+          commit_author: "[Bot] <actions@github.com>"
+          file_pattern: art-68.txt
