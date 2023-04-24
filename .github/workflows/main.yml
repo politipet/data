@@ -29,5 +29,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update petitions counts
-          commit_author: "[Bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_author: "[Bot] <actions@github.com>"
+          commit_user_name: "[Bot]"
+          commit_user_email: "actions@github.com"
           file_pattern: '*.txt'
