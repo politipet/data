@@ -1,4 +1,4 @@
-name: 'BRAV-M polling'
+name: 'Petitions polling'
 on:
   push:
   schedule:
@@ -14,16 +14,20 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - run: |
-          : fetch brav-m petition signatures count
-          (
+          : fetch petitions signatures counts
+
+          fetch() {
           printf "$(TZ='Europe/Paris' date +'%F %T')\t"
-          curl -s https://petitions.assemblee-nationale.fr/initiatives/i-1446 \
+          curl -s https://petitions.assemblee-nationale.fr/initiatives/$1 \
           | grep progress__bar__number \
           | sed 's/[^>]*>//; s/<.*//; s/ //'
-          )  >> brav-m.txt
+          }
+
+          fetch i-1446 >> brav-m.txt
+          fetch i-1123 >> art-68.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update brav-m.txt
-          commit_author: "[Bot] <actions@github.com>"
-          file_pattern: brav-m.txt
+          commit_message: Update petitions counts
+          commit_author: "[Bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          file_pattern: '*.txt'
