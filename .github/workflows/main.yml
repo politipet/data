@@ -27,6 +27,7 @@ jobs:
           fetch i-1123 >> art-68.txt
           fetch i-1484 >> demission.txt
           fetch i-1549 >> lacrymo.txt
+          fetch i-1395 >> art-68-v2.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
