@@ -18,13 +18,7 @@ poll() {
 }
 
 main() {
-	petitions="
-	i-1446
-	i-1123
-	i-1484
-	i-1395
-	"
-	#i-1549
+	petitions=$(cat Petitions.txt | egrep -v ^#)
 
 	for i in $petitions; do
 		poll $i &
