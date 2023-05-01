@@ -13,21 +13,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - run: |
-          : fetch petitions signatures counts
-
-          fetch() {
-          printf "$(TZ='Europe/Paris' date +'%F %T')\t"
-          curl -s https://petitions.assemblee-nationale.fr/initiatives/$1 \
-          | grep progress__bar__number \
-          | sed 's/[^>]*>//; s/<.*//; s/ //'
-          }
-
-          fetch i-1446 >> brav-m.txt
-          fetch i-1123 >> art-68.txt
-          fetch i-1484 >> demission.txt
-          #fetch i-1549 >> lacrymo.txt
-          fetch i-1395 >> art-68-v2.txt
+      - run: ./fetch-signatures-counts.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
