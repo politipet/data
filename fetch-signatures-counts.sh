@@ -9,9 +9,10 @@ fetch() {
 poll() {
 	target=$1
 	curr_val=$(fetch $target)
-	last_val=$(tail -1 $target.txt | cut -f 2)
+	last_two=$(tail -2 $target.txt | cut -f 2)
+	is_still=$(echo -e "$last_two\n$curr_val" | sort -u | wc -l)
 
-	[ "$curr_val" != "$last_val" ] || return 0
+	[ "$is_still" != 1 ] || return 0
 
 	timestamp=$(TZ='Europe/Paris' date +'%F %T')
 	echo -e "$timestamp\t$curr_val" >> $target.txt
