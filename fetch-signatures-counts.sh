@@ -12,7 +12,7 @@ poll() {
 	last_two=$(tail -2 $target.txt | cut -f 2)
 	is_still=$(echo -e "$last_two\n$curr_val" | sort -u | wc -l)
 
-	[ "$is_still" != 1 ] || return 0
+	[ "$is_still" != 1 ] || sed -i "$ d" $target.txt
 
 	timestamp=$(TZ='Europe/Paris' date +'%F %T')
 	echo -e "$timestamp\t$curr_val" >> $target.txt
