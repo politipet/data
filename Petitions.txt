@@ -6,4 +6,6 @@ i-1549	enquête/moratoire lacrymos
 i-1559	RIC constituant (#2)
 i-1137	referendum retraite 60 ans
 i-1036	fin élevage intensif
+i-1437	moratoire méga-bassines
+i-1470	interdiction privatisation eau / bassines
 # i-1319	dissolution BRAV-M (#1)
