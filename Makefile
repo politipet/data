@@ -14,4 +14,7 @@ stats:
 	@git log --stat --since '$(since)' \
 		| egrep 'i-.*\+$$' \
 		| sed 's/ | .*//' | sort | uniq -c \
-		| sort -k 1nr
+		| cut -c 1-8 > .1
+	@sed '/^#/ d' Petitions.txt | sort > .2
+	@paste .1 .2 | sort -k 1nr
+	@\rm .1 .2
