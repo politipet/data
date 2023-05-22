@@ -3,7 +3,7 @@ on:
   push:
     tags: [ "run-once" ]
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "3 * * * *"
 
 jobs:
 
