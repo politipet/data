@@ -10,4 +10,11 @@ i-1036	fin élevage intensif
 i-1465	démantèlement des PAN
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
+i-1067	allongement durée congé maternité
+i-1121	enquête vaccins covid
+i-1038	sauvons l'Arménie
+i-1078	interdiction de la chasse parcs et reserves
+i-1313	suppression article 49.3
+i-1073	interdiction vénerie sous terre
+i-979	reglementation prix pellets
 # i-1319	dissolution BRAV-M (#1)
