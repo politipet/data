@@ -17,5 +17,6 @@ i-1078	interdiction de la chasse parcs et reserves
 i-1313	suppression article 49.3
 i-1073	interdiction vénerie sous terre
 i-979	reglementation prix pellets
+i-900	arrêt nettoyage voirie à l'eau potable
 i-1385	dissolution FNSEA
 # i-1319	dissolution BRAV-M (#1)
