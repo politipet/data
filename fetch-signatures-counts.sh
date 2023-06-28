@@ -1,14 +1,8 @@
 #!/bin/bash
 
-fetch() {
-	curl -s https://petitions.assemblee-nationale.fr/initiatives/$1 \
-	| grep progress__bar__number \
-	| sed 's/[^>]*>//; s/<.*//; s/ //'
-}
-
 poll() {
 	target=$1
-	curr_val=$(fetch $target)
+	curr_val=$(grep $target all-data.txt | cut -d ' ' -f 3)
 	last_two=$(tail -3 $target.txt | cut -f 2)
 	is_still=$(echo -e "$last_two\n$curr_val" | sort -u | wc -l)
 
@@ -20,6 +14,8 @@ poll() {
 
 main() {
 	petitions=$(cat Petitions.txt | egrep -v ^# | cut -f 1)
+
+	make -f fetch.mk all-data
 
 	for i in $petitions; do
 		poll $i &
