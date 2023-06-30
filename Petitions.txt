@@ -5,13 +5,11 @@ i-1395	destitution Macron article 68 (alt)
 i-1549	lacrymos et santé publique : études etc.
 i-1559	RIC constituant (#2)
 i-1590	lacrymos goût fraise
-#i-1137	referendum retraite 60 ans
 i-1036	fin élevage intensif
 i-1465	démantèlement des PAN
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
 i-1067	allongement durée congé maternité
-#i-1121	enquête vaccins covid
 i-1038	sauvons l'Arménie
 i-1078	interdiction de la chasse parcs et reserves
 i-1313	suppression article 49.3
