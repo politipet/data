@@ -21,4 +21,6 @@ i-1625	suppression sanctions pénales conso drogue
 i-1718	non à la dissolution des SDLT
 i-1409	Dissolution de l’Assemblée nationale
 i-1640	abolition de la corrida
+i-1768	réforme de la police
+i-1769	pour les quartiers populaires
 # i-1319	dissolution BRAV-M (#1)
