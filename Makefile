@@ -1,5 +1,6 @@
 fetch:
 	./fetch-signatures-counts.sh
+	make -f fetch.mk closed
 
 update:
 	git config user.name "[Bot]"
@@ -7,6 +8,7 @@ update:
 	git add i-*.txt
 	git add all-data.txt
 	git add all-stat.txt
+	git add all-closed.txt
 	git commit -m "Update petitions counts" || true
 	git push origin HEAD:master
 

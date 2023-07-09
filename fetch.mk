@@ -1,16 +1,22 @@
-VOTE = "https://petitions.assemblee-nationale.fr/initiatives"
+VOTE ?= "https://petitions.assemblee-nationale.fr/initiatives?"
 
 all-data:
 	make -f fetch.mk --jobs $(all_pages:%=page.%)
 	cat page.* > $@.txt
 	\rm page.*
 
-stats:
-	@cat all-data.txt | cut -d ' ' -f 2 | sort | uniq -c
-	@wc -l all-data.txt
+closed:
+	VOTE="$(VOTE)filter[state][]=closed" \
+	make -f fetch.mk all-closed
+
+all-closed:
+	VOTE="$(VOTE)" \
+	make -f fetch.mk --jobs $(all_pages:%=page.%)
+	cat page.* > $@.txt
+	\rm page.*
 
 
-page_url = $(VOTE)?order=recent&per_page=100&
+page_url = $(VOTE)&order=recent&per_page=100&
 page.%:
 	curl -s -H "Accept: text/html" "$(page_url)page=$*" \
 	| egrep 'progress__bar__number|card__button|area_id%' \
