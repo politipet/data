@@ -1,6 +1,6 @@
 fetch:
 	./fetch-signatures-counts.sh
-	make -f fetch.mk closed
+	#make -f fetch.mk closed
 
 update:
 	git config user.name "[Bot]"
