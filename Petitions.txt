@@ -15,7 +15,6 @@ i-1078	interdiction de la chasse parcs et reserves
 i-1313	suppression article 49.3
 i-1073	interdiction vénerie sous terre
 i-979	reglementation prix pellets
-i-900	arrêt nettoyage voirie à l'eau potable
 i-1385	dissolution FNSEA
 i-1625	suppression sanctions pénales conso drogue
 i-1718	non à la dissolution des SDLT
@@ -23,4 +22,5 @@ i-1409	Dissolution de l’Assemblée nationale
 i-1640	abolition de la corrida
 i-1768	réforme de la police
 i-1769	pour les quartiers populaires
+#i-900	arrêt nettoyage voirie à l'eau potable
 # i-1319	dissolution BRAV-M (#1)
