@@ -1,5 +1,5 @@
       6 	Défense nationale
-     20 	Culture et éducation
+     15 	Culture et éducation
      73 	Affaires économiques
      27 	Affaires étrangères
     105 	Affaires sociales
