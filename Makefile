@@ -1,6 +1,5 @@
 fetch:
 	./fetch-signatures-counts.sh
-	#make -f fetch.mk closed
 
 update:
 	git config user.name "[Bot]"
@@ -11,6 +10,19 @@ update:
 	git add all-closed.txt
 	git commit -m "Update petitions counts" || true
 	git push origin HEAD:master
+
+closed:
+	make -f fetch.mk closed
+	:
+	git add all-closed.txt
+	nb_items=`git diff --cached | grep -F +i- | wc -l` \
+	\
+	git commit -m "update closed list ($$nb_items)" || true
+	git show | grep '+i-' | sed "$(link.sed)"
+
+link.sed = \
+	s,\+,https://petitions.assemblee-nationale.fr/initiatives/, ;\
+	s, c-.*,,
 
 since ?= 10 days
 stats:
