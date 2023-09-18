@@ -35,6 +35,21 @@ stats:
 	@paste .1 .2 | sort -k 1nr
 	@\rm .1 .2
 
+diff-stats:
+	: diff stats since $(since)
+	@git diff --word-diff `\
+		git lg --oneline --since="$(since)" all-data.txt \
+		| tail  -1 | cut -d ' ' -f 2 \
+	` all-data.txt \
+	| grep '^i-.*\[-' \
+	| sed 's/[-+]/ /g' \
+	| awk '{print $$1 "-" $$2, $$3 "-" $$4, $$8-$$6, $$8}' \
+	| sort > .1
+	@sed '/^#/ d' Petitions.txt | sort > .2
+	@join .1 .2 -a 1 | sort -n -k3 \
+		| sed 's/ /\t/3; s/ /\t/3;'
+	@\rm .1 .2
+
 pan-stat:
 	cat all-data.txt \
 	| cut -d ' ' -f 2 | sort | uniq -c \
