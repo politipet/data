@@ -12,17 +12,22 @@ update:
 	git push origin HEAD:master
 
 closed:
-	make -f fetch.mk closed
-	:
+	make gone --no-print-directory > .gone
+	cat .gone all-closed.txt | sort -t - -k2nr > .closed
+	mv .closed all-closed.txt
 	git add all-closed.txt
-	nb_items=`git diff --cached | grep -F +i- | wc -l` \
-	\
-	git commit -m "update closed list ($$nb_items)" || true
-	git show | grep '+i-' | sed "$(link.sed)"
+	git commit -m "update closed list (`wc -l < .gone`)" || true
+	:
+	cat .gone | cut -f 1 -d ' ' | grep -f - Petitions.txt || true
+	:
+	@cat .gone | cut -f 1,3 -d ' ' \
+	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
-link.sed = \
-	s,\+,https://petitions.assemblee-nationale.fr/initiatives/, ;\
-	s, c-.*,,
+gone:
+	 @git diff --word-diff \
+		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
+		 all-data.txt | egrep '^\[-' | sed 's/\[-//; s/-\]//'
+
 
 since ?= 10 days
 stats:
