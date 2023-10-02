@@ -46,6 +46,7 @@ diff-stats:
 		git lg --oneline --since="$(since)" all-data.txt \
 		| tail  -1 | cut -d ' ' -f 2 \
 	` all-data.txt \
+	| sed 's/\]i/]\ni/g' \
 	| grep '^i-.*\[-' \
 	| sed 's/c- /c-na /' \
 	| sed 's/[-+]/ /g' \
