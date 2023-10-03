@@ -18,11 +18,11 @@ esac
 
 data=all-data.txt
 
-git log --oneline $data | cut -f 1 -d ' ' | tac |\
+git log --reverse --format=%h $data |\
 while read n; do
 	git show $n $data | egrep "^[+]$TARGET" | {
-	read val && {
+	read line && {
 		git log -1 $n --format=%ad --date=format:'%F %T'
-		echo $val
+		echo $line
 	} | xargs; }
 done | awk '{print $1, $2 "\t" $5}'
