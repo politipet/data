@@ -22,7 +22,7 @@ git log --reverse --format=%h $data |\
 while read n; do
 	git show $n $data | egrep "^[+]$TARGET" | {
 	read line && {
-		git log -1 $n --format=%ad --date=format:'%F %T'
+		git log $n -1 --format=%ad --date=format:'%F %T'
 		echo $line
 	} | xargs; }
 done | awk '{print $1, $2 "\t" $5}'
