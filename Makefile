@@ -24,9 +24,9 @@ closed:
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
 gone:
-	 @git diff --word-diff \
+	@git diff --word-diff \
 		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
-		 all-data.txt | egrep '^\[-' | sed 's/\[-//; s/-\]//'
+		 all-data.txt | egrep '^\[-' | sed 's/\[-//; s/-\].*//'
 
 new: since ?= 2 days
 new:
