@@ -41,16 +41,6 @@ new:
 
 
 since ?= 10 days
-stats:
-	: hits stats since $(since)
-	@git log --stat --since '$(since)' \
-		| egrep 'i-.*\+$$' \
-		| sed 's/ | .*//' | sort | uniq -c \
-		| cut -c 1-8 > .1
-	@sed '/^#/ d' Petitions.txt | sort > .2
-	@paste .1 .2 | sort -k 1nr
-	@\rm .1 .2
-
 diff-stats:
 	: diff stats since $(since)
 	@git diff --word-diff `\
