@@ -39,6 +39,22 @@ new:
 	done						\
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
+extract.%:
+	@git log --reverse --format=%h $(data) |	\
+	while read n; do				\
+	git show $$n $(data) | egrep "^[+]i-$*" | {	\
+	read line && {					\
+		TZ=$(TZ) 				\
+		git log $$n -1 --format=%ad --date=format-local:'%F %T'	;\
+		echo $$line						;\
+	} | xargs; }					\
+	done | awk '{print $$1, $$2 "\t" $$5}'
+
+data = all-data.txt
+TZ  ?= Europe/Paris
+
+extract. extract.id:
+	@echo "please specify <id>"
 
 since ?= 10 days
 diff-stats:
