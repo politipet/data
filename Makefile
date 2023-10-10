@@ -39,6 +39,9 @@ new:
 	done						\
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
+extract. extract.id:
+	@echo "please specify <id>"
+
 extract.%:
 	@git log --reverse --format=%h $(data) |	\
 	while read n; do				\
@@ -52,9 +55,6 @@ extract.%:
 
 data = all-data.txt
 TZ  ?= Europe/Paris
-
-extract. extract.id:
-	@echo "please specify <id>"
 
 since ?= 10 days
 diff-stats:
