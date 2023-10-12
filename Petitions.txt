@@ -1,8 +1,4 @@
-i-1446	dissolution BRAV-M (#2)
-i-1123	destitution Macron article 68
-i-1484	demission Macron
 i-1549	lacrymos et santé publique : études etc.
-i-1559	RIC constituant (#2)
 i-1590	lacrymos goût fraise
 i-1036	fin élevage intensif
 i-1465	démantèlement des PAN
@@ -23,6 +19,10 @@ i-1769	pour les quartiers populaires
 i-1796	France neutre et pacifiste / Ukraine-Russie
 i-1835	stop au nettoyage voirie à l'eau potable
 i-1553	libérez Julian Assange
+# i-1559	RIC constituant (#2)
+# i-1484	demission Macron
+# i-1446	dissolution BRAV-M (#2)
+# i-1123	destitution Macron article 68
 # i-1409	dissolution de l’Assemblée nationale
 # i-1395	destitution Macron article 68 (alt)
 # i-1313	suppression article 49.3
