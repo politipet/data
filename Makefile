@@ -82,6 +82,14 @@ diff-stats:
 		| sed 's/ /\t/3; s/ /\t/3;'
 	@\rm .1 .2
 
+all-votes:
+	./stats.sh 1 day > .1
+	sed "0,/`tail -1 .1 | cut -f1`/ d" $(out) > .2
+	cat .1 .2 > $(out)
+
+all-votes: out = $@.txt
+
+
 pan-stat:
 	cat all-data.txt \
 	| cut -d ' ' -f 2 | sort | uniq -c \
