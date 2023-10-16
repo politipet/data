@@ -35,14 +35,14 @@ closed:
 gone:
 	@git diff --word-diff \
 		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
-		 all-data.txt | egrep '^\[-' | sed 's/\[-//; s/-\].*//'
+		 $(data) | egrep '^\[-' | sed 's/\[-//; s/-\].*//'
 
 new: since ?= 2 days
 new:
 	: new since $(since)
 	@git log --since "$(since)" --format=%h |	\
 	while read rev; do				\
-		git show $$rev all-data.txt		\
+		git show $$rev $(data)			\
 		| egrep '^\+.* 0$$' | tr -d +		\
 		| cut -d ' ' -f 1,2;			\
 	done						\
@@ -69,9 +69,9 @@ since ?= 10 days
 diff-stats:
 	: diff stats since $(since)
 	@git diff --word-diff `\
-		git lg --oneline --since="$(since)" all-data.txt \
+		git lg --oneline --since="$(since)" $(data) \
 		| tail  -1 | cut -d ' ' -f 2 \
-	` all-data.txt \
+	` $(data) \
 	| sed 's/\]i/]\ni/g' \
 	| grep '^i-.*\[-' \
 	| sed 's/c- /c-na /' \
@@ -97,7 +97,7 @@ _all-votes: _av.pre all-votes
 
 
 pan-stat:
-	cat all-data.txt \
+	cat $(data) \
 	| cut -d ' ' -f 2 | sort | uniq -c \
 	| egrep -v 'c-$$' \
 	| sed 's:c-.*::' \
