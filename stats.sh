@@ -42,11 +42,16 @@ bars() {
 
 get_commit_votes() {
 	git show --word-diff $1 $data		\
+	| tee /dev/fd/2 \
 	| fix_word_diff				\
+	| tee /dev/fd/2 \
 	| grep '^i-.*\[-'			\
+	| tee /dev/fd/2 \
 	| sed 's:[-+]: :g'			\
+	| tee /dev/fd/2 \
 	| awk '	{ n += ($8 - $6) }
-		END { print n }'
+		END { print n }' \
+	| tee /dev/fd/2
 }
 
 get_commit_date() {
