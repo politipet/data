@@ -68,7 +68,7 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
-	./stats.sh "1 week"
+	./stats.sh 1 day
 
 _all-votes:
 	./stats.sh 1 day | head -1 > .1

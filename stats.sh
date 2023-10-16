@@ -12,6 +12,8 @@ sum_votes() {
 	git log --since="$since" 		\
 		--format=%h $data |		\
 	while read n; do {
+		echo $n
+		git show --word-diff $n $data
 		get_commit_date $n
 		get_commit_votes $n
 		} | xargs | tee /dev/fd/2
@@ -42,16 +44,11 @@ bars() {
 
 get_commit_votes() {
 	git show --word-diff $1 $data		\
-	| tee /dev/fd/2 \
 	| fix_word_diff				\
-	| tee /dev/fd/2 \
 	| grep '^i-.*\[-'			\
-	| tee /dev/fd/2 \
 	| sed 's:[-+]: :g'			\
-	| tee /dev/fd/2 \
 	| awk '	{ n += ($8 - $6) }
-		END { print n }' \
-	| tee /dev/fd/2
+		END { print n }'
 }
 
 get_commit_date() {
