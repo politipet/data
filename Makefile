@@ -68,7 +68,7 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
-	./stats.sh 1 day
+	git log --since="1 day" --format=%h $(data)
 
 _all-votes:
 	./stats.sh 1 day | head -1 > .1
