@@ -14,7 +14,7 @@ sum_votes() {
 	while read n; do {
 		get_commit_date $n
 		get_commit_votes $n
-		} | xargs
+		} | xargs | tee /dev/fd/2
 	done
 }
 
