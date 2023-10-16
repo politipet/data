@@ -12,11 +12,9 @@ sum_votes() {
 	git log --since="$since" 		\
 		--format=%h $data |		\
 	while read n; do {
-		echo $n
-		git show --word-diff $n $data
 		get_commit_date $n
 		get_commit_votes $n
-		} | xargs | tee /dev/fd/2
+		} | xargs
 	done
 }
 
