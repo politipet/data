@@ -68,6 +68,7 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
+	git fetch --shallow-since="1 day ago"
 	git log --since="1 day" --format=%h $(data)
 
 _all-votes:
