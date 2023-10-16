@@ -69,7 +69,11 @@ diff-stats:
 
 all-votes:
 	git fetch --shallow-since="1 day ago"
+	git config user.name x; git config user.email x@y.z
+	git stash; git checkout master; git stash pop || true
+	git add $(data); git commit -m _ || true
 	git log --since="1 day" --format=%h $(data)
+	git reset origin/master
 
 _all-votes:
 	./stats.sh 1 day | head -1 > .1
