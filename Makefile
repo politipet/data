@@ -1,24 +1,8 @@
 fetch:
-	make -f fetch.mk all-data
-	cat Petitions.txt | egrep -v '^#' | cut -f 1 |		\
-	while read pet; do					\
-		curr_val=`grep $$pet $(data) | cut -d ' ' -f 3`	;\
-		last_val=`tail -1 $$pet.txt | cut -f 2`		;\
-		[ "$$curr_val" != "$$last_val" ] || continue	;\
-		timestamp=`TZ=$(TZ) date +'%F %T'`		;\
-		echo "$$timestamp\t$$curr_val" >> $$pet.txt	;\
-	done
+	@echo "no $@ (debug)"
 
 update:
-	git config user.name "[Bot]"
-	git config user.email "actions@github.com"
-	git add i-*.txt
-	git add all-data.txt
-	git add all-stat.txt
-	git add all-votes.txt
-	git add all-closed.txt
-	git commit -m "Update petitions counts" || true
-	git push origin HEAD:master
+	@echo "no $@ (debug)"
 
 closed:
 	make gone --no-print-directory > .gone
@@ -84,6 +68,9 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
+	./stats.sh "1 week"
+
+_all-votes:
 	./stats.sh 1 day | head -1 > .1
 	head -1 $(out) > .2
 	if [ `cut -f1 .1` = `cut -f1 .2` ]; then \
