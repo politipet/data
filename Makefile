@@ -15,6 +15,7 @@ update:
 	git add i-*.txt
 	git add all-data.txt
 	git add all-stat.txt
+	git add all-votes.txt
 	git add all-closed.txt
 	git commit -m "Update petitions counts" || true
 	git push origin HEAD:master
@@ -89,6 +90,11 @@ all-votes:
 
 all-votes: out = $@.txt
 
+_av.pre:
+	git fetch --shallow-since="2 days"
+
+_all-votes: _av.pre all-votes
+
 
 pan-stat:
 	cat all-data.txt \
@@ -99,4 +105,4 @@ pan-stat:
 	paste $@ commissions.txt > all-stat.txt
 	\rm $@
 
-update: pan-stat
+update: pan-stat _all-votes
