@@ -84,14 +84,14 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
-	./stats.sh 1 day > .1
+	./stats.sh 2 days | head -2 > .1
 	sed "0,/`tail -1 .1 | cut -f1`/ d" $(out) > .2
 	cat .1 .2 > $(out)
 
 all-votes: out = $@.txt
 
 _av.pre:
-	git fetch --shallow-since="2 days"
+	git fetch --shallow-since="3 days"
 
 _all-votes: _av.pre all-votes
 
