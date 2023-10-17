@@ -73,8 +73,9 @@ diff-stats:
 		| tail  -1 | cut -d ' ' -f 2 \
 	` $(data) \
 	| sed 's/\]i/]\ni/g' \
+	| tr '\n' : | sed 's,\]:\[[^{]*,],g' | tr : '\n' \
 	| grep '^i-.*\[-' \
-	| sed 's/c- /c-na /' \
+	| sed 's/c- /c-. /' \
 	| sed 's/[-+]/ /g' \
 	| awk '{print $$1 "-" $$2, $$3 "-" $$4, $$8-$$6, $$8}' \
 	| sort > .1
