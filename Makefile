@@ -85,16 +85,13 @@ diff-stats:
 
 all-votes:
 	./stats.sh 2 days | head -2 > .1
-	sed "0,/`tail -1 .1 | cut -f1`/ d" $(out) > .2
-	cat .1 .2 > $(out)
-
-all-votes: out = $@.txt
+	sed "0,/`tail -1 .1 | cut -f1`/ d" $@.txt > .2
+	cat .1 .2 > $@.txt
 
 _av.pre:
 	git fetch --shallow-since="3 days"
 
 _all-votes: _av.pre all-votes
-
 
 pan-stat:
 	cat $(data) \
