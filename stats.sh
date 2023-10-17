@@ -5,7 +5,7 @@ data="all-data.txt"
 TZ="Europe/Paris"
 
 main() {
-	sum_votes | sum_days | bars | tr ' ' '\t'
+	sum_votes | sum_days | bars
 }
 
 sum_votes() {
@@ -35,7 +35,7 @@ bars() {
 	awk '{
 		bar = sprintf("|%*s", int($2/10 + .5), "")
 		gsub(" ", "=", bar)
-		print $1, $2 "\t" bar
+		print $1 "\t" $2 "\t" bar
 		fflush()
 	}'
 }
@@ -58,7 +58,6 @@ get_commit_date() {
 fix_word_diff() {
 	sed 's:\]i:]\ni:g' |\
 	tr '\n' : | sed 's,\]:\[[^{]*,],g' | tr : '\n'
-
 }
 
 #sum_votes | sed 's/ /\t/2'
