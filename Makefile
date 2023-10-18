@@ -94,13 +94,13 @@ _av.pre:
 
 _all-votes: _av.pre all-votes
 
-pan-stat:
+all-stat:
 	cat $(data) \
 	| cut -d ' ' -f 2 | sort | uniq -c \
 	| egrep -v 'c-$$' \
 	| sed 's:c-.*::' \
 	> $@
-	cut -f 2 commissions.txt | paste $@ - > all-stat.txt
+	cut -f 2 commissions.txt | paste $@ - > $@.txt
 	\rm $@
 
-update: pan-stat _all-votes
+update: all-stat _all-votes
