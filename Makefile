@@ -100,7 +100,7 @@ pan-stat:
 	| egrep -v 'c-$$' \
 	| sed 's:c-.*::' \
 	> $@
-	paste $@ commissions.txt > all-stat.txt
+	cut -f 2 commissions.txt | paste $@ - > all-stat.txt
 	\rm $@
 
 update: pan-stat _all-votes

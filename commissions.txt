@@ -1,8 +1,8 @@
-Défense nationale
-Culture et éducation
-Affaires économiques
-Affaires étrangères
-Affaires sociales
-Finances
-Lois et administration
-Développement durable
+c-1	Défense nationale	?
+c-2	Culture et éducation	10k en 6 mois
+c-3	Affaires économiques	10k en 6 mois
+c-4	Affaires étrangères	?
+c-5	Affaires sociales	10k en 6 mois
+c-6	Finances		(pas de seuil)
+c-7	Lois et administration	5k en 6 mois
+c-8	Développement durable	10k en 9 mois
