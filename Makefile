@@ -91,8 +91,13 @@ all-votes:
 
 _av.pre:
 	git fetch --shallow-since="3 days"
+	:
+	@git config user.name _; git config user.email _@_
+	@git add $(data); git commit --allow-empty -m _
+_av.post:
+	@git reset HEAD^
 
-_all-votes: _av.pre all-votes
+_all-votes: _av.pre all-votes _av.post
 
 all-stat:
 	cat $(data) \
