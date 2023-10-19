@@ -13,11 +13,8 @@ update:
 	git config user.name "[Bot]"
 	git config user.email "actions@github.com"
 	git add i-*.txt
-	git add all-data.txt
-	git add all-stat.txt
-	git add all-votes.txt
-	git add all-closed.txt
-	git commit -m "Update petitions counts" || true
+	git add all-*.txt
+	git commit -m "cron update" || true
 	git push origin HEAD:master
 
 closed:
@@ -91,9 +88,8 @@ all-votes:
 
 _av.pre:
 	git fetch --shallow-since="3 days"
-	:
 	@git config user.name _; git config user.email _@_
-	@git add $(data); git commit --allow-empty -m _
+	@git add $(data); git commit --allow-empty -q -m _
 _av.post:
 	@git reset HEAD^
 

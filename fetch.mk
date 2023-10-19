@@ -5,17 +5,6 @@ all-data:
 	cat page.* > $@.txt
 	\rm page.*
 
-closed:
-	VOTE="$(VOTE)filter[state][]=closed" \
-	make -f fetch.mk all-closed
-
-all-closed:
-	VOTE="$(VOTE)" \
-	make -f fetch.mk --jobs $(all_pages:%=page.%)
-	cat page.* > $@.txt
-	\rm page.*
-
-
 page_url = $(VOTE)&order=recent&per_page=100&
 page.%:
 	curl -s -H "Accept: text/html" "$(page_url)page=$*" \
