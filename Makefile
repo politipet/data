@@ -34,6 +34,16 @@ gone:
 		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
 		 $(data) | egrep '^\[-' | sed 's/\[-//; s/-\].*//'
 
+votes:
+	@git log --reverse --format=%h $(votes) |	\
+	while read v; do				\
+		git checkout $$v $(votes)		;\
+		clear; cat $(votes) | head 		;\
+		sleep .1 				;\
+	done
+
+votes = all-votes.txt
+
 new: since ?= 2 days
 new:
 	: new since $(since)
