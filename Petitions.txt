@@ -25,7 +25,9 @@ i-1067	allongement durée congé maternité
 i-1570	destitution Macron
 i-1623	destitution Macron
 i-1924	destitution + déchéance de nationalité Macron
+i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
+i-1933	train de vie et ors de la République
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
 i-1465	démantèlement des PAN
