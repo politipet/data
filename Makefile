@@ -97,7 +97,7 @@ all-votes:
 	cat .1 .2 > $@.txt
 
 _av.pre:
-	git fetch --shallow-since="3 days"
+	git fetch --shallow-since="4 days"
 	@git config user.name _; git config user.email _@_
 	@git add $(data); git commit --allow-empty -q -m _
 _av.post:
