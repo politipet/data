@@ -92,7 +92,7 @@ diff-stats:
 	@\rm .1 .2
 
 all-votes:
-	./stats.sh 2 days | head -2 > .1
+	./stats.sh 3 days | head -2 > .1
 	sed "0,/`tail -1 .1 | cut -f1`/ d" $@.txt > .2
 	cat .1 .2 > $@.txt
 
