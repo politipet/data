@@ -88,7 +88,7 @@ diff-stats:
 	| sort > .1
 	@sed '/^#/ d' Petitions.txt | sort > .2
 	@join .1 .2 -a 1 | sort -n -k3 \
-		| sed 's/ /\t/3; s/ /\t/3;'
+		| sed 's/ /\t/;s/ /\t/;s/ /\t/;s/ /\t/'
 	@\rm .1 .2
 
 all-votes:
