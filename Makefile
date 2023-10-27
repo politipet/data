@@ -80,6 +80,7 @@ diff-stats:
 		| tail  -1 | cut -d ' ' -f 2 \
 	` $(data) \
 	| sed 's/\]i/]\ni/g' \
+	| sed '/^{+.*+}$$/ { s/{+//; s/ /^ /1; s/ / [-0-]{+/2 }' \
 	| tr '\n' : | sed 's,\]:\[[^{]*,],g' | tr : '\n' \
 	| grep '^i-.*\[-' \
 	| sed 's/c- /c-. /' \
