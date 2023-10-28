@@ -42,6 +42,20 @@ votes:
 		sleep .1 				;\
 	done
 
+top-10:
+	@git log --since "$(since)" --reverse		\
+			--format=%h $(data) |		\
+	while read v; do				\
+		git checkout $$v $(data)		;\
+		make --no-print-directory		\
+			diff-stats | tail > .$@		;\
+		{ echo; $(commit-date) $$v; } >> .$@	;\
+		clear && cat .$@			;\
+		sleep .1 				;\
+	done
+
+commit-date = git show -s --format=%ad --date=format-local:'%F %T'
+
 votes = all-votes.txt
 
 new: since ?= 2 days
