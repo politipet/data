@@ -42,6 +42,13 @@ votes:
 		sleep .1 				;\
 	done
 
+
+composed:
+	make -f compose.mk --no-print-directory
+
+update: composed
+
+
 top-10:
 	@git log --since "$(since)" --reverse		\
 			--format=%h $(data) |		\
