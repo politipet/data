@@ -1,5 +1,5 @@
 c-1	Défense nationale	?
-c-2	Culture et éducation	10k en 6 mois
+c-2	Éducation et culture	10k en 6 mois
 c-3	Affaires économiques	10k en 6 mois
 c-4	Affaires étrangères	?
 c-5	Affaires sociales	10k en 6 mois
