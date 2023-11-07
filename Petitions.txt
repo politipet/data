@@ -12,6 +12,7 @@ i-1835	stop au nettoyage voirie à l'eau potable
 i-1553	libérez Julian Assange
 i-1963	interdiction du glyphosate
 i-1970	suppression du changement d'heure
+i-1999	abandon projet A69 Toulouse Castres
 
 # ^ tracked ^     ▼ not tracked ▼
 
