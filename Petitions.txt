@@ -1,8 +1,6 @@
 i-1590	lacrymos goût fraise
-i-1036	referendum fin élevage intensif
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
-i-1385	dissolution FNSEA
 i-1625	suppression sanctions pénales conso drogue
 i-1640	abolition de la corrida
 i-1768	réforme de la police
@@ -36,8 +34,6 @@ i-1928	contre baisse décote malus auto PLF 2024
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
 i-1465	démantèlement des PAN
-i-979	reglementation prix pellets
-i-1056	stop éclairage nocturne vitrines commerçants
 i-1914^	appel Vive la France et vive la différence
 i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
