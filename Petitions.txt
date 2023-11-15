@@ -11,6 +11,7 @@ i-1947	condamnation crimes guerre Israël
 i-1963	interdiction du glyphosate
 i-1970	suppression du changement d'heure
 i-1999	abandon projet A69 Toulouse Castres
+i-1377	remettre l'ISF
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -28,7 +29,6 @@ i-1623	destitution Macron
 i-1924	destitution + déchéance de nationalité Macron
 i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
-i-1377	remettre l'Impôt Sur la Fortune
 i-1933	train de vie et ors de la République
 i-1928	contre baisse décote malus auto PLF 2024
 i-1415	dissolution LFI
