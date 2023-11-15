@@ -1,5 +1,5 @@
 i-1590	lacrymos goût fraise
-i-1036	fin élevage intensif
+i-1036	referendum fin élevage intensif
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
 i-1385	dissolution FNSEA
@@ -16,9 +16,11 @@ i-1999	abandon projet A69 Toulouse Castres
 
 # ^ tracked ^     ▼ not tracked ▼
 
-i-1078	interdiction de la chasse parcs et reserves
-i-1085	interdiction de la chasse à la marmotte
+i-1078	interdiction chasse parcs et reserves
+i-1085	interdiction chasse à la marmotte
+i-1096	interdiction chasse au canon rayé
 i-1073	interdiction vénerie sous terre
+i-1080	interdiction vénerie sous terre
 i-1038	sauvons l'Arménie
 i-1796	pour France neutre & pacifiste Ukraine-Russie
 i-1029	contre les livraisons d’armes à l’Ukraine
@@ -28,9 +30,17 @@ i-1623	destitution Macron
 i-1924	destitution + déchéance de nationalité Macron
 i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
+i-1377	remettre l'Impôt Sur la Fortune
 i-1933	train de vie et ors de la République
 i-1928	contre baisse décote malus auto PLF 2024
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
 i-1465	démantèlement des PAN
 i-979	reglementation prix pellets
+i-1056	stop éclairage nocturne vitrines commerçants
+i-1914^	appel Vive la France et vive la différence
+i-1948	dissolution LFI
+i-1950	interdiction des Frères Musulmans
+i-1994^	abrogation obligations vaccinales
+i-2002^	reouverture lignes SNCF fermées + stop dépose rails
+i-1273	diminuer la pollution lumineuse la nuit
