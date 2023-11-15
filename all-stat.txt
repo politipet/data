@@ -1,8 +1,8 @@
       8 	Défense nationale
-     15 	Éducation et culture
-     85 	Affaires économiques
-     34 	Affaires étrangères
-     80 	Affaires sociales
+     16 	Éducation et culture
+     86 	Affaires économiques
+     35 	Affaires étrangères
+     81 	Affaires sociales
      41 	Finances
-    100 	Lois et administration
-     48 	Développement durable
+    104 	Lois et administration
+     50 	Développement durable
