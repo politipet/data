@@ -12,6 +12,7 @@ i-1963	interdiction du glyphosate
 i-1970	suppression du changement d'heure
 i-1999	abandon projet A69 Toulouse Castres
 i-1377	remettre l'ISF
+i-2019	salaire à vie 2500€ environ
 
 # ^ tracked ^     ▼ not tracked ▼
 
