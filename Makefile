@@ -93,6 +93,15 @@ extract.%:
 data = all-data.txt
 TZ  ?= Europe/Paris
 
+
+rate-stat. rate-stat.id:
+	@echo "please specify <id>"
+
+rate-stat.%:
+	@cat i-$*.txt | cut -d ' ' -f 1 | uniq -c |\
+	awk '{printf("%s\t%*c\n", $$2, $$1, ".")}' | tr ' ' .
+
+
 since ?= 10 days
 diff-stats:
 	: diff stats since $(since)
