@@ -101,6 +101,17 @@ rate-stat.%:
 	@cat i-$*.txt | cut -d ' ' -f 1 | uniq -c |\
 	awk '{printf("%s\t%*c\n", $$2, $$1, ".")}' | tr ' ' .
 
+rate-split. rate-split.id:
+rate-split.%:
+	@make rate-stat.$* --no-print-directory \
+	| while read l; do \
+		d=`echo "$$l" | cut -f 1`; \
+		[ "$$prev" = `date +%F -d "$$d - 1 day"` ] || echo; \
+		prev=$$d; \
+		echo "$$l"; \
+	done | sed 1d \
+	| sed 's/[.]/●/g' # or ▰ ▱ ▢
+
 
 since ?= 10 days
 diff-stats:
