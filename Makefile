@@ -113,6 +113,11 @@ rate-split.%:
 	| sed 's/[.]/●/g' # or ▰ ▱ ▢
 
 
+day-scores. day-scores.id:
+day-scores.%:
+	@cat i-$*.txt | awk 'd != $$1 && s {print d,s} {s=$$3; d=$$1}'
+
+
 since ?= 10 days
 diff-stats:
 	: diff stats since $(since)
