@@ -10,6 +10,7 @@ i-1553	libérez Julian Assange
 i-1947	condamnation crimes guerre Israël
 i-1963	interdiction du glyphosate
 i-1970	suppression du changement d'heure
+i-1994	abrogation obligations vaccinales
 i-1999	abandon projet A69 Toulouse Castres
 i-1377	remettre l'ISF
 i-2019	salaire à vie 2500€ environ
@@ -43,7 +44,6 @@ i-1465	démantèlement des PAN
 i-1914	appel Vive la France et vive la différence
 i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
-i-1994	abrogation obligations vaccinales
 i-2000	pour un Iran démocratique / CPID
 i-2002	reouverture lignes SNCF fermées + stop dépose rails
 i-1273	diminuer la pollution lumineuse la nuit
