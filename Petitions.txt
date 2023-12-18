@@ -16,6 +16,7 @@ i-1377	remettre l'ISF
 i-2019	salaire à vie 2500€ environ
 i-2022	dépistage drogue conduire diriger France
 i-2032	interdiction pub pour paris sportifs
+i-2082	RIC Constituant #3
 
 # ^ tracked ^     ▼ not tracked ▼
 
