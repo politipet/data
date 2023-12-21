@@ -20,13 +20,7 @@ i-2082	RIC Constituant #3
 
 # ^ tracked ^     ▼ not tracked ▼
 
-i-1078	interdiction chasse parcs et reserves
-i-1085	interdiction chasse à la marmotte
-i-1096	interdiction chasse au canon rayé
-i-1073	interdiction vénerie sous terre
-i-1080	interdiction vénerie sous terre
 i-1401	stop lobbying chasseurs sur quotas de chasse
-i-1045	protection du patrimoine forestier ou naturel
 i-1038	sauvons l'Arménie
 i-1796	pour France neutre & pacifiste Ukraine-Russie
 i-1029	contre les livraisons d’armes à l’Ukraine
@@ -47,4 +41,3 @@ i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
 i-2000	pour un Iran démocratique / CPID
 i-2002	reouverture lignes SNCF fermées + stop dépose rails
-i-1273	diminuer la pollution lumineuse la nuit
