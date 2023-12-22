@@ -2,7 +2,6 @@ i-1590	lacrymos goût fraise
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
 i-1625	suppression sanctions pénales conso drogue
-i-1640	abolition de la corrida
 i-1768	réforme de la police
 i-1769	pour les quartiers populaires
 i-1835	stop au nettoyage voirie à l'eau potable
