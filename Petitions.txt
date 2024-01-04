@@ -32,7 +32,7 @@ i-2025	tarif social resto-U INSA Lyon
 i-1928	contre baisse décote malus auto PLF 2024
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
-i-1465	démantèlement des PAN
+i-1769	pour les quartiers populaires
 i-1914	appel Vive la France et vive la différence
 i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
