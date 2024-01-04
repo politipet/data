@@ -40,3 +40,6 @@ i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
 i-2000	pour un Iran démocratique / CPID
 i-2002	reouverture lignes SNCF fermées + stop dépose rails
+i-1885	reconnaissance et suivi covid long
+i-2027	supprimer prescription viols mineures
+i-2109	revoir prescription pour meurtre
