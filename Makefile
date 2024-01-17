@@ -22,9 +22,10 @@ closed:
 	cat .gone all-closed.txt | sort -t - -k2nr > .closed
 	mv .closed all-closed.txt
 	git add all-closed.txt
-	git commit -m "update closed list (`wc -l < .gone`)" || true
+	git commit -u no \
+		-m "update closed list (`wc -l < .gone`)" || true
 	:
-	cat .gone | cut -f 1 -d ' ' | grep -f - Petitions.txt || true
+	@cat .gone | cut -f 1 -d ' ' | grep -f - Petitions.txt || true
 	:
 	@cat .gone | cut -f 1,3 -d ' ' \
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
