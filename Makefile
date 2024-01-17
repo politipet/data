@@ -30,9 +30,13 @@ closed:
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
 gone:
-	@git diff --word-diff \
+	@git diff \
 		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
-		 $(data) | egrep '^\[-' | sed 's/\[-//; s/-\].*//'
+		 $(data) \
+	| egrep '[+-]i-' | sed 's/i-/ i-/' \
+	| awk '{ if (t[$$2]) delete t[$$2]; else t[$$2] = $$1 } \
+		END{ for (x in t) print t[x], x }' \
+	| egrep ^- | cut -d ' ' -f 2
 
 votes:
 	@git log --reverse --format=%h $(votes) |	\
