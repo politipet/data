@@ -73,12 +73,16 @@ votes = all-votes.txt
 new: since ?= 2 days
 new:
 	: new since $(since)
-	@git log --since "$(since)" --format=%h |	\
-	while read rev; do				\
-		git show $$rev $(data)			\
-		| egrep '^\+.* 0$$' | tr -d +		\
-		| cut -d ' ' -f 1,2;			\
-	done						\
+	@git diff \
+		`git log --reverse --since "$(since)" --format=%h $(data) \
+		 | head -1` \
+		 $(data) \
+	| egrep '[+-]i-' | sed 's/i-/ i-/' \
+	| awk ' { if (t[$$2]) delete t[$$2]; else t[$$2] = $$1 } \
+		{ c[$$2] = $$3 } \
+		END{ for (x in t) print t[x], x, c[x] }' \
+	| grep + | cut -d ' ' -f 2,3 \
+	| sort \
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
 
 extract. extract.id:
