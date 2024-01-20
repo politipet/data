@@ -130,19 +130,15 @@ day-scores.%:
 since ?= 10 days
 diff-stats:
 	: diff stats since $(since)
-	@git diff --word-diff `\
-		git lg --oneline --since="$(since)" $(data) \
-		| tail  -1 | cut -d ' ' -f 2 \
-	` $(data) \
-	| sed 's/\]i/]\ni/g' \
-	| sed 's/]{+i-/]\n{+i-/g; s/+} / /g; s/ {+/ /;' \
-	| sed '/^{+.*[^}]$$/ s/$$/+}/g' \
-	| sed '/^{+.*+}$$/ { s/{+//; s/ / [-0-]{+/2 }' \
-	| tr '\n' : | sed 's,\]:\[[^{]*,],g' | tr : '\n' \
-	| grep '^i-.*\[-' \
-	| sed 's/c- /c-. /' \
-	| sed 's/[-+]/ /g' \
-	| awk '{print $$1 "-" $$2, $$3 "-" $$4, $$8-$$6, $$8}' \
+	@git diff \
+		`git log --since "$(since)" --format=%h $(data) \
+		 | tail -1` \
+		 $(data) \
+	| egrep '[+-]i-' | sed 's/i-/ i-/' \
+	| awk ' { id=$$2; score=$$4; comm=$$3 } \
+		{ s[id] = score; c[id] = comm } \
+		{ d[id] += ($$1 == "+" ? score : -score) } \
+		END { for (x in s) print x, c[x], d[x], s[x] }' \
 	| sort > .1
 	@sed '/^#/ d' Petitions.txt | sort > .2
 	@join .1 .2 -a 1 | sort -n -k3 \
