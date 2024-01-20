@@ -58,7 +58,7 @@ top-10:
 	@git log --since "$(since)" --reverse		\
 			--format=%h $(data) |		\
 	while read v; do				\
-		git checkout $$v $(data)		;\
+		git checkout -q $$v $(data)		;\
 		make --no-print-directory		\
 			diff-stats | tail > .$@		;\
 		{ echo; $(commit-date) $$v; } >> .$@	;\
