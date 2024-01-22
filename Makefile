@@ -173,4 +173,4 @@ all-dyn:
 	echo "id\tcomm\tdiff\tscore\ttheme" > $@.txt
 	make --no-print-directory diff-stats | tail >> $@.txt
 
-update: all-stat _all-votes
+update: all-stat _all-votes all-dyn
