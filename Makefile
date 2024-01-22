@@ -168,4 +168,9 @@ all-stat:
 	cut -f 2 commissions.txt | paste $@ - > $@.txt
 	\rm $@
 
+all-dyn:
+	git fetch --shallow-since="11 days"
+	echo "id\tcomm\tdiff\tscore\ttheme" > $@.txt
+	make --no-print-directory diff-stats | tail >> $@.txt
+
 update: all-stat _all-votes
