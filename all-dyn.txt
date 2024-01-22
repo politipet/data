@@ -4,8 +4,8 @@ i-1625	c-7	30	5809	suppression sanctions pénales conso drogue
 i-1947	c-4	33	566	condamnation crimes guerre Israël
 i-1067	c-5	39	47127	allongement durée congé maternité
 i-2109	c-7	56	1588	revoir prescription pour meurtre
-i-2142	c-3	95	95	contre interdiction pêche (avec carte de pêche)
-i-2141	c-7	222	222	modification seuils THC au volant
-i-2082	c-7	236	6549	RIC Constituant #3
-i-1999	c-8	388	50967	abandon projet A69 Toulouse Castres
-i-1994	c-5	1613	5776	abrogation obligations vaccinales
+i-2142	c-3	96	96	contre interdiction pêche (avec carte de pêche)
+i-2141	c-7	223	223	modification seuils THC au volant
+i-2082	c-7	242	6555	RIC Constituant #3
+i-1999	c-8	392	50971	abandon projet A69 Toulouse Castres
+i-1994	c-5	1615	5778	abrogation obligations vaccinales
