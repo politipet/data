@@ -3,9 +3,9 @@ i-1947	c-4	27	568	condamnation crimes guerre Israël
 i-1963	c-5	29	357	interdiction du glyphosate
 i-1625	c-7	30	5811	suppression sanctions pénales conso drogue
 i-1067	c-5	41	47130	allongement durée congé maternité
-i-2109	c-7	54	1591	revoir prescription pour meurtre
+i-2109	c-7	55	1592	revoir prescription pour meurtre
 i-2142	c-3	101	101	contre interdiction pêche (avec carte de pêche)
-i-2141	c-7	236	236	modification seuils THC au volant
-i-2082	c-7	251	6577	RIC Constituant #3
+i-2141	c-7	237	237	modification seuils THC au volant
+i-2082	c-7	250	6578	RIC Constituant #3
 i-1999	c-8	408	50992	abandon projet A69 Toulouse Castres
-i-1994	c-5	1555	5821	abrogation obligations vaccinales
+i-1994	c-5	1550	5822	abrogation obligations vaccinales
