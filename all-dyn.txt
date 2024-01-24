@@ -1,11 +1,11 @@
 id	comm	diff	score	theme
-i-2117	c-7	26	26
+i-2117	c-7	28	28
 i-1625	c-7	29	5811	suppression sanctions pénales conso drogue
 i-1963	c-5	29	357	interdiction du glyphosate
 i-1067	c-5	41	47131	allongement durée congé maternité
 i-2109	c-7	54	1592	revoir prescription pour meurtre
-i-2142	c-3	102	102	contre interdiction pêche (avec carte de pêche)
-i-2082	c-7	247	6582	RIC Constituant #3
-i-2141	c-7	272	272	modification seuils THC au volant
-i-1999	c-8	414	50999	abandon projet A69 Toulouse Castres
-i-1994	c-5	1520	5833	abrogation obligations vaccinales
+i-2142	c-3	104	104	contre interdiction pêche (avec carte de pêche)
+i-2082	c-7	246	6582	RIC Constituant #3
+i-2141	c-7	276	276	modification seuils THC au volant
+i-1999	c-8	412	51000	abandon projet A69 Toulouse Castres
+i-1994	c-5	1521	5836	abrogation obligations vaccinales
