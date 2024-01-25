@@ -22,7 +22,7 @@ closed:
 	cat .gone all-closed.txt | sort -t - -k2nr > .closed
 	mv .closed all-closed.txt
 	git add all-closed.txt
-	git commit -u no \
+	git commit --untracked-files=no \
 		-m "update closed list (`wc -l < .gone`)" || true
 	:
 	@cat .gone | cut -f 1 -d ' ' | grep -f - Petitions.txt || true
@@ -35,9 +35,9 @@ gone:
 		 `git log --oneline -1 all-closed.txt | cut -f 1 -d ' '` \
 		 $(data) \
 	| egrep '[+-]i-' | sed 's/i-/ i-/' \
-	| awk '{ if (t[$$2]) delete t[$$2]; else t[$$2] = $$1 } \
-		END{ for (x in t) print t[x], x }' \
-	| egrep ^- | cut -d ' ' -f 2
+	| awk '{ if (t[$$2]) delete t[$$2]; else t[$$2] = $$0 } \
+		END{ for (x in t) print t[x] }' \
+	| egrep ^- | cut -d ' ' -f 2-
 
 votes:
 	@git log --reverse --format=%h $(votes) |	\
