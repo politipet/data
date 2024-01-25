@@ -143,6 +143,8 @@ diff-stats:
 	@sed '/^#/ d' Petitions.txt | sort > .2
 	@join .1 .2 -a 1 | sort -n -k3 \
 		| sed 's/ /\t/;s/ /\t/;s/ /\t/;s/ /\t/'
+	@printf "\nvoix en 10 j :\t"
+	@cat .1 | cut -d ' ' -f 3 | grep -v - | xargs | tr ' ' + | bc
 	@\rm .1 .2
 
 all-votes:
@@ -171,6 +173,6 @@ all-stat:
 all-dyn:
 	git fetch --shallow-since="11 days"
 	echo "id\tcomm\tdiff\tscore\ttheme" > $@.txt
-	make --no-print-directory diff-stats | tail >> $@.txt
+	make --no-print-directory diff-stats | tail -12 >> $@.txt
 
 update: all-stat _all-votes all-dyn
