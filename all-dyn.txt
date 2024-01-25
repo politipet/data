@@ -9,3 +9,5 @@ i-2082	c-7	242	6596	RIC Constituant #3
 i-2141	c-7	363	363	modification seuils THC au volant
 i-1999	c-8	392	51019	abandon projet A69 Toulouse Castres
 i-1994	c-5	1412	5886	abrogation obligations vaccinales
+
+voix en 10 j :	3595
