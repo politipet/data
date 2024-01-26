@@ -5,9 +5,9 @@ i-1067	c-5	40	47134	allongement durée congé maternité
 i-2109	c-7	42	1595	revoir prescription pour meurtre
 i-2117	c-7	48	48	suivi franco-israeliens Tsahal
 i-2142	c-3	106	106	contre interdiction pêche
-i-2082	c-7	237	6596	RIC Constituant #3
+i-2082	c-7	238	6597	RIC Constituant #3
 i-2141	c-7	364	364	modification seuils THC au volant
 i-1999	c-8	387	51019	abandon projet A69 Toulouse Castres
 i-1994	c-5	1379	5890	abrogation obligations vaccinales
 
-voix en 10 j :	3545
+voix en 10 j :	3546
