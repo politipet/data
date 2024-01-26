@@ -5,9 +5,9 @@ i-2109	c-7	40	1596	revoir prescription pour meurtre
 i-1067	c-5	41	47137	allongement durée congé maternité
 i-2117	c-7	48	48	suivi franco-israeliens Tsahal
 i-2142	c-3	107	107	contre interdiction pêche
-i-2082	c-7	229	6598	RIC Constituant #3
-i-2141	c-7	373	373	modification seuils THC au volant
-i-1999	c-8	378	51021	abandon projet A69 Toulouse Castres
-i-1994	c-5	1285	5900	abrogation obligations vaccinales
+i-2082	c-7	230	6599	RIC Constituant #3
+i-2141	c-7	374	374	modification seuils THC au volant
+i-1999	c-8	377	51022	abandon projet A69 Toulouse Castres
+i-1994	c-5	1270	5900	abrogation obligations vaccinales
 
-voix en 10 j :	3438
+voix en 10 j :	3423
