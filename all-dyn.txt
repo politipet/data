@@ -8,6 +8,6 @@ i-2142	c-3	107	107	contre interdiction pêche
 i-2082	c-7	221	6603	RIC Constituant #3
 i-1999	c-8	348	51024	abandon projet A69 Toulouse Castres
 i-2141	c-7	381	381	modification seuils THC au volant
-i-1994	c-5	1197	5907	abrogation obligations vaccinales
+i-1994	c-5	1196	5907	abrogation obligations vaccinales
 
-voix en 10 j :	3249
+voix en 10 j :	3247
