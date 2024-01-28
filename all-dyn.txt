@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-1963	c-5	24	362	interdiction du glyphosate
 i-2109	c-7	29	1597	revoir prescription pour meurtre
-i-1067	c-5	42	47144	allongement durée congé maternité
-i-1947	c-4	69	622	condamnation crimes guerre Israël
+i-1067	c-5	40	47144	allongement durée congé maternité
+i-1947	c-4	71	624	condamnation crimes guerre Israël
 i-2142	c-3	109	109	contre interdiction pêche
-i-2082	c-7	216	6631	RIC Constituant #3
-i-1999	c-8	293	51036	abandon projet A69 Toulouse Castres
-i-2141	c-7	383	428	modification seuils THC au volant
-i-2117	c-7	851	853	suivi franco-israeliens Tsahal
-i-1994	c-5	861	5931	abrogation obligations vaccinales
+i-2082	c-7	217	6633	RIC Constituant #3
+i-1999	c-8	292	51037	abandon projet A69 Toulouse Castres
+i-2141	c-7	374	429	modification seuils THC au volant
+i-1994	c-5	855	5932	abrogation obligations vaccinales
+i-2117	c-7	1068	1070	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3688
+voix en 10 j :	3893
