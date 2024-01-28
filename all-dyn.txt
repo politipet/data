@@ -3,11 +3,11 @@ i-1963	c-5	24	361	interdiction du glyphosate
 i-2109	c-7	29	1597	revoir prescription pour meurtre
 i-1067	c-5	43	47142	allongement durée congé maternité
 i-1947	c-4	66	619	condamnation crimes guerre Israël
-i-2142	c-3	107	107	contre interdiction pêche
+i-2142	c-3	109	109	contre interdiction pêche
 i-2082	c-7	216	6626	RIC Constituant #3
-i-1999	c-8	293	51033	abandon projet A69 Toulouse Castres
-i-2141	c-7	424	424	modification seuils THC au volant
-i-2117	c-7	429	431	suivi franco-israeliens Tsahal
-i-1994	c-5	895	5926	abrogation obligations vaccinales
+i-1999	c-8	294	51035	abandon projet A69 Toulouse Castres
+i-2141	c-7	401	424	modification seuils THC au volant
+i-2117	c-7	464	466	suivi franco-israeliens Tsahal
+i-1994	c-5	887	5926	abrogation obligations vaccinales
 
-voix en 10 j :	3324
+voix en 10 j :	3333
