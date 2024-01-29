@@ -13,6 +13,7 @@ i-2019	salaire à vie 2500€ environ
 i-2022	dépistage drogue conduire diriger France
 i-2032	interdiction pub pour paris sportifs
 i-2082	RIC Constituant #3
+i-2117	suivi franco-israeliens Tsahal
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -42,4 +43,3 @@ i-2027	supprimer prescription viols mineures
 i-2109	revoir prescription pour meurtre
 i-2141	modification seuils THC au volant
 i-2142	contre interdiction pêche
-i-2117	suivi franco-israeliens Tsahal
