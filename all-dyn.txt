@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-1625	c-7	33	5826	suppression sanctions pénales conso drogue
 i-1067	c-5	35	47147	allongement durée congé maternité
 i-1971	c-4	35	129
-i-2142	c-3	62	109	contre interdiction pêche
-i-1947	c-4	111	665	condamnation crimes guerre Israël
-i-2082	c-7	207	6643	RIC Constituant #3
+i-2142	c-3	60	109	contre interdiction pêche
+i-1947	c-4	112	666	condamnation crimes guerre Israël
+i-2082	c-7	206	6643	RIC Constituant #3
 i-1999	c-8	289	51053	abandon projet A69 Toulouse Castres
-i-2141	c-7	311	448	modification seuils THC au volant
-i-1994	c-5	663	5958	abrogation obligations vaccinales
-i-2117	c-7	4285	4287	suivi franco-israeliens Tsahal
+i-2141	c-7	312	452	modification seuils THC au volant
+i-1994	c-5	650	5960	abrogation obligations vaccinales
+i-2117	c-7	4385	4387	suivi franco-israeliens Tsahal
 
-voix en 10 j :	6945
+voix en 10 j :	7042
