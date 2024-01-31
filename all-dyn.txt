@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-1625	c-7	28	5829	suppression sanctions pénales conso drogue
 i-1796	c-4	28	2087	pour France neutre & pacifiste Ukraine-Russie
-i-1946	c-4	37	167
+i-1946	c-4	38	168
 i-1971	c-4	47	142
 i-1947	c-4	133	692	condamnation crimes guerre Israël
 i-1999	c-8	153	51067	abandon projet A69 Toulouse Castres
-i-2082	c-7	180	6653	RIC Constituant #3
-i-1994	c-5	371	5984	abrogation obligations vaccinales
-i-2141	c-7	476	667	modification seuils THC au volant
-i-2117	c-7	6114	6116	suivi franco-israeliens Tsahal
+i-2082	c-7	181	6654	RIC Constituant #3
+i-1994	c-5	372	5985	abrogation obligations vaccinales
+i-2141	c-7	480	671	modification seuils THC au volant
+i-2117	c-7	6142	6144	suivi franco-israeliens Tsahal
 
-voix en 10 j :	8414
+voix en 10 j :	8451
