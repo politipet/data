@@ -8,6 +8,6 @@ i-1947	c-4	149	711	condamnation crimes guerre Israël
 i-2082	c-7	151	6661	RIC Constituant #3
 i-1994	c-5	284	6004	abrogation obligations vaccinales
 i-2141	c-7	546	752	modification seuils THC au volant
-i-2117	c-7	6663	6666	suivi franco-israeliens Tsahal
+i-2117	c-7	6670	6673	suivi franco-israeliens Tsahal
 
-voix en 10 j :	8903
+voix en 10 j :	8911
