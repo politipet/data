@@ -3,11 +3,11 @@ i-1796	c-4	30	2094	pour France neutre & pacifiste Ukraine-Russie
 i-1946	c-4	37	179
 i-2167	c-5	40	40
 i-1971	c-4	62	158
-i-2082	c-7	92	6670	RIC Constituant #3
-i-1999	c-8	94	51086	abandon projet A69 Toulouse Castres
-i-1947	c-4	163	731	condamnation crimes guerre Israël
-i-1994	c-5	202	6024	abrogation obligations vaccinales
-i-2141	c-7	656	893	modification seuils THC au volant
-i-2117	c-7	7462	7469	suivi franco-israeliens Tsahal
+i-1999	c-8	90	51086	abandon projet A69 Toulouse Castres
+i-2082	c-7	92	6671	RIC Constituant #3
+i-1947	c-4	162	731	condamnation crimes guerre Israël
+i-1994	c-5	200	6025	abrogation obligations vaccinales
+i-2141	c-7	657	895	modification seuils THC au volant
+i-2117	c-7	7471	7482	suivi franco-israeliens Tsahal
 
-voix en 10 j :	9639
+voix en 10 j :	9646
