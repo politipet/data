@@ -4,10 +4,10 @@ i-1946	c-4	38	180
 i-2167	c-5	41	41
 i-1971	c-4	65	161
 i-1999	c-8	94	51094	abandon projet A69 Toulouse Castres
-i-2082	c-7	95	6678	RIC Constituant #3
+i-2082	c-7	94	6678	RIC Constituant #3
 i-1947	c-4	166	735	condamnation crimes guerre Israël
-i-1994	c-5	191	6031	abrogation obligations vaccinales
-i-2141	c-7	638	917	modification seuils THC au volant
-i-2117	c-7	7593	7625	suivi franco-israeliens Tsahal
+i-1994	c-5	191	6032	abrogation obligations vaccinales
+i-2141	c-7	635	918	modification seuils THC au volant
+i-2117	c-7	7606	7640	suivi franco-israeliens Tsahal
 
-voix en 10 j :	9813
+voix en 10 j :	9860
