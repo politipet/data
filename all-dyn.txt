@@ -8,6 +8,6 @@ i-1999	c-8	93	51092	abandon projet A69 Toulouse Castres
 i-1947	c-4	164	733	condamnation crimes guerre Israël
 i-1994	c-5	198	6030	abrogation obligations vaccinales
 i-2141	c-7	655	913	modification seuils THC au volant
-i-2117	c-7	7559	7585	suivi franco-israeliens Tsahal
+i-2117	c-7	7562	7588	suivi franco-israeliens Tsahal
 
-voix en 10 j :	9742
+voix en 10 j :	9745
