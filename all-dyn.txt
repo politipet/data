@@ -3,11 +3,11 @@ i-1948	c-7	37	1829	dissolution LFI
 i-2167	c-5	43	43
 i-1946	c-4	47	189
 i-1971	c-4	66	162
-i-1999	c-8	82	51095	abandon projet A69 Toulouse Castres
-i-2082	c-7	131	6726	RIC Constituant #3
+i-1999	c-8	83	51096	abandon projet A69 Toulouse Castres
+i-2082	c-7	134	6729	RIC Constituant #3
 i-1947	c-4	169	739	condamnation crimes guerre Israël
-i-1994	c-5	174	6036	abrogation obligations vaccinales
-i-2141	c-7	607	942	modification seuils THC au volant
+i-1994	c-5	175	6037	abrogation obligations vaccinales
+i-2141	c-7	608	943	modification seuils THC au volant
 i-2117	c-7	7735	7779	suivi franco-israeliens Tsahal
 
-voix en 10 j :	10007
+voix en 10 j :	10013
