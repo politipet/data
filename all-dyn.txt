@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2167	c-5	46	46
 i-1946	c-4	53	197
 i-1971	c-4	67	164
-i-1999	c-8	105	51128	abandon projet A69 Toulouse Castres
+i-1999	c-8	106	51129	abandon projet A69 Toulouse Castres
 i-1994	c-5	141	6047	abrogation obligations vaccinales
 i-1947	c-4	167	744	condamnation crimes guerre Israël
 i-2082	c-7	187	6790	RIC Constituant #3
 i-2141	c-7	614	995	modification seuils THC au volant
 i-1625	c-7	5838	5838	suppression sanctions pénales conso drogue
-i-2117	c-7	8074	8123	suivi franco-israeliens Tsahal
+i-2117	c-7	8078	8127	suivi franco-israeliens Tsahal
 
-voix en 10 j :	16254
+voix en 10 j :	16261
