@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2109	c-7	47	1647	revoir prescription pour meurtre
 i-2167	c-5	47	47
-i-1946	c-4	54	200
-i-1999	c-8	105	51155	abandon projet A69 Toulouse Castres
-i-1947	c-4	112	761	condamnation crimes guerre Israël
-i-1994	c-5	123	6073	abrogation obligations vaccinales
-i-2082	c-7	165	6805	RIC Constituant #3
-i-2141	c-7	584	1020	modification seuils THC au volant
-i-2117	c-7	5484	8636	suivi franco-israeliens Tsahal
+i-1946	c-4	55	201
+i-1999	c-8	107	51157	abandon projet A69 Toulouse Castres
+i-1947	c-4	111	761	condamnation crimes guerre Israël
+i-1994	c-5	126	6077	abrogation obligations vaccinales
+i-2082	c-7	166	6806	RIC Constituant #3
+i-2141	c-7	582	1020	modification seuils THC au volant
+i-2117	c-7	5344	8636	suivi franco-israeliens Tsahal
 i-1625	c-7	5841	5841	suppression sanctions pénales conso drogue
 
-voix en 10 j :	13516
+voix en 10 j :	13391
