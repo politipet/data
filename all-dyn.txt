@@ -3,11 +3,11 @@ i-2179	c-7	22	22
 i-1971	c-4	31	193
 i-2109	c-7	37	1657	revoir prescription pour meurtre
 i-2165	c-5	39	50
-i-1947	c-4	66	808	condamnation crimes guerre Israël
+i-1947	c-4	67	809	condamnation crimes guerre Israël
 i-1994	c-5	121	6163	abrogation obligations vaccinales
 i-2082	c-7	168	6936	RIC Constituant #3
-i-1999	c-8	181	51284	abandon projet A69 Toulouse Castres
-i-2141	c-7	221	1188	modification seuils THC au volant
-i-2117	c-7	2570	10455	suivi franco-israeliens Tsahal
+i-1999	c-8	182	51285	abandon projet A69 Toulouse Castres
+i-2141	c-7	220	1188	modification seuils THC au volant
+i-2117	c-7	2578	10467	suivi franco-israeliens Tsahal
 
-voix en 10 j :	4127
+voix en 10 j :	4137
