@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1625	c-7	22	5863	suppression sanctions pénales conso drogue
+i-1625	c-7	23	5864	suppression sanctions pénales conso drogue
 i-1950	c-4	23	204	interdiction des Frères Musulmans
-i-1971	c-4	37	207
-i-2165	c-5	41	63
-i-1947	c-4	64	826	condamnation crimes guerre Israël
-i-1994	c-5	134	6223	abrogation obligations vaccinales
-i-2082	c-7	141	6961	RIC Constituant #3
-i-1999	c-8	174	51339	abandon projet A69 Toulouse Castres
-i-2141	c-7	200	1232	modification seuils THC au volant
-i-2117	c-7	2163	10837	suivi franco-israeliens Tsahal
+i-1971	c-4	38	208
+i-2165	c-5	39	63
+i-1947	c-4	64	827	condamnation crimes guerre Israël
+i-1994	c-5	133	6223	abrogation obligations vaccinales
+i-2082	c-7	136	6963	RIC Constituant #3
+i-1999	c-8	174	51340	abandon projet A69 Toulouse Castres
+i-2141	c-7	199	1232	modification seuils THC au volant
+i-2117	c-7	2165	10844	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3609
+voix en 10 j :	3604
