@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-1948	c-7	18	1857	dissolution LFI
 i-1625	c-7	21	5862	suppression sanctions pénales conso drogue
-i-1971	c-4	35	204
+i-1971	c-4	36	205
 i-2165	c-5	40	62
 i-1947	c-4	62	823	condamnation crimes guerre Israël
-i-1994	c-5	137	6218	abrogation obligations vaccinales
-i-2082	c-7	148	6956	RIC Constituant #3
-i-1999	c-8	173	51331	abandon projet A69 Toulouse Castres
-i-2141	c-7	207	1230	modification seuils THC au volant
-i-2117	c-7	2163	10811	suivi franco-israeliens Tsahal
+i-1994	c-5	136	6218	abrogation obligations vaccinales
+i-2082	c-7	144	6956	RIC Constituant #3
+i-1999	c-8	176	51334	abandon projet A69 Toulouse Castres
+i-2141	c-7	205	1231	modification seuils THC au volant
+i-2117	c-7	2161	10812	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3599
+voix en 10 j :	3597
