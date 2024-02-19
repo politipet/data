@@ -4,10 +4,10 @@ i-1950	c-4	28	209	interdiction des Frères Musulmans
 i-1971	c-4	38	208
 i-2165	c-5	38	63
 i-1947	c-4	65	829	condamnation crimes guerre Israël
-i-1994	c-5	137	6230	abrogation obligations vaccinales
-i-2082	c-7	144	6974	RIC Constituant #3
-i-1999	c-8	180	51350	abandon projet A69 Toulouse Castres
-i-2141	c-7	199	1236	modification seuils THC au volant
-i-2117	c-7	2157	10868	suivi franco-israeliens Tsahal
+i-1994	c-5	139	6232	abrogation obligations vaccinales
+i-2082	c-7	142	6975	RIC Constituant #3
+i-1999	c-8	183	51353	abandon projet A69 Toulouse Castres
+i-2141	c-7	198	1236	modification seuils THC au volant
+i-2117	c-7	2150	10870	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3667
+voix en 10 j :	3671
