@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1553	c-4	25	330	libérez Julian Assange
 i-1950	c-4	30	211	interdiction des Frères Musulmans
+i-1553	c-4	36	341	libérez Julian Assange
 i-1971	c-4	38	208
 i-2165	c-5	39	65
-i-1947	c-4	67	833	condamnation crimes guerre Israël
-i-2082	c-7	142	6986	RIC Constituant #3
-i-1994	c-5	156	6256	abrogation obligations vaccinales
+i-1947	c-4	66	833	condamnation crimes guerre Israël
+i-2082	c-7	142	6987	RIC Constituant #3
+i-1994	c-5	157	6258	abrogation obligations vaccinales
 i-2141	c-7	198	1247	modification seuils THC au volant
-i-1999	c-8	202	51376	abandon projet A69 Toulouse Castres
-i-2117	c-7	2136	10911	suivi franco-israeliens Tsahal
+i-1999	c-8	202	51377	abandon projet A69 Toulouse Castres
+i-2117	c-7	2134	10912	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3740
+voix en 10 j :	3762
