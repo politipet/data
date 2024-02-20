@@ -3,11 +3,11 @@ i-1950	c-4	30	211	interdiction des Frères Musulmans
 i-1971	c-4	38	209	reconnaissance immédiate Palestine
 i-2165	c-5	41	67	non à la suppression du congé parental
 i-1947	c-4	67	835	condamnation crimes guerre Israël
-i-1553	c-4	107	413	libérez Julian Assange
+i-1553	c-4	109	415	libérez Julian Assange
 i-2082	c-7	143	6993	RIC Constituant #3
 i-1994	c-5	154	6261	abrogation obligations vaccinales
 i-1999	c-8	191	51390	abandon projet A69 Toulouse Castres
-i-2141	c-7	202	1259	modification seuils THC au volant
-i-2117	c-7	2134	10937	suivi franco-israeliens Tsahal
+i-2141	c-7	205	1262	modification seuils THC au volant
+i-2117	c-7	2136	10939	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3911
+voix en 10 j :	3918
