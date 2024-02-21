@@ -5,9 +5,9 @@ i-2165	c-5	41	67	non à la suppression du congé parental
 i-1947	c-4	65	836	condamnation crimes guerre Israël
 i-1553	c-4	140	447	libérez Julian Assange
 i-2082	c-7	142	6995	RIC Constituant #3
-i-1994	c-5	154	6267	abrogation obligations vaccinales
-i-1999	c-8	184	51396	abandon projet A69 Toulouse Castres
-i-2141	c-7	208	1267	modification seuils THC au volant
+i-1994	c-5	155	6268	abrogation obligations vaccinales
+i-1999	c-8	183	51396	abandon projet A69 Toulouse Castres
+i-2141	c-7	208	1268	modification seuils THC au volant
 i-2117	c-7	2119	10951	suivi franco-israeliens Tsahal
 
 voix en 10 j :	3936
