@@ -3,11 +3,11 @@ i-2179	c-7	30	48
 i-1971	c-4	37	211	reconnaissance immédiate Palestine
 i-2165	c-5	40	69	non à la suppression du congé parental
 i-1947	c-4	63	841	condamnation crimes guerre Israël
-i-1994	c-5	150	6289	abrogation obligations vaccinales
+i-1994	c-5	153	6292	abrogation obligations vaccinales
 i-1553	c-4	170	477	libérez Julian Assange
-i-1999	c-8	178	51408	abandon projet A69 Toulouse Castres
-i-2082	c-7	203	7072	RIC Constituant #3
+i-1999	c-8	177	51408	abandon projet A69 Toulouse Castres
+i-2082	c-7	206	7075	RIC Constituant #3
 i-2141	c-7	216	1284	modification seuils THC au volant
-i-2117	c-7	2048	10986	suivi franco-israeliens Tsahal
+i-2117	c-7	2048	10987	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3973
+voix en 10 j :	3978
