@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1971	c-4	34	219	reconnaissance immédiate Palestine
+i-1029	c-4	34	2177	contre les livraisons d’armes à l’Ukraine
 i-1067	c-5	36	47205	allongement durée congé maternité
-i-2165	c-5	41	73	non à la suppression du congé parental
-i-1947	c-4	54	851	condamnation crimes guerre Israël
-i-2141	c-7	149	1317	modification seuils THC au volant
-i-1553	c-4	178	488	libérez Julian Assange
-i-1999	c-8	260	51532	abandon projet A69 Toulouse Castres
-i-2082	c-7	289	7202	RIC Constituant #3
-i-1994	c-5	313	6466	abrogation obligations vaccinales
-i-2117	c-7	1492	11147	suivi franco-israeliens Tsahal
+i-2165	c-5	40	73	non à la suppression du congé parental
+i-1947	c-4	52	850	condamnation crimes guerre Israël
+i-2141	c-7	147	1317	modification seuils THC au volant
+i-1553	c-4	179	489	libérez Julian Assange
+i-1999	c-8	261	51533	abandon projet A69 Toulouse Castres
+i-2082	c-7	291	7204	RIC Constituant #3
+i-1994	c-5	315	6468	abrogation obligations vaccinales
+i-2117	c-7	1378	11152	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3721
+voix en 10 j :	3610
