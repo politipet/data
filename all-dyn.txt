@@ -8,6 +8,6 @@ i-1553	c-4	178	489	libérez Julian Assange
 i-1999	c-8	265	51540	abandon projet A69 Toulouse Castres
 i-2082	c-7	294	7208	RIC Constituant #3
 i-1994	c-5	316	6469	abrogation obligations vaccinales
-i-2117	c-7	1243	11167	suivi franco-israeliens Tsahal
+i-2117	c-7	1238	11170	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3448
+voix en 10 j :	3443
