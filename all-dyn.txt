@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2179	c-7	33	54
 i-1029	c-4	34	2177	contre les livraisons d’armes à l’Ukraine
-i-2165	c-5	38	73	non à la suppression du congé parental
+i-2165	c-5	37	73	non à la suppression du congé parental
 i-1947	c-4	51	850	condamnation crimes guerre Israël
-i-2141	c-7	147	1318	modification seuils THC au volant
+i-2141	c-7	145	1318	modification seuils THC au volant
 i-1553	c-4	178	489	libérez Julian Assange
-i-1999	c-8	265	51540	abandon projet A69 Toulouse Castres
-i-2082	c-7	293	7208	RIC Constituant #3
-i-1994	c-5	319	6472	abrogation obligations vaccinales
-i-2117	c-7	1231	11172	suivi franco-israeliens Tsahal
+i-1999	c-8	266	51541	abandon projet A69 Toulouse Castres
+i-2082	c-7	294	7209	RIC Constituant #3
+i-1994	c-5	320	6473	abrogation obligations vaccinales
+i-2117	c-7	1206	11176	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3440
+voix en 10 j :	3413
