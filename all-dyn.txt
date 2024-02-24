@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2179	c-7	33	54
+i-1067	c-5	33	47206	allongement durée congé maternité
 i-1029	c-4	34	2177	contre les livraisons d’armes à l’Ukraine
-i-2165	c-5	36	73	non à la suppression du congé parental
+i-2179	c-7	34	55
 i-1947	c-4	51	850	condamnation crimes guerre Israël
-i-2141	c-7	143	1318	modification seuils THC au volant
-i-1553	c-4	178	489	libérez Julian Assange
-i-1999	c-8	267	51542	abandon projet A69 Toulouse Castres
-i-2082	c-7	295	7210	RIC Constituant #3
-i-1994	c-5	318	6474	abrogation obligations vaccinales
-i-2117	c-7	1177	11179	suivi franco-israeliens Tsahal
+i-2141	c-7	141	1318	modification seuils THC au volant
+i-1553	c-4	179	490	libérez Julian Assange
+i-1999	c-8	268	51543	abandon projet A69 Toulouse Castres
+i-2082	c-7	295	7211	RIC Constituant #3
+i-1994	c-5	319	6475	abrogation obligations vaccinales
+i-2117	c-7	1136	11185	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3381
+voix en 10 j :	3337
