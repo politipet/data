@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2025	c-2	39	1318	tarif social resto-U INSA Lyon
 i-2179	c-7	44	66
-i-1947	c-4	45	855	condamnation crimes guerre Israël
 i-1950	c-4	45	226	interdiction des Frères Musulmans
-i-2141	c-7	134	1329	modification seuils THC au volant
-i-1553	c-4	184	495	libérez Julian Assange
-i-1999	c-8	283	51570	abandon projet A69 Toulouse Castres
-i-2082	c-7	286	7225	RIC Constituant #3
+i-1947	c-4	48	858	condamnation crimes guerre Israël
+i-2141	c-7	132	1329	modification seuils THC au volant
+i-1553	c-4	183	495	libérez Julian Assange
+i-1999	c-8	281	51569	abandon projet A69 Toulouse Castres
+i-2082	c-7	285	7225	RIC Constituant #3
 i-1994	c-5	325	6493	abrogation obligations vaccinales
-i-2117	c-7	1061	11598	suivi franco-israeliens Tsahal
+i-2117	c-7	1219	11766	suivi franco-israeliens Tsahal
 
-voix en 10 j :	3304
+voix en 10 j :	3460
