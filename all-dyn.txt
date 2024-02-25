@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1029	c-4	34	2177	contre les livraisons d’armes à l’Ukraine
-i-1950	c-4	34	215	interdiction des Frères Musulmans
+i-2025	c-2	35	1314	tarif social resto-U INSA Lyon
+i-1950	c-4	36	217	interdiction des Frères Musulmans
 i-1947	c-4	43	853	condamnation crimes guerre Israël
 i-2179	c-7	43	65
 i-2141	c-7	137	1327	modification seuils THC au volant
 i-1553	c-4	182	493	libérez Julian Assange
-i-1999	c-8	272	51559	abandon projet A69 Toulouse Castres
+i-1999	c-8	277	51564	abandon projet A69 Toulouse Castres
 i-2082	c-7	283	7222	RIC Constituant #3
-i-1994	c-5	321	6486	abrogation obligations vaccinales
-i-2117	c-7	826	11331	suivi franco-israeliens Tsahal
+i-1994	c-5	320	6486	abrogation obligations vaccinales
+i-2117	c-7	826	11338	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2999
+voix en 10 j :	3007
