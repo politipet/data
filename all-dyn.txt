@@ -5,9 +5,9 @@ i-1947	c-4	59	879	condamnation crimes guerre Israël
 i-1950	c-4	77	258	interdiction des Frères Musulmans
 i-2141	c-7	116	1340	modification seuils THC au volant
 i-1553	c-4	182	499	libérez Julian Assange
-i-1999	c-8	302	51623	abandon projet A69 Toulouse Castres
-i-2082	c-7	306	7257	RIC Constituant #3
+i-1999	c-8	303	51624	abandon projet A69 Toulouse Castres
+i-2082	c-7	308	7259	RIC Constituant #3
 i-1994	c-5	317	6522	abrogation obligations vaccinales
-i-2117	c-7	2456	13177	suivi franco-israeliens Tsahal
+i-2117	c-7	2453	13185	suivi franco-israeliens Tsahal
 
 voix en 10 j :	4817
