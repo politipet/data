@@ -23,8 +23,9 @@ i-1796	pour France neutre & pacifiste Ukraine-Russie
 i-1029	contre les livraisons d’armes à l’Ukraine
 i-1922	non au siphonnage de l’AGIRC-ARRCO
 i-1067	allongement durée congé maternité
-i-1623	destitution Macron
 i-1924	destitution + déchéance de nationalité Macron
+i-1956	destitution Macron (art.68) 2e round
+i-2179	destitution Macron
 i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
 i-1933	train de vie et ors de la République
