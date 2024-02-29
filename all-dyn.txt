@@ -4,10 +4,10 @@ i-2025	c-2	56	1336	tarif social resto-U INSA Lyon
 i-1947	c-4	59	888	condamnation crimes guerre Israël
 i-2141	c-7	121	1356	modification seuils THC au volant
 i-1553	c-4	182	505	libérez Julian Assange
-i-2179	c-7	245	270
-i-2082	c-7	313	7284	RIC Constituant #3
+i-2179	c-7	246	271
+i-2082	c-7	312	7284	RIC Constituant #3
 i-1999	c-8	320	51669	abandon projet A69 Toulouse Castres
-i-1994	c-5	322	6550	abrogation obligations vaccinales
-i-2117	c-7	2428	13291	suivi franco-israeliens Tsahal
+i-1994	c-5	326	6553	abrogation obligations vaccinales
+i-2117	c-7	2426	13292	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5135
+voix en 10 j :	5142
