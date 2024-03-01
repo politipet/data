@@ -1,1 +1,2 @@
 bassine = 1470 1437
+destitution = 2225 2179 1956 1924
