@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1796	c-4	53	2173	pour France neutre & pacifiste Ukraine-Russie
+i-1029	c-4	54	2208	contre les livraisons d’armes à l’Ukraine
 i-2025	c-2	61	1341	tarif social resto-U INSA Lyon
 i-1947	c-4	62	898	condamnation crimes guerre Israël
-i-1553	c-4	73	507	libérez Julian Assange
-i-2141	c-7	104	1368	modification seuils THC au volant
-i-1999	c-8	287	51682	abandon projet A69 Toulouse Castres
+i-1553	c-4	67	507	libérez Julian Assange
+i-2141	c-7	102	1368	modification seuils THC au volant
+i-1999	c-8	291	51686	abandon projet A69 Toulouse Castres
 i-2082	c-7	303	7296	RIC Constituant #3
-i-1994	c-5	347	6609	abrogation obligations vaccinales
-i-2179	c-7	348	386	destitution Macron
-i-2117	c-7	2436	13379	suivi franco-israeliens Tsahal
+i-1994	c-5	347	6610	abrogation obligations vaccinales
+i-2179	c-7	349	387	destitution Macron
+i-2117	c-7	2437	13380	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5043
+voix en 10 j :	5039
