@@ -4,10 +4,10 @@ i-1553	c-4	60	507	libérez Julian Assange
 i-2025	c-2	61	1341	tarif social resto-U INSA Lyon
 i-1947	c-4	62	898	condamnation crimes guerre Israël
 i-2141	c-7	100	1368	modification seuils THC au volant
-i-1999	c-8	291	51687	abandon projet A69 Toulouse Castres
+i-1999	c-8	292	51688	abandon projet A69 Toulouse Castres
 i-2082	c-7	302	7297	RIC Constituant #3
 i-1994	c-5	342	6610	abrogation obligations vaccinales
-i-2179	c-7	356	397	destitution Macron
-i-2117	c-7	2435	13386	suivi franco-israeliens Tsahal
+i-2179	c-7	357	399	destitution Macron
+i-2117	c-7	2436	13387	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5027
+voix en 10 j :	5030
