@@ -1,5 +1,3 @@
-i-1437	moratoire méga-bassines
-i-1470	interdiction privatisation eau / bassines
 i-1625	suppression sanctions pénales conso drogue
 i-1835	stop au nettoyage voirie à l'eau potable
 i-1553	libérez Julian Assange
@@ -14,10 +12,6 @@ i-2022	dépistage drogue conduire diriger France
 i-2032	interdiction pub pour paris sportifs
 i-2082	RIC Constituant #3
 i-2117	suivi franco-israeliens Tsahal
-i-1924	destitution + déchéance de nationalité Macron
-i-1956	destitution Macron (art.68) 2e round
-i-2179	destitution Macron
-i-2225	destitution Macron (art.68 minimal)
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -47,3 +41,11 @@ i-2109	revoir prescription pour meurtre
 i-2141	modification seuils THC au volant
 i-2142	contre interdiction pêche
 i-2165	non à la suppression du congé parental
+
+i-1437	moratoire méga-bassines
+i-1470	interdiction privatisation eau / bassines
+
+i-1924	destitution + déchéance de nationalité Macron
+i-1956	destitution Macron (art.68) 2e round
+i-2179	destitution Macron
+i-2225	destitution Macron (art.68 minimal)
