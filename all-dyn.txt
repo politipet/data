@@ -5,9 +5,9 @@ i-1947	c-4	59	899	condamnation crimes guerre Israël
 i-2025	c-2	61	1341	tarif social resto-U INSA Lyon
 i-2141	c-7	88	1371	modification seuils THC au volant
 i-2082	c-7	236	7301	RIC Constituant #3
-i-1994	c-5	332	6621	abrogation obligations vaccinales
-i-2179	c-7	381	428	destitution Macron
-i-1999	c-8	433	51841	abandon projet A69 Toulouse Castres
-i-2117	c-7	2452	13434	suivi franco-israeliens Tsahal
+i-1994	c-5	333	6622	abrogation obligations vaccinales
+i-2179	c-7	383	430	destitution Macron
+i-1999	c-8	444	51852	abandon projet A69 Toulouse Castres
+i-2117	c-7	2456	13438	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5176
+voix en 10 j :	5194
