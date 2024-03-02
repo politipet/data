@@ -49,8 +49,19 @@ votes:
 	done
 
 
-composed:
-	make -f compose.mk --no-print-directory
+composed = $(shell cat compose.txt | sed 's/ =.*//')
+composed: $(composed:%=%.compose)
+
+%.compose:
+	target=i-$*.txt ;\
+	to_sum=`grep $* compose.txt | sed 's/.*= //' 	\
+		| xargs | tr ' ' '\n' | sed 's/^/i-/'`	;\
+	curr_val=`grep "$$to_sum" $(data)		\
+		| cut -d ' ' -f 3 | xargs | tr ' ' + | bc`;\
+	last_val=`tail -1 $$target | cut -f 2`		;\
+	[ "$$curr_val" != "$$last_val" ] || exit 0	;\
+	timestamp=`TZ=$(TZ) date +'%F %T'`		;\
+	echo "$$timestamp\t$$curr_val" >> $$target	;\
 
 update: composed
 
