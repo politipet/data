@@ -53,7 +53,8 @@ composed = $(shell cat compose.txt | sed 's/ =.*//')
 composed: $(composed:%=%.compose)
 
 %.compose:
-	target=i-$*.txt ;\
+	: compose $*
+	@target=i-$*.txt ;\
 	to_sum=`grep $* compose.txt | sed 's/.*= //' 	\
 		| xargs | tr ' ' '\n' | sed 's/^/i-/'`	;\
 	curr_val=`grep "$$to_sum" $(data)		\
