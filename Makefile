@@ -1,6 +1,7 @@
 fetch:
 	make -f fetch.mk all-data
-	cat Petitions.txt | sed '/^$$/,$$ d' | cut -f 1 |	\
+	cat Petitions.txt | sed '/^$$/ d' |			\
+			sed '/not tracked/,$$ d' | cut -f 1 |	\
 	while read pet; do					\
 		curr_val=`grep $$pet $(data) | cut -d ' ' -f 3`	;\
 		last_val=`tail -1 $$pet.txt | cut -f 2`		;\
