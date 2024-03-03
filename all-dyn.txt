@@ -3,11 +3,11 @@ i-1950	c-4	54	265	interdiction des Frères Musulmans
 i-1796	c-4	58	2180	pour France neutre & pacifiste Ukraine-Russie
 i-1947	c-4	59	900	condamnation crimes guerre Israël
 i-2025	c-2	61	1341	tarif social resto-U INSA Lyon
-i-2141	c-7	82	1371	modification seuils THC au volant
-i-2082	c-7	168	7305	RIC Constituant #3
-i-1994	c-5	307	6625	abrogation obligations vaccinales
-i-2179	c-7	395	443	destitution Macron
-i-1999	c-8	472	51888	abandon projet A69 Toulouse Castres
-i-2117	c-7	2464	13467	suivi franco-israeliens Tsahal
+i-2141	c-7	76	1371	modification seuils THC au volant
+i-2082	c-7	158	7305	RIC Constituant #3
+i-1994	c-5	301	6626	abrogation obligations vaccinales
+i-2179	c-7	397	445	destitution Macron
+i-1999	c-8	476	51894	abandon projet A69 Toulouse Castres
+i-2117	c-7	2467	13472	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5152
+voix en 10 j :	5145
