@@ -4,10 +4,10 @@ i-1796	c-4	56	2183	pour France neutre & pacifiste Ukraine-Russie
 i-1947	c-4	56	902	condamnation crimes guerre Israël
 i-2025	c-2	61	1341	tarif social resto-U INSA Lyon
 i-2141	c-7	64	1372	modification seuils THC au volant
-i-2082	c-7	152	7334	RIC Constituant #3
+i-2082	c-7	156	7338	RIC Constituant #3
 i-1994	c-5	230	6635	abrogation obligations vaccinales
-i-2179	c-7	403	454	destitution Macron
-i-1999	c-8	484	51921	abandon projet A69 Toulouse Castres
-i-2117	c-7	2480	13507	suivi franco-israeliens Tsahal
+i-2179	c-7	405	456	destitution Macron
+i-1999	c-8	490	51927	abandon projet A69 Toulouse Castres
+i-2117	c-7	2483	13510	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5055
+voix en 10 j :	5080
