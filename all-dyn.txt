@@ -3,11 +3,11 @@ i-1947	c-4	54	905	condamnation crimes guerre Israël
 i-1796	c-4	55	2186	pour France neutre & pacifiste Ukraine-Russie
 i-1950	c-4	56	267	interdiction des Frères Musulmans
 i-2141	c-7	59	1376	modification seuils THC au volant
-i-2207	c-5	174	174
-i-2082	c-7	181	7382	RIC Constituant #3
-i-1994	c-5	189	6652	abrogation obligations vaccinales
-i-2179	c-7	432	484	destitution Macron
-i-1999	c-8	453	51980	abandon projet A69 Toulouse Castres
-i-2117	c-7	2462	13562	suivi franco-israeliens Tsahal
+i-2207	c-5	180	180
+i-2082	c-7	181	7383	RIC Constituant #3
+i-1994	c-5	188	6652	abrogation obligations vaccinales
+i-2179	c-7	434	486	destitution Macron
+i-1999	c-8	450	51981	abandon projet A69 Toulouse Castres
+i-2117	c-7	2448	13571	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5269
+voix en 10 j :	5253
