@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-1947	c-4	56	907	condamnation crimes guerre Israël
 i-1950	c-4	56	267	interdiction des Frères Musulmans
 i-2205	c-3	56	56
-i-2141	c-7	57	1378	modification seuils THC au volant
-i-1994	c-5	175	6654	abrogation obligations vaccinales
-i-2082	c-7	180	7392	RIC Constituant #3
-i-2207	c-5	328	328
-i-2179	c-7	437	492	destitution Macron
-i-1999	c-8	455	51999	abandon projet A69 Toulouse Castres
-i-2117	c-7	2383	13595	suivi franco-israeliens Tsahal
+i-2141	c-7	58	1379	modification seuils THC au volant
+i-1994	c-5	176	6655	abrogation obligations vaccinales
+i-2082	c-7	182	7394	RIC Constituant #3
+i-2207	c-5	348	348
+i-2179	c-7	438	494	destitution Macron
+i-1999	c-8	457	52002	abandon projet A69 Toulouse Castres
+i-2117	c-7	2374	13595	suivi franco-israeliens Tsahal
 
-voix en 10 j :	5327
+voix en 10 j :	5326
