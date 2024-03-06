@@ -6,8 +6,8 @@ i-1796	c-4	63	2195	pour France neutre & pacifiste Ukraine-Russie
 i-1994	c-5	175	6660	abrogation obligations vaccinales
 i-2082	c-7	190	7411	RIC Constituant #3
 i-2207	c-5	400	400
-i-1999	c-8	455	52012	abandon projet A69 Toulouse Castres
-i-2179	c-7	463	525	destitution Macron
-i-2117	c-7	2316	13627	suivi franco-israeliens Tsahal
+i-1999	c-8	456	52013	abandon projet A69 Toulouse Castres
+i-2179	c-7	464	526	destitution Macron
+i-2117	c-7	2313	13627	suivi franco-israeliens Tsahal
 
 voix en 10 j :	5394
