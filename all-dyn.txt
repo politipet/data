@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-1796	c-4	61	2199	pour France neutre & pacifiste Ukraine-Russie
 i-2141	c-7	61	1390	modification seuils THC au volant
 i-2205	c-3	67	67
-i-2222	c-5	87	87
-i-1994	c-5	162	6664	abrogation obligations vaccinales
-i-2082	c-7	189	7418	RIC Constituant #3
-i-1999	c-8	438	52022	abandon projet A69 Toulouse Castres
-i-2207	c-5	493	493
-i-2179	c-7	495	564	destitution Macron
-i-2117	c-7	1427	13653	suivi franco-israeliens Tsahal
+i-2222	c-5	88	88
+i-1994	c-5	162	6665	abrogation obligations vaccinales
+i-2082	c-7	189	7419	RIC Constituant #3
+i-1999	c-8	436	52023	abandon projet A69 Toulouse Castres
+i-2179	c-7	502	571	destitution Macron
+i-2207	c-5	503	503
+i-2117	c-7	1376	13655	suivi franco-israeliens Tsahal
 
-voix en 10 j :	4536
+voix en 10 j :	4494
