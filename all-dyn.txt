@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-1924	c-7	70	257	destitution + déchéance de nationalité Macron
 i-1796	c-4	71	2224	pour France neutre & pacifiste Ukraine-Russie
 i-2205	c-3	77	77
-i-2222	c-5	129	130
-i-1994	c-5	162	6696	abrogation obligations vaccinales
-i-2082	c-7	171	7438	RIC Constituant #3
-i-1999	c-8	406	52048	abandon projet A69 Toulouse Castres
-i-2117	c-7	496	13731	suivi franco-israeliens Tsahal
-i-2207	c-5	787	788
-i-2179	c-7	814	916	destitution Macron
+i-2222	c-5	130	131
+i-1994	c-5	164	6698	abrogation obligations vaccinales
+i-2082	c-7	167	7438	RIC Constituant #3
+i-1999	c-8	403	52048	abandon projet A69 Toulouse Castres
+i-2117	c-7	496	13733	suivi franco-israeliens Tsahal
+i-2207	c-5	789	790
+i-2179	c-7	826	929	destitution Macron
 
-voix en 10 j :	4366
+voix en 10 j :	4368
