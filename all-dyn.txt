@@ -3,11 +3,11 @@ i-1924	c-7	71	258	destitution + déchéance de nationalité Macron
 i-1796	c-4	72	2225	pour France neutre & pacifiste Ukraine-Russie
 i-2205	c-3	77	77
 i-2222	c-5	135	136
-i-1994	c-5	161	6700	abrogation obligations vaccinales
+i-1994	c-5	162	6701	abrogation obligations vaccinales
 i-2082	c-7	167	7440	RIC Constituant #3
-i-1999	c-8	403	52050	abandon projet A69 Toulouse Castres
-i-2117	c-7	491	13737	suivi franco-israeliens Tsahal
+i-1999	c-8	404	52051	abandon projet A69 Toulouse Castres
+i-2117	c-7	493	13739	suivi franco-israeliens Tsahal
 i-2207	c-5	803	804
-i-2179	c-7	839	962	destitution Macron
+i-2179	c-7	843	966	destitution Macron
 
-voix en 10 j :	4457
+voix en 10 j :	4467
