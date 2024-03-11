@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2205	c-3	68	79
-i-2223	c-1	69	76
-i-1796	c-4	90	2262	pour France neutre & pacifiste Ukraine-Russie
-i-1994	c-5	120	6723	abrogation obligations vaccinales
-i-2222	c-5	161	163
-i-2082	c-7	189	7483	RIC Constituant #3
-i-1999	c-8	405	52087	abandon projet A69 Toulouse Castres
-i-2117	c-7	442	13819	suivi franco-israeliens Tsahal
-i-2179	c-7	831	1211	destitution Macron
-i-2207	c-5	935	938	solidarité nationale à hauteur des besoins
+i-2205	c-3	66	79
+i-2223	c-1	68	77
+i-1796	c-4	91	2263	pour France neutre & pacifiste Ukraine-Russie
+i-1994	c-5	114	6723	abrogation obligations vaccinales
+i-2222	c-5	162	164
+i-2082	c-7	188	7483	RIC Constituant #3
+i-1999	c-8	406	52088	abandon projet A69 Toulouse Castres
+i-2117	c-7	443	13821	suivi franco-israeliens Tsahal
+i-2179	c-7	831	1213	destitution Macron
+i-2207	c-5	939	943	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	4569
+voix en 10 j :	4558
