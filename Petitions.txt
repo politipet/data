@@ -49,3 +49,5 @@ i-1924	destitution + déchéance de nationalité Macron
 i-1956	destitution Macron (art.68) 2e round
 i-2179	destitution Macron
 i-2225	destitution Macron (art.68 minimal)
+
+i-2207	solidarité nationale à hauteur des besoins
