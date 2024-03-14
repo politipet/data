@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2225	c-7	68	89	destitution Macron (art.68 minimal)
+i-2225	c-7	67	89	destitution Macron (art.68 minimal)
 i-2223	c-1	71	97
-i-1994	c-5	94	6741	abrogation obligations vaccinales
+i-1994	c-5	95	6743	abrogation obligations vaccinales
 i-1796	c-4	110	2295	pour France neutre & pacifiste Ukraine-Russie
-i-2222	c-5	137	176
-i-1999	c-8	143	52110	abandon projet A69 Toulouse Castres
-i-2082	c-7	264	7636	RIC Constituant #3
-i-2117	c-7	392	13941	suivi franco-israeliens Tsahal
-i-2179	c-7	857	1335	destitution Macron
-i-2207	c-5	1073	1081	solidarité nationale à hauteur des besoins
+i-2222	c-5	138	177
+i-1999	c-8	140	52110	abandon projet A69 Toulouse Castres
+i-2082	c-7	264	7637	RIC Constituant #3
+i-2117	c-7	393	13944	suivi franco-israeliens Tsahal
+i-2179	c-7	856	1337	destitution Macron
+i-2207	c-5	1057	1081	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	4457
+voix en 10 j :	4406
