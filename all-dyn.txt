@@ -8,6 +8,6 @@ i-2222	c-5	108	212
 i-2082	c-7	250	7680	RIC Constituant #3
 i-2117	c-7	339	14039	suivi franco-israeliens Tsahal
 i-2207	c-5	462	1155	solidarité nationale à hauteur des besoins
-i-2179	c-7	819	1530	destitution Macron
+i-2179	c-7	816	1530	destitution Macron
 
-voix en 10 j :	3278
+voix en 10 j :	3275
