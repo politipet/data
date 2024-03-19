@@ -6,8 +6,8 @@ i-2222	c-5	83	219
 i-1796	c-4	88	2313	pour France neutre & pacifiste Ukraine-Russie
 i-1999	c-8	105	52156	abandon projet A69 Toulouse Castres
 i-2082	c-7	251	7691	RIC Constituant #3
-i-2117	c-7	323	14063	suivi franco-israeliens Tsahal
+i-2117	c-7	323	14064	suivi franco-israeliens Tsahal
 i-2207	c-5	381	1185	solidarité nationale à hauteur des besoins
-i-2179	c-7	590	1559	destitution Macron
+i-2179	c-7	587	1559	destitution Macron
 
-voix en 10 j :	2776
+voix en 10 j :	2773
