@@ -3,11 +3,11 @@ i-2225	c-7	34	97	destitution Macron (art.68 minimal)
 i-2223	c-1	52	119
 i-1994	c-5	57	6767	abrogation obligations vaccinales
 i-2222	c-5	75	226
-i-1796	c-4	84	2316	pour France neutre & pacifiste Ukraine-Russie
-i-1999	c-8	103	52161	abandon projet A69 Toulouse Castres
-i-2082	c-7	244	7697	RIC Constituant #3
-i-2207	c-5	374	1199	solidarité nationale à hauteur des besoins
-i-2117	c-7	459	14219	suivi franco-israeliens Tsahal
-i-2179	c-7	518	1568	destitution Macron
+i-1796	c-4	84	2317	pour France neutre & pacifiste Ukraine-Russie
+i-1999	c-8	101	52161	abandon projet A69 Toulouse Castres
+i-2082	c-7	245	7698	RIC Constituant #3
+i-2207	c-5	374	1201	solidarité nationale à hauteur des besoins
+i-2117	c-7	482	14242	suivi franco-israeliens Tsahal
+i-2179	c-7	508	1571	destitution Macron
 
-voix en 10 j :	2763
+voix en 10 j :	2760
