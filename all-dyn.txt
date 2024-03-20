@@ -8,6 +8,6 @@ i-1999	c-8	98	52164	abandon projet A69 Toulouse Castres
 i-2082	c-7	236	7700	RIC Constituant #3
 i-2207	c-5	374	1203	solidarité nationale à hauteur des besoins
 i-2179	c-7	466	1587	destitution Macron
-i-2117	c-7	639	14412	suivi franco-israeliens Tsahal
+i-2117	c-7	653	14426	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2849
+voix en 10 j :	2863
