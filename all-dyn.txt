@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2223	c-1	42	127
-i-1796	c-4	52	2323	pour France neutre & pacifiste Ukraine-Russie
+i-1796	c-4	51	2323	pour France neutre & pacifiste Ukraine-Russie
 i-1994	c-5	59	6786	abrogation obligations vaccinales
 i-2222	c-5	60	229
 i-1999	c-8	78	52179	abandon projet A69 Toulouse Castres
-i-1067	c-5	126	47373	allongement durée congé maternité
-i-2082	c-7	156	7713	RIC Constituant #3
+i-1067	c-5	127	47374	allongement durée congé maternité
+i-2082	c-7	155	7713	RIC Constituant #3
 i-2207	c-5	223	1243	solidarité nationale à hauteur des besoins
-i-2179	c-7	378	1644	destitution Macron
-i-2117	c-7	849	14730	suivi franco-israeliens Tsahal
+i-2179	c-7	376	1646	destitution Macron
+i-2117	c-7	854	14735	suivi franco-israeliens Tsahal
 
 voix en 10 j :	2570
