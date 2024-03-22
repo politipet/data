@@ -7,7 +7,7 @@ i-1999	c-8	85	52176	abandon projet A69 Toulouse Castres
 i-1067	c-5	117	47362	allongement durée congé maternité
 i-2082	c-7	225	7709	RIC Constituant #3
 i-2207	c-5	282	1233	solidarité nationale à hauteur des besoins
-i-2179	c-7	398	1626	destitution Macron
-i-2117	c-7	842	14688	suivi franco-israeliens Tsahal
+i-2179	c-7	398	1627	destitution Macron
+i-2117	c-7	843	14690	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2849
+voix en 10 j :	2851
