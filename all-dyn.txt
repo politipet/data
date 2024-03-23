@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2223	c-1	34	127
 i-2141	c-7	35	1453	modification seuils THC au volant
 i-1994	c-5	51	6787	abrogation obligations vaccinales
-i-2222	c-5	57	230
-i-1999	c-8	76	52184	abandon projet A69 Toulouse Castres
+i-2222	c-5	58	231
+i-1999	c-8	77	52185	abandon projet A69 Toulouse Castres
 i-2082	c-7	113	7715	RIC Constituant #3
 i-1067	c-5	130	47377	allongement durée congé maternité
 i-2207	c-5	185	1244	solidarité nationale à hauteur des besoins
 i-2179	c-7	353	1666	destitution Macron
 i-2117	c-7	865	14774	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2410
+voix en 10 j :	2412
