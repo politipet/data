@@ -3,11 +3,11 @@ i-2223	c-1	30	127
 i-2141	c-7	39	1459	modification seuils THC au volant
 i-1994	c-5	48	6791	abrogation obligations vaccinales
 i-2222	c-5	57	234
-i-1999	c-8	81	52191	abandon projet A69 Toulouse Castres
-i-2082	c-7	90	7727	RIC Constituant #3
+i-1999	c-8	82	52192	abandon projet A69 Toulouse Castres
+i-2082	c-7	85	7727	RIC Constituant #3
 i-1067	c-5	131	47379	allongement durée congé maternité
-i-2207	c-5	164	1245	solidarité nationale à hauteur des besoins
-i-2179	c-7	344	1681	destitution Macron
-i-2117	c-7	862	14806	suivi franco-israeliens Tsahal
+i-2207	c-5	162	1245	solidarité nationale à hauteur des besoins
+i-2179	c-7	341	1682	destitution Macron
+i-2117	c-7	861	14807	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2400
+voix en 10 j :	2377
