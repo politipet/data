@@ -3,11 +3,11 @@ i-1947	c-4	32	964	condamnation crimes guerre Israël
 i-2141	c-7	42	1462	modification seuils THC au volant
 i-1994	c-5	48	6792	abrogation obligations vaccinales
 i-2222	c-5	56	234
-i-2082	c-7	80	7731	RIC Constituant #3
+i-2082	c-7	78	7731	RIC Constituant #3
 i-1999	c-8	81	52193	abandon projet A69 Toulouse Castres
 i-1067	c-5	128	47379	allongement durée congé maternité
-i-2207	c-5	157	1246	solidarité nationale à hauteur des besoins
-i-2179	c-7	321	1684	destitution Macron
-i-2117	c-7	866	14828	suivi franco-israeliens Tsahal
+i-2207	c-5	156	1246	solidarité nationale à hauteur des besoins
+i-2179	c-7	321	1686	destitution Macron
+i-2117	c-7	865	14828	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2337
+voix en 10 j :	2332
