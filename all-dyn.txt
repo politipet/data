@@ -8,6 +8,6 @@ i-2082	c-7	81	7731	RIC Constituant #3
 i-1067	c-5	128	47379	allongement durée congé maternité
 i-2207	c-5	157	1246	solidarité nationale à hauteur des besoins
 i-2179	c-7	326	1684	destitution Macron
-i-2117	c-7	867	14825	suivi franco-israeliens Tsahal
+i-2117	c-7	865	14825	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2351
+voix en 10 j :	2348
