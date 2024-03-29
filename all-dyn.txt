@@ -6,8 +6,8 @@ i-2141	c-7	65	1496	modification seuils THC au volant
 i-1999	c-8	66	52228	abandon projet A69 Toulouse Castres
 i-1994	c-5	71	6841	abrogation obligations vaccinales
 i-1067	c-5	126	47385	allongement durée congé maternité
-i-2207	c-5	128	1331	solidarité nationale à hauteur des besoins
-i-2179	c-7	162	1746	destitution Macron
-i-2117	c-7	595	14953	suivi franco-israeliens Tsahal
+i-2207	c-5	129	1332	solidarité nationale à hauteur des besoins
+i-2179	c-7	164	1748	destitution Macron
+i-2117	c-7	597	14955	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1896
+voix en 10 j :	1906
