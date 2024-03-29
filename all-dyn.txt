@@ -8,6 +8,6 @@ i-1994	c-5	69	6833	abrogation obligations vaccinales
 i-1067	c-5	124	47383	allongement durée congé maternité
 i-2207	c-5	142	1327	solidarité nationale à hauteur des besoins
 i-2179	c-7	182	1741	destitution Macron
-i-2117	c-7	871	14934	suivi franco-israeliens Tsahal
+i-2117	c-7	870	14934	suivi franco-israeliens Tsahal
 
 voix en 10 j :	2229
