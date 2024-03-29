@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2165	c-5	30	156	non à la suppression du congé parental
 i-2174	c-2	30	84
-i-2082	c-7	62	7760	RIC Constituant #3
-i-1999	c-8	65	52226	abandon projet A69 Toulouse Castres
-i-2141	c-7	66	1495	modification seuils THC au volant
-i-1994	c-5	73	6840	abrogation obligations vaccinales
+i-2082	c-7	61	7760	RIC Constituant #3
+i-1999	c-8	66	52227	abandon projet A69 Toulouse Castres
+i-2141	c-7	66	1496	modification seuils THC au volant
+i-1994	c-5	72	6840	abrogation obligations vaccinales
 i-1067	c-5	126	47385	allongement durée congé maternité
 i-2207	c-5	130	1331	solidarité nationale à hauteur des besoins
-i-2179	c-7	172	1743	destitution Macron
-i-2117	c-7	710	14952	suivi franco-israeliens Tsahal
+i-2179	c-7	171	1744	destitution Macron
+i-2117	c-7	687	14952	suivi franco-israeliens Tsahal
 
-voix en 10 j :	2025
+voix en 10 j :	1997
