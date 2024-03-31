@@ -8,6 +8,6 @@ i-2141	c-7	64	1503	modification seuils THC au volant
 i-1994	c-5	71	6850	abrogation obligations vaccinales
 i-2207	c-5	107	1333	solidarité nationale à hauteur des besoins
 i-2179	c-7	160	1757	destitution Macron
-i-2117	c-7	391	14978	suivi franco-israeliens Tsahal
+i-2117	c-7	387	14978	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1597
+voix en 10 j :	1594
