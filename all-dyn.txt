@@ -6,8 +6,8 @@ i-1999	c-8	63	52234	abandon projet A69 Toulouse Castres
 i-2082	c-7	65	7769	RIC Constituant #3
 i-2141	c-7	65	1504	modification seuils THC au volant
 i-1994	c-5	74	6854	abrogation obligations vaccinales
-i-2207	c-5	103	1335	solidarité nationale à hauteur des besoins
-i-2179	c-7	154	1759	destitution Macron
-i-2117	c-7	350	14982	suivi franco-israeliens Tsahal
+i-2207	c-5	102	1335	solidarité nationale à hauteur des besoins
+i-2179	c-7	152	1759	destitution Macron
+i-2117	c-7	347	14983	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1553
+voix en 10 j :	1546
