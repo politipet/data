@@ -7,7 +7,7 @@ i-2082	c-7	63	7772	RIC Constituant #3
 i-2141	c-7	63	1504	modification seuils THC au volant
 i-1994	c-5	76	6857	abrogation obligations vaccinales
 i-2207	c-5	103	1336	solidarité nationale à hauteur des besoins
-i-2179	c-7	138	1763	destitution Macron
-i-2117	c-7	306	14993	suivi franco-israeliens Tsahal
+i-2179	c-7	137	1763	destitution Macron
+i-2117	c-7	305	14993	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1491
+voix en 10 j :	1489
