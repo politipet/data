@@ -8,6 +8,6 @@ i-2082	c-7	66	7779	RIC Constituant #3
 i-1994	c-5	75	6861	abrogation obligations vaccinales
 i-2207	c-5	97	1340	solidarité nationale à hauteur des besoins
 i-2179	c-7	122	1769	destitution Macron
-i-2117	c-7	293	15037	suivi franco-israeliens Tsahal
+i-2117	c-7	293	15038	suivi franco-israeliens Tsahal
 
 voix en 10 j :	1484
