@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1553	c-4	28	557	libérez Julian Assange
 i-2174	c-2	28	84
+i-1553	c-4	29	558	libérez Julian Assange
 i-2165	c-5	50	178	non à la suppression du congé parental
-i-2141	c-7	63	1508	modification seuils THC au volant
 i-1999	c-8	64	52246	abandon projet A69 Toulouse Castres
+i-2141	c-7	64	1509	modification seuils THC au volant
 i-2082	c-7	70	7784	RIC Constituant #3
-i-1994	c-5	78	6864	abrogation obligations vaccinales
+i-1994	c-5	79	6865	abrogation obligations vaccinales
 i-2207	c-5	98	1342	solidarité nationale à hauteur des besoins
-i-2179	c-7	110	1769	destitution Macron
-i-2117	c-7	318	15077	suivi franco-israeliens Tsahal
+i-2179	c-7	111	1770	destitution Macron
+i-2117	c-7	326	15085	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1512
+voix en 10 j :	1527
