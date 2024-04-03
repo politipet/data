@@ -8,6 +8,6 @@ i-1999	c-8	61	52253	abandon projet A69 Toulouse Castres
 i-1994	c-5	80	6871	abrogation obligations vaccinales
 i-2179	c-7	92	1774	destitution Macron
 i-2207	c-5	128	1373	solidarité nationale à hauteur des besoins
-i-2117	c-7	328	15138	suivi franco-israeliens Tsahal
+i-2117	c-7	329	15139	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1427
+voix en 10 j :	1428
