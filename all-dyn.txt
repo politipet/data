@@ -7,7 +7,7 @@ i-1999	c-8	61	52254	abandon projet A69 Toulouse Castres
 i-2165	c-5	62	190	non à la suppression du congé parental
 i-1994	c-5	82	6874	abrogation obligations vaccinales
 i-2179	c-7	88	1774	destitution Macron
-i-2207	c-5	133	1379	solidarité nationale à hauteur des besoins
+i-2207	c-5	140	1386	solidarité nationale à hauteur des besoins
 i-2117	c-7	320	15148	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1425
+voix en 10 j :	1433
