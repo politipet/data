@@ -6,8 +6,8 @@ i-2082	c-7	50	7789	RIC Constituant #3
 i-1999	c-8	56	52257	abandon projet A69 Toulouse Castres
 i-2165	c-5	64	195	non à la suppression du congé parental
 i-2179	c-7	81	1775	destitution Macron
-i-1994	c-5	119	6914	abrogation obligations vaccinales
+i-1994	c-5	121	6916	abrogation obligations vaccinales
 i-2207	c-5	160	1413	solidarité nationale à hauteur des besoins
-i-2117	c-7	307	15155	suivi franco-israeliens Tsahal
+i-2117	c-7	308	15156	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1453
+voix en 10 j :	1458
