@@ -3,11 +3,11 @@ i-1970	c-7	19	112	suppression du changement d'heure
 i-2253	c-3	23	23
 i-1999	c-8	44	52259	abandon projet A69 Toulouse Castres
 i-2141	c-7	45	1526	modification seuils THC au volant
-i-2082	c-7	66	7811	RIC Constituant #3
+i-2082	c-7	67	7812	RIC Constituant #3
 i-2165	c-5	69	203	non à la suppression du congé parental
 i-2179	c-7	70	1784	destitution Macron
 i-1994	c-5	172	6987	abrogation obligations vaccinales
 i-2207	c-5	186	1455	solidarité nationale à hauteur des besoins
-i-2117	c-7	284	15170	suivi franco-israeliens Tsahal
+i-2117	c-7	285	15171	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1477
+voix en 10 j :	1480
