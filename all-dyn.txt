@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2249	c-7	18	18
 i-2253	c-3	24	24
 i-2141	c-7	42	1528	modification seuils THC au volant
-i-1999	c-8	45	52264	abandon projet A69 Toulouse Castres
-i-2179	c-7	55	1787	destitution Macron
-i-2165	c-5	58	209	non à la suppression du congé parental
-i-2082	c-7	151	7905	RIC Constituant #3
-i-2207	c-5	168	1460	solidarité nationale à hauteur des besoins
-i-1994	c-5	176	7004	abrogation obligations vaccinales
-i-2117	c-7	276	15187	suivi franco-israeliens Tsahal
+i-1999	c-8	46	52266	abandon projet A69 Toulouse Castres
+i-2179	c-7	52	1788	destitution Macron
+i-2165	c-5	59	210	non à la suppression du congé parental
+i-2207	c-5	158	1462	solidarité nationale à hauteur des besoins
+i-2082	c-7	161	7915	RIC Constituant #3
+i-1994	c-5	176	7005	abrogation obligations vaccinales
+i-2117	c-7	273	15187	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1418
+voix en 10 j :	1417
