@@ -4,10 +4,10 @@ i-2253	c-3	24	24
 i-2141	c-7	42	1528	modification seuils THC au volant
 i-1999	c-8	47	52267	abandon projet A69 Toulouse Castres
 i-2179	c-7	52	1788	destitution Macron
-i-2165	c-5	59	210	non à la suppression du congé parental
-i-2207	c-5	159	1463	solidarité nationale à hauteur des besoins
-i-2082	c-7	163	7917	RIC Constituant #3
+i-2165	c-5	57	210	non à la suppression du congé parental
+i-2207	c-5	156	1463	solidarité nationale à hauteur des besoins
+i-2082	c-7	166	7922	RIC Constituant #3
 i-1994	c-5	176	7005	abrogation obligations vaccinales
-i-2117	c-7	273	15187	suivi franco-israeliens Tsahal
+i-2117	c-7	270	15187	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1422
+voix en 10 j :	1411
