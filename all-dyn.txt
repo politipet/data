@@ -8,6 +8,6 @@ i-2165	c-5	64	221	non à la suppression du congé parental
 i-2207	c-5	168	1501	solidarité nationale à hauteur des besoins
 i-1994	c-5	185	7026	abrogation obligations vaccinales
 i-2082	c-7	227	7988	RIC Constituant #3
-i-2117	c-7	294	15250	suivi franco-israeliens Tsahal
+i-2117	c-7	295	15251	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1476
+voix en 10 j :	1477
