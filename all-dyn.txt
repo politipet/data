@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2259	c-4	26	27
-i-2222	c-5	28	271
+i-2222	c-5	28	272
 i-2179	c-7	33	1792	destitution Macron
 i-2141	c-7	38	1541	modification seuils THC au volant
 i-1999	c-8	46	52279	abandon projet A69 Toulouse Castres
 i-2165	c-5	63	221	non à la suppression du congé parental
-i-1994	c-5	186	7036	abrogation obligations vaccinales
-i-2207	c-5	195	1529	solidarité nationale à hauteur des besoins
-i-2082	c-7	242	8009	RIC Constituant #3
+i-1994	c-5	185	7036	abrogation obligations vaccinales
+i-2207	c-5	196	1530	solidarité nationale à hauteur des besoins
+i-2082	c-7	242	8010	RIC Constituant #3
 i-2117	c-7	283	15263	suivi franco-israeliens Tsahal
 
 voix en 10 j :	1483
