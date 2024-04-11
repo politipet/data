@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-2259	c-4	25	28
+i-2259	c-4	24	28
 i-2222	c-5	27	273
 i-2179	c-7	30	1793	destitution Macron
 i-2141	c-7	38	1542	modification seuils THC au volant
@@ -8,6 +8,6 @@ i-2165	c-5	60	221	non à la suppression du congé parental
 i-1994	c-5	187	7044	abrogation obligations vaccinales
 i-2207	c-5	204	1540	solidarité nationale à hauteur des besoins
 i-2082	c-7	242	8015	RIC Constituant #3
-i-2117	c-7	273	15266	suivi franco-israeliens Tsahal
+i-2117	c-7	270	15266	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1466
+voix en 10 j :	1460
