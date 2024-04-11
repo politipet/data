@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-2259	c-4	25	30
+i-2259	c-4	26	31
 i-2179	c-7	27	1795	destitution Macron
 i-2222	c-5	27	274
 i-2141	c-7	42	1545	modification seuils THC au volant
@@ -10,4 +10,4 @@ i-2207	c-5	212	1552	solidarité nationale à hauteur des besoins
 i-2082	c-7	242	8021	RIC Constituant #3
 i-2117	c-7	257	15276	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1436
+voix en 10 j :	1437
