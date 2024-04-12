@@ -6,8 +6,8 @@ i-2141	c-7	33	1546	modification seuils THC au volant
 i-1999	c-8	44	52292	abandon projet A69 Toulouse Castres
 i-2165	c-5	44	224	non à la suppression du congé parental
 i-1994	c-5	183	7049	abrogation obligations vaccinales
-i-2117	c-7	183	15278	suivi franco-israeliens Tsahal
+i-2117	c-7	184	15279	suivi franco-israeliens Tsahal
 i-2207	c-5	209	1557	solidarité nationale à hauteur des besoins
 i-2082	c-7	238	8023	RIC Constituant #3
 
-voix en 10 j :	1314
+voix en 10 j :	1315
