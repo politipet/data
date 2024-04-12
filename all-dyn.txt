@@ -10,4 +10,4 @@ i-2117	c-7	203	15278	suivi franco-israeliens Tsahal
 i-2207	c-5	214	1556	solidarité nationale à hauteur des besoins
 i-2082	c-7	238	8021	RIC Constituant #3
 
-voix en 10 j :	1357
+voix en 10 j :	1358
