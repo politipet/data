@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2259	c-4	22	32
-i-2179	c-7	24	1798	destitution Macron
+i-2179	c-7	25	1799	destitution Macron
 i-2222	c-5	27	276
 i-2141	c-7	35	1550	modification seuils THC au volant
 i-2165	c-5	36	224	non à la suppression du congé parental
 i-1999	c-8	47	52300	abandon projet A69 Toulouse Castres
-i-2117	c-7	151	15285	suivi franco-israeliens Tsahal
+i-2117	c-7	148	15286	suivi franco-israeliens Tsahal
 i-1994	c-5	180	7051	abrogation obligations vaccinales
-i-2207	c-5	189	1559	solidarité nationale à hauteur des besoins
+i-2207	c-5	187	1560	solidarité nationale à hauteur des besoins
 i-2082	c-7	246	8032	RIC Constituant #3
 
-voix en 10 j :	1268
+voix en 10 j :	1265
