@@ -7,7 +7,7 @@ i-2165	c-5	35	224	non à la suppression du congé parental
 i-1999	c-8	46	52300	abandon projet A69 Toulouse Castres
 i-2117	c-7	144	15288	suivi franco-israeliens Tsahal
 i-1994	c-5	180	7051	abrogation obligations vaccinales
-i-2207	c-5	186	1560	solidarité nationale à hauteur des besoins
+i-2207	c-5	184	1560	solidarité nationale à hauteur des besoins
 i-2082	c-7	247	8034	RIC Constituant #3
 
-voix en 10 j :	1258
+voix en 10 j :	1256
