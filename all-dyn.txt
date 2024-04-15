@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2259	c-4	21	32
-i-2165	c-5	22	224	non à la suppression du congé parental
+i-2165	c-5	23	225	non à la suppression du congé parental
 i-2222	c-5	29	281
 i-1796	c-4	30	2374	pour France neutre & pacifiste Ukraine-Russie
-i-2141	c-7	31	1554	modification seuils THC au volant
-i-1999	c-8	47	52306	abandon projet A69 Toulouse Castres
-i-1994	c-5	73	7056	abrogation obligations vaccinales
+i-2141	c-7	30	1554	modification seuils THC au volant
+i-1999	c-8	48	52307	abandon projet A69 Toulouse Castres
+i-1994	c-5	71	7056	abrogation obligations vaccinales
 i-2207	c-5	113	1566	solidarité nationale à hauteur des besoins
-i-2117	c-7	162	15327	suivi franco-israeliens Tsahal
+i-2117	c-7	160	15327	suivi franco-israeliens Tsahal
 i-2082	c-7	230	8039	RIC Constituant #3
 
-voix en 10 j :	1041
+voix en 10 j :	1057
