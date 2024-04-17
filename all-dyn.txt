@@ -6,8 +6,8 @@ i-1796	c-4	30	2374	pour France neutre & pacifiste Ukraine-Russie
 i-2222	c-5	30	282
 i-1999	c-8	49	52313	abandon projet A69 Toulouse Castres
 i-1994	c-5	64	7068	abrogation obligations vaccinales
-i-2207	c-5	108	1568	solidarité nationale à hauteur des besoins
+i-2207	c-5	109	1569	solidarité nationale à hauteur des besoins
 i-2082	c-7	151	8044	RIC Constituant #3
 i-2117	c-7	155	15339	suivi franco-israeliens Tsahal
 
-voix en 10 j :	1002
+voix en 10 j :	1003
