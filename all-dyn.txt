@@ -7,7 +7,7 @@ i-2222	c-5	32	284
 i-1999	c-8	48	52316	abandon projet A69 Toulouse Castres
 i-1994	c-5	66	7072	abrogation obligations vaccinales
 i-2207	c-5	105	1571	solidarité nationale à hauteur des besoins
-i-2082	c-7	113	8046	RIC Constituant #3
-i-2117	c-7	145	15347	suivi franco-israeliens Tsahal
+i-2082	c-7	111	8046	RIC Constituant #3
+i-2117	c-7	137	15347	suivi franco-israeliens Tsahal
 
-voix en 10 j :	958
+voix en 10 j :	945
