@@ -3,11 +3,11 @@ i-1948	c-7	14	1919	dissolution LFI
 i-2141	c-7	16	1558	modification seuils THC au volant
 i-2179	c-7	23	1815	destitution Macron
 i-1796	c-4	30	2376	pour France neutre & pacifiste Ukraine-Russie
-i-2082	c-7	40	8053	RIC Constituant #3
-i-1999	c-8	44	52327	abandon projet A69 Toulouse Castres
+i-2082	c-7	38	8053	RIC Constituant #3
+i-1999	c-8	45	52328	abandon projet A69 Toulouse Castres
 i-2207	c-5	47	1587	solidarité nationale à hauteur des besoins
-i-1994	c-5	50	7087	abrogation obligations vaccinales
+i-1994	c-5	48	7087	abrogation obligations vaccinales
 i-2117	c-7	119	15383	suivi franco-israeliens Tsahal
 i-1625	c-7	5937	5937	suppression sanctions pénales conso drogue
 
-voix en 10 j :	6609
+voix en 10 j :	6595
