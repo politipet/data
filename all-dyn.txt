@@ -5,9 +5,9 @@ i-2141	c-7	14	1559	modification seuils THC au volant
 i-2179	c-7	22	1817	destitution Macron
 i-1796	c-4	28	2377	pour France neutre & pacifiste Ukraine-Russie
 i-2207	c-5	35	1587	solidarité nationale à hauteur des besoins
-i-2082	c-7	39	8060	RIC Constituant #3
+i-2082	c-7	40	8061	RIC Constituant #3
 i-1994	c-5	45	7090	abrogation obligations vaccinales
-i-1999	c-8	48	52340	abandon projet A69 Toulouse Castres
-i-2117	c-7	122	15398	suivi franco-israeliens Tsahal
+i-1999	c-8	51	52343	abandon projet A69 Toulouse Castres
+i-2117	c-7	123	15399	suivi franco-israeliens Tsahal
 
-voix en 10 j :	727
+voix en 10 j :	729
