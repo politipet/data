@@ -5,9 +5,9 @@ i-1948	c-7	16	1922	dissolution LFI
 i-2179	c-7	23	1819	destitution Macron
 i-1796	c-4	29	2378	pour France neutre & pacifiste Ukraine-Russie
 i-2207	c-5	36	1593	solidarité nationale à hauteur des besoins
-i-1994	c-5	55	7106	abrogation obligations vaccinales
+i-1994	c-5	56	7107	abrogation obligations vaccinales
 i-2082	c-7	80	8105	RIC Constituant #3
 i-1999	c-8	82	52375	abandon projet A69 Toulouse Castres
 i-2117	c-7	139	15420	suivi franco-israeliens Tsahal
 
-voix en 10 j :	850
+voix en 10 j :	851
