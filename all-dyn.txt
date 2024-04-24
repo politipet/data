@@ -3,11 +3,11 @@ i-2259	c-4	10	42
 i-1796	c-4	14	2379	pour France neutre & pacifiste Ukraine-Russie
 i-1948	c-7	17	1923	dissolution LFI
 i-2141	c-7	17	1567	modification seuils THC au volant
-i-2179	c-7	19	1819	destitution Macron
+i-2179	c-7	20	1820	destitution Macron
 i-2207	c-5	38	1601	solidarité nationale à hauteur des besoins
-i-1999	c-8	79	52380	abandon projet A69 Toulouse Castres
-i-2082	c-7	89	8126	RIC Constituant #3
-i-1994	c-5	108	7159	abrogation obligations vaccinales
-i-2117	c-7	133	15429	suivi franco-israeliens Tsahal
+i-1999	c-8	80	52381	abandon projet A69 Toulouse Castres
+i-2082	c-7	93	8130	RIC Constituant #3
+i-1994	c-5	111	7162	abrogation obligations vaccinales
+i-2117	c-7	135	15431	suivi franco-israeliens Tsahal
 
-voix en 10 j :	926
+voix en 10 j :	941
