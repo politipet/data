@@ -7,7 +7,7 @@ i-2179	c-7	20	1821	destitution Macron
 i-2207	c-5	39	1603	solidarité nationale à hauteur des besoins
 i-1999	c-8	80	52383	abandon projet A69 Toulouse Castres
 i-2082	c-7	95	8133	RIC Constituant #3
-i-1994	c-5	125	7179	abrogation obligations vaccinales
-i-2117	c-7	130	15437	suivi franco-israeliens Tsahal
+i-1994	c-5	129	7183	abrogation obligations vaccinales
+i-2117	c-7	132	15439	suivi franco-israeliens Tsahal
 
-voix en 10 j :	942
+voix en 10 j :	950
