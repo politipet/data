@@ -4,10 +4,10 @@ i-2259	c-4	13	45
 i-1948	c-7	19	1927	dissolution LFI
 i-2179	c-7	20	1821	destitution Macron
 i-2141	c-7	22	1576	modification seuils THC au volant
-i-2207	c-5	39	1605	solidarité nationale à hauteur des besoins
+i-2207	c-5	40	1606	solidarité nationale à hauteur des besoins
 i-1999	c-8	79	52385	abandon projet A69 Toulouse Castres
 i-2082	c-7	99	8138	RIC Constituant #3
 i-2117	c-7	126	15453	suivi franco-israeliens Tsahal
-i-1994	c-5	145	7200	abrogation obligations vaccinales
+i-1994	c-5	145	7201	abrogation obligations vaccinales
 
-voix en 10 j :	986
+voix en 10 j :	988
