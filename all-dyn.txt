@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2222	c-5	9	289
 i-2259	c-4	11	43
-i-1948	c-7	20	1926	dissolution LFI
+i-1948	c-7	18	1926	dissolution LFI
 i-2141	c-7	20	1573	modification seuils THC au volant
 i-2179	c-7	20	1821	destitution Macron
-i-2207	c-5	39	1603	solidarité nationale à hauteur des besoins
-i-1999	c-8	78	52383	abandon projet A69 Toulouse Castres
+i-2207	c-5	38	1603	solidarité nationale à hauteur des besoins
+i-1999	c-8	78	52384	abandon projet A69 Toulouse Castres
 i-2082	c-7	95	8133	RIC Constituant #3
-i-2117	c-7	133	15447	suivi franco-israeliens Tsahal
-i-1994	c-5	135	7189	abrogation obligations vaccinales
+i-2117	c-7	131	15447	suivi franco-israeliens Tsahal
+i-1994	c-5	138	7192	abrogation obligations vaccinales
 
-voix en 10 j :	964
+voix en 10 j :	962
