@@ -3,11 +3,11 @@ i-2259	c-4	15	49
 i-2179	c-7	17	1824	destitution Macron
 i-1987	c-2	25	106
 i-2141	c-7	29	1586	modification seuils THC au volant
-i-1625	c-7	32	5967	suppression sanctions pénales conso drogue
+i-1625	c-7	33	5968	suppression sanctions pénales conso drogue
 i-2207	c-5	44	1615	solidarité nationale à hauteur des besoins
-i-1999	c-8	72	52388	abandon projet A69 Toulouse Castres
+i-1999	c-8	73	52389	abandon projet A69 Toulouse Castres
 i-2082	c-7	98	8144	RIC Constituant #3
-i-2117	c-7	124	15471	suivi franco-israeliens Tsahal
-i-1994	c-5	157	7231	abrogation obligations vaccinales
+i-2117	c-7	124	15472	suivi franco-israeliens Tsahal
+i-1994	c-5	155	7231	abrogation obligations vaccinales
 
-voix en 10 j :	1037
+voix en 10 j :	1040
