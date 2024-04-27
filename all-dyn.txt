@@ -1,7 +1,7 @@
 id	comm	diff	score	theme
 i-2259	c-4	16	48
 i-2179	c-7	17	1822	destitution Macron
-i-1625	c-7	20	5955	suppression sanctions pénales conso drogue
+i-1625	c-7	21	5956	suppression sanctions pénales conso drogue
 i-1987	c-2	23	104
 i-2141	c-7	27	1583	modification seuils THC au volant
 i-2207	c-5	44	1613	solidarité nationale à hauteur des besoins
@@ -10,4 +10,4 @@ i-2082	c-7	99	8143	RIC Constituant #3
 i-2117	c-7	131	15470	suivi franco-israeliens Tsahal
 i-1994	c-5	148	7216	abrogation obligations vaccinales
 
-voix en 10 j :	1031
+voix en 10 j :	1032
