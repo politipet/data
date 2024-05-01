@@ -5,9 +5,9 @@ i-1987	c-2	27	108
 i-2207	c-5	34	1621	solidarité nationale à hauteur des besoins
 i-2141	c-7	35	1594	modification seuils THC au volant
 i-1625	c-7	38	5976	suppression sanctions pénales conso drogue
-i-1999	c-8	98	52430	abandon projet A69 Toulouse Castres
+i-1999	c-8	99	52431	abandon projet A69 Toulouse Castres
 i-2117	c-7	105	15498	suivi franco-israeliens Tsahal
-i-2082	c-7	116	8171	RIC Constituant #3
-i-1994	c-5	201	7290	abrogation obligations vaccinales
+i-2082	c-7	115	8171	RIC Constituant #3
+i-1994	c-5	202	7291	abrogation obligations vaccinales
 
-voix en 10 j :	1264
+voix en 10 j :	1267
