@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2207	c-5	24	1625	solidarité nationale à hauteur des besoins
-i-2286	c-7	24	24
+i-2207	c-5	22	1625	solidarité nationale à hauteur des besoins
+i-2286	c-7	25	25
 i-1987	c-2	28	109
-i-2179	c-7	28	1848	destitution Macron
+i-2179	c-7	29	1849	destitution Macron
 i-2141	c-7	31	1598	modification seuils THC au volant
 i-1625	c-7	41	5979	suppression sanctions pénales conso drogue
 i-2082	c-7	57	8187	RIC Constituant #3
-i-1999	c-8	61	52442	abandon projet A69 Toulouse Castres
+i-1999	c-8	60	52442	abandon projet A69 Toulouse Castres
 i-2117	c-7	69	15501	suivi franco-israeliens Tsahal
-i-1994	c-5	259	7421	abrogation obligations vaccinales
+i-1994	c-5	260	7427	abrogation obligations vaccinales
 
-voix en 10 j :	1150
+voix en 10 j :	1151
