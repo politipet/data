@@ -7,7 +7,7 @@ i-2141	c-7	31	1598	modification seuils THC au volant
 i-1625	c-7	40	5978	suppression sanctions pénales conso drogue
 i-2082	c-7	60	8185	RIC Constituant #3
 i-1999	c-8	63	52442	abandon projet A69 Toulouse Castres
-i-2117	c-7	73	15500	suivi franco-israeliens Tsahal
-i-1994	c-5	237	7389	abrogation obligations vaccinales
+i-2117	c-7	72	15500	suivi franco-israeliens Tsahal
+i-1994	c-5	236	7390	abrogation obligations vaccinales
 
-voix en 10 j :	1125
+voix en 10 j :	1123
