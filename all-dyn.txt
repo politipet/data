@@ -8,6 +8,6 @@ i-1625	c-7	34	5979	suppression sanctions pénales conso drogue
 i-2117	c-7	48	15504	suivi franco-israeliens Tsahal
 i-2082	c-7	54	8192	RIC Constituant #3
 i-1999	c-8	61	52446	abandon projet A69 Toulouse Castres
-i-1994	c-5	312	7517	abrogation obligations vaccinales
+i-1994	c-5	314	7519	abrogation obligations vaccinales
 
-voix en 10 j :	1171
+voix en 10 j :	1173
