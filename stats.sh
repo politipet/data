@@ -72,9 +72,19 @@ get_score_diffs_from_diff() {
 get_commit_date() {
 	TZ=$TZ git show -s $1			\
 		--format=%ad 			\
-		--date=format-local:'%F %T'
+		--date=format-local:"${date_format:-%F %T}"
 }
 
-#sum_votes | sed 's/ /\t/2'
+day_hours_avg() {
+	date_format="%u-%a%Hh"
+	sum_votes | awk '
+		{ t[$1] += $2; c[$1] += 1 }
+		END { for (dh in t) print dh "\t" int(t[dh]/c[dh] + .5) }
+	' | sort
+}
 
-main
+case $type in
+	"")		main ;;
+	raw)		sum_votes ;;
+	day_hour)	day_hours_avg ;;
+esac
