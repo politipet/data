@@ -1,6 +1,6 @@
 #!/bin/bash
 
-since=${*:-2 weeks}
+since=${since:-${*:-2 weeks}}
 data="all-data.txt"
 TZ="Europe/Paris"
 
@@ -10,6 +10,7 @@ main() {
 
 sum_votes() {
 	git log --since="$since" 		\
+		--until="$until"		\
 		--format=%h $data |		\
 	while read n; do {
 		get_commit_date $n
