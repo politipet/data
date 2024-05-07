@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
+i-2300	c-2	17	17
 i-1067	c-5	18	47426	allongement durée congé maternité
-i-2141	c-7	18	1601	modification seuils THC au volant
-i-1987	c-2	20	124
-i-1625	c-7	21	5981	suppression sanctions pénales conso drogue
+i-1987	c-2	19	124
+i-1625	c-7	20	5981	suppression sanctions pénales conso drogue
 i-2286	c-7	28	28
 i-2179	c-7	36	1859	destitution Macron
-i-2117	c-7	38	15508	suivi franco-israeliens Tsahal
-i-2082	c-7	51	8195	RIC Constituant #3
+i-2117	c-7	37	15508	suivi franco-israeliens Tsahal
+i-2082	c-7	52	8196	RIC Constituant #3
 i-1999	c-8	63	52450	abandon projet A69 Toulouse Castres
-i-1994	c-5	344	7563	abrogation obligations vaccinales
+i-1994	c-5	343	7564	abrogation obligations vaccinales
 
-voix en 10 j :	1169
+voix en 10 j :	1162
