@@ -5,9 +5,9 @@ i-1987	c-2	19	125
 i-1067	c-5	20	47429	allongement durée congé maternité
 i-2286	c-7	30	30
 i-2179	c-7	33	1860	destitution Macron
-i-2117	c-7	37	15511	suivi franco-israeliens Tsahal
+i-2117	c-7	36	15511	suivi franco-israeliens Tsahal
 i-2082	c-7	53	8199	RIC Constituant #3
 i-1999	c-8	63	52453	abandon projet A69 Toulouse Castres
 i-1994	c-5	345	7578	abrogation obligations vaccinales
 
-voix en 10 j :	1185
+voix en 10 j :	1184
