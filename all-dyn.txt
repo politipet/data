@@ -7,7 +7,7 @@ i-2117	c-7	30	15511	suivi franco-israeliens Tsahal
 i-2286	c-7	30	30
 i-2179	c-7	32	1862	destitution Macron
 i-1999	c-8	49	52454	abandon projet A69 Toulouse Castres
-i-2082	c-7	50	8201	RIC Constituant #3
+i-2082	c-7	49	8201	RIC Constituant #3
 i-1994	c-5	340	7587	abrogation obligations vaccinales
 
-voix en 10 j :	1156
+voix en 10 j :	1158
