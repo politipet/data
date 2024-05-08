@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2141	c-7	16	1602	modification seuils THC au volant
+i-2141	c-7	17	1603	modification seuils THC au volant
 i-2300	c-2	18	18
 i-1987	c-2	19	125
 i-1067	c-5	20	47429	allongement durée congé maternité
 i-2286	c-7	30	30
 i-2179	c-7	32	1860	destitution Macron
 i-2117	c-7	35	15511	suivi franco-israeliens Tsahal
-i-1999	c-8	54	52453	abandon projet A69 Toulouse Castres
-i-2082	c-7	54	8200	RIC Constituant #3
+i-1999	c-8	53	52453	abandon projet A69 Toulouse Castres
+i-2082	c-7	55	8201	RIC Constituant #3
 i-1994	c-5	346	7582	abrogation obligations vaccinales
 
-voix en 10 j :	1167
+voix en 10 j :	1168
