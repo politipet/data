@@ -5,9 +5,9 @@ i-2141	c-7	20	1612	modification seuils THC au volant
 i-1625	c-7	23	5996	suppression sanctions pénales conso drogue
 i-2179	c-7	27	1864	destitution Macron
 i-2286	c-7	32	32
-i-2082	c-7	39	8203	RIC Constituant #3
-i-1999	c-8	42	52461	abandon projet A69 Toulouse Castres
-i-2165	c-5	45	277	non à la suppression du congé parental
-i-1994	c-5	319	7593	abrogation obligations vaccinales
+i-2082	c-7	40	8204	RIC Constituant #3
+i-1999	c-8	41	52461	abandon projet A69 Toulouse Castres
+i-2165	c-5	48	280	non à la suppression du congé parental
+i-1994	c-5	318	7594	abrogation obligations vaccinales
 
-voix en 10 j :	1001
+voix en 10 j :	1002
