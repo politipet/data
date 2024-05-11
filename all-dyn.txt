@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-1067	c-5	19	47432	allongement durée congé maternité
 i-2300	c-2	20	20
 i-2141	c-7	21	1614	modification seuils THC au volant
-i-2179	c-7	27	1866	destitution Macron
-i-1625	c-7	28	6003	suppression sanctions pénales conso drogue
+i-2179	c-7	28	1867	destitution Macron
+i-1625	c-7	29	6004	suppression sanctions pénales conso drogue
 i-2286	c-7	33	33
 i-2082	c-7	34	8204	RIC Constituant #3
-i-1999	c-8	38	52463	abandon projet A69 Toulouse Castres
+i-1999	c-8	37	52464	abandon projet A69 Toulouse Castres
 i-2165	c-5	48	281	non à la suppression du congé parental
-i-1994	c-5	309	7597	abrogation obligations vaccinales
+i-1994	c-5	308	7597	abrogation obligations vaccinales
 
-voix en 10 j :	969
+voix en 10 j :	970
