@@ -2,11 +2,11 @@ id	comm	diff	score	theme
 i-1987	c-2	18	126
 i-2141	c-7	19	1615	modification seuils THC au volant
 i-2300	c-2	20	20
-i-1625	c-7	28	6004	suppression sanctions pénales conso drogue
 i-2179	c-7	28	1867	destitution Macron
-i-2082	c-7	32	8204	RIC Constituant #3
+i-1625	c-7	29	6005	suppression sanctions pénales conso drogue
+i-2082	c-7	30	8204	RIC Constituant #3
+i-1999	c-8	33	52466	abandon projet A69 Toulouse Castres
 i-2286	c-7	33	33
-i-1999	c-8	34	52466	abandon projet A69 Toulouse Castres
 i-2165	c-5	48	281	non à la suppression du congé parental
 i-1994	c-5	305	7597	abrogation obligations vaccinales
 
