@@ -10,4 +10,4 @@ i-2286	c-7	33	33
 i-2165	c-5	50	283	non à la suppression du congé parental
 i-1994	c-5	304	7598	abrogation obligations vaccinales
 
-voix en 10 j :	958
+voix en 10 j :	959
