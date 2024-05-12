@@ -3,11 +3,11 @@ i-2297	c-7	18	21
 i-2141	c-7	20	1616	modification seuils THC au volant
 i-2300	c-2	20	20
 i-2082	c-7	26	8206	RIC Constituant #3
-i-2179	c-7	26	1869	destitution Macron
-i-1625	c-7	29	6005	suppression sanctions pénales conso drogue
-i-1999	c-8	31	52466	abandon projet A69 Toulouse Castres
+i-2179	c-7	27	1870	destitution Macron
+i-1999	c-8	29	52466	abandon projet A69 Toulouse Castres
+i-1625	c-7	30	6006	suppression sanctions pénales conso drogue
 i-2286	c-7	31	33
 i-2165	c-5	55	288	non à la suppression du congé parental
 i-1994	c-5	304	7600	abrogation obligations vaccinales
 
-voix en 10 j :	934
+voix en 10 j :	932
