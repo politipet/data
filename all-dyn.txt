@@ -6,8 +6,8 @@ i-2082	c-7	26	8205	RIC Constituant #3
 i-2179	c-7	27	1869	destitution Macron
 i-1625	c-7	29	6005	suppression sanctions pénales conso drogue
 i-1999	c-8	32	52466	abandon projet A69 Toulouse Castres
-i-2286	c-7	33	33
-i-2165	c-5	53	286	non à la suppression du congé parental
+i-2286	c-7	32	33
+i-2165	c-5	55	288	non à la suppression du congé parental
 i-1994	c-5	305	7599	abrogation obligations vaccinales
 
 voix en 10 j :	961
