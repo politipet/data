@@ -8,6 +8,6 @@ i-1999	c-8	28	52466	abandon projet A69 Toulouse Castres
 i-2179	c-7	28	1872	destitution Macron
 i-1625	c-7	30	6006	suppression sanctions pénales conso drogue
 i-2165	c-5	58	292	non à la suppression du congé parental
-i-1994	c-5	288	7603	abrogation obligations vaccinales
+i-1994	c-5	281	7604	abrogation obligations vaccinales
 
-voix en 10 j :	905
+voix en 10 j :	896
