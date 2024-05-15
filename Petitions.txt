@@ -26,7 +26,6 @@ i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
 i-1933	train de vie et ors de la République
 i-2025	tarif social resto-U INSA Lyon
-i-1928	contre baisse décote malus auto PLF 2024
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
 i-1769	pour les quartiers populaires
