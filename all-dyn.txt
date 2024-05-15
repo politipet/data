@@ -6,8 +6,8 @@ i-2141	c-7	23	1623	modification seuils THC au volant
 i-2179	c-7	23	1873	destitution Macron
 i-1625	c-7	27	6006	suppression sanctions pénales conso drogue
 i-1999	c-8	33	52477	abandon projet A69 Toulouse Castres
-i-2207	c-5	56	1681	solidarité nationale à hauteur des besoins
 i-2165	c-5	71	305	non à la suppression du congé parental
-i-1994	c-5	144	7616	abrogation obligations vaccinales
+i-2207	c-5	87	1712	solidarité nationale à hauteur des besoins
+i-1994	c-5	141	7616	abrogation obligations vaccinales
 
-voix en 10 j :	792
+voix en 10 j :	817
