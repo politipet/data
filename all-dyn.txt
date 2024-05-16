@@ -8,6 +8,6 @@ i-2141	c-7	26	1627	modification seuils THC au volant
 i-1999	c-8	30	52480	abandon projet A69 Toulouse Castres
 i-1994	c-5	74	7627	abrogation obligations vaccinales
 i-2165	c-5	95	329	non à la suppression du congé parental
-i-2207	c-5	647	2276	solidarité nationale à hauteur des besoins
+i-2207	c-5	703	2332	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	1349
+voix en 10 j :	1414
