@@ -3,11 +3,11 @@ i-1067	c-5	20	47440	allongement durée congé maternité
 i-2082	c-7	22	8214	RIC Constituant #3
 i-2297	c-7	22	25
 i-2141	c-7	25	1625	modification seuils THC au volant
-i-2179	c-7	26	1877	destitution Macron
-i-1625	c-7	27	6006	suppression sanctions pénales conso drogue
+i-2179	c-7	25	1877	destitution Macron
+i-1625	c-7	26	6006	suppression sanctions pénales conso drogue
 i-1999	c-8	32	52479	abandon projet A69 Toulouse Castres
 i-2165	c-5	86	320	non à la suppression du congé parental
-i-1994	c-5	98	7622	abrogation obligations vaccinales
-i-2207	c-5	442	2068	solidarité nationale à hauteur des besoins
+i-1994	c-5	99	7623	abrogation obligations vaccinales
+i-2207	c-5	456	2082	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	1212
+voix en 10 j :	1225
