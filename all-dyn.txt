@@ -8,6 +8,6 @@ i-1625	c-7	27	6006	suppression sanctions pénales conso drogue
 i-1999	c-8	32	52479	abandon projet A69 Toulouse Castres
 i-2165	c-5	83	317	non à la suppression du congé parental
 i-1994	c-5	102	7622	abrogation obligations vaccinales
-i-2207	c-5	432	2058	solidarité nationale à hauteur des besoins
+i-2207	c-5	434	2060	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	1166
+voix en 10 j :	1168
