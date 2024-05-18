@@ -4,10 +4,10 @@ i-2141	c-7	26	1629	modification seuils THC au volant
 i-1625	c-7	28	6010	suppression sanctions pénales conso drogue
 i-2324	c-5	30	30
 i-1999	c-8	31	52484	abandon projet A69 Toulouse Castres
-i-1067	c-5	45	47474	allongement durée congé maternité
+i-1067	c-5	48	47477	allongement durée congé maternité
 i-1994	c-5	48	7635	abrogation obligations vaccinales
 i-1909	c-5	50	142
-i-2165	c-5	103	338	non à la suppression du congé parental
-i-2207	c-5	1496	3125	solidarité nationale à hauteur des besoins
+i-2165	c-5	101	338	non à la suppression du congé parental
+i-2207	c-5	1500	3129	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2302
+voix en 10 j :	2306
