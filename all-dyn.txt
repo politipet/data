@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-2179	c-7	20	1880	destitution Macron
+i-2179	c-7	21	1881	destitution Macron
 i-2297	c-7	22	25
 i-2141	c-7	26	1628	modification seuils THC au volant
 i-1625	c-7	27	6009	suppression sanctions pénales conso drogue
@@ -8,6 +8,6 @@ i-1999	c-8	31	52484	abandon projet A69 Toulouse Castres
 i-1909	c-5	49	141
 i-1994	c-5	52	7632	abrogation obligations vaccinales
 i-2165	c-5	103	337	non à la suppression du congé parental
-i-2207	c-5	1400	3029	solidarité nationale à hauteur des besoins
+i-2207	c-5	1414	3043	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2145
+voix en 10 j :	2175
