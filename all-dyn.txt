@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2141	c-7	26	1629	modification seuils THC au volant
+i-2141	c-7	25	1629	modification seuils THC au volant
 i-1950	c-4	27	344	interdiction des Frères Musulmans
-i-1999	c-8	28	52485	abandon projet A69 Toulouse Castres
-i-1625	c-7	29	6012	suppression sanctions pénales conso drogue
+i-1999	c-8	27	52485	abandon projet A69 Toulouse Castres
+i-1625	c-7	28	6013	suppression sanctions pénales conso drogue
 i-2324	c-5	38	38
 i-1909	c-5	51	143
-i-1994	c-5	51	7639	abrogation obligations vaccinales
-i-1067	c-5	55	47486	allongement durée congé maternité
+i-1994	c-5	52	7640	abrogation obligations vaccinales
+i-1067	c-5	54	47486	allongement durée congé maternité
 i-2165	c-5	71	338	non à la suppression du congé parental
-i-2207	c-5	1554	3183	solidarité nationale à hauteur des besoins
+i-2207	c-5	1558	3187	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2370
+voix en 10 j :	2367
