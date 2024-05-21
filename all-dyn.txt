@@ -10,4 +10,4 @@ i-1067	c-5	60	47492	allongement durée congé maternité
 i-2117	c-7	103	15616	suivi franco-israeliens Tsahal
 i-2207	c-5	1660	3289	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2586
+voix en 10 j :	2585
