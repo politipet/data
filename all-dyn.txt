@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-1999	c-8	22	52488	abandon projet A69 Toulouse Castres
+i-1999	c-8	23	52489	abandon projet A69 Toulouse Castres
 i-2082	c-7	23	8227	RIC Constituant #3
 i-1950	c-4	33	350	interdiction des Frères Musulmans
-i-1994	c-5	48	7645	abrogation obligations vaccinales
+i-1994	c-5	49	7646	abrogation obligations vaccinales
 i-2324	c-5	56	56
 i-1909	c-5	57	149
 i-2165	c-5	59	340	non à la suppression du congé parental
 i-1067	c-5	61	47493	allongement durée congé maternité
-i-2117	c-7	116	15629	suivi franco-israeliens Tsahal
-i-2207	c-5	1788	3417	solidarité nationale à hauteur des besoins
+i-2117	c-7	119	15632	suivi franco-israeliens Tsahal
+i-2207	c-5	1808	3437	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2750
+voix en 10 j :	2744
