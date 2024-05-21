@@ -3,7 +3,6 @@ i-1835	stop au nettoyage voirie à l'eau potable
 i-1553	libérez Julian Assange
 i-1947	condamnation crimes guerre Israël
 i-1963	interdiction du glyphosate
-i-1970	suppression du changement d'heure
 i-1994	abrogation obligations vaccinales
 i-1999	abandon projet A69 Toulouse Castres
 i-1377	remettre l'ISF
@@ -24,19 +23,15 @@ i-1922	non au siphonnage de l’AGIRC-ARRCO
 i-1067	allongement durée congé maternité
 i-1920	démission du gouvernement et de Macron
 i-1367	alignement retraites élus sur régime général
-i-1933	train de vie et ors de la République
 i-2025	tarif social resto-U INSA Lyon
 i-1415	dissolution LFI
 i-1445	dissolution BRAV-M
 i-1769	pour les quartiers populaires
-i-1914	appel Vive la France et vive la différence
-i-1948	dissolution LFI
 i-1950	interdiction des Frères Musulmans
 i-2000	pour un Iran démocratique / CPID
 i-2002	reouverture lignes SNCF fermées + stop dépose rails
 i-1885	reconnaissance et suivi covid long
 i-1971	reconnaissance immédiate Palestine
-i-2027	supprimer prescription viols mineures
 i-2109	revoir prescription pour meurtre
 i-2141	modification seuils THC au volant
 i-2142	contre interdiction pêche
@@ -45,7 +40,5 @@ i-2165	non à la suppression du congé parental
 i-1437	moratoire méga-bassines
 i-1470	interdiction privatisation eau / bassines
 
-i-1924	destitution + déchéance de nationalité Macron
-i-1956	destitution Macron (art.68) 2e round
 i-2179	destitution Macron
 i-2225	destitution Macron (art.68 minimal)
