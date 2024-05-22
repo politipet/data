@@ -7,7 +7,7 @@ i-1909	c-5	57	149
 i-1994	c-5	59	7658	abrogation obligations vaccinales
 i-1067	c-5	63	47496	allongement durée congé maternité
 i-2324	c-5	77	77
-i-2117	c-7	136	15649	suivi franco-israeliens Tsahal
-i-2207	c-5	1932	3561	solidarité nationale à hauteur des besoins
+i-2117	c-7	138	15651	suivi franco-israeliens Tsahal
+i-2207	c-5	1943	3572	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2961
+voix en 10 j :	2982
