@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-1999	c-8	25	52491	abandon projet A69 Toulouse Castres
+i-1999	c-8	26	52491	abandon projet A69 Toulouse Castres
 i-2206	c-4	28	124
 i-1950	c-4	33	350	interdiction des Frères Musulmans
 i-1994	c-5	55	7653	abrogation obligations vaccinales
@@ -10,4 +10,4 @@ i-2324	c-5	75	75
 i-2117	c-7	135	15648	suivi franco-israeliens Tsahal
 i-2207	c-5	1864	3493	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2864
+voix en 10 j :	2865
