@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2206	c-4	32	128
+i-2206	c-4	33	129
 i-1950	c-4	34	351	interdiction des Frères Musulmans
-i-2298	c-2	35	41
+i-2298	c-2	41	47
 i-2165	c-5	52	342	non à la suppression du congé parental
 i-1909	c-5	57	149
 i-1994	c-5	57	7658	abrogation obligations vaccinales
 i-1067	c-5	65	47498	allongement durée congé maternité
-i-2324	c-5	80	80
+i-2324	c-5	82	82
 i-2117	c-7	139	15652	suivi franco-israeliens Tsahal
-i-2207	c-5	2049	3678	solidarité nationale à hauteur des besoins
+i-2207	c-5	2063	3692	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	3125
+voix en 10 j :	3149
