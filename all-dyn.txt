@@ -4,10 +4,10 @@ i-2206	c-4	34	137
 i-1994	c-5	47	7663	abrogation obligations vaccinales
 i-1909	c-5	57	149
 i-1067	c-5	67	47505	allongement durée congé maternité
-i-2165	c-5	67	371	non à la suppression du congé parental
+i-2165	c-5	67	372	non à la suppression du congé parental
 i-2324	c-5	87	87
 i-2298	c-2	141	148
 i-2117	c-7	156	15671	suivi franco-israeliens Tsahal
-i-2207	c-5	2457	4089	solidarité nationale à hauteur des besoins
+i-2207	c-5	2458	4095	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	3701
+voix en 10 j :	3703
