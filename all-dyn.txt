@@ -3,11 +3,11 @@ i-1999	c-8	33	52512	abandon projet A69 Toulouse Castres
 i-2206	c-4	34	137
 i-1994	c-5	45	7667	abrogation obligations vaccinales
 i-1909	c-5	55	149
-i-2165	c-5	60	377	non à la suppression du congé parental
-i-1067	c-5	69	47508	allongement durée congé maternité
+i-2165	c-5	57	377	non à la suppression du congé parental
+i-1067	c-5	68	47508	allongement durée congé maternité
 i-2324	c-5	87	87
 i-2117	c-7	156	15672	suivi franco-israeliens Tsahal
-i-2298	c-2	162	172
-i-2207	c-5	2081	4145	solidarité nationale à hauteur des besoins
+i-2298	c-2	161	172
+i-2207	c-5	2077	4145	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	3317
+voix en 10 j :	3293
