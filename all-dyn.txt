@@ -8,6 +8,6 @@ i-1067	c-5	69	47510	allongement durée congé maternité
 i-2324	c-5	89	89	protection et amélioration du congé parental
 i-2117	c-7	155	15680	suivi franco-israeliens Tsahal
 i-2298	c-2	183	195	non à la fusion des médias en France
-i-2207	c-5	1387	4269	solidarité nationale à hauteur des besoins
+i-2207	c-5	1394	4276	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2574
+voix en 10 j :	2581
