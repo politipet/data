@@ -1,4 +1,3 @@
-i-1625	suppression sanctions pénales conso drogue
 i-1835	stop au nettoyage voirie à l'eau potable
 i-1553	libérez Julian Assange
 i-1947	condamnation crimes guerre Israël
@@ -9,8 +8,6 @@ i-1377	remettre l'ISF
 i-2019	salaire à vie 2500€ environ
 i-2022	dépistage drogue conduire diriger France
 i-2032	interdiction pub pour paris sportifs
-i-2082	RIC Constituant #3
-i-2117	suivi franco-israeliens Tsahal
 i-2207	solidarité nationale à hauteur des besoins
 
 # ^ tracked ^     ▼ not tracked ▼
