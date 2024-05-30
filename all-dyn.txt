@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-1912	c-5	23	77
 i-1971	c-4	26	331	reconnaissance immédiate Palestine
-i-1947	c-4	38	1056	condamnation crimes guerre Israël
-i-1999	c-8	40	52527	abandon projet A69 Toulouse Castres
-i-2324	c-5	48	96	protection et amélioration du congé parental
-i-1994	c-5	49	7693	abrogation obligations vaccinales
+i-1947	c-4	40	1058	condamnation crimes guerre Israël
+i-1999	c-8	41	52528	abandon projet A69 Toulouse Castres
+i-2324	c-5	45	96	protection et amélioration du congé parental
+i-1994	c-5	50	7694	abrogation obligations vaccinales
 i-2165	c-5	59	399	non à la suppression du congé parental
-i-2206	c-4	165	276	reconnaissance de la Palestine
+i-2206	c-4	170	281	reconnaissance de la Palestine
 i-2298	c-2	194	207	non à la fusion des médias en France
-i-2207	c-5	1510	4785	solidarité nationale à hauteur des besoins
+i-2207	c-5	1509	4793	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2581
+voix en 10 j :	2593
