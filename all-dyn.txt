@@ -7,7 +7,7 @@ i-1947	c-4	45	1067	condamnation crimes guerre Israël
 i-1994	c-5	47	7700	abrogation obligations vaccinales
 i-2165	c-5	62	402	non à la suppression du congé parental
 i-2298	c-2	193	207	non à la fusion des médias en France
-i-2206	c-4	194	318	reconnaissance de la Palestine
+i-2206	c-4	195	319	reconnaissance de la Palestine
 i-2207	c-5	1503	4995	solidarité nationale à hauteur des besoins
 
 voix en 10 j :	2620
