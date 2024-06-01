@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2179	c-7	20	1903	destitution Macron
-i-2259	c-4	23	97
+i-2259	c-4	24	98
 i-1971	c-4	29	337	reconnaissance immédiate Palestine
 i-1999	c-8	40	52533	abandon projet A69 Toulouse Castres
 i-1947	c-4	45	1067	condamnation crimes guerre Israël
-i-1994	c-5	47	7700	abrogation obligations vaccinales
+i-1994	c-5	47	7701	abrogation obligations vaccinales
 i-2165	c-5	61	402	non à la suppression du congé parental
 i-2298	c-2	193	207	non à la fusion des médias en France
 i-2206	c-4	195	319	reconnaissance de la Palestine
-i-2207	c-5	1498	5000	solidarité nationale à hauteur des besoins
+i-2207	c-5	1493	5004	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2602
+voix en 10 j :	2596
