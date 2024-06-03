@@ -3,11 +3,11 @@ i-2179	c-7	27	1912	destitution Macron
 i-1999	c-8	28	52538	abandon projet A69 Toulouse Castres
 i-1971	c-4	31	342	reconnaissance immédiate Palestine
 i-2259	c-4	32	107
+i-2165	c-5	44	406	non à la suppression du congé parental
 i-1994	c-5	45	7708	abrogation obligations vaccinales
-i-2165	c-5	46	406	non à la suppression du congé parental
 i-1947	c-4	51	1074	condamnation crimes guerre Israël
 i-2298	c-2	77	220	non à la fusion des médias en France
-i-2206	c-4	231	368	reconnaissance de la Palestine
-i-2207	c-5	1165	5212	solidarité nationale à hauteur des besoins
+i-2206	c-4	232	369	reconnaissance de la Palestine
+i-2207	c-5	1163	5218	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2259
+voix en 10 j :	2257
