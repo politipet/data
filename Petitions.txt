@@ -27,8 +27,11 @@ i-1950	interdiction des Frères Musulmans
 i-2000	pour un Iran démocratique / CPID
 i-2002	reouverture lignes SNCF fermées + stop dépose rails
 i-1885	reconnaissance et suivi covid long
+
 i-1971	reconnaissance immédiate Palestine
 i-2206	reconnaissance de la Palestine
+i-2259	stop massacre à Gaza, fin colonisation
+
 i-2109	revoir prescription pour meurtre
 i-2141	modification seuils THC au volant
 i-2298	non à la fusion des médias en France
