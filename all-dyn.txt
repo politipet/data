@@ -4,10 +4,10 @@ i-2179	c-7	31	1921	destitution Macron
 i-1971	c-4	33	345	reconnaissance immédiate Palestine
 i-1999	c-8	33	52547	abandon projet A69 Toulouse Castres
 i-2259	c-4	37	112	stop massacre à Gaza, fin colonisation
-i-1994	c-5	42	7714	abrogation obligations vaccinales
+i-1994	c-5	41	7714	abrogation obligations vaccinales
 i-1947	c-4	54	1078	condamnation crimes guerre Israël
 i-2300	c-2	97	119
 i-2206	c-4	245	385	reconnaissance de la Palestine
 i-2207	c-5	1334	5530	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2517
+voix en 10 j :	2516
