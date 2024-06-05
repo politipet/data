@@ -4,10 +4,10 @@ i-1971	c-4	32	344	reconnaissance immédiate Palestine
 i-1999	c-8	32	52545	abandon projet A69 Toulouse Castres
 i-2259	c-4	36	111	stop massacre à Gaza, fin colonisation
 i-1994	c-5	47	7714	abrogation obligations vaccinales
-i-2298	c-2	49	221	non à la fusion des médias en France
+i-2298	c-2	47	221	non à la fusion des médias en France
 i-1947	c-4	54	1078	condamnation crimes guerre Israël
-i-2300	c-2	72	94
-i-2206	c-4	240	377	reconnaissance de la Palestine
-i-2207	c-5	1252	5405	solidarité nationale à hauteur des besoins
+i-2300	c-2	74	96
+i-2206	c-4	242	379	reconnaissance de la Palestine
+i-2207	c-5	1256	5412	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2398
+voix en 10 j :	2405
