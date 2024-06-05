@@ -6,8 +6,8 @@ i-2259	c-4	35	110	stop massacre à Gaza, fin colonisation
 i-1994	c-5	47	7714	abrogation obligations vaccinales
 i-2298	c-2	49	221	non à la fusion des médias en France
 i-1947	c-4	53	1077	condamnation crimes guerre Israël
-i-2300	c-2	67	89
-i-2206	c-4	238	375	reconnaissance de la Palestine
+i-2300	c-2	68	90
+i-2206	c-4	239	376	reconnaissance de la Palestine
 i-2207	c-5	1258	5403	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2378
+voix en 10 j :	2383
