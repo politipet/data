@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2032	c-7	27	92	interdiction pub pour paris sportifs
-i-1971	c-4	29	346	reconnaissance immédiate Palestine
-i-2259	c-4	33	112	stop massacre à Gaza, fin colonisation
-i-2179	c-7	36	1929	destitution Macron
+i-1971	c-4	27	346	reconnaissance immédiate Palestine
+i-2032	c-7	30	95	interdiction pub pour paris sportifs
+i-2259	c-4	31	112	stop massacre à Gaza, fin colonisation
+i-2179	c-7	37	1930	destitution Macron
 i-1999	c-8	38	52560	abandon projet A69 Toulouse Castres
 i-1994	c-5	46	7722	abrogation obligations vaccinales
 i-1947	c-4	51	1078	condamnation crimes guerre Israël
 i-2300	c-2	105	127
-i-2206	c-4	219	391	reconnaissance de la Palestine
-i-2207	c-5	1249	5666	solidarité nationale à hauteur des besoins
+i-2206	c-4	218	391	reconnaissance de la Palestine
+i-2207	c-5	1237	5666	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2438
+voix en 10 j :	2428
