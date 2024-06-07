@@ -3,11 +3,11 @@ i-2298	c-2	23	222	non à la fusion des médias en France
 i-1971	c-4	30	346	reconnaissance immédiate Palestine
 i-2259	c-4	34	112	stop massacre à Gaza, fin colonisation
 i-2179	c-7	35	1927	destitution Macron
-i-1999	c-8	37	52558	abandon projet A69 Toulouse Castres
-i-1994	c-5	45	7721	abrogation obligations vaccinales
+i-1999	c-8	36	52558	abandon projet A69 Toulouse Castres
+i-1994	c-5	46	7722	abrogation obligations vaccinales
 i-1947	c-4	52	1078	condamnation crimes guerre Israël
-i-2300	c-2	104	126
-i-2206	c-4	231	391	reconnaissance de la Palestine
-i-2207	c-5	1242	5644	solidarité nationale à hauteur des besoins
+i-2300	c-2	105	127
+i-2206	c-4	230	391	reconnaissance de la Palestine
+i-2207	c-5	1246	5650	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2413
+voix en 10 j :	2422
