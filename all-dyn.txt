@@ -8,6 +8,6 @@ i-1994	c-5	46	7721	abrogation obligations vaccinales
 i-1947	c-4	54	1078	condamnation crimes guerre Israël
 i-2300	c-2	104	126
 i-2206	c-4	247	389	reconnaissance de la Palestine
-i-2207	c-5	1301	5622	solidarité nationale à hauteur des besoins
+i-2207	c-5	1300	5622	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2487
+voix en 10 j :	2486
