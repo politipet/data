@@ -7,7 +7,7 @@ i-1947	c-4	46	1079	condamnation crimes guerre Israël
 i-2032	c-7	48	113	interdiction pub pour paris sportifs
 i-1999	c-8	50	52575	abandon projet A69 Toulouse Castres
 i-2300	c-2	105	127
-i-2206	c-4	158	394	reconnaissance de la Palestine
-i-2207	c-5	1091	5707	solidarité nationale à hauteur des besoins
+i-2206	c-4	157	394	reconnaissance de la Palestine
+i-2207	c-5	1092	5708	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2251
+voix en 10 j :	2249
