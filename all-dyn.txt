@@ -3,11 +3,11 @@ i-1971	c-4	27	348	reconnaissance immédiate Palestine
 i-2259	c-4	28	113	stop massacre à Gaza, fin colonisation
 i-1999	c-8	41	52564	abandon projet A69 Toulouse Castres
 i-2179	c-7	41	1934	destitution Macron
-i-2032	c-7	44	109	interdiction pub pour paris sportifs
 i-1994	c-5	45	7724	abrogation obligations vaccinales
+i-2032	c-7	46	111	interdiction pub pour paris sportifs
 i-1947	c-4	48	1078	condamnation crimes guerre Israël
 i-2300	c-2	105	127
 i-2206	c-4	200	393	reconnaissance de la Palestine
-i-2207	c-5	1193	5679	solidarité nationale à hauteur des besoins
+i-2207	c-5	1199	5685	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2399
+voix en 10 j :	2408
