@@ -5,9 +5,9 @@ i-1994	c-5	38	7724	abrogation obligations vaccinales
 i-2179	c-7	41	1936	destitution Macron
 i-1947	c-4	43	1079	condamnation crimes guerre Israël
 i-2032	c-7	48	113	interdiction pub pour paris sportifs
-i-1999	c-8	51	52576	abandon projet A69 Toulouse Castres
+i-1999	c-8	52	52577	abandon projet A69 Toulouse Castres
 i-2300	c-2	105	127
-i-2206	c-4	149	394	reconnaissance de la Palestine
-i-2207	c-5	1083	5709	solidarité nationale à hauteur des besoins
+i-2206	c-4	148	394	reconnaissance de la Palestine
+i-2207	c-5	1074	5710	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2218
+voix en 10 j :	2208
