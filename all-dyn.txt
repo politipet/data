@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-1067	c-5	22	47533	allongement durée congé maternité
+i-1947	c-4	22	1080	condamnation crimes guerre Israël
 i-2259	c-4	23	115	stop massacre à Gaza, fin colonisation
-i-1947	c-4	24	1080	condamnation crimes guerre Israël
-i-1994	c-5	39	7732	abrogation obligations vaccinales
+i-1994	c-5	38	7732	abrogation obligations vaccinales
 i-2179	c-7	41	1940	destitution Macron
 i-2032	c-7	49	114	interdiction pub pour paris sportifs
-i-1999	c-8	57	52584	abandon projet A69 Toulouse Castres
+i-1999	c-8	56	52584	abandon projet A69 Toulouse Castres
 i-2300	c-2	106	128
-i-2206	c-4	119	395	reconnaissance de la Palestine
-i-2207	c-5	946	5731	solidarité nationale à hauteur des besoins
+i-2206	c-4	114	395	reconnaissance de la Palestine
+i-2207	c-5	941	5734	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	2082
+voix en 10 j :	2064
