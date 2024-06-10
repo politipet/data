@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2298	c-2	20	227	non à la fusion des médias en France
 i-1067	c-5	21	47533	allongement durée congé maternité
 i-2259	c-4	21	115	stop massacre à Gaza, fin colonisation
-i-1994	c-5	37	7735	abrogation obligations vaccinales
+i-1994	c-5	36	7735	abrogation obligations vaccinales
 i-2179	c-7	44	1946	destitution Macron
 i-2032	c-7	49	114	interdiction pub pour paris sportifs
-i-1999	c-8	54	52586	abandon projet A69 Toulouse Castres
-i-2206	c-4	86	395	reconnaissance de la Palestine
+i-1999	c-8	53	52586	abandon projet A69 Toulouse Castres
+i-2206	c-4	84	395	reconnaissance de la Palestine
 i-2300	c-2	107	129
-i-2207	c-5	814	5751	solidarité nationale à hauteur des besoins
+i-2207	c-5	800	5752	solidarité nationale à hauteur des besoins
 
-voix en 10 j :	1823
+voix en 10 j :	1805
