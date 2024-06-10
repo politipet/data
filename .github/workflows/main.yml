@@ -2,8 +2,6 @@ name: 'Petitions polling'
 on:
   push:
     tags: [ "run-once" ]
-  schedule:
-    - cron: "3 * * * *"
 
 jobs:
 
