@@ -1,3 +1,0 @@
-bassine = 1470 1437
-destitution = 2225 2179 2227 2243 2249
-palestine = 1971 2206 2259
