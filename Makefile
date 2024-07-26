@@ -178,9 +178,10 @@ all-stat:
 	cat $(data) \
 	| cut -d ' ' -f 2 | sort | uniq -c \
 	| egrep -v 'c-$$' \
-	| sed 's:c-.*::' \
+	| sed 's: \(c-[1-8]\)$$:\t\1:' \
 	> $@
-	cut -f 2 commissions.txt | paste $@ - > $@.txt
+	join -t "`printf '\t'`" -1 2 -2 1 -a 2 -o 1.1,2.2 \
+		$@ commissions.txt > $@.txt
 	\rm $@
 
 all-dyn:
