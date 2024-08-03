@@ -8,6 +8,6 @@ i-2226	c-7	0	0
 i-2335	c-6	0	0
 i-2358	c-2	11	11	Meurice directeur
 i-2361	c-7	84	84
-i-2360	c-7	90	90	Macron destitution
+i-2360	c-7	91	91	Macron destitution
 
-voix en 10 j :	185
+voix en 10 j :	186
