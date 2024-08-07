@@ -2,6 +2,6 @@ id	comm	diff	score	theme
 : diff stats since 10 days
 i-2358	c-2	2	11	Meurice directeur
 i-2361	c-7	9	85
-i-2360	c-7	35	96	Macron destitution
+i-2360	c-7	36	97	Macron destitution
 
-voix en 10 j :	46
+voix en 10 j :	47
