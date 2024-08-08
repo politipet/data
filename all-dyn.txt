@@ -6,8 +6,8 @@ i-2368	c-5	1	1
 i-2369	c-7	1	1
 i-2381	c-7	1	1
 i-2358	c-2	2	11	Meurice directeur
-i-2361	c-7	8	85
+i-2361	c-7	5	85
 i-2378	c-5	31	31
-i-2360	c-7	45	113	Macron destitution
+i-2360	c-7	43	113	Macron destitution
 
-voix en 10 j :	92
+voix en 10 j :	87
