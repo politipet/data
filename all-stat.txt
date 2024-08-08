@@ -2,7 +2,7 @@
       1	Éducation et culture
 	Affaires économiques
 	Affaires étrangères
-	Affaires sociales
+      1	Affaires sociales
 	Finances
-      2	Lois et administration
+      3	Lois et administration
 	Développement durable
