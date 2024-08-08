@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2371	c-7	0	0
-i-2373	c-4	0	0
-i-2374	c-6	0	0
-i-2378	c-5	0	0
-i-2379	c-4	0	0
 i-2384	c-6	0	0
+i-2366	c-7	1	1
+i-2367	c-6	1	1
+i-2368	c-5	1	1
+i-2369	c-7	1	1
 i-2381	c-7	1	1
 i-2358	c-2	2	11	Meurice directeur
+i-2378	c-5	3	3
 i-2361	c-7	8	85
-i-2360	c-7	41	105	Macron destitution
+i-2360	c-7	43	108	Macron destitution
 
-voix en 10 j :	52
+voix en 10 j :	61
