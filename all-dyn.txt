@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2368	c-5	1	1
 i-2369	c-7	1	1
 i-2381	c-7	1	1
 i-2386	c-3	1	1
 i-2362	c-7	2	2
+i-2367	c-6	2	2
 i-2361	c-7	3	85
 i-2373	c-4	3	3
-i-2374	c-6	20	20
-i-2360	c-7	40	115	Macron destitution
-i-2378	c-5	137	137
+i-2374	c-6	22	22
+i-2360	c-7	39	115	Macron destitution
+i-2378	c-5	144	144
 
-voix en 10 j :	213
+voix en 10 j :	222
