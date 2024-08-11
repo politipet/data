@@ -8,6 +8,6 @@ i-2362	c-7	5	5
 i-2373	c-4	8	8
 i-2374	c-6	27	27
 i-2360	c-7	34	117	Macron destitution
-i-2378	c-5	423	423
+i-2378	c-5	433	433
 
-voix en 10 j :	526
+voix en 10 j :	536
