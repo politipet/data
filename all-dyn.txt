@@ -8,6 +8,6 @@ i-2368	c-5	9	15	Prise en compte du Bénévolat / Retraite
 i-2392	c-7	11	12
 i-2373	c-4	49	277	Libérez Paul Watson - Sea Shepard
 i-2378	c-5	304	1543	Défense des enfants en France
-i-2360	c-7	760	1012	Macron destitution
+i-2360	c-7	761	1013	Macron destitution
 
-voix en 10 j :	1205
+voix en 10 j :	1206
