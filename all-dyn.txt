@@ -7,7 +7,7 @@ i-2368	c-5	10	18	Prise en compte du Bénévolat / Retraite
 i-2363	c-6	11	27	Ajustement paye gouv. Banque de France
 i-2392	c-7	12	18
 i-2373	c-4	50	291	Libérez Paul Watson - Sea Shepard
-i-2378	c-5	193	1586	Défense des enfants en France
-i-2360	c-7	1185	1517	Macron destitution
+i-2378	c-5	194	1588	Défense des enfants en France
+i-2360	c-7	1202	1534	Macron destitution
 
-voix en 10 j :	1545
+voix en 10 j :	1564
