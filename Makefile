@@ -190,3 +190,8 @@ all-dyn:
 	make --no-print-directory diff-stats | tail -12 >> $@.txt
 
 update: all-stat _all-votes all-dyn
+
+update: md
+md:
+	@curl -s https://politipet.fr/md.txt \
+	| sed 's/\t/ /' > i-md.txt
