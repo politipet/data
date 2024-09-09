@@ -5,9 +5,9 @@ i-2395	c-7	14	21
 i-2392	c-7	16	29
 i-2363	c-6	21	43	Ajustement paye gouv. Banque de France
 i-2403	c-7	45	45
-i-2373	c-4	69	350	Libérez Paul Watson - Sea Shepherd
-i-2378	c-5	443	1998	Défense des enfants en France
-i-2405	c-7	816	816	Macron destitution #2
-i-2360	c-7	1456	2541	Macron destitution
+i-2373	c-4	70	351	Libérez Paul Watson - Sea Shepherd
+i-2378	c-5	447	2002	Défense des enfants en France
+i-2405	c-7	819	819	Macron destitution #2
+i-2360	c-7	1460	2545	Macron destitution
 
-voix en 10 j :	2996
+voix en 10 j :	3009
