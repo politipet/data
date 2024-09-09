@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2368	c-5	12	27	Prise en compte du Bénévolat / Retraite
 i-2408	c-4	13	13
 i-2395	c-7	14	21
-i-2392	c-7	17	29
+i-2392	c-7	16	29
 i-2363	c-6	21	42	Ajustement paye gouv. Banque de France
 i-2403	c-7	44	44
 i-2373	c-4	70	347	Libérez Paul Watson - Sea Shepherd
 i-2378	c-5	428	1977	Défense des enfants en France
-i-2405	c-7	800	800	Macron destitution #2
-i-2360	c-7	1498	2532	Macron destitution
+i-2405	c-7	802	802	Macron destitution #2
+i-2360	c-7	1494	2532	Macron destitution
 
-voix en 10 j :	3008
+voix en 10 j :	3005
