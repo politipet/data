@@ -8,6 +8,6 @@ i-2403	c-7	47	47
 i-2373	c-4	64	354	Libérez Paul Watson - Sea Shepherd
 i-2378	c-5	444	2021	Défense des enfants en France
 i-2405	c-7	850	850	Macron destitution #2
-i-2360	c-7	1159	2574	Macron destitution
+i-2360	c-7	1156	2574	Macron destitution
 
-voix en 10 j :	2733
+voix en 10 j :	2730
