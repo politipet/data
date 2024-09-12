@@ -120,8 +120,10 @@ rate-stat. rate-stat.id:
 	@echo "please specify <id>"
 
 rate-stat.%:
-	@cat i-$*.txt | cut -d ' ' -f 1 | uniq -c |\
-	awk '{printf("%s\t%*c\n", $$2, $$1, ".")}' | tr ' ' .
+	@make day-scores.$* --no-print-directory \
+	|awk '{printf("%s\t%d\t+%d\t%*c\n",	\
+		$$1, $$2, $$3, $$3/10, ".")}'	\
+	| tr ' ' .
 
 rate-split. rate-split.id:
 rate-split.%:
@@ -137,7 +139,12 @@ rate-split.%:
 
 day-scores. day-scores.id:
 day-scores.%:
-	@cat i-$*.txt | awk 'd != $$1 && s {print d,s} {s=$$3; d=$$1}'
+	@cat i-$*.txt \
+	| awk -v OFS='\t' '\
+		d != $$1 && NR>1 {print d,s,s-p; p=s} \
+		{s=$$3; d=$$1} \
+		END {print d,s,s-p} \
+	'
 
 
 since ?= 10 days
