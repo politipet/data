@@ -5,9 +5,9 @@ i-2392	c-7	13	32
 i-2408	c-4	15	15
 i-2363	c-6	16	46	Ajustement paye gouv. Banque de France
 i-2403	c-7	51	51	Référendum pour/contre Macron
-i-2373	c-4	61	359	Libérez Paul Watson - Sea Shepherd
-i-2378	c-5	433	2042	Défense des enfants en France
+i-2373	c-4	60	360	Libérez Paul Watson - Sea Shepherd
+i-2378	c-5	432	2042	Défense des enfants en France
+i-2360	c-7	852	2588	Macron destitution
 i-2405	c-7	859	859	Macron destitution #2
-i-2360	c-7	867	2588	Macron destitution
 
-voix en 10 j :	2436
+voix en 10 j :	2419
