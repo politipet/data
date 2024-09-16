@@ -122,7 +122,7 @@ rate-stat. rate-stat.id:
 rate-stat.%:
 	@make day-scores.$* --no-print-directory \
 	|awk '{printf("%s\t%d\t+%d\t%*c\n",	\
-		$$1, $$2, $$3, $$3/10, ".")}'	\
+		$$1, $$2, $$3, $$3/10+.5, ".")}'	\
 	| tr ' ' .
 
 rate-split. rate-split.id:
