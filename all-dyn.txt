@@ -3,11 +3,11 @@ i-2408	c-4	6	18
 i-2368	c-5	7	33	Prise en compte du Bénévolat / Retraite
 i-2411	c-7	7	7
 i-2363	c-6	13	51	Ajustement paye gouv. Banque de France
-i-2399	c-8	15	18
+i-2399	c-8	16	19
 i-2403	c-7	19	58	Référendum pour/contre Macron
 i-2373	c-4	34	376	Libérez Paul Watson - Sea Shepherd
 i-2378	c-5	181	2112	Défense des enfants en France
-i-2405	c-7	219	898	Macron destitution #2
-i-2360	c-7	237	2722	Macron destitution
+i-2405	c-7	215	900	Macron destitution #2
+i-2360	c-7	249	2735	Macron destitution
 
-voix en 10 j :	808
+voix en 10 j :	817
