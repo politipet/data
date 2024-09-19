@@ -8,6 +8,6 @@ i-2403	c-7	29	73	Référendum pour/contre Macron
 i-2373	c-4	34	381	Libérez Paul Watson - Sea Shepherd
 i-2405	c-7	129	924	Macron destitution #2
 i-2378	c-5	142	2118	Défense des enfants en France
-i-2360	c-7	331	2860	Macron destitution
+i-2360	c-7	331	2861	Macron destitution
 
 voix en 10 j :	815
