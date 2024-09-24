@@ -5,9 +5,9 @@ i-2399	c-8	14	24
 i-2408	c-4	16	32
 i-2403	c-7	30	83	Référendum pour/contre Macron
 i-2373	c-4	31	398	Libérez Paul Watson - Sea Shepherd
-i-2378	c-5	81	2141	Défense des enfants en France
+i-2378	c-5	80	2141	Défense des enfants en France
 i-2405	c-7	106	973	Macron destitution #2
 i-2419	c-5	178	178	Prolongation congé maternel + parental
 i-2360	c-7	413	3023	Macron destitution
 
-voix en 10 j :	985
+voix en 10 j :	984
