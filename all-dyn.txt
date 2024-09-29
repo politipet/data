@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2428	c-7	9	9
 i-2427	c-5	10	10
 i-2363	c-6	11	64	Ajustement paye gouv. Banque de France
-i-2403	c-7	11	88	Référendum pour/contre Macron
+i-2428	c-7	11	11
+i-2403	c-7	12	89	Référendum pour/contre Macron
 i-2408	c-4	20	38
 i-2373	c-4	55	440	Libérez Paul Watson - Sea Shepherd
-i-2405	c-7	74	1004	Macron destitution #2
-i-2378	c-5	82	2203	Défense des enfants en France
-i-2360	c-7	183	3090	Macron destitution
-i-2419	c-5	211	230	Prolongation congé maternel + parental
+i-2405	c-7	73	1004	Macron destitution #2
+i-2378	c-5	84	2205	Défense des enfants en France
+i-2360	c-7	181	3090	Macron destitution
+i-2419	c-5	182	230	Prolongation congé maternel + parental
 
-voix en 10 j :	781
+voix en 10 j :	757
