@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-2395	c-7	9	38
+i-2363	c-6	10	66	Ajustement paye gouv. Banque de France
 i-2434	c-7	10	10
 i-2403	c-7	11	89	Référendum pour/contre Macron
 i-2427	c-5	11	11
@@ -10,4 +10,4 @@ i-2405	c-7	90	1038	Macron destitution #2
 i-2378	c-5	113	2247	Défense des enfants en France
 i-2360	c-7	124	3112	Macron destitution
 
-voix en 10 j :	648
+voix en 10 j :	649
