@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2423	c-6	9	10
+i-2395	c-7	9	38
 i-2427	c-5	9	11
 i-2434	c-7	12	12
 i-2428	c-7	15	15
 i-2438	c-4	37	37
-i-2373	c-4	58	459	Libérez Paul Watson - Sea Shepherd
+i-2373	c-4	59	460	Libérez Paul Watson - Sea Shepherd
 i-2405	c-7	77	1053	Macron destitution #2
-i-2419	c-5	84	264	Prolongation congé maternel + parental
-i-2360	c-7	92	3126	Macron destitution
-i-2378	c-5	104	2256	Défense des enfants en France
+i-2419	c-5	83	264	Prolongation congé maternel + parental
+i-2360	c-7	89	3126	Macron destitution
+i-2378	c-5	100	2256	Défense des enfants en France
 
-voix en 10 j :	606
+voix en 10 j :	591
