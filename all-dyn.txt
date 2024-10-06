@@ -4,10 +4,10 @@ i-2363	c-6	8	68	Ajustement paye gouv. Banque de France
 i-2434	c-7	14	14
 i-2428	c-7	16	16
 i-2438	c-4	45	45
-i-2373	c-4	58	469	Libérez Paul Watson - Sea Shepherd
-i-2360	c-7	69	3134	Macron destitution
-i-2405	c-7	73	1058	Macron destitution #2
+i-2373	c-4	60	471	Libérez Paul Watson - Sea Shepherd
+i-2360	c-7	68	3134	Macron destitution
+i-2405	c-7	74	1059	Macron destitution #2
 i-2378	c-5	78	2261	Défense des enfants en France
 i-2419	c-5	85	266	Prolongation congé maternel + parental
 
-voix en 10 j :	539
+voix en 10 j :	541
