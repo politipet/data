@@ -4,10 +4,10 @@ i-2428	c-7	12	16
 i-2434	c-7	12	14
 i-2373	c-4	37	473	Libérez Paul Watson - Sea Shepherd
 i-2438	c-4	45	45	Accueil des Libanais en France
-i-2419	c-5	58	268	Prolongation congé maternel + parental
+i-2419	c-5	55	268	Prolongation congé maternel + parental
 i-2431	c-5	60	62	Adoption Loi sur la fin de vie
-i-2360	c-7	63	3138	Macron destitution
+i-2360	c-7	62	3138	Macron destitution
 i-2405	c-7	66	1060	Macron destitution #2
-i-2378	c-5	70	2265	Défense des enfants en France
+i-2378	c-5	72	2267	Défense des enfants en France
 
 voix en 10 j :	521
