@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2408	c-4	9	47
 i-2448	c-6	10	10
 i-2449	c-8	13	13
-i-2419	c-5	24	271	Prolongation congé maternel + parental
+i-2419	c-5	23	271	Prolongation congé maternel + parental
 i-2373	c-4	31	486	Libérez Paul Watson - Sea Shepherd
-i-2405	c-7	36	1063	Macron destitution #2
-i-2378	c-5	45	2287	Défense des enfants en France
-i-2360	c-7	46	3148	Macron destitution
+i-2405	c-7	33	1063	Macron destitution #2
+i-2360	c-7	43	3148	Macron destitution
+i-2378	c-5	45	2288	Défense des enfants en France
 i-2438	c-4	50	51	Accueil des Libanais en France
 i-2431	c-5	59	64	Adoption Loi sur la fin de vie
 
-voix en 10 j :	448
+voix en 10 j :	439
