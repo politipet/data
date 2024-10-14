@@ -7,7 +7,7 @@ i-2449	c-8	14	14
 i-2438	c-4	22	52	Accueil des Libanais en France
 i-2360	c-7	25	3149	Macron destitution
 i-2373	c-4	33	491	Libérez Paul Watson - Sea Shepherd
-i-2378	c-5	40	2293	Défense des enfants en France
+i-2378	c-5	41	2294	Défense des enfants en France
 i-2431	c-5	57	63	Adoption Loi sur la fin de vie
 
-voix en 10 j :	342
+voix en 10 j :	343
