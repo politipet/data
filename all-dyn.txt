@@ -10,4 +10,4 @@ i-2373	c-4	40	506	Libérez Paul Watson - Sea Shepherd
 i-2378	c-5	43	2301	Défense des enfants en France
 i-2431	c-5	59	66	Adoption Loi sur la fin de vie
 
-voix en 10 j :	341
+voix en 10 j :	340
