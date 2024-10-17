@@ -5,9 +5,9 @@ i-2438	c-4	13	58	Accueil des Libanais en France
 i-2448	c-6	13	14
 i-2431	c-5	15	67	Adoption Loi sur la fin de vie
 i-2405	c-7	18	1078	Macron destitution #2
-i-2360	c-7	27	3163	Macron destitution
+i-2360	c-7	28	3164	Macron destitution
 i-2378	c-5	43	2307	Défense des enfants en France
-i-2373	c-4	56	528	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	1562	1562	Repas à 1 euro pour les étudiant-es
+i-2373	c-4	58	530	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	1819	1819	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	1919
+voix en 10 j :	2182
