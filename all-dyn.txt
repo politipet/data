@@ -7,7 +7,7 @@ i-2448	c-6	13	13
 i-2449	c-8	15	15
 i-2360	c-7	17	3152	Macron destitution
 i-2373	c-4	41	512	Libérez Paul Watson - Sea Shepherd
-i-2378	c-5	43	2305	Défense des enfants en France
+i-2378	c-5	42	2305	Défense des enfants en France
 i-2431	c-5	58	66	Adoption Loi sur la fin de vie
 
-voix en 10 j :	342
+voix en 10 j :	341
