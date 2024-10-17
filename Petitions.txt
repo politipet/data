@@ -3,6 +3,7 @@ i-2360	Macron destitution
 i-2363	Ajustement paye gouv. Banque de France
 i-2373	Libérez Paul Watson - Sea Shepherd
 i-2368	Prise en compte du Bénévolat / Retraite
+i-2469	Repas à 1 euro pour les étudiant-es
 
 # ^ tracked ^     ▼ not tracked ▼
 
