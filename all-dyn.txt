@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2449	c-8	11	15
-i-2446	c-5	12	12
-i-2438	c-4	13	58	Accueil des Libanais en France
+i-2431	c-5	12	67	Adoption Loi sur la fin de vie
+i-2452	c-3	12	12
+i-2446	c-5	13	13
 i-2448	c-6	13	14
-i-2431	c-5	15	67	Adoption Loi sur la fin de vie
-i-2405	c-7	18	1078	Macron destitution #2
-i-2360	c-7	28	3164	Macron destitution
-i-2378	c-5	43	2307	Défense des enfants en France
-i-2373	c-4	58	530	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	1819	1819	Repas à 1 euro pour les étudiant-es
+i-2438	c-4	14	59	Accueil des Libanais en France
+i-2405	c-7	20	1080	Macron destitution #2
+i-2360	c-7	29	3165	Macron destitution
+i-2378	c-5	44	2308	Défense des enfants en France
+i-2373	c-4	59	531	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	1985	1985	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	2182
+voix en 10 j :	2358
