@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2395	c-7	8	49
 i-2438	c-4	10	55	Accueil des Libanais en France
-i-2405	c-7	12	1071	Macron destitution #2
+i-2405	c-7	13	1072	Macron destitution #2
 i-2448	c-6	13	13
 i-2449	c-8	15	15
-i-2360	c-7	17	3152	Macron destitution
-i-2469	c-2	37	37
+i-2360	c-7	18	3153	Macron destitution
 i-2378	c-5	41	2305	Défense des enfants en France
-i-2373	c-4	46	518	Libérez Paul Watson - Sea Shepherd
+i-2373	c-4	47	519	Libérez Paul Watson - Sea Shepherd
 i-2431	c-5	53	67	Adoption Loi sur la fin de vie
+i-2469	c-2	59	59
 
-voix en 10 j :	375
+voix en 10 j :	402
