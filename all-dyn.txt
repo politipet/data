@@ -7,7 +7,7 @@ i-2438	c-4	14	59	Accueil des Libanais en France
 i-2405	c-7	20	1080	Macron destitution #2
 i-2360	c-7	30	3166	Macron destitution
 i-2378	c-5	46	2310	Défense des enfants en France
-i-2373	c-4	61	533	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	2293	2293	Repas à 1 euro pour les étudiant-es
+i-2373	c-4	62	534	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	2364	2364	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	2675
+voix en 10 j :	2749
