@@ -8,6 +8,6 @@ i-2405	c-7	20	1080	Macron destitution #2
 i-2360	c-7	30	3166	Macron destitution
 i-2378	c-5	46	2310	Défense des enfants en France
 i-2373	c-4	61	533	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	2247	2247	Repas à 1 euro pour les étudiant-es
+i-2469	c-2	2265	2265	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	2629
+voix en 10 j :	2648
