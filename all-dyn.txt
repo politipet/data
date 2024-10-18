@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-2431	c-5	11	67	Adoption Loi sur la fin de vie
+i-2449	c-8	10	16
 i-2452	c-3	12	12
 i-2446	c-5	13	13
 i-2448	c-6	13	14
@@ -8,6 +8,6 @@ i-2405	c-7	20	1080	Macron destitution #2
 i-2360	c-7	30	3166	Macron destitution
 i-2378	c-5	46	2310	Défense des enfants en France
 i-2373	c-4	61	533	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	2265	2265	Repas à 1 euro pour les étudiant-es
+i-2469	c-2	2270	2270	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	2648
+voix en 10 j :	2652
