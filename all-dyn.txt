@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2421	c-3	18	29
 i-2392	c-7	19	66
+i-2421	c-3	19	30
 i-2452	c-3	22	22
 i-2446	c-5	26	26
-i-2405	c-7	37	1097	Macron destitution #2
+i-2405	c-7	38	1098	Macron destitution #2
 i-2438	c-4	39	85	Accueil des Libanais en France
 i-2378	c-5	45	2314	Défense des enfants en France
-i-2360	c-7	47	3189	Macron destitution
-i-2373	c-4	73	549	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	4361	4361	Repas à 1 euro pour les étudiant-es
+i-2360	c-7	48	3190	Macron destitution
+i-2373	c-4	74	550	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	4517	4517	Repas à 1 euro pour les étudiant-es
 
-voix en 10 j :	4958
+voix en 10 j :	5120
