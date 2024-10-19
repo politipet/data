@@ -3,7 +3,11 @@ i-2360	Macron destitution
 i-2363	Ajustement paye gouv. Banque de France
 i-2373	Libérez Paul Watson - Sea Shepherd
 i-2368	Prise en compte du Bénévolat / Retraite
-i-2469	Repas à 1 euro pour les étudiant-es
+i-2396	Loi «flexibilité gynéco au travail»
+i-2421	Logement sans condition pour les sans-abri
+i-2427	Repos hebdo 2 jours pour les 55+
+i-2428	Legalize It
+i-2469	Repas 1€ au resto-U pour les étudiant-es
 
 # ^ tracked ^     ▼ not tracked ▼
 
