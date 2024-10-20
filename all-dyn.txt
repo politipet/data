@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2421	c-3	25	37	Logement sans condition pour les sans-abri
 i-2446	c-5	27	28
 i-2392	c-7	29	76
-i-2378	c-5	38	2318	Défense des enfants en France
-i-2438	c-4	49	97	Accueil des Libanais en France
-i-2475	c-5	49	49
+i-2378	c-5	37	2318	Défense des enfants en France
+i-2438	c-4	50	98	Accueil des Libanais en France
+i-2475	c-5	50	50
 i-2405	c-7	51	1111	Macron destitution #2
 i-2360	c-7	61	3205	Macron destitution
-i-2373	c-4	90	572	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	8151	8151	Repas 1€ au resto-U pour les étudiant-es
+i-2373	c-4	91	573	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	8188	8188	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	8952
+voix en 10 j :	8992
