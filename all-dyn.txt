@@ -3,11 +3,11 @@ i-2421	c-3	25	37	Logement sans condition pour les sans-abri
 i-2446	c-5	27	28
 i-2392	c-7	29	76
 i-2378	c-5	40	2318	Défense des enfants en France
-i-2475	c-5	48	48
 i-2438	c-4	49	97	Accueil des Libanais en France
+i-2475	c-5	49	49
 i-2405	c-7	51	1111	Macron destitution #2
 i-2360	c-7	61	3205	Macron destitution
 i-2373	c-4	90	572	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	8041	8041	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	8077	8077	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	8844
+voix en 10 j :	8880
