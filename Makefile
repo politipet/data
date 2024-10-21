@@ -172,7 +172,7 @@ diff-stats:
 	@sed '/^#/ d' Petitions.txt | sort > .2
 	@join .1 .2 -a 1 | sort -n -k3 \
 		| sed 's/ /\t/;s/ /\t/;s/ /\t/;s/ /\t/'
-	@printf "\nvoix en 10 j :\t"
+	@printf "\nvoix en $(since:days=j) :\t"
 	@cat .1 | cut -d ' ' -f 3 | grep -v - | xargs | tr ' ' + | bc
 	@\rm .1 .2
 
