@@ -8,6 +8,6 @@ i-2405	c-7	54	1115	Macron destitution #2
 i-2475	c-5	57	57
 i-2360	c-7	63	3209	Macron destitution
 i-2373	c-4	104	587	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	8742	8742	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	8776	8776	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	9597
+voix en 10 j :	9631
