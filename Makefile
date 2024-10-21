@@ -146,6 +146,15 @@ day-scores.%:
 		END {print d,s,s-p} \
 	'
 
+cross-talk: items ?= 2373 2360 2421 2396 2358 2428 2427
+cross-talk: hist = 4
+cross-talk:
+	@for i in $(items); do \
+		grep $$i Petitions.txt ;\
+		make --no-print-directory \
+			rate-stat.$$i | tail -$(hist) | tac ;\
+		echo ;\
+	done
 
 since ?= 10 days
 diff-stats:
