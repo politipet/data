@@ -3,11 +3,11 @@ i-2368	c-5	32	80	Prise en compte du Bénévolat / Retraite
 i-2419	c-5	36	309	Prolongation congé maternel + parental
 i-2378	c-5	39	2340	Défense des enfants en France
 i-2392	c-7	41	91
-i-2405	c-7	56	1124	Macron destitution #2
+i-2405	c-7	57	1125	Macron destitution #2
 i-2475	c-5	70	70
 i-2360	c-7	84	3236	Macron destitution
 i-2438	c-4	86	140	Accueil des Libanais en France
 i-2373	c-4	154	654	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	11839	11839	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	11848	11848	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	13037
+voix en 10 j :	13054
