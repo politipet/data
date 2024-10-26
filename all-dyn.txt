@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2368	c-5	32	80	Prise en compte du Bénévolat / Retraite
-i-2378	c-5	37	2341	Défense des enfants en France
-i-2419	c-5	37	310	Prolongation congé maternel + parental
-i-2392	c-7	41	91
+i-2378	c-5	36	2341	Défense des enfants en France
+i-2419	c-5	38	311	Prolongation congé maternel + parental
+i-2392	c-7	42	92
 i-2405	c-7	57	1125	Macron destitution #2
-i-2475	c-5	70	70
+i-2475	c-5	72	72
 i-2360	c-7	85	3237	Macron destitution
 i-2438	c-4	86	140	Accueil des Libanais en France
-i-2373	c-4	152	660	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	11914	11917	Repas 1€ au resto-U pour les étudiant-es
+i-2373	c-4	155	663	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	11918	11923	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	13124
+voix en 10 j :	13140
