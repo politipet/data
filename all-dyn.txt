@@ -7,7 +7,7 @@ i-2405	c-7	57	1125	Macron destitution #2
 i-2475	c-5	70	70
 i-2360	c-7	85	3237	Macron destitution
 i-2438	c-4	86	140	Accueil des Libanais en France
-i-2373	c-4	151	659	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	11910	11913	Repas 1€ au resto-U pour les étudiant-es
+i-2373	c-4	152	660	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	11914	11917	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	13119
+voix en 10 j :	13124
