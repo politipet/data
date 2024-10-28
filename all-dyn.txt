@@ -6,8 +6,8 @@ i-2419	c-5	34	313	Prolongation congé maternel + parental
 i-2451	c-6	35	35
 i-2360	c-7	61	3241	Macron destitution
 i-2475	c-5	67	73
-i-2438	c-4	70	143	Accueil des Libanais en France
+i-2438	c-4	68	143	Accueil des Libanais en France
 i-2373	c-4	207	751	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	8340	12112	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	8257	12115	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	9428
+voix en 10 j :	9343
