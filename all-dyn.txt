@@ -3,11 +3,11 @@ i-2405	c-7	21	1130	Macron destitution #2
 i-2378	c-5	26	2343	Défense des enfants en France
 i-2419	c-5	26	313	Prolongation congé maternel + parental
 i-2447	c-6	28	28
-i-2475	c-5	32	73
+i-2475	c-5	31	73
 i-2451	c-6	37	37
 i-2360	c-7	40	3241	Macron destitution
-i-2438	c-4	52	146	Accueil des Libanais en France
-i-2373	c-4	193	761	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	4816	12181	Repas 1€ au resto-U pour les étudiant-es
+i-2438	c-4	51	146	Accueil des Libanais en France
+i-2373	c-4	194	762	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	4783	12187	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	5628
+voix en 10 j :	5594
