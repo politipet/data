@@ -8,6 +8,6 @@ i-2451	c-6	37	37
 i-2360	c-7	40	3242	Macron destitution
 i-2438	c-4	49	146	Accueil des Libanais en France
 i-2373	c-4	193	763	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	4641	12194	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	4615	12195	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	5435
+voix en 10 j :	5408
