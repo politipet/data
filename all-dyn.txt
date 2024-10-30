@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2405	c-7	20	1131	Macron destitution #2
+i-2475	c-5	24	74
 i-2378	c-5	25	2343	Défense des enfants en France
-i-2475	c-5	25	74
 i-2419	c-5	28	316	Prolongation congé maternel + parental
 i-2447	c-6	29	29
-i-2360	c-7	37	3242	Macron destitution
 i-2451	c-6	37	37
-i-2438	c-4	51	148	Accueil des Libanais en France
-i-2373	c-4	196	768	Libérez Paul Watson - Sea Shepherd
-i-2469	c-2	4083	12234	Repas 1€ au resto-U pour les étudiant-es
+i-2360	c-7	39	3244	Macron destitution
+i-2438	c-4	50	148	Accueil des Libanais en France
+i-2373	c-4	195	768	Libérez Paul Watson - Sea Shepherd
+i-2469	c-2	4051	12239	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	4888
+voix en 10 j :	4857
