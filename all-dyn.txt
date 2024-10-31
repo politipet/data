@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2392	c-7	27	107
 i-2405	c-7	31	1146	Macron destitution #2
 i-2447	c-6	42	42
-i-2360	c-7	45	3256	Macron destitution
+i-2360	c-7	44	3256	Macron destitution
 i-2451	c-6	51	51
 i-2438	c-4	58	158	Accueil des Libanais en France
-i-2373	c-4	202	790	Libérez Paul Watson - Sea Shepherd
-i-2491	c-7	542	542	RIC-Constituant #4 (article 89)
-i-2483	c-7	558	558	Réréfendum obligatoire (article 89)
-i-2469	c-2	3339	12312	Repas 1€ au resto-U pour les étudiant-es
+i-2373	c-4	203	791	Libérez Paul Watson - Sea Shepherd
+i-2491	c-7	582	582	RIC-Constituant #4 (article 89)
+i-2483	c-7	602	602	Réréfendum obligatoire (article 89)
+i-2469	c-2	3290	12318	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	5424
+voix en 10 j :	5461
