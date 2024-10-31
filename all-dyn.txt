@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2405	c-7	27	1141	Macron destitution #2
 i-2419	c-5	27	317	Prolongation congé maternel + parental
+i-2405	c-7	28	1142	Macron destitution #2
 i-2447	c-6	35	35
-i-2451	c-6	46	46
-i-2360	c-7	47	3254	Macron destitution
+i-2451	c-6	47	47
+i-2360	c-7	48	3255	Macron destitution
 i-2438	c-4	58	158	Accueil des Libanais en France
 i-2373	c-4	194	781	Libérez Paul Watson - Sea Shepherd
-i-2491	c-7	336	336
-i-2483	c-7	340	340
-i-2469	c-2	3676	12291	Repas 1€ au resto-U pour les étudiant-es
+i-2491	c-7	352	352	RIC-Constituant #4 (article 89)
+i-2483	c-7	353	353	Réréfendum obligatoire (article 89)
+i-2469	c-2	3640	12297	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	5238
+voix en 10 j :	5248
