@@ -8,6 +8,7 @@ i-2421	Logement sans condition pour les sans-abri
 i-2427	Repos hebdo 2 jours pour les 55+
 i-2428	Legalize It
 i-2469	Repas 1€ au resto-U pour les étudiant-es
+i-2490	Présomption de légitime défense des FDO
 
 # ^ tracked ^     ▼ not tracked ▼
 
