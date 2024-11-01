@@ -3,11 +3,11 @@ i-2489	c-8	28	28
 i-2438	c-4	30	158	Accueil des Libanais en France
 i-2405	c-7	36	1153	Macron destitution #2
 i-2447	c-6	49	50
-i-2360	c-7	52	3267	Macron destitution
-i-2451	c-6	54	56
-i-2373	c-4	198	797	Libérez Paul Watson - Sea Shepherd
-i-2491	c-7	768	768	RIC-Constituant #4 (article 89)
-i-2483	c-7	794	794	Réréfendum obligatoire (article 89)
-i-2469	c-2	2643	12343	Repas 1€ au resto-U pour les étudiant-es
+i-2360	c-7	52	3268	Macron destitution
+i-2451	c-6	54	57
+i-2373	c-4	195	797	Libérez Paul Watson - Sea Shepherd
+i-2491	c-7	777	777	RIC-Constituant #4 (article 89)
+i-2483	c-7	803	803	Réréfendum obligatoire (article 89)
+i-2469	c-2	2466	12344	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	5230
+voix en 10 j :	5067
