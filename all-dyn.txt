@@ -8,6 +8,6 @@ i-2360	c-7	50	3269	Macron destitution
 i-2373	c-4	192	798	Libérez Paul Watson - Sea Shepherd
 i-2491	c-7	810	810	RIC-Constituant #4 (article 89)
 i-2483	c-7	839	839	Réréfendum obligatoire (article 89)
-i-2469	c-2	2021	12351	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	2015	12351	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	4654
+voix en 10 j :	4648
