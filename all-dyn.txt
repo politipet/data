@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2419	c-5	19	337	Prolongation congé maternel + parental
-i-2447	c-6	22	72
+i-2447	c-6	21	72
 i-2378	c-5	29	2382	Défense des enfants en France
-i-2360	c-7	32	3300	Macron destitution
-i-2451	c-6	33	90
+i-2360	c-7	31	3300	Macron destitution
+i-2451	c-6	32	90
 i-2373	c-4	42	839	Libérez Paul Watson - Sea Shepherd
-i-2489	c-8	372	400	Stop centrales photovoltaïques milieu naturel
-i-2491	c-7	1089	1866	RIC-Constituant #4 (article 89)
-i-2483	c-7	1124	1927	Réréfendum obligatoire (article 89)
-i-2469	c-2	1162	13506	Repas 1€ au resto-U pour les étudiant-es
+i-2489	c-8	379	407	Stop centrales photovoltaïques milieu naturel
+i-2491	c-7	1082	1867	RIC-Constituant #4 (article 89)
+i-2483	c-7	1118	1929	Réréfendum obligatoire (article 89)
+i-2469	c-2	1163	13509	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	4322
+voix en 10 j :	4309
