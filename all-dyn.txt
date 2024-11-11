@@ -5,9 +5,9 @@ i-2378	c-5	25	2376	Défense des enfants en France
 i-2451	c-6	33	88
 i-2360	c-7	35	3299	Macron destitution
 i-2373	c-4	40	837	Libérez Paul Watson - Sea Shepherd
-i-2489	c-8	349	373	Stop centrales photovoltaïques milieu naturel
-i-2491	c-7	1130	1849	RIC-Constituant #4 (article 89)
-i-2469	c-2	1140	13473	Repas 1€ au resto-U pour les étudiant-es
-i-2483	c-7	1166	1909	Réréfendum obligatoire (article 89)
+i-2489	c-8	351	375	Stop centrales photovoltaïques milieu naturel
+i-2491	c-7	1135	1854	RIC-Constituant #4 (article 89)
+i-2469	c-2	1141	13474	Repas 1€ au resto-U pour les étudiant-es
+i-2483	c-7	1171	1914	Réréfendum obligatoire (article 89)
 
-voix en 10 j :	4336
+voix en 10 j :	4350
