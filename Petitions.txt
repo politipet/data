@@ -8,6 +8,7 @@ i-2421	Logement sans condition pour les sans-abri
 i-2427	Repos hebdo 2 jours pour les 55+
 i-2428	Legalize It
 i-2469	Repas 1€ au resto-U pour les étudiant-es
+i-2489	Stop centrales photovoltaïques milieu naturel
 i-2490	Présomption de légitime défense des FDO
 
 # ^ tracked ^     ▼ not tracked ▼
@@ -18,6 +19,5 @@ i-2403	Référendum pour/contre Macron
 i-2419	Prolongation congé maternel + parental
 i-2431	Adoption Loi sur la fin de vie
 i-2438	Accueil des Libanais en France
-i-2489	Stop centrales photovoltaïques milieu naturel
 i-2483	Réréfendum obligatoire (article 89)
 i-2491	RIC-Constituant #4 (article 89)
