@@ -8,6 +8,6 @@ i-2526	c-5	72	72
 i-2489	c-8	639	699	Stop centrales photovoltaïques milieu naturel
 i-2469	c-2	1331	14051	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	1620	2966	RIC-Constituant #4 (article 89)
-i-2483	c-7	1679	3072	Réréfendum obligatoire (article 89)
+i-2483	c-7	1678	3072	Réréfendum obligatoire (article 89)
 
-voix en 10 j :	6096
+voix en 10 j :	6095
