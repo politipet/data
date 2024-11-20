@@ -3,6 +3,6 @@
      12	Affaires économiques
       5	Affaires étrangères
      20	Affaires sociales
-     17	Finances
+     18	Finances
      45	Lois et administration
      15	Développement durable
