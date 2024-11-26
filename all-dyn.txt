@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
+i-2374	c-6	22	83
 i-2451	c-6	22	135
-i-2374	c-6	24	83
-i-2360	c-7	27	3355	Macron destitution
+i-2360	c-7	26	3355	Macron destitution
 i-2532	c-2	35	35
 i-2535	c-7	55	55
-i-2526	c-5	85	158	Ministère Protection Enfance + réforme ASE
-i-2489	c-8	236	938	Stop centrales photovoltaïques milieu naturel
-i-2469	c-2	397	14449	Repas 1€ au resto-U pour les étudiant-es
-i-2491	c-7	416	3406	RIC-Constituant #4 (article 89)
-i-2483	c-7	453	3550	Réréfendum obligatoire (article 89)
+i-2526	c-5	84	158	Ministère Protection Enfance + réforme ASE
+i-2489	c-8	236	940	Stop centrales photovoltaïques milieu naturel
+i-2469	c-2	394	14450	Repas 1€ au resto-U pour les étudiant-es
+i-2491	c-7	413	3409	RIC-Constituant #4 (article 89)
+i-2483	c-7	448	3552	Réréfendum obligatoire (article 89)
 
-voix en 10 j :	2207
+voix en 10 j :	2193
