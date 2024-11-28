@@ -5,9 +5,9 @@ i-2374	c-6	28	92
 i-2532	c-2	36	36
 i-2526	c-5	55	157	Ministère Protection Enfance + réforme ASE
 i-2535	c-7	60	60
-i-2489	c-8	220	964	Stop centrales photovoltaïques milieu naturel
+i-2489	c-8	219	964	Stop centrales photovoltaïques milieu naturel
 i-2491	c-7	292	3432	RIC-Constituant #4 (article 89)
 i-2483	c-7	331	3579	Réréfendum obligatoire (article 89)
 i-2469	c-2	441	14566	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	1981
+voix en 10 j :	1980
