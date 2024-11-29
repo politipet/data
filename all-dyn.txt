@@ -3,11 +3,11 @@ i-2405	c-7	19	1215	Macron destitution #2
 i-2360	c-7	28	3367	Macron destitution
 i-2532	c-2	37	38
 i-2526	c-5	44	164	Ministère Protection Enfance + réforme ASE
-i-2535	c-7	55	63
-i-2489	c-8	171	989	Stop centrales photovoltaïques milieu naturel
-i-2491	c-7	196	3452	RIC-Constituant #4 (article 89)
-i-2483	c-7	226	3603	Réréfendum obligatoire (article 89)
-i-2374	c-6	329	394
-i-2469	c-2	420	14652	Repas 1€ au resto-U pour les étudiant-es
+i-2535	c-7	54	63
+i-2489	c-8	169	989	Stop centrales photovoltaïques milieu naturel
+i-2491	c-7	194	3455	RIC-Constituant #4 (article 89)
+i-2483	c-7	223	3606	Réréfendum obligatoire (article 89)
+i-2374	c-6	343	408
+i-2469	c-2	416	14654	Repas 1€ au resto-U pour les étudiant-es
 
-voix en 10 j :	1892
+voix en 10 j :	1893
