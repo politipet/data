@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2373	c-4	19	899	Libérez Paul Watson - Sea Shepherd
 i-2405	c-7	19	1218	Macron destitution #2
-i-2360	c-7	24	3369	Macron destitution
-i-2535	c-7	38	64
+i-2373	c-4	20	900	Libérez Paul Watson - Sea Shepherd
+i-2360	c-7	25	3370	Macron destitution
 i-2526	c-5	39	165	Ministère Protection Enfance + réforme ASE
+i-2535	c-7	39	65
 i-2491	c-7	157	3474	RIC-Constituant #4 (article 89)
-i-2483	c-7	173	3631	Réréfendum obligatoire (article 89)
-i-2489	c-8	180	1028	Stop centrales photovoltaïques milieu naturel
-i-2469	c-2	361	14673	Repas 1€ au resto-U pour les étudiant-es
-i-2374	c-6	508	578
+i-2483	c-7	175	3633	Réréfendum obligatoire (article 89)
+i-2489	c-8	192	1041	Stop centrales photovoltaïques milieu naturel
+i-2469	c-2	358	14675	Repas 1€ au resto-U pour les étudiant-es
+i-2374	c-6	508	580
 
-voix en 10 j :	1855
+voix en 10 j :	1884
