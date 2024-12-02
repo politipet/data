@@ -13,6 +13,7 @@ i-2490	Présomption de légitime défense des FDO
 
 # ^ tracked ^     ▼ not tracked ▼
 
+i-2374	Réserve stratégique de Bitcoins
 i-2378	Défense des enfants en France
 i-2405	Macron destitution #2
 i-2403	Référendum pour/contre Macron
