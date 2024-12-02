@@ -5,9 +5,9 @@ i-2373	c-4	27	912	Libérez Paul Watson - Sea Shepherd
 i-2535	c-7	27	67
 i-2526	c-5	30	172	Ministère Protection Enfance + réforme ASE
 i-2491	c-7	127	3485	RIC-Constituant #4 (article 89)
-i-2483	c-7	155	3655	Réréfendum obligatoire (article 89)
+i-2483	c-7	156	3656	Réréfendum obligatoire (article 89)
 i-2489	c-8	252	1122	Stop centrales photovoltaïques milieu naturel
 i-2469	c-2	334	14706	Repas 1€ au resto-U pour les étudiant-es
-i-2374	c-6	527	601
+i-2374	c-6	528	602	Réserve stratégique de Bitcoins
 
-voix en 10 j :	1923
+voix en 10 j :	1925
