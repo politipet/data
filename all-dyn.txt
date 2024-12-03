@@ -3,11 +3,11 @@ i-2447	c-6	23	133
 i-2535	c-7	26	67
 i-2360	c-7	27	3375	Macron destitution
 i-2373	c-4	27	912	Libérez Paul Watson - Sea Shepherd
-i-2526	c-5	30	172	Ministère Protection Enfance + réforme ASE
+i-2526	c-5	32	174	Ministère Protection Enfance + réforme ASE
 i-2491	c-7	126	3485	RIC-Constituant #4 (article 89)
 i-2483	c-7	155	3656	Réréfendum obligatoire (article 89)
 i-2489	c-8	251	1122	Stop centrales photovoltaïques milieu naturel
 i-2469	c-2	333	14706	Repas 1€ au resto-U pour les étudiant-es
-i-2374	c-6	531	605	Réserve stratégique de Bitcoins
+i-2374	c-6	532	606	Réserve stratégique de Bitcoins
 
 voix en 10 j :	1922
