@@ -5,9 +5,9 @@ i-2447	c-6	43	155
 i-2373	c-4	45	932	Libérez Paul Watson - Sea Shepherd
 i-2360	c-7	53	3406	Macron destitution
 i-2469	c-2	321	14746	Repas 1€ au resto-U pour les étudiant-es
-i-2491	c-7	526	3911	RIC-Constituant #4 (article 89)
 i-2489	c-8	527	1441	Stop centrales photovoltaïques milieu naturel
+i-2491	c-7	527	3912	RIC-Constituant #4 (article 89)
 i-2374	c-6	537	614	Réserve stratégique de Bitcoins
-i-2483	c-7	1112	4640	Réréfendum obligatoire (article 89)
+i-2483	c-7	1113	4641	Réréfendum obligatoire (article 89)
 
-voix en 10 j :	3992
+voix en 10 j :	3994
