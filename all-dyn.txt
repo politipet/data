@@ -3,11 +3,11 @@ i-2451	c-6	40	177
 i-2447	c-6	41	158
 i-2405	c-7	48	1257	Macron destitution #2
 i-2373	c-4	49	937	Libérez Paul Watson - Sea Shepherd
-i-2360	c-7	70	3428	Macron destitution
-i-2469	c-2	269	14768	Repas 1€ au resto-U pour les étudiant-es
-i-2491	c-7	523	3947	RIC-Constituant #4 (article 89)
-i-2489	c-8	645	1596	Stop centrales photovoltaïques milieu naturel
-i-2374	c-6	771	857	Réserve stratégique de Bitcoins
-i-2483	c-7	1152	4722	Réréfendum obligatoire (article 89)
+i-2360	c-7	71	3429	Macron destitution
+i-2469	c-2	271	14770	Repas 1€ au resto-U pour les étudiant-es
+i-2491	c-7	523	3948	RIC-Constituant #4 (article 89)
+i-2489	c-8	646	1597	Stop centrales photovoltaïques milieu naturel
+i-2374	c-6	775	861	Réserve stratégique de Bitcoins
+i-2483	c-7	1153	4724	Réréfendum obligatoire (article 89)
 
-voix en 10 j :	4356
+voix en 10 j :	4367
