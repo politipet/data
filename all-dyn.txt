@@ -7,7 +7,7 @@ i-2360	c-7	99	3467	Macron destitution
 i-2469	c-2	187	14858	Repas 1€ au resto-U pour les étudiant-es
 i-2374	c-6	552	1116	Réserve stratégique de Bitcoins
 i-2489	c-8	878	1890	Stop centrales photovoltaïques milieu naturel
-i-2491	c-7	1376	4849	RIC-Constituant #4 (article 89)
-i-2483	c-7	1794	5422	Référendum obligatoire (article 89)
+i-2491	c-7	1377	4850	RIC-Constituant #4 (article 89)
+i-2483	c-7	1795	5423	Référendum obligatoire (article 89)
 
-voix en 10 j :	6361
+voix en 10 j :	6363
