@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2447	c-6	38	196
-i-2405	c-7	40	1292	Macron destitution #2
+i-2405	c-7	40	1295	Macron destitution #2
 i-2576	c-7	42	42
 i-2582	c-6	47	47
-i-2360	c-7	77	3494	Macron destitution
-i-2469	c-2	182	14943	Repas 1€ au resto-U pour les étudiant-es
-i-2374	c-6	418	1147	Réserve stratégique de Bitcoins
-i-2489	c-8	530	2071	Stop centrales photovoltaïques milieu naturel
-i-2483	c-7	815	5505	Référendum obligatoire (article 89)
-i-2491	c-7	1017	4952	RIC-Constituant #4 (article 89)
+i-2360	c-7	76	3494	Macron destitution
+i-2469	c-2	183	14944	Repas 1€ au resto-U pour les étudiant-es
+i-2374	c-6	413	1147	Réserve stratégique de Bitcoins
+i-2489	c-8	529	2071	Stop centrales photovoltaïques milieu naturel
+i-2483	c-7	814	5506	Référendum obligatoire (article 89)
+i-2491	c-7	1018	4953	RIC-Constituant #4 (article 89)
 
-voix en 10 j :	4050
+voix en 10 j :	4043
