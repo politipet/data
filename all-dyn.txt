@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2374	c-6	14	1163	Réserve stratégique de Bitcoins
+i-2591	c-3	15	20
 i-2447	c-6	16	213
-i-2591	c-3	16	20
 i-2576	c-7	18	63
 i-2360	c-7	21	3516	Macron destitution
 i-2469	c-2	60	15010	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	69	5029	RIC-Constituant #4 (article 89)
 i-2483	c-7	70	5583	Référendum obligatoire (article 89)
 i-2590	c-7	92	98
-i-2489	c-8	412	2490	Stop centrales photovoltaïques milieu naturel
+i-2489	c-8	417	2496	Stop centrales photovoltaïques milieu naturel
 
-voix en 10 j :	1154
+voix en 10 j :	1145
