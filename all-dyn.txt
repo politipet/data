@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2576	c-7	12	64
-i-2601	c-7	13	13
-i-2360	c-7	16	3520	Macron destitution
-i-2378	c-5	16	2448	Défense des enfants en France
+i-2360	c-7	15	3520	Macron destitution
+i-2378	c-5	15	2448	Défense des enfants en France
+i-2601	c-7	17	17
 i-2469	c-2	54	15026	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	69	5047	RIC-Constituant #4 (article 89)
 i-2483	c-7	74	5602	Référendum obligatoire (article 89)
 i-2590	c-7	80	100
-i-2610	c-7	83	83
-i-2489	c-8	485	2590	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	84	84
+i-2489	c-8	488	2595	Stop centrales photovoltaïques milieu naturel
 
-voix en 10 j :	1199
+voix en 10 j :	1188
