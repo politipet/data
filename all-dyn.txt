@@ -8,6 +8,6 @@ i-2491	c-7	70	5048	RIC-Constituant #4 (article 89)
 i-2483	c-7	76	5604	Référendum obligatoire (article 89)
 i-2590	c-7	79	100
 i-2610	c-7	90	90
-i-2489	c-8	491	2598	Stop centrales photovoltaïques milieu naturel
+i-2489	c-8	492	2599	Stop centrales photovoltaïques milieu naturel
 
-voix en 10 j :	1201
+voix en 10 j :	1202
