@@ -3,11 +3,11 @@ i-2591	c-3	12	23
 i-2378	c-5	14	2450	Défense des enfants en France
 i-2360	c-7	17	3523	Macron destitution
 i-2590	c-7	32	108
-i-2469	c-2	49	15039	Repas 1€ au resto-U pour les étudiant-es
+i-2469	c-2	50	15040	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	70	5053	RIC-Constituant #4 (article 89)
 i-2483	c-7	76	5610	Référendum obligatoire (article 89)
-i-2601	c-7	233	233
+i-2601	c-7	239	239
 i-2489	c-8	516	2640	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	521	521
+i-2610	c-7	545	545
 
-voix en 10 j :	1808
+voix en 10 j :	1839
