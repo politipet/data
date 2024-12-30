@@ -4,10 +4,10 @@ i-2378	c-5	14	2449	Défense des enfants en France
 i-2360	c-7	17	3522	Macron destitution
 i-2469	c-2	49	15036	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	71	5053	RIC-Constituant #4 (article 89)
-i-2590	c-7	75	102
 i-2483	c-7	77	5610	Référendum obligatoire (article 89)
-i-2601	c-7	180	180
-i-2610	c-7	408	408
-i-2489	c-8	512	2632	Stop centrales photovoltaïques milieu naturel
+i-2590	c-7	77	104
+i-2601	c-7	196	196
+i-2610	c-7	421	421
+i-2489	c-8	515	2635	Stop centrales photovoltaïques milieu naturel
 
-voix en 10 j :	1702
+voix en 10 j :	1736
