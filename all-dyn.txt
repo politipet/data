@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2591	c-3	11	23
+i-2591	c-3	12	24
 i-2378	c-5	15	2451	Défense des enfants en France
 i-2360	c-7	17	3523	Macron destitution
-i-2590	c-7	28	108
+i-2590	c-7	25	108
 i-2469	c-2	50	15041	Repas 1€ au resto-U pour les étudiant-es
-i-2491	c-7	70	5053	RIC-Constituant #4 (article 89)
-i-2483	c-7	75	5610	Référendum obligatoire (article 89)
-i-2601	c-7	242	242	Abrogation décret feux vélo clignotants
-i-2489	c-8	513	2641	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	571	571	Stop usage X pour la comm' du gouv'
+i-2491	c-7	71	5054	RIC-Constituant #4 (article 89)
+i-2483	c-7	76	5611	Référendum obligatoire (article 89)
+i-2601	c-7	250	250	Abrogation décret feux vélo clignotants
+i-2489	c-8	512	2642	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	585	585	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	1851
+voix en 10 j :	1873
