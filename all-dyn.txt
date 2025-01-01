@@ -4,10 +4,10 @@ i-2591	c-3	18	34
 i-2590	c-7	22	110
 i-2374	c-6	33	1195	Réserve stratégique de Bitcoins
 i-2469	c-2	50	15052	Repas 1€ au resto-U pour les étudiant-es
-i-2483	c-7	68	5626	Référendum obligatoire (article 89)
-i-2491	c-7	68	5065	RIC-Constituant #4 (article 89)
-i-2601	c-7	381	381	Abrogation décret feux vélo clignotants
-i-2489	c-8	507	2679	Stop centrales photovoltaïques milieu naturel
+i-2491	c-7	66	5065	RIC-Constituant #4 (article 89)
+i-2483	c-7	67	5626	Référendum obligatoire (article 89)
+i-2601	c-7	382	382	Abrogation décret feux vélo clignotants
+i-2489	c-8	507	2680	Stop centrales photovoltaïques milieu naturel
 i-2610	c-7	774	774	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	2209
+voix en 10 j :	2208
