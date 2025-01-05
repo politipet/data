@@ -6,8 +6,8 @@ i-2374	c-6	44	1207	Réserve stratégique de Bitcoins
 i-2483	c-7	46	5633	Référendum obligatoire (article 89)
 i-2469	c-2	51	15063	Repas 1€ au resto-U pour les étudiant-es
 i-2510	c-3	77	134
-i-2489	c-8	246	2759	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	883	883	Stop usage X pour la comm' du gouv'
-i-2601	c-7	4697	4697	Abrogation décret feux vélo clignotants
+i-2489	c-8	246	2760	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	886	886	Stop usage X pour la comm' du gouv'
+i-2601	c-7	4729	4729	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	6491
+voix en 10 j :	6527
