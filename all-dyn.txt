@@ -8,6 +8,6 @@ i-2469	c-2	50	15063	Repas 1€ au resto-U pour les étudiant-es
 i-2510	c-3	85	142
 i-2489	c-8	246	2762	Stop centrales photovoltaïques milieu naturel
 i-2610	c-7	889	889	Stop usage X pour la comm' du gouv'
-i-2601	c-7	4771	4771	Abrogation décret feux vélo clignotants
+i-2601	c-7	4788	4788	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	6593
+voix en 10 j :	6610
