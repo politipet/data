@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2505	c-8	22	46
-i-2360	c-7	27	3543	Macron destitution
+i-2360	c-7	28	3544	Macron destitution
 i-2491	c-7	41	5075	RIC-Constituant #4 (article 89)
 i-2374	c-6	44	1207	Réserve stratégique de Bitcoins
 i-2483	c-7	47	5634	Référendum obligatoire (article 89)
 i-2469	c-2	51	15063	Repas 1€ au resto-U pour les étudiant-es
-i-2510	c-3	80	137
+i-2510	c-3	81	138
 i-2489	c-8	246	2761	Stop centrales photovoltaïques milieu naturel
 i-2610	c-7	887	887	Stop usage X pour la comm' du gouv'
-i-2601	c-7	4757	4757	Abrogation décret feux vélo clignotants
+i-2601	c-7	4759	4759	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	6568
+voix en 10 j :	6573
