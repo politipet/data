@@ -7,7 +7,7 @@ i-2491	c-7	83	5131	RIC-Constituant #4 (article 89)
 i-2483	c-7	97	5701	Référendum obligatoire (article 89)
 i-2510	c-3	122	182
 i-2489	c-8	207	2805	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	1093	1183	Stop usage X pour la comm' du gouv'
-i-2601	c-7	6777	6810	Abrogation décret feux vélo clignotants
+i-2610	c-7	1101	1191	Stop usage X pour la comm' du gouv'
+i-2601	c-7	6780	6814	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	9040
+voix en 10 j :	9051
