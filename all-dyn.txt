@@ -3,11 +3,11 @@ i-2360	c-7	30	3554	Macron destitution
 i-2505	c-8	39	64
 i-2374	c-6	44	1210	Réserve stratégique de Bitcoins
 i-2469	c-2	47	15093	Repas 1€ au resto-U pour les étudiant-es
-i-2491	c-7	79	5137	RIC-Constituant #4 (article 89)
-i-2483	c-7	100	5714	Référendum obligatoire (article 89)
-i-2510	c-3	147	207	Abrogation des ZFE
-i-2489	c-8	191	2842	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	853	1501	Stop usage X pour la comm' du gouv'
-i-2601	c-7	7211	7491	Abrogation décret feux vélo clignotants
+i-2491	c-7	80	5138	RIC-Constituant #4 (article 89)
+i-2483	c-7	101	5715	Référendum obligatoire (article 89)
+i-2510	c-3	146	207	Abrogation des ZFE
+i-2489	c-8	190	2842	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	850	1503	Stop usage X pour la comm' du gouv'
+i-2601	c-7	7216	7497	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	9232
+voix en 10 j :	9236
