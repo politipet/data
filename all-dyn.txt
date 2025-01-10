@@ -6,8 +6,8 @@ i-2374	c-6	46	1212	Réserve stratégique de Bitcoins
 i-2491	c-7	78	5138	RIC-Constituant #4 (article 89)
 i-2483	c-7	96	5715	Référendum obligatoire (article 89)
 i-2510	c-3	146	207	Abrogation des ZFE
-i-2489	c-8	185	2845	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	822	1510	Stop usage X pour la comm' du gouv'
-i-2601	c-7	7238	7547	Abrogation décret feux vélo clignotants
+i-2489	c-8	184	2847	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	819	1513	Stop usage X pour la comm' du gouv'
+i-2601	c-7	7261	7574	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	9218
+voix en 10 j :	9234
