@@ -5,9 +5,9 @@ i-2505	c-8	41	67
 i-2469	c-2	47	15099	Repas 1€ au resto-U pour les étudiant-es
 i-2491	c-7	75	5140	RIC-Constituant #4 (article 89)
 i-2483	c-7	94	5720	Référendum obligatoire (article 89)
-i-2510	c-3	150	215	Abrogation des ZFE
-i-2489	c-8	194	2873	Stop centrales photovoltaïques milieu naturel
-i-2610	c-7	800	1574	Stop usage X pour la comm' du gouv'
-i-2601	c-7	7536	7917	Abrogation décret feux vélo clignotants
+i-2510	c-3	151	216	Abrogation des ZFE
+i-2489	c-8	193	2873	Stop centrales photovoltaïques milieu naturel
+i-2610	c-7	802	1576	Stop usage X pour la comm' du gouv'
+i-2601	c-7	7542	7924	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	9464
+voix en 10 j :	9471
