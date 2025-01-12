@@ -8,6 +8,6 @@ i-2483	c-7	95	5721	Référendum obligatoire (article 89)
 i-2510	c-3	150	216	Abrogation des ZFE
 i-2489	c-8	194	2874	Stop centrales photovoltaïques milieu naturel
 i-2610	c-7	800	1576	Stop usage X pour la comm' du gouv'
-i-2601	c-7	7561	7946	Abrogation décret feux vélo clignotants
+i-2601	c-7	7562	7948	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	9482
+voix en 10 j :	9483
