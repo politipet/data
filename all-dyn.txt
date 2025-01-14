@@ -3,11 +3,11 @@ i-2530	c-8	25	49
 i-2360	c-7	26	3557	Macron destitution
 i-2469	c-2	45	15105	Repas 1€ au resto-U pour les étudiant-es
 i-2505	c-8	45	77
-i-2491	c-7	77	5146	RIC-Constituant #4 (article 89)
-i-2483	c-7	99	5729	Référendum obligatoire (article 89)
-i-2489	c-8	168	2887	Stop centrales photovoltaïques milieu naturel
-i-2510	c-3	191	270	Abrogation des ZFE
-i-2610	c-7	762	1610	Stop usage X pour la comm' du gouv'
-i-2601	c-7	5362	8269	Abrogation décret feux vélo clignotants
+i-2491	c-7	76	5146	RIC-Constituant #4 (article 89)
+i-2483	c-7	98	5729	Référendum obligatoire (article 89)
+i-2489	c-8	166	2887	Stop centrales photovoltaïques milieu naturel
+i-2510	c-3	191	272	Abrogation des ZFE
+i-2610	c-7	760	1610	Stop usage X pour la comm' du gouv'
+i-2601	c-7	5240	8274	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	7286
+voix en 10 j :	7158
