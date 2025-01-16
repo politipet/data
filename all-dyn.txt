@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2554	c-3	80	80
 i-2491	c-7	84	5161	RIC-Constituant #4 (article 89)
-i-2640	c-6	91	91
+i-2554	c-3	92	92
+i-2640	c-6	92	92
 i-2483	c-7	110	5747	Référendum obligatoire (article 89)
-i-2489	c-8	131	2911	Stop centrales photovoltaïques milieu naturel
-i-2510	c-3	236	387	Abrogation des ZFE
-i-2632	c-2	277	277
-i-2644	c-5	359	359
-i-2610	c-7	751	1656	Stop usage X pour la comm' du gouv'
-i-2601	c-7	3287	8463	Abrogation décret feux vélo clignotants
+i-2489	c-8	129	2911	Stop centrales photovoltaïques milieu naturel
+i-2510	c-3	239	393	Abrogation des ZFE
+i-2632	c-2	284	284
+i-2644	c-5	360	360
+i-2610	c-7	750	1656	Stop usage X pour la comm' du gouv'
+i-2601	c-7	3191	8464	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	6060
+voix en 10 j :	5990
