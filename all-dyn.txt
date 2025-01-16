@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2469	c-2	72	15135	Repas 1€ au resto-U pour les étudiant-es
-i-2640	c-6	77	77
+i-2469	c-2	73	15137	Repas 1€ au resto-U pour les étudiant-es
+i-2640	c-6	81	81
 i-2491	c-7	84	5160	RIC-Constituant #4 (article 89)
-i-2483	c-7	110	5745	Référendum obligatoire (article 89)
-i-2489	c-8	144	2907	Stop centrales photovoltaïques milieu naturel
-i-2632	c-2	209	209
-i-2510	c-3	221	364	Abrogation des ZFE
+i-2483	c-7	111	5746	Référendum obligatoire (article 89)
+i-2489	c-8	143	2910	Stop centrales photovoltaïques milieu naturel
+i-2632	c-2	220	220
+i-2510	c-3	224	369	Abrogation des ZFE
 i-2644	c-5	331	331
-i-2610	c-7	762	1654	Stop usage X pour la comm' du gouv'
-i-2601	c-7	3625	8442	Abrogation décret feux vélo clignotants
+i-2610	c-7	761	1656	Stop usage X pour la comm' du gouv'
+i-2601	c-7	3611	8449	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	6230
+voix en 10 j :	6254
