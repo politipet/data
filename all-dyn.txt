@@ -8,6 +8,6 @@ i-2510	c-3	246	413	Abrogation des ZFE
 i-2632	c-2	371	371	Pour un statut AESH et temps plein 24h de service
 i-2644	c-5	381	381	Pour des trimestres TUC réputés cotisés
 i-2610	c-7	747	1660	Stop usage X pour la comm' du gouv'
-i-2601	c-7	2461	8484	Abrogation décret feux vélo clignotants
+i-2601	c-7	2462	8485	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	5359
+voix en 10 j :	5361
