@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2483	c-7	62	5749	Référendum obligatoire (article 89)
-i-2469	c-2	70	15141	Repas 1€ au resto-U pour les étudiant-es
-i-2640	c-6	116	116
+i-2483	c-7	63	5749	Référendum obligatoire (article 89)
+i-2469	c-2	69	15141	Repas 1€ au resto-U pour les étudiant-es
+i-2640	c-6	117	117
 i-2489	c-8	120	2914	Stop centrales photovoltaïques milieu naturel
-i-2554	c-3	167	167
-i-2510	c-3	245	413	Abrogation des ZFE
-i-2632	c-2	377	377	Pour un statut AESH et temps plein 24h de service
-i-2644	c-5	382	382	Pour des trimestres TUC réputés cotisés
-i-2610	c-7	746	1660	Stop usage X pour la comm' du gouv'
-i-2601	c-7	2404	8485	Abrogation décret feux vélo clignotants
+i-2554	c-3	168	168
+i-2510	c-3	243	413	Abrogation des ZFE
+i-2632	c-2	381	381	Pour un statut AESH et temps plein 24h de service
+i-2644	c-5	383	383	Pour des trimestres TUC réputés cotisés
+i-2610	c-7	711	1660	Stop usage X pour la comm' du gouv'
+i-2601	c-7	2361	8488	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	5310
+voix en 10 j :	5237
