@@ -3,11 +3,11 @@ i-2532	c-2	55	138
 i-2469	c-2	56	15148	Repas 1€ au resto-U pour les étudiant-es
 i-2489	c-8	85	2919	Stop centrales photovoltaïques milieu naturel
 i-2640	c-6	162	162
-i-2610	c-7	212	1680	Stop usage X pour la comm' du gouv'
-i-2554	c-3	217	217
-i-2510	c-3	269	467	Abrogation des ZFE
-i-2644	c-5	519	519	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	537	537	Pour un statut AESH et temps plein 24h de service
-i-2601	c-7	1249	8574	Abrogation décret feux vélo clignotants
+i-2610	c-7	208	1681	Stop usage X pour la comm' du gouv'
+i-2554	c-3	218	218
+i-2510	c-3	274	472	Abrogation des ZFE
+i-2644	c-5	520	520	Pour des trimestres TUC réputés cotisés
+i-2632	c-2	539	539	Pour un statut AESH et temps plein 24h de service
+i-2601	c-7	1230	8577	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	3955
+voix en 10 j :	3942
