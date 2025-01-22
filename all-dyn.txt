@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2489	c-8	64	2943	Stop centrales photovoltaïques milieu naturel
-i-2469	c-2	75	15174	Repas 1€ au resto-U pour les étudiant-es
+i-2489	c-8	63	2943	Stop centrales photovoltaïques milieu naturel
+i-2469	c-2	74	15174	Repas 1€ au resto-U pour les étudiant-es
 i-2532	c-2	85	169
-i-2610	c-7	145	1729	Stop usage X pour la comm' du gouv'
-i-2640	c-6	194	194
+i-2610	c-7	144	1730	Stop usage X pour la comm' du gouv'
+i-2640	c-6	195	195
 i-2554	c-3	293	293	Pour une loi anti-trust en Outre-Mer
-i-2510	c-3	324	540	Abrogation des ZFE
+i-2510	c-3	325	541	Abrogation des ZFE
 i-2644	c-5	573	573	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	680	680	Pour un statut AESH et temps plein 24h de service
-i-2601	c-7	1129	9147	Abrogation décret feux vélo clignotants
+i-2632	c-2	682	682	Pour un statut AESH et temps plein 24h de service
+i-2601	c-7	1126	9149	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	4282
+voix en 10 j :	4277
