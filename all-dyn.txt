@@ -10,4 +10,4 @@ i-2644	c-5	569	569	Pour des trimestres TUC réputés cotisés
 i-2632	c-2	666	666	Pour un statut AESH et temps plein 24h de service
 i-2601	c-7	1184	9130	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	4277
+voix en 10 j :	4278
