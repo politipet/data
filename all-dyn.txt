@@ -8,6 +8,6 @@ i-2510	c-3	167	580	Abrogation des ZFE
 i-2554	c-3	176	343	Pour une loi anti-trust en Outre-Mer
 i-2644	c-5	243	624	Pour des trimestres TUC réputés cotisés
 i-2632	c-2	736	1107	Pour un statut AESH et temps plein 24h de service
-i-2601	c-7	1064	9548	Abrogation décret feux vélo clignotants
+i-2601	c-7	1063	9548	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	3459
+voix en 10 j :	3457
