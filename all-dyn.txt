@@ -5,9 +5,9 @@ i-2640	c-6	93	230
 i-2610	c-7	95	1762	Stop usage X pour la comm' du gouv'
 i-2657	c-5	102	102
 i-2510	c-3	143	583	Abrogation des ZFE
-i-2554	c-3	153	350	Pour une loi anti-trust en Outre-Mer
+i-2554	c-3	152	350	Pour une loi anti-trust en Outre-Mer
 i-2644	c-5	225	628	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	907	1362	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	906	1362	Pour un statut AESH et temps plein 24h de service
 i-2601	c-7	1072	9613	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	3548
+voix en 10 j :	3546
