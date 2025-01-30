@@ -3,11 +3,11 @@ i-2640	c-6	74	239
 i-2610	c-7	80	1774	Stop usage X pour la comm' du gouv'
 i-2532	c-2	84	224
 i-2489	c-8	88	3017	Stop centrales photovoltaïques milieu naturel
-i-2554	c-3	103	359	Pour une loi anti-trust en Outre-Mer
+i-2554	c-3	101	359	Pour une loi anti-trust en Outre-Mer
 i-2644	c-5	104	642	Pour des trimestres TUC réputés cotisés
 i-2510	c-3	119	612	Abrogation des ZFE
 i-2657	c-5	146	146
 i-2601	c-7	1108	9696	Abrogation décret feux vélo clignotants
 i-2632	c-2	1231	1794	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	3712
+voix en 10 j :	3711
