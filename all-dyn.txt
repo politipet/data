@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2610	c-7	42	1775	Stop usage X pour la comm' du gouv'
+i-2610	c-7	41	1775	Stop usage X pour la comm' du gouv'
 i-2640	c-6	52	247
 i-2554	c-3	68	361	Pour une loi anti-trust en Outre-Mer
 i-2510	c-3	76	622	Abrogation des ZFE
-i-2532	c-2	83	252
-i-2489	c-8	85	3029	Stop centrales photovoltaïques milieu naturel
+i-2532	c-2	80	252
+i-2489	c-8	85	3030	Stop centrales photovoltaïques milieu naturel
 i-2644	c-5	111	685	Pour des trimestres TUC réputés cotisés
 i-2657	c-5	205	209
-i-2601	c-7	611	9767	Abrogation décret feux vélo clignotants
-i-2632	c-2	1394	2080	Pour un statut AESH et temps plein 24h de service
+i-2601	c-7	609	9768	Abrogation décret feux vélo clignotants
+i-2632	c-2	1392	2080	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	3232
+voix en 10 j :	3214
