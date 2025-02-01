@@ -15,6 +15,7 @@ i-2491	RIC-Constituant #4 (article 89)
 i-2601	Abrogation décret feux vélo clignotants
 i-2610	Stop usage X pour la comm' du gouv'
 i-2554	Pour une loi anti-trust en Outre-Mer
+i-2632	Pour un statut AESH et temps plein 24h de service
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -27,5 +28,4 @@ i-2431	Adoption Loi sur la fin de vie
 i-2438	Accueil des Libanais en France
 i-2510	Abrogation des ZFE
 i-2526	Ministère Protection Enfance + réforme ASE
-i-2632	Pour un statut AESH et temps plein 24h de service
 i-2644	Pour des trimestres TUC réputés cotisés
