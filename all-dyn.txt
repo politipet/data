@@ -6,8 +6,8 @@ i-2554	c-3	68	361	Pour une loi anti-trust en Outre-Mer
 i-2532	c-2	69	253
 i-2510	c-3	73	623	Abrogation des ZFE
 i-2644	c-5	102	685	Pour des trimestres TUC réputés cotisés
-i-2657	c-5	199	213
+i-2657	c-5	197	213
 i-2601	c-7	596	9769	Abrogation décret feux vélo clignotants
-i-2632	c-2	1380	2083	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	1382	2085	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	3120
+voix en 10 j :	3115
