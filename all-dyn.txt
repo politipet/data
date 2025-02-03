@@ -6,8 +6,8 @@ i-2489	c-8	67	3042	Stop centrales photovoltaïques milieu naturel
 i-2532	c-2	71	259
 i-2510	c-3	74	628	Abrogation des ZFE
 i-2644	c-5	91	694	Pour des trimestres TUC réputés cotisés
-i-2657	c-5	175	226
-i-2601	c-7	509	9784	Abrogation décret feux vélo clignotants
-i-2632	c-2	1357	2136	Pour un statut AESH et temps plein 24h de service
+i-2657	c-5	174	226
+i-2601	c-7	504	9784	Abrogation décret feux vélo clignotants
+i-2632	c-2	1355	2137	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2890
+voix en 10 j :	2882
