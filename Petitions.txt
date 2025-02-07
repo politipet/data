@@ -16,6 +16,7 @@ i-2601	Abrogation décret feux vélo clignotants
 i-2610	Stop usage X pour la comm' du gouv'
 i-2554	Pour une loi anti-trust en Outre-Mer
 i-2632	Pour un statut AESH et temps plein 24h de service
+i-2657	Éradication de la pauvreté en France
 
 # ^ tracked ^     ▼ not tracked ▼
 
