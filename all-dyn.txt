@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2658	c-5	39	76
-i-2510	c-3	52	657	Abrogation des ZFE
-i-2532	c-2	55	273
-i-2489	c-8	86	3094	Stop centrales photovoltaïques milieu naturel
-i-2640	c-6	98	333
+i-2658	c-5	40	77
+i-2510	c-3	51	657	Abrogation des ZFE
+i-2532	c-2	54	273
+i-2489	c-8	84	3094	Stop centrales photovoltaïques milieu naturel
+i-2640	c-6	98	334
 i-2568	c-2	104	122
-i-2644	c-5	112	747	Pour des trimestres TUC réputés cotisés
-i-2657	c-5	218	347	Éradication de la pauvreté en France
-i-2601	c-7	239	9917	Abrogation décret feux vélo clignotants
-i-2632	c-2	682	2380	Pour un statut AESH et temps plein 24h de service
+i-2644	c-5	114	749	Pour des trimestres TUC réputés cotisés
+i-2657	c-5	216	350	Éradication de la pauvreté en France
+i-2601	c-7	238	9917	Abrogation décret feux vélo clignotants
+i-2632	c-2	668	2382	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2265
+voix en 10 j :	2249
