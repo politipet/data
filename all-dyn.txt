@@ -8,6 +8,6 @@ i-2640	c-6	118	358
 i-2568	c-2	130	157
 i-2601	c-7	202	9929	Abrogation décret feux vélo clignotants
 i-2657	c-5	216	374	Éradication de la pauvreté en France
-i-2632	c-2	461	2435	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	458	2435	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2071
+voix en 10 j :	2067
