@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2554	c-3	36	397	Pour une loi anti-trust en Outre-Mer
 i-2658	c-5	46	86
-i-2510	c-3	49	668	Abrogation des ZFE
+i-2510	c-3	48	668	Abrogation des ZFE
 i-2489	c-8	77	3106	Stop centrales photovoltaïques milieu naturel
-i-2644	c-5	93	772	Pour des trimestres TUC réputés cotisés
+i-2644	c-5	92	772	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	117	364
 i-2568	c-2	138	168
 i-2601	c-7	174	9935	Abrogation décret feux vélo clignotants
-i-2657	c-5	195	395	Éradication de la pauvreté en France
-i-2632	c-2	412	2474	Pour un statut AESH et temps plein 24h de service
+i-2657	c-5	194	395	Éradication de la pauvreté en France
+i-2632	c-2	409	2474	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2040
+voix en 10 j :	2033
