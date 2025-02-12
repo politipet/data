@@ -3,11 +3,11 @@ i-2692	c-7	39	39
 i-2510	c-3	51	674	Abrogation des ZFE
 i-2658	c-5	53	93
 i-2489	c-8	88	3119	Stop centrales photovoltaïques milieu naturel
-i-2644	c-5	98	785	Pour des trimestres TUC réputés cotisés
+i-2644	c-5	100	788	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	123	370
 i-2568	c-2	146	177
 i-2601	c-7	171	9949	Abrogation décret feux vélo clignotants
-i-2657	c-5	188	406	Éradication de la pauvreté en France
-i-2632	c-2	702	2806	Pour un statut AESH et temps plein 24h de service
+i-2657	c-5	189	407	Éradication de la pauvreté en France
+i-2632	c-2	711	2816	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2409
+voix en 10 j :	2425
