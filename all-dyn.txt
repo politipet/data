@@ -4,10 +4,10 @@ i-2610	c-7	35	1815	Stop usage X pour la comm' du gouv'
 i-2658	c-5	40	98
 i-2692	c-7	40	40
 i-2601	c-7	86	9975	Abrogation décret feux vélo clignotants
-i-2568	c-2	94	190
-i-2657	c-5	150	450	Éradication de la pauvreté en France
-i-2640	c-6	182	467
+i-2568	c-2	91	190
+i-2657	c-5	149	450	Éradication de la pauvreté en France
+i-2640	c-6	182	468
 i-2644	c-5	334	1066	Pour des trimestres TUC réputés cotisés
 i-2632	c-2	696	3008	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2460
+voix en 10 j :	2456
