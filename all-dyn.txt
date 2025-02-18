@@ -8,6 +8,6 @@ i-2601	c-7	77	9987	Abrogation décret feux vélo clignotants
 i-2657	c-5	124	464	Éradication de la pauvreté en France
 i-2640	c-6	162	486
 i-2644	c-5	337	1079	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	664	3028	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	663	3028	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2297
+voix en 10 j :	2295
