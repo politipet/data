@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2510	c-3	31	692	Abrogation des ZFE
+i-2510	c-3	30	692	Abrogation des ZFE
 i-2469	c-2	33	15261	Repas 1€ au resto-U pour les étudiant-es
 i-2409	c-7	34	141
 i-2692	c-7	41	41
-i-2568	c-2	55	194
-i-2601	c-7	75	9994	Abrogation décret feux vélo clignotants
-i-2657	c-5	117	474	Éradication de la pauvreté en France
-i-2640	c-6	167	510
+i-2568	c-2	54	194
+i-2601	c-7	72	9994	Abrogation décret feux vélo clignotants
+i-2657	c-5	117	475	Éradication de la pauvreté en France
+i-2640	c-6	169	512
 i-2644	c-5	333	1086	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	637	3038	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	634	3038	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2262
+voix en 10 j :	2245
