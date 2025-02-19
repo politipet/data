@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2469	c-2	33	15262	Repas 1€ au resto-U pour les étudiant-es
-i-2409	c-7	34	141
+i-2409	c-7	33	141
+i-2469	c-2	34	15263	Repas 1€ au resto-U pour les étudiant-es
 i-2692	c-7	41	41
 i-2568	c-2	42	194
-i-2642	c-6	47	162
+i-2642	c-6	48	163
 i-2601	c-7	68	9995	Abrogation décret feux vélo clignotants
-i-2657	c-5	116	485	Éradication de la pauvreté en France
-i-2640	c-6	184	540
-i-2644	c-5	329	1088	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	628	3045	Pour un statut AESH et temps plein 24h de service
+i-2657	c-5	116	486	Éradication de la pauvreté en France
+i-2640	c-6	188	544
+i-2644	c-5	328	1088	Pour des trimestres TUC réputés cotisés
+i-2632	c-2	627	3046	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2229
+voix en 10 j :	2235
