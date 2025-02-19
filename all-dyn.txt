@@ -10,4 +10,4 @@ i-2640	c-6	165	508
 i-2644	c-5	333	1086	Pour des trimestres TUC réputés cotisés
 i-2632	c-2	638	3038	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2241
+voix en 10 j :	2242
