@@ -29,4 +29,5 @@ i-2431	Adoption Loi sur la fin de vie
 i-2438	Accueil des Libanais en France
 i-2510	Abrogation des ZFE
 i-2526	Ministère Protection Enfance + réforme ASE
+i-2640	Non à la suppression de l'abattement de 10%
 i-2644	Pour des trimestres TUC réputés cotisés
