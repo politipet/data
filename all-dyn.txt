@@ -4,10 +4,10 @@ i-2469	c-2	33	15263	Repas 1€ au resto-U pour les étudiant-es
 i-2568	c-2	37	194
 i-2692	c-7	41	41
 i-2642	c-6	55	171
-i-2601	c-7	73	10002	Abrogation décret feux vélo clignotants
-i-2657	c-5	115	490	Éradication de la pauvreté en France
-i-2640	c-6	211	569
-i-2644	c-5	325	1090	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	613	3050	Pour un statut AESH et temps plein 24h de service
+i-2601	c-7	72	10002	Abrogation décret feux vélo clignotants
+i-2657	c-5	116	491	Éradication de la pauvreté en France
+i-2640	c-6	212	570
+i-2644	c-5	326	1092	Pour des trimestres TUC réputés cotisés
+i-2632	c-2	610	3050	Pour un statut AESH et temps plein 24h de service
 
 voix en 10 j :	2261
