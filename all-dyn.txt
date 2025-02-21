@@ -5,9 +5,9 @@ i-2409	c-7	30	142
 i-2510	c-3	31	699	Abrogation des ZFE
 i-2601	c-7	74	10009	Abrogation décret feux vélo clignotants
 i-2642	c-6	74	192
-i-2657	c-5	101	496	Éradication de la pauvreté en France
+i-2657	c-5	100	497	Éradication de la pauvreté en France
 i-2640	c-6	253	617	Non à la suppression de l'abattement de 10%
 i-2644	c-5	338	1110	Pour des trimestres TUC réputés cotisés
-i-2632	c-2	584	3061	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	579	3061	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	2240
+voix en 10 j :	2230
