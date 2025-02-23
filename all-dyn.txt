@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2610	c-7	46	1852	Stop usage X pour la comm' du gouv'
-i-2702	c-7	66	66
-i-2601	c-7	77	10027	Abrogation décret feux vélo clignotants
-i-2714	c-7	77	77
+i-2702	c-7	67	67
+i-2714	c-7	78	78
+i-2601	c-7	83	10033	Abrogation décret feux vélo clignotants
 i-2642	c-6	83	202
 i-2657	c-5	97	506	Éradication de la pauvreté en France
-i-2632	c-2	202	3073	Pour un statut AESH et temps plein 24h de service
-i-2644	c-5	220	1121	Pour des trimestres TUC réputés cotisés
-i-2697	c-2	231	231
-i-2640	c-6	310	680	Non à la suppression de l'abattement de 10%
+i-2632	c-2	198	3073	Pour un statut AESH et temps plein 24h de service
+i-2644	c-5	211	1121	Pour des trimestres TUC réputés cotisés
+i-2697	c-2	235	235
+i-2640	c-6	312	682	Non à la suppression de l'abattement de 10%
 
-voix en 10 j :	2300
+voix en 10 j :	2303
