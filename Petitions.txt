@@ -31,3 +31,4 @@ i-2510	Abrogation des ZFE
 i-2526	Ministère Protection Enfance + réforme ASE
 i-2640	Non à la suppression de l'abattement de 10%
 i-2644	Pour des trimestres TUC réputés cotisés
+i-2697	Pour une loi "un pour un" dans les médias
