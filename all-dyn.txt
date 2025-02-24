@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2610	c-7	46	1854	Stop usage X pour la comm' du gouv'
-i-2702	c-7	80	80
-i-2642	c-6	83	203
+i-2702	c-7	81	81
+i-2642	c-6	82	203
 i-2657	c-5	85	510	Éradication de la pauvreté en France
 i-2714	c-7	93	93
 i-2632	c-2	108	3081	Pour un statut AESH et temps plein 24h de service
-i-2601	c-7	111	10067	Abrogation décret feux vélo clignotants
-i-2644	c-5	131	1140	Pour des trimestres TUC réputés cotisés
+i-2601	c-7	110	10067	Abrogation décret feux vélo clignotants
+i-2644	c-5	131	1143	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	295	693	Non à la suppression de l'abattement de 10%
 i-2697	c-2	307	307	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2243
+voix en 10 j :	2237
