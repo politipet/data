@@ -3,11 +3,11 @@ i-2610	c-7	48	1856	Stop usage X pour la comm' du gouv'
 i-2642	c-6	81	203
 i-2702	c-7	81	81
 i-2657	c-5	88	513	Éradication de la pauvreté en France
-i-2714	c-7	94	94
-i-2632	c-2	106	3083	Pour un statut AESH et temps plein 24h de service
+i-2714	c-7	95	95
+i-2632	c-2	107	3084	Pour un statut AESH et temps plein 24h de service
 i-2601	c-7	112	10070	Abrogation décret feux vélo clignotants
-i-2644	c-5	130	1148	Pour des trimestres TUC réputés cotisés
+i-2644	c-5	131	1149	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	291	695	Non à la suppression de l'abattement de 10%
-i-2697	c-2	315	315	Pour une loi «un pour un» dans les médias
+i-2697	c-2	317	317	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2257
+voix en 10 j :	2267
