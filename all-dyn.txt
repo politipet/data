@@ -8,6 +8,6 @@ i-2632	c-2	113	3091	Pour un statut AESH et temps plein 24h de service
 i-2601	c-7	118	10079	Abrogation décret feux vélo clignotants
 i-2644	c-5	127	1152	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	283	698	Non à la suppression de l'abattement de 10%
-i-2697	c-2	332	332	Pour une loi «un pour un» dans les médias
+i-2697	c-2	333	333	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2293
+voix en 10 j :	2294
