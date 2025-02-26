@@ -1,6 +1,6 @@
 id	comm	diff	score	theme
-i-2708	c-5	45	45
-i-2642	c-6	76	208
+i-2708	c-5	46	46
+i-2642	c-6	77	209
 i-2657	c-5	84	519	Éradication de la pauvreté en France
 i-2702	c-7	87	87
 i-2714	c-7	104	104
@@ -10,4 +10,4 @@ i-2601	c-7	118	10086	Abrogation décret feux vélo clignotants
 i-2640	c-6	257	710	Non à la suppression de l'abattement de 10%
 i-2697	c-2	342	343	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2274
+voix en 10 j :	2278
