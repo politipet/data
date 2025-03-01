@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2708	c-5	43	59
-i-2642	c-6	48	210
-i-2657	c-5	53	538	Éradication de la pauvreté en France
+i-2708	c-5	42	59
+i-2642	c-6	47	210
+i-2657	c-5	53	539	Éradication de la pauvreté en France
 i-2568	c-2	76	270
-i-2644	c-5	83	1171	Pour des trimestres TUC réputés cotisés
+i-2644	c-5	84	1172	Pour des trimestres TUC réputés cotisés
 i-2714	c-7	112	112	Imprescription des viols et vss sur mineur
 i-2601	c-7	114	10109	Abrogation décret feux vélo clignotants
-i-2632	c-2	133	3178	Pour un statut AESH et temps plein 24h de service
-i-2640	c-6	181	721	Non à la suppression de l'abattement de 10%
+i-2632	c-2	135	3181	Pour un statut AESH et temps plein 24h de service
+i-2640	c-6	177	721	Non à la suppression de l'abattement de 10%
 i-2697	c-2	442	446	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2242
+voix en 10 j :	2236
