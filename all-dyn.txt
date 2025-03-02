@@ -6,8 +6,8 @@ i-2568	c-2	79	273
 i-2644	c-5	79	1173	Pour des trimestres TUC réputés cotisés
 i-2601	c-7	106	10111	Abrogation décret feux vélo clignotants
 i-2714	c-7	109	114	Imprescription des viols et vss sur mineur
-i-2640	c-6	124	725	Non à la suppression de l'abattement de 10%
-i-2632	c-2	150	3202	Pour un statut AESH et temps plein 24h de service
+i-2640	c-6	122	725	Non à la suppression de l'abattement de 10%
+i-2632	c-2	151	3204	Pour un statut AESH et temps plein 24h de service
 i-2697	c-2	462	466	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2192
+voix en 10 j :	2187
