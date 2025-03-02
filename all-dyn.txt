@@ -8,6 +8,6 @@ i-2601	c-7	108	10110	Abrogation décret feux vélo clignotants
 i-2714	c-7	113	113	Imprescription des viols et vss sur mineur
 i-2632	c-2	143	3193	Pour un statut AESH et temps plein 24h de service
 i-2640	c-6	152	721	Non à la suppression de l'abattement de 10%
-i-2697	c-2	455	459	Pour une loi «un pour un» dans les médias
+i-2697	c-2	456	460	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2213
+voix en 10 j :	2215
