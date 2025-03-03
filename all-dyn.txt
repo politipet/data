@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
+i-2489	c-8	47	3183	Stop centrales photovoltaïques milieu naturel
 i-2719	c-8	47	49
-i-2489	c-8	49	3183	Stop centrales photovoltaïques milieu naturel
 i-2657	c-5	52	551	Éradication de la pauvreté en France
 i-2644	c-5	64	1177	Pour des trimestres TUC réputés cotisés
 i-2568	c-2	81	275
-i-2714	c-7	86	115	Imprescription des viols et vss sur mineur
-i-2640	c-6	95	725	Non à la suppression de l'abattement de 10%
+i-2714	c-7	85	115	Imprescription des viols et vss sur mineur
+i-2640	c-6	95	728	Non à la suppression de l'abattement de 10%
 i-2601	c-7	105	10115	Abrogation décret feux vélo clignotants
-i-2632	c-2	172	3233	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	174	3235	Pour un statut AESH et temps plein 24h de service
 i-2697	c-2	479	483	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	2137
+voix en 10 j :	2127
