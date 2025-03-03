@@ -1,9 +1,3 @@
-i-2358	Meurice directeur
-i-2360	Macron destitution
-i-2363	Ajustement paye gouv. Banque de France
-i-2373	Libérez Paul Watson - Sea Shepherd
-i-2368	Prise en compte du Bénévolat / Retraite
-i-2396	Loi «flexibilité gynéco au travail»
 i-2421	Logement sans condition pour les sans-abri
 i-2427	Repos hebdo 2 jours pour les 55+
 i-2428	Legalize It
@@ -20,10 +14,6 @@ i-2657	Éradication de la pauvreté en France
 
 # ^ tracked ^     ▼ not tracked ▼
 
-i-2374	Réserve stratégique de Bitcoins
-i-2378	Défense des enfants en France
-i-2405	Macron destitution #2
-i-2403	Référendum pour/contre Macron
 i-2419	Prolongation congé maternel + parental
 i-2431	Adoption Loi sur la fin de vie
 i-2438	Accueil des Libanais en France
