@@ -6,8 +6,8 @@ i-2644	c-5	59	1180	Pour des trimestres TUC réputés cotisés
 i-2657	c-5	61	566	Éradication de la pauvreté en France
 i-2640	c-6	62	737	Non à la suppression de l'abattement de 10%
 i-2568	c-2	81	280
-i-2601	c-7	101	10123	Abrogation décret feux vélo clignotants
+i-2601	c-7	99	10123	Abrogation décret feux vélo clignotants
 i-2632	c-2	183	3254	Pour un statut AESH et temps plein 24h de service
-i-2697	c-2	347	488	Pour une loi «un pour un» dans les médias
+i-2697	c-2	338	488	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	1788
+voix en 10 j :	1770
