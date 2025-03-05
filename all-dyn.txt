@@ -7,7 +7,7 @@ i-2657	c-5	61	567	Éradication de la pauvreté en France
 i-2640	c-6	62	737	Non à la suppression de l'abattement de 10%
 i-2568	c-2	81	281
 i-2601	c-7	99	10124	Abrogation décret feux vélo clignotants
-i-2632	c-2	187	3258	Pour un statut AESH et temps plein 24h de service
-i-2697	c-2	292	489	Pour une loi «un pour un» dans les médias
+i-2632	c-2	186	3258	Pour un statut AESH et temps plein 24h de service
+i-2697	c-2	289	489	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	1718
+voix en 10 j :	1713
