@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2644	c-5	40	1190	Pour des trimestres TUC réputés cotisés
+i-2644	c-5	41	1191	Pour des trimestres TUC réputés cotisés
 i-2640	c-6	45	741	Non à la suppression de l'abattement de 10%
 i-2719	c-8	46	54
 i-2601	c-7	56	10127	Abrogation décret feux vélo clignotants
 i-2657	c-5	59	572	Éradication de la pauvreté en France
 i-2568	c-2	76	283
 i-2570	c-6	86	104
-i-2708	c-5	165	203
+i-2708	c-5	170	208
 i-2697	c-2	180	498	Pour une loi «un pour un» dans les médias
-i-2632	c-2	185	3272	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	186	3273	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	1670
+voix en 10 j :	1684
