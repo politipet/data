@@ -5,9 +5,9 @@ i-2640	c-6	52	738	Non à la suppression de l'abattement de 10%
 i-2601	c-7	63	10126	Abrogation décret feux vélo clignotants
 i-2657	c-5	65	571	Éradication de la pauvreté en France
 i-2570	c-6	75	93
-i-2708	c-5	75	107
 i-2568	c-2	77	282
+i-2708	c-5	98	130
 i-2632	c-2	188	3266	Pour un statut AESH et temps plein 24h de service
 i-2697	c-2	191	495	Pour une loi «un pour un» dans les médias
 
-voix en 10 j :	1608
+voix en 10 j :	1632
