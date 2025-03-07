@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
+i-2510	c-3	43	757	Abrogation des ZFE
 i-2719	c-8	44	56
-i-2510	c-3	45	757	Abrogation des ZFE
-i-2601	c-7	47	10132	Abrogation décret feux vélo clignotants
-i-2657	c-5	57	574	Éradication de la pauvreté en France
+i-2601	c-7	47	10133	Abrogation décret feux vélo clignotants
+i-2657	c-5	59	576	Éradication de la pauvreté en France
 i-2568	c-2	75	286
-i-2738	c-8	83	83
+i-2738	c-8	84	84
 i-2570	c-6	88	106
-i-2697	c-2	168	508	Pour une loi «un pour un» dans les médias
-i-2708	c-5	190	235
+i-2697	c-2	167	508	Pour une loi «un pour un» dans les médias
 i-2632	c-2	192	3288	Pour un statut AESH et temps plein 24h de service
+i-2708	c-5	192	237
 
-voix en 10 j :	1718
+voix en 10 j :	1713
