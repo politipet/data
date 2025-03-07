@@ -3,11 +3,11 @@ i-2719	c-8	44	56
 i-2510	c-3	45	757	Abrogation des ZFE
 i-2601	c-7	47	10132	Abrogation décret feux vélo clignotants
 i-2657	c-5	57	574	Éradication de la pauvreté en France
-i-2738	c-8	73	73
 i-2568	c-2	75	286
+i-2738	c-8	78	78
 i-2570	c-6	88	106
-i-2697	c-2	165	505	Pour une loi «un pour un» dans les médias
+i-2697	c-2	167	507	Pour une loi «un pour un» dans les médias
 i-2708	c-5	187	232
-i-2632	c-2	190	3285	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	189	3285	Pour un statut AESH et temps plein 24h de service
 
-voix en 10 j :	1708
+voix en 10 j :	1713
