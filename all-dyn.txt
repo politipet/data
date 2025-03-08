@@ -6,8 +6,8 @@ i-2657	c-5	57	577	Éradication de la pauvreté en France
 i-2570	c-6	83	106
 i-2738	c-8	124	124
 i-2697	c-2	151	520	Pour une loi «un pour un» dans les médias
-i-2737	c-7	158	158
-i-2632	c-2	191	3296	Pour un statut AESH et temps plein 24h de service
-i-2708	c-5	193	242
+i-2737	c-7	164	164
+i-2632	c-2	192	3297	Pour un statut AESH et temps plein 24h de service
+i-2708	c-5	194	243
 
-voix en 10 j :	1751
+voix en 10 j :	1759
