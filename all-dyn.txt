@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2719	c-8	39	56
-i-2510	c-3	40	757	Abrogation des ZFE
+i-2644	c-5	40	1199	Pour des trimestres TUC réputés cotisés
 i-2601	c-7	50	10136	Abrogation décret feux vélo clignotants
 i-2657	c-5	58	577	Éradication de la pauvreté en France
-i-2568	c-2	66	287
+i-2568	c-2	64	287
 i-2570	c-6	88	106
-i-2738	c-8	99	99
-i-2697	c-2	172	516	Pour une loi «un pour un» dans les médias
-i-2632	c-2	190	3289	Pour un statut AESH et temps plein 24h de service
+i-2738	c-8	105	105
+i-2697	c-2	171	516	Pour une loi «un pour un» dans les médias
+i-2632	c-2	192	3291	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	194	240
 
-voix en 10 j :	1701
+voix en 10 j :	1714
