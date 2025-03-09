@@ -3,11 +3,11 @@ i-2510	c-3	40	761	Abrogation des ZFE
 i-2644	c-5	40	1202	Pour des trimestres TUC réputés cotisés
 i-2601	c-7	45	10137	Abrogation décret feux vélo clignotants
 i-2657	c-5	57	577	Éradication de la pauvreté en France
-i-2570	c-6	83	106
-i-2697	c-2	122	524	Pour une loi «un pour un» dans les médias
-i-2738	c-8	130	130
-i-2737	c-7	187	187
+i-2570	c-6	82	106
+i-2697	c-2	117	524	Pour une loi «un pour un» dans les médias
+i-2738	c-8	131	131
 i-2632	c-2	190	3297	Pour un statut AESH et temps plein 24h de service
-i-2708	c-5	194	243
+i-2737	c-7	191	191
+i-2708	c-5	195	244
 
-voix en 10 j :	1695
+voix en 10 j :	1701
