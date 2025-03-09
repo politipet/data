@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2644	c-5	41	1202	Pour des trimestres TUC réputés cotisés
-i-2601	c-7	48	10137	Abrogation décret feux vélo clignotants
-i-2568	c-2	57	289
+i-2644	c-5	40	1202	Pour des trimestres TUC réputés cotisés
+i-2568	c-2	42	289
+i-2601	c-7	45	10137	Abrogation décret feux vélo clignotants
 i-2657	c-5	57	577	Éradication de la pauvreté en France
 i-2570	c-6	83	106
+i-2697	c-2	126	522	Pour une loi «un pour un» dans les médias
 i-2738	c-8	129	129
-i-2697	c-2	151	520	Pour une loi «un pour un» dans les médias
-i-2737	c-7	179	179
-i-2632	c-2	192	3297	Pour un statut AESH et temps plein 24h de service
+i-2737	c-7	183	183
+i-2632	c-2	190	3297	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	194	243
 
-voix en 10 j :	1785
+voix en 10 j :	1705
