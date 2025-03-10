@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2601	c-7	38	10141	Abrogation décret feux vélo clignotants
+i-2601	c-7	38	10142	Abrogation décret feux vélo clignotants
 i-2644	c-5	41	1211	Pour des trimestres TUC réputés cotisés
 i-2510	c-3	45	771	Abrogation des ZFE
 i-2657	c-5	53	584	Éradication de la pauvreté en France
 i-2570	c-6	83	108
 i-2697	c-2	99	540	Pour une loi «un pour un» dans les médias
-i-2632	c-2	176	3301	Pour un statut AESH et temps plein 24h de service
-i-2738	c-8	195	195
+i-2632	c-2	172	3301	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	197	255
-i-2737	c-7	831	831
+i-2738	c-8	201	201
+i-2737	c-7	855	855
 
-voix en 10 j :	2359
+voix en 10 j :	2386
