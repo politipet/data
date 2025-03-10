@@ -5,9 +5,9 @@ i-2510	c-3	42	765	Abrogation des ZFE
 i-2657	c-5	55	579	Éradication de la pauvreté en France
 i-2570	c-6	83	108
 i-2697	c-2	98	535	Pour une loi «un pour un» dans les médias
-i-2738	c-8	151	151
+i-2738	c-8	152	152
 i-2632	c-2	187	3298	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	195	251
-i-2737	c-7	585	585
+i-2737	c-7	604	604
 
-voix en 10 j :	2061
+voix en 10 j :	2083
