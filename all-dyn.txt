@@ -5,9 +5,9 @@ i-2644	c-5	45	1216	Pour des trimestres TUC réputés cotisés
 i-2657	c-5	47	585	Éradication de la pauvreté en France
 i-2570	c-6	82	108
 i-2697	c-2	97	543	Pour une loi «un pour un» dans les médias
-i-2632	c-2	134	3305	Pour un statut AESH et temps plein 24h de service
-i-2708	c-5	201	260
-i-2738	c-8	306	306
-i-2737	c-7	1070	1070
+i-2632	c-2	127	3305	Pour un statut AESH et temps plein 24h de service
+i-2708	c-5	202	261
+i-2738	c-8	313	313
+i-2737	c-7	1081	1081
 
-voix en 10 j :	2708
+voix en 10 j :	2728
