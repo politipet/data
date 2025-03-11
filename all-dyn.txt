@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2510	c-3	42	773	Abrogation des ZFE
-i-2657	c-5	45	585	Éradication de la pauvreté en France
-i-2644	c-5	46	1218	Pour des trimestres TUC réputés cotisés
-i-2728	c-5	70	70
+i-2657	c-5	44	586	Éradication de la pauvreté en France
+i-2644	c-5	47	1219	Pour des trimestres TUC réputés cotisés
+i-2610	c-7	64	1925	Stop usage X pour la comm' du gouv'
 i-2570	c-6	82	108
 i-2697	c-2	96	543	Pour une loi «un pour un» dans les médias
-i-2632	c-2	123	3309	Pour un statut AESH et temps plein 24h de service
+i-2728	c-5	104	104
+i-2632	c-2	122	3309	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	202	261
-i-2738	c-8	331	331
-i-2737	c-7	1161	1161
+i-2738	c-8	336	336	Des véhicules du quotidien abordables et légers
+i-2737	c-7	1184	1184	Création de l’infraction d’homicide routier
 
-voix en 10 j :	2912
+voix en 10 j :	3012
