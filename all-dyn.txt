@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2657	c-5	44	586	Éradication de la pauvreté en France
 i-2644	c-5	51	1222	Pour des trimestres TUC réputés cotisés
 i-2610	c-7	71	1933	Stop usage X pour la comm' du gouv'
-i-2570	c-6	82	108
-i-2697	c-2	82	543	Pour une loi «un pour un» dans les médias
+i-2570	c-6	81	108
+i-2697	c-2	81	543	Pour une loi «un pour un» dans les médias
 i-2632	c-2	120	3313	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	204	263
-i-2728	c-5	308	308
-i-2738	c-8	371	371	Des véhicules du quotidien abordables et légers
-i-2737	c-7	1343	1343	Création de l’infraction d’homicide routier
+i-2728	c-5	320	320
+i-2738	c-8	373	373	Des véhicules du quotidien abordables et légers
+i-2737	c-7	1360	1360	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3416
+voix en 10 j :	3444
