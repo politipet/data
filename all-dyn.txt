@@ -6,8 +6,8 @@ i-2570	c-6	82	108
 i-2697	c-2	83	543	Pour une loi «un pour un» dans les médias
 i-2632	c-2	120	3313	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	204	263
-i-2728	c-5	287	287
+i-2728	c-5	289	289
 i-2738	c-8	365	365	Des véhicules du quotidien abordables et légers
-i-2737	c-7	1319	1319	Création de l’infraction d’homicide routier
+i-2737	c-7	1321	1321	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3365
+voix en 10 j :	3369
