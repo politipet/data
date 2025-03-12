@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2719	c-8	49	90
 i-2644	c-5	50	1223	Pour des trimestres TUC réputés cotisés
 i-2610	c-7	72	1934	Stop usage X pour la comm' du gouv'
-i-2697	c-2	77	543	Pour une loi «un pour un» dans les médias
+i-2697	c-2	78	544	Pour une loi «un pour un» dans les médias
 i-2570	c-6	81	108
-i-2632	c-2	113	3315	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	113	3317	Pour un statut AESH et temps plein 24h de service
 i-2708	c-5	206	265
-i-2728	c-5	533	533
-i-2738	c-8	543	543	Des véhicules du quotidien abordables et légers
-i-2737	c-7	1414	1414	Création de l’infraction d’homicide routier
+i-2738	c-8	573	573	Des véhicules du quotidien abordables et légers
+i-2728	c-5	624	624
+i-2737	c-7	1427	1427	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3899
+voix en 10 j :	4035
