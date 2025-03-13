@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2610	c-7	74	1936	Stop usage X pour la comm' du gouv'
-i-2711	c-8	80	104
 i-2570	c-6	81	108
-i-2632	c-2	91	3323	Pour un statut AESH et temps plein 24h de service
-i-2697	c-2	106	588	Pour une loi «un pour un» dans les médias
-i-2708	c-5	207	266
-i-2510	c-3	366	1106	Abrogation des ZFE
-i-2738	c-8	725	725	Des véhicules du quotidien abordables et légers
-i-2728	c-5	1479	1479
-i-2737	c-7	1619	1619	Création de l’infraction d’homicide routier
+i-2632	c-2	90	3323	Pour un statut AESH et temps plein 24h de service
+i-2622	c-8	100	172
+i-2711	c-8	100	124
+i-2697	c-2	109	592	Pour une loi «un pour un» dans les médias
+i-2708	c-5	207	268
+i-2510	c-3	490	1230	Abrogation des ZFE
+i-2738	c-8	735	735	Des véhicules du quotidien abordables et légers
+i-2728	c-5	1503	1503
+i-2737	c-7	1630	1630	Création de l’infraction d’homicide routier
 
-voix en 10 j :	5814
+voix en 10 j :	6050
