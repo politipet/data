@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2632	c-2	79	3324	Pour un statut AESH et temps plein 24h de service
+i-2632	c-2	78	3324	Pour un statut AESH et temps plein 24h de service
 i-2570	c-6	82	109
-i-2697	c-2	158	643	Pour une loi «un pour un» dans les médias
+i-2697	c-2	163	648	Pour une loi «un pour un» dans les médias
 i-2708	c-5	198	269
-i-2622	c-8	268	341
-i-2711	c-8	451	476
-i-2738	c-8	788	788	Des véhicules du quotidien abordables et légers
-i-2510	c-3	1321	2064	Abrogation des ZFE
-i-2737	c-7	1741	1741	Création de l’infraction d’homicide routier
-i-2728	c-5	1867	1867	Reconnaissance de la fibromyalgie
+i-2622	c-8	278	351
+i-2711	c-8	462	487
+i-2738	c-8	790	790	Des véhicules du quotidien abordables et légers
+i-2510	c-3	1360	2103	Abrogation des ZFE
+i-2737	c-7	1747	1747	Création de l’infraction d’homicide routier
+i-2728	c-5	1890	1890	Reconnaissance de la fibromyalgie
 
-voix en 10 j :	8149
+voix en 10 j :	8250
