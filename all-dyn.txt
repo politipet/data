@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2570	c-6	81	108
-i-2632	c-2	88	3323	Pour un statut AESH et temps plein 24h de service
-i-2622	c-8	106	178
-i-2711	c-8	109	133
-i-2697	c-2	115	598	Pour une loi «un pour un» dans les médias
+i-2632	c-2	87	3323	Pour un statut AESH et temps plein 24h de service
+i-2697	c-2	119	602	Pour une loi «un pour un» dans les médias
+i-2622	c-8	122	194
+i-2711	c-8	152	176
 i-2708	c-5	207	268
-i-2510	c-3	543	1283	Abrogation des ZFE
-i-2738	c-8	743	743	Des véhicules du quotidien abordables et légers
-i-2728	c-5	1548	1548
-i-2737	c-7	1639	1639	Création de l’infraction d’homicide routier
+i-2510	c-3	597	1337	Abrogation des ZFE
+i-2738	c-8	749	749	Des véhicules du quotidien abordables et légers
+i-2728	c-5	1578	1578
+i-2737	c-7	1653	1653	Création de l’infraction d’homicide routier
 
-voix en 10 j :	6207
+voix en 10 j :	6385
