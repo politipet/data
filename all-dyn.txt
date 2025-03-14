@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2610	c-7	75	1940	Stop usage X pour la comm' du gouv'
-i-2505	c-8	89	238
+i-2505	c-8	90	239
 i-2708	c-5	200	272
-i-2697	c-2	223	710	Pour une loi «un pour un» dans les médias
-i-2622	c-8	388	461
-i-2711	c-8	655	680
-i-2738	c-8	837	837	Des véhicules du quotidien abordables et légers
-i-2737	c-7	1804	1804	Création de l’infraction d’homicide routier
-i-2510	c-3	1941	2686	Abrogation des ZFE
-i-2728	c-5	2198	2198	Reconnaissance de la fibromyalgie
+i-2697	c-2	226	713	Pour une loi «un pour un» dans les médias
+i-2622	c-8	392	466
+i-2711	c-8	669	695
+i-2738	c-8	854	854	Des véhicules du quotidien abordables et légers
+i-2737	c-7	1808	1808	Création de l’infraction d’homicide routier
+i-2510	c-3	1985	2730	Abrogation des ZFE
+i-2728	c-5	2224	2224	Reconnaissance de la fibromyalgie
 
-voix en 10 j :	9717
+voix en 10 j :	9872
