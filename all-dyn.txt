@@ -4,10 +4,10 @@ i-2697	c-2	318	859	Pour une loi «un pour un» dans les médias
 i-2622	c-8	561	640
 i-2711	c-8	917	949
 i-2576	c-7	990	1109
-i-2738	c-8	1822	2046	Des véhicules du quotidien abordables et légers
+i-2738	c-8	1802	2048	Des véhicules du quotidien abordables et légers
 i-2510	c-3	2287	3060	Abrogation des ZFE
-i-2728	c-5	3619	3619	Reconnaissance de la fibromyalgie
-i-2737	c-7	7215	8170	Création de l’infraction d’homicide routier
-i-2760	c-8	23877	23877	Abrogation des ZFE (#gueux)
+i-2728	c-5	3626	3626	Reconnaissance de la fibromyalgie
+i-2737	c-7	7274	8244	Création de l’infraction d’homicide routier
+i-2760	c-8	23896	23896	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	45533
+voix en 10 j :	45597
