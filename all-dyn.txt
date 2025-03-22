@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2505	c-8	151	303
 i-2697	c-2	333	876	Pour une loi «un pour un» dans les médias
-i-2622	c-8	566	646
-i-2711	c-8	924	957
+i-2622	c-8	567	647
+i-2711	c-8	925	958
 i-2576	c-7	995	1116
-i-2738	c-8	1608	2122	Des véhicules du quotidien abordables et légers
-i-2510	c-3	2299	3072	Abrogation des ZFE
-i-2728	c-5	3299	3760	Reconnaissance de la fibromyalgie
-i-2737	c-7	8160	9566	Création de l’infraction d’homicide routier
-i-2760	c-8	24363	24363	Abrogation des ZFE (#gueux)
+i-2738	c-8	1581	2124	Des véhicules du quotidien abordables et légers
+i-2510	c-3	2300	3073	Abrogation des ZFE
+i-2728	c-5	3233	3766	Reconnaissance de la fibromyalgie
+i-2737	c-7	8180	9594	Création de l’infraction d’homicide routier
+i-2760	c-8	24392	24392	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	46525
+voix en 10 j :	46480
