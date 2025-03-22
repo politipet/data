@@ -7,7 +7,7 @@ i-2576	c-7	993	1114
 i-2738	c-8	1746	2112	Des véhicules du quotidien abordables et légers
 i-2510	c-3	2294	3067	Abrogation des ZFE
 i-2728	c-5	3445	3736	Reconnaissance de la fibromyalgie
-i-2737	c-7	8060	9383	Création de l’infraction d’homicide routier
-i-2760	c-8	24243	24243	Abrogation des ZFE (#gueux)
+i-2737	c-7	8062	9385	Création de l’infraction d’homicide routier
+i-2760	c-8	24247	24247	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	46589
+voix en 10 j :	46597
