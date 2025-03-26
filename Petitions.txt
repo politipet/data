@@ -27,3 +27,4 @@ i-2644	Pour des trimestres TUC réputés cotisés
 i-2697	Pour une loi «un pour un» dans les médias
 i-2714	Imprescription des viols et vss sur mineur
 i-2738	Des véhicules du quotidien abordables et légers
+i-2784	Pérennisation du poker associatif
