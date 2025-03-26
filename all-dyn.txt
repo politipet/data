@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2769	c-7	141	141
-i-2510	c-3	146	3105	Abrogation des ZFE
-i-2697	c-2	146	946	Pour une loi «un pour un» dans les médias
-i-2576	c-7	221	1126
-i-2793	c-7	874	874
-i-2784	c-7	1013	1013	Pérennisation du poker associatif
-i-2728	c-5	1217	4044	Reconnaissance de la fibromyalgie
-i-2738	c-8	1281	2327	Des véhicules du quotidien abordables et légers
-i-2737	c-7	8756	10896	Création de l’infraction d’homicide routier
-i-2760	c-8	11456	26364	Abrogation des ZFE (#gueux)
+i-2769	c-7	142	142
+i-2510	c-3	145	3106	Abrogation des ZFE
+i-2697	c-2	147	947	Pour une loi «un pour un» dans les médias
+i-2576	c-7	216	1127
+i-2784	c-7	1023	1023	Pérennisation du poker associatif
+i-2728	c-5	1208	4048	Reconnaissance de la fibromyalgie
+i-2738	c-8	1280	2330	Des véhicules du quotidien abordables et légers
+i-2793	c-7	1712	1712
+i-2737	c-7	8762	10911	Création de l’infraction d’homicide routier
+i-2760	c-8	11378	26407	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	27886
+voix en 10 j :	28662
