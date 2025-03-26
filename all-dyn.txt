@@ -3,11 +3,11 @@ i-2644	c-5	137	1383	Pour des trimestres TUC réputés cotisés
 i-2769	c-7	137	137
 i-2697	c-2	147	938	Pour une loi «un pour un» dans les médias
 i-2510	c-3	173	3100	Abrogation des ZFE
-i-2576	c-7	322	1124
-i-2784	c-7	897	897
-i-2738	c-8	1297	2299	Des véhicules du quotidien abordables et légers
-i-2728	c-5	1299	4009	Reconnaissance de la fibromyalgie
-i-2737	c-7	8781	10833	Création de l’infraction d’homicide routier
-i-2760	c-8	12479	25952	Abrogation des ZFE (#gueux)
+i-2576	c-7	315	1124
+i-2784	c-7	899	899
+i-2728	c-5	1293	4009	Reconnaissance de la fibromyalgie
+i-2738	c-8	1298	2300	Des véhicules du quotidien abordables et légers
+i-2737	c-7	8781	10836	Création de l’infraction d’homicide routier
+i-2760	c-8	12456	25955	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	28250
+voix en 10 j :	28217
