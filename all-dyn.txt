@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2644	c-5	134	1395	Pour des trimestres TUC réputés cotisés
-i-2510	c-3	142	3111	Abrogation des ZFE
-i-2769	c-7	145	145
-i-2697	c-2	146	956	Pour une loi «un pour un» dans les médias
-i-2784	c-7	1086	1086	Pérennisation du poker associatif
-i-2728	c-5	1095	4096	Reconnaissance de la fibromyalgie
-i-2738	c-8	1119	2356	Des véhicules du quotidien abordables et légers
-i-2793	c-7	5477	5477	6ème République - convocation d'une Constituante
-i-2737	c-7	8811	11044	Création de l’infraction d’homicide routier
-i-2760	c-8	10724	26712	Abrogation des ZFE (#gueux)
+i-2644	c-5	132	1395	Pour des trimestres TUC réputés cotisés
+i-2510	c-3	137	3111	Abrogation des ZFE
+i-2697	c-2	144	956	Pour une loi «un pour un» dans les médias
+i-2769	c-7	146	146
+i-2738	c-8	1032	2359	Des véhicules du quotidien abordables et légers
+i-2728	c-5	1060	4100	Reconnaissance de la fibromyalgie
+i-2784	c-7	1092	1092	Pérennisation du poker associatif
+i-2793	c-7	5604	5604	6ème République - convocation d'une Constituante
+i-2737	c-7	8807	11057	Création de l’infraction d’homicide routier
+i-2760	c-8	10512	26723	Abrogation des ZFE (#gueux)
 
-voix en 10 j :	31592
+voix en 10 j :	31322
