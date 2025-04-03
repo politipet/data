@@ -3,11 +3,11 @@ i-2469	c-2	106	15461	Repas 1€ au resto-U pour les étudiant-es
 i-2535	c-7	141	286
 i-2789	c-8	178	178
 i-2697	c-2	234	1136	Pour une loi «un pour un» dans les médias
-i-2738	c-8	302	2499	Des véhicules du quotidien abordables et légers
-i-2728	c-5	604	4504	Reconnaissance de la fibromyalgie
-i-2784	c-7	1600	1600	Pérennisation du poker associatif
-i-2737	c-7	1606	11923	Création de l’infraction d’homicide routier
-i-2760	c-8	3112	28236	Abrogation des ZFE (#gueux)
-i-2793	c-7	12855	12855	6ème République - convocation d'une Constituante
+i-2738	c-8	303	2500	Des véhicules du quotidien abordables et légers
+i-2728	c-5	606	4506	Reconnaissance de la fibromyalgie
+i-2784	c-7	1601	1601	Pérennisation du poker associatif
+i-2737	c-7	1611	11928	Création de l’infraction d’homicide routier
+i-2760	c-8	3115	28239	Abrogation des ZFE (#gueux)
+i-2793	c-7	12856	12856	6ème République - convocation d'une Constituante
 
-voix en 10 j :	23089
+voix en 10 j :	23103
