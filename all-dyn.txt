@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2469	c-2	108	15465	Repas 1€ au resto-U pour les étudiant-es
 i-2535	c-7	142	287
 i-2789	c-8	202	202
-i-2697	c-2	230	1146	Pour une loi «un pour un» dans les médias
+i-2697	c-2	231	1147	Pour une loi «un pour un» dans les médias
 i-2738	c-8	286	2518	Des véhicules du quotidien abordables et légers
-i-2728	c-5	626	4576	Reconnaissance de la fibromyalgie
-i-2784	c-7	1146	1623	Pérennisation du poker associatif
-i-2737	c-7	1413	12048	Création de l’infraction d’homicide routier
-i-2760	c-8	2922	28384	Abrogation des ZFE (#gueux)
-i-2793	c-7	13099	13099	6ème République - convocation d'une Constituante
+i-2728	c-5	627	4577	Reconnaissance de la fibromyalgie
+i-2784	c-7	1148	1625	Pérennisation du poker associatif
+i-2737	c-7	1414	12049	Création de l’infraction d’homicide routier
+i-2760	c-8	2923	28385	Abrogation des ZFE (#gueux)
+i-2793	c-7	13104	13104	6ème République - convocation d'une Constituante
 
-voix en 10 j :	22536
+voix en 10 j :	22548
