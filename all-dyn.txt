@@ -6,8 +6,8 @@ i-2789	c-8	209	209
 i-2738	c-8	211	2552	Des véhicules du quotidien abordables et légers
 i-2784	c-7	583	1650	Pérennisation du poker associatif
 i-2728	c-5	598	4675	Reconnaissance de la fibromyalgie
-i-2737	c-7	1228	12226	Création de l’infraction d’homicide routier
+i-2737	c-7	1229	12227	Création de l’infraction d’homicide routier
 i-2760	c-8	1867	28477	Abrogation des ZFE (#gueux)
-i-2793	c-7	9626	14609	6ème République - convocation d'une Constituante
+i-2793	c-7	9621	14610	6ème République - convocation d'une Constituante
 
-voix en 10 j :	16714
+voix en 10 j :	16708
