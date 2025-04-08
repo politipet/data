@@ -4,10 +4,10 @@ i-2535	c-7	154	304
 i-2697	c-2	159	1178	Pour une loi «un pour un» dans les médias
 i-2738	c-8	200	2595	Des véhicules du quotidien abordables et légers
 i-2789	c-8	217	217
-i-2784	c-7	529	1711	Pérennisation du poker associatif
-i-2728	c-5	535	4721	Reconnaissance de la fibromyalgie
-i-2760	c-8	927	28586	Abrogation des ZFE (#gueux)
-i-2737	c-7	1241	12543	Création de l’infraction d’homicide routier
-i-2793	c-7	6906	15164	6ème République - convocation d'une Constituante
+i-2784	c-7	530	1712	Pérennisation du poker associatif
+i-2728	c-5	536	4724	Reconnaissance de la fibromyalgie
+i-2760	c-8	928	28593	Abrogation des ZFE (#gueux)
+i-2737	c-7	1243	12548	Création de l’infraction d’homicide routier
+i-2793	c-7	6881	15175	6ème République - convocation d'une Constituante
 
-voix en 10 j :	12639
+voix en 10 j :	12611
