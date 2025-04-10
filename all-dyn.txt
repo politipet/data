@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2795	c-5	117	117
+i-2795	c-5	118	118
 i-2535	c-7	155	306
 i-2738	c-8	177	2612	Des véhicules du quotidien abordables et légers
 i-2789	c-8	223	223
-i-2784	c-7	406	1744	Pérennisation du poker associatif
+i-2784	c-7	406	1745	Pérennisation du poker associatif
 i-2728	c-5	473	4758	Reconnaissance de la fibromyalgie
-i-2760	c-8	791	28746	Abrogation des ZFE (#gueux)
+i-2760	c-8	792	28748	Abrogation des ZFE (#gueux)
 i-2803	c-5	1105	1105
 i-2737	c-7	1140	12715	Création de l’infraction d’homicide routier
-i-2793	c-7	5549	15469	6ème République - convocation d'une Constituante
+i-2793	c-7	5523	15469	6ème République - convocation d'une Constituante
 
-voix en 10 j :	11907
+voix en 10 j :	11875
