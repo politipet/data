@@ -4,10 +4,10 @@ i-2738	c-8	92	2644	Des véhicules du quotidien abordables et légers
 i-2795	c-5	119	178
 i-2784	c-7	125	1775	Pérennisation du poker associatif
 i-2728	c-5	157	4832	Reconnaissance de la fibromyalgie
-i-2806	c-7	313	313	Reconnaissance de la nudité à domicile
-i-2760	c-8	482	28959	Abrogation des ZFE (#gueux)
-i-2737	c-7	767	12989	Création de l’infraction d’homicide routier
-i-2793	c-7	1310	15907	6ème République - convocation d'une Constituante
+i-2806	c-7	314	314	Reconnaissance de la nudité à domicile
+i-2760	c-8	483	28960	Abrogation des ZFE (#gueux)
+i-2737	c-7	767	12991	Création de l’infraction d’homicide routier
+i-2793	c-7	1305	15909	6ème République - convocation d'une Constituante
 i-2803	c-5	1550	1550	Transparence au concours de thanatopraxie
 
-voix en 10 j :	6153
+voix en 10 j :	6149
