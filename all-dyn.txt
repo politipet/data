@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2697	c-2	87	1239	Pour une loi «un pour un» dans les médias
-i-2738	c-8	101	2637	Des véhicules du quotidien abordables et légers
-i-2795	c-5	119	169
+i-2697	c-2	86	1240	Pour une loi «un pour un» dans les médias
+i-2738	c-8	102	2638	Des véhicules du quotidien abordables et légers
+i-2795	c-5	119	170
 i-2784	c-7	127	1773	Pérennisation du poker associatif
-i-2728	c-5	175	4819	Reconnaissance de la fibromyalgie
-i-2806	c-7	300	300	Reconnaissance de la nudité à domicile
-i-2760	c-8	485	28938	Abrogation des ZFE (#gueux)
-i-2737	c-7	751	12926	Création de l’infraction d’homicide routier
-i-2803	c-5	1537	1537	Transparence au concours de thanatopraxie
-i-2793	c-7	1773	15864	6ème République - convocation d'une Constituante
+i-2728	c-5	174	4822	Reconnaissance de la fibromyalgie
+i-2806	c-7	304	304	Reconnaissance de la nudité à domicile
+i-2760	c-8	487	28941	Abrogation des ZFE (#gueux)
+i-2737	c-7	754	12930	Création de l’infraction d’homicide routier
+i-2803	c-5	1540	1540	Transparence au concours de thanatopraxie
+i-2793	c-7	1710	15867	6ème République - convocation d'une Constituante
 
-voix en 10 j :	6521
+voix en 10 j :	6468
