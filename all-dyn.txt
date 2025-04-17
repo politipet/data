@@ -5,9 +5,9 @@ i-2795	c-5	110	185
 i-2784	c-7	127	1782	Pérennisation du poker associatif
 i-2728	c-5	141	4845	Reconnaissance de la fibromyalgie
 i-2806	c-7	322	322	Reconnaissance de la nudité à domicile
-i-2760	c-8	458	28993	Abrogation des ZFE (#gueux)
+i-2760	c-8	459	28994	Abrogation des ZFE (#gueux)
 i-2737	c-7	674	13075	Création de l’infraction d’homicide routier
 i-2793	c-7	1043	15962	6ème République - convocation d'une Constituante
 i-2803	c-5	1573	1573	Transparence au concours de thanatopraxie
 
-voix en 10 j :	5691
+voix en 10 j :	5694
