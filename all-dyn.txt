@@ -6,8 +6,8 @@ i-2804	c-5	83	92
 i-2728	c-5	222	4963	Reconnaissance de la fibromyalgie
 i-2806	c-7	326	328	Reconnaissance de la nudité à domicile
 i-2760	c-8	467	29148	Abrogation des ZFE (#gueux)
-i-2793	c-7	697	16036	6ème République - convocation d'une Constituante
+i-2793	c-7	695	16036	6ème République - convocation d'une Constituante
 i-2737	c-7	712	13308	Création de l’infraction d’homicide routier
-i-2803	c-5	1016	1587	Transparence au concours de thanatopraxie
+i-2803	c-5	1007	1587	Transparence au concours de thanatopraxie
 
-voix en 10 j :	4658
+voix en 10 j :	4647
