@@ -7,7 +7,7 @@ i-2642	c-6	125	438
 i-2728	c-5	246	5063	Reconnaissance de la fibromyalgie
 i-2640	c-6	295	1258	Non à la suppression de l'abattement de 10%
 i-2760	c-8	334	29269	Abrogation des ZFE (#gueux)
-i-2793	c-7	339	16197	6ème République - convocation d'une Constituante
-i-2737	c-7	1136	14059	Création de l’infraction d’homicide routier
+i-2793	c-7	339	16198	6ème République - convocation d'une Constituante
+i-2737	c-7	1152	14075	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3688
+voix en 10 j :	3704
