@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2738	c-8	48	2692	Des véhicules du quotidien abordables et légers
 i-2806	c-7	65	379	Reconnaissance de la nudité à domicile
 i-2803	c-5	71	1621	Transparence au concours de thanatopraxie
-i-2804	c-5	128	198
+i-2804	c-5	129	199
 i-2642	c-6	132	448
 i-2728	c-5	236	5068	Reconnaissance de la fibromyalgie
-i-2640	c-6	307	1278	Non à la suppression de l'abattement de 10%
-i-2793	c-7	309	16218	6ème République - convocation d'une Constituante
-i-2760	c-8	315	29275	Abrogation des ZFE (#gueux)
-i-2737	c-7	1473	14464	Création de l’infraction d’homicide routier
+i-2793	c-7	307	16218	6ème République - convocation d'une Constituante
+i-2640	c-6	310	1281	Non à la suppression de l'abattement de 10%
+i-2760	c-8	316	29276	Abrogation des ZFE (#gueux)
+i-2737	c-7	1517	14508	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3845
+voix en 10 j :	3892
