@@ -3,11 +3,11 @@ i-2697	c-2	40	1305	Pour une loi «un pour un» dans les médias
 i-2806	c-7	67	400	Reconnaissance de la nudité à domicile
 i-2804	c-5	137	236
 i-2642	c-6	141	466
-i-2728	c-5	147	5132	Reconnaissance de la fibromyalgie
-i-2760	c-8	162	29325	Abrogation des ZFE (#gueux)
-i-2793	c-7	287	16347	6ème République - convocation d'une Constituante
-i-2640	c-6	341	1344	Non à la suppression de l'abattement de 10%
-i-2763	c-7	1195	1379	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3219	16583	Création de l’infraction d’homicide routier
+i-2728	c-5	148	5133	Reconnaissance de la fibromyalgie
+i-2760	c-8	161	29326	Abrogation des ZFE (#gueux)
+i-2793	c-7	286	16347	6ème République - convocation d'une Constituante
+i-2640	c-6	340	1344	Non à la suppression de l'abattement de 10%
+i-2763	c-7	1202	1386	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	3243	16609	Création de l’infraction d’homicide routier
 
-voix en 10 j :	7006
+voix en 10 j :	7033
