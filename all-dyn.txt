@@ -3,11 +3,11 @@ i-2803	c-5	38	1629	Transparence au concours de thanatopraxie
 i-2806	c-7	68	401	Reconnaissance de la nudité à domicile
 i-2642	c-6	130	469
 i-2804	c-5	138	237
-i-2728	c-5	148	5138	Reconnaissance de la fibromyalgie
-i-2760	c-8	159	29337	Abrogation des ZFE (#gueux)
-i-2793	c-7	280	16352	6ème République - convocation d'une Constituante
-i-2640	c-6	330	1345	Non à la suppression de l'abattement de 10%
+i-2728	c-5	147	5138	Reconnaissance de la fibromyalgie
+i-2760	c-8	160	29338	Abrogation des ZFE (#gueux)
+i-2793	c-7	278	16352	6ème République - convocation d'une Constituante
+i-2640	c-6	327	1345	Non à la suppression de l'abattement de 10%
 i-2763	c-7	1232	1417	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3472	16851	Création de l’infraction d’homicide routier
+i-2737	c-7	3482	16861	Création de l’infraction d’homicide routier
 
-voix en 10 j :	7239
+voix en 10 j :	7252
