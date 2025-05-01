@@ -7,7 +7,7 @@ i-2728	c-5	147	5144	Reconnaissance de la fibromyalgie
 i-2760	c-8	160	29345	Abrogation des ZFE (#gueux)
 i-2793	c-7	284	16371	6ème République - convocation d'une Constituante
 i-2640	c-6	317	1349	Non à la suppression de l'abattement de 10%
-i-2763	c-7	1249	1435	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3560	16947	Création de l’infraction d’homicide routier
+i-2763	c-7	1250	1436	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	3562	16950	Création de l’infraction d’homicide routier
 
-voix en 10 j :	7321
+voix en 10 j :	7324
