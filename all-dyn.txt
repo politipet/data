@@ -4,10 +4,10 @@ i-2806	c-7	72	405	Reconnaissance de la nudité à domicile
 i-2642	c-6	94	469
 i-2804	c-5	131	240
 i-2728	c-5	138	5145	Reconnaissance de la fibromyalgie
-i-2760	c-8	163	29357	Abrogation des ZFE (#gueux)
+i-2760	c-8	164	29358	Abrogation des ZFE (#gueux)
 i-2640	c-6	271	1353	Non à la suppression de l'abattement de 10%
-i-2793	c-7	283	16381	6ème République - convocation d'une Constituante
-i-2763	c-7	1263	1449	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3612	17008	Création de l’infraction d’homicide routier
+i-2793	c-7	286	16384	6ème République - convocation d'une Constituante
+i-2763	c-7	1266	1452	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	3618	17014	Création de l’infraction d’homicide routier
 
-voix en 10 j :	7322
+voix en 10 j :	7338
