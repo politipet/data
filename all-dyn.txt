@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2697	c-2	45	1321	Pour une loi «un pour un» dans les médias
+i-2642	c-6	68	473
 i-2806	c-7	69	411	Reconnaissance de la nudité à domicile
-i-2642	c-6	71	473
 i-2804	c-5	131	242
-i-2728	c-5	153	5186	Reconnaissance de la fibromyalgie
-i-2760	c-8	154	29384	Abrogation des ZFE (#gueux)
-i-2640	c-6	221	1359	Non à la suppression de l'abattement de 10%
-i-2793	c-7	260	16402	6ème République - convocation d'une Constituante
-i-2763	c-7	1291	1478	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3685	17123	Création de l’infraction d’homicide routier
+i-2728	c-5	152	5186	Reconnaissance de la fibromyalgie
+i-2760	c-8	152	29384	Abrogation des ZFE (#gueux)
+i-2640	c-6	215	1360	Non à la suppression de l'abattement de 10%
+i-2793	c-7	258	16404	6ème République - convocation d'une Constituante
+i-2763	c-7	1295	1482	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	3687	17125	Création de l’infraction d’homicide routier
 
-voix en 10 j :	7332
+voix en 10 j :	7330
