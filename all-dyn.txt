@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2806	c-7	45	417	Reconnaissance de la nudité à domicile
 i-2601	c-7	49	10391	Abrogation décret feux vélo clignotants
 i-2697	c-2	71	1358	Pour une loi «un pour un» dans les médias
-i-2804	c-5	79	243
+i-2804	c-5	78	243
 i-2640	c-6	115	1373	Non à la suppression de l'abattement de 10%
 i-2760	c-8	130	29399	Abrogation des ZFE (#gueux)
 i-2728	c-5	134	5197	Reconnaissance de la fibromyalgie
 i-2793	c-7	238	16436	6ème République - convocation d'une Constituante
 i-2763	c-7	1315	1504	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	3126	17208	Création de l’infraction d’homicide routier
+i-2737	c-7	3124	17210	Création de l’infraction d’homicide routier
 
-voix en 10 j :	6534
+voix en 10 j :	6530
