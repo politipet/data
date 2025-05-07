@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	52	52
 i-2642	c-6	58	511
-i-2640	c-6	63	1378	Non à la suppression de l'abattement de 10%
-i-2855	c-1	82	82
-i-2697	c-2	131	1424	Pour une loi «un pour un» dans les médias
-i-2760	c-8	144	29437	Abrogation des ZFE (#gueux)
-i-2793	c-7	196	16486	6ème République - convocation d'une Constituante
-i-2728	c-5	197	5298	Reconnaissance de la fibromyalgie
-i-2763	c-7	1336	1527	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	1750	17370	Création de l’infraction d’homicide routier
+i-2743	c-7	58	58
+i-2640	c-6	62	1378	Non à la suppression de l'abattement de 10%
+i-2855	c-1	94	94
+i-2697	c-2	134	1427	Pour une loi «un pour un» dans les médias
+i-2760	c-8	143	29437	Abrogation des ZFE (#gueux)
+i-2793	c-7	196	16487	6ème République - convocation d'une Constituante
+i-2728	c-5	197	5299	Reconnaissance de la fibromyalgie
+i-2763	c-7	1337	1528	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	1723	17371	Création de l’infraction d’homicide routier
 
-voix en 10 j :	5302
+voix en 10 j :	5311
