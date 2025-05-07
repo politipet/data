@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2738	c-8	40	2735	Des véhicules du quotidien abordables et légers
-i-2642	c-6	52	504
+i-2642	c-6	51	504
 i-2601	c-7	54	10398	Abrogation décret feux vélo clignotants
-i-2640	c-6	66	1375	Non à la suppression de l'abattement de 10%
-i-2697	c-2	122	1415	Pour une loi «un pour un» dans les médias
-i-2760	c-8	147	29435	Abrogation des ZFE (#gueux)
-i-2728	c-5	198	5289	Reconnaissance de la fibromyalgie
-i-2793	c-7	203	16471	6ème République - convocation d'une Constituante
-i-2763	c-7	1331	1522	Parrainage citoyens des candidats Présidentielle
-i-2737	c-7	1986	17330	Création de l’infraction d’homicide routier
+i-2640	c-6	64	1375	Non à la suppression de l'abattement de 10%
+i-2697	c-2	123	1416	Pour une loi «un pour un» dans les médias
+i-2760	c-8	146	29435	Abrogation des ZFE (#gueux)
+i-2728	c-5	198	5292	Reconnaissance de la fibromyalgie
+i-2793	c-7	200	16471	6ème République - convocation d'une Constituante
+i-2763	c-7	1332	1523	Parrainage citoyens des candidats Présidentielle
+i-2737	c-7	1942	17336	Création de l’infraction d’homicide routier
 
-voix en 10 j :	5418
+voix en 10 j :	5392
