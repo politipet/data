@@ -3,11 +3,11 @@ i-2738	c-8	46	2747	Des véhicules du quotidien abordables et légers
 i-2642	c-6	56	522
 i-2743	c-7	73	90
 i-2760	c-8	131	29457	Abrogation des ZFE (#gueux)
-i-2763	c-7	148	1538	Parrainage citoyens des candidats Présidentielle
+i-2763	c-7	147	1538	Parrainage citoyens des candidats Présidentielle
 i-2697	c-2	157	1462	Pour une loi «un pour un» dans les médias
 i-2728	c-5	189	5322	Reconnaissance de la fibromyalgie
 i-2855	c-1	231	231
 i-2793	c-7	378	16726	6ème République - convocation d'une Constituante
-i-2737	c-7	795	17444	Création de l’infraction d’homicide routier
+i-2737	c-7	789	17444	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3055
+voix en 10 j :	3048
