@@ -5,9 +5,9 @@ i-2743	c-7	74	85
 i-2760	c-8	130	29447	Abrogation des ZFE (#gueux)
 i-2697	c-2	151	1454	Pour une loi «un pour un» dans les médias
 i-2728	c-5	187	5310	Reconnaissance de la fibromyalgie
-i-2855	c-1	216	216
+i-2855	c-1	217	217
 i-2763	c-7	228	1533	Parrainage citoyens des candidats Présidentielle
-i-2793	c-7	361	16690	6ème République - convocation d'une Constituante
-i-2737	c-7	1077	17425	Création de l’infraction d’homicide routier
+i-2793	c-7	364	16693	6ème République - convocation d'une Constituante
+i-2737	c-7	1078	17426	Création de l’infraction d’homicide routier
 
-voix en 10 j :	3399
+voix en 10 j :	3407
