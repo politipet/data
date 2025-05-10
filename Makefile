@@ -24,10 +24,11 @@ closed:
 		echo $$id `\
 		curl -sL petitions.assemblee-nationale.fr/initiatives/$$id \
 		| grep progress__bar__number | sed 's/[^>]*>//; s/<.*//' \
+		| tr -d ' ' \
 		`) & \
 	done > .gone.fresh; wait
-	sort .gone | cut -d ' ' -f 1,2 > .gone.sorted
-	sort .gone.fresh | join .gone.sorted - > .gone
+	sort -k1.3nr .gone | cut -d ' ' -f 1,2 > .gone.sorted
+	sort -k1.3nr .gone.fresh | join .gone.sorted - > .gone
 	cat .gone all-closed.txt | sort -t - -k2nr > .closed
 	mv .closed all-closed.txt
 	git add all-closed.txt
