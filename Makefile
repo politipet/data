@@ -20,16 +20,7 @@ update:
 
 closed:
 	make gone --no-print-directory > .gone
-	for id in `cat .gone | cut -d ' ' -f 1`; do ( \
-		echo $$id `\
-		curl -sL petitions.assemblee-nationale.fr/initiatives/$$id \
-		| grep progress__bar__number | sed 's/[^>]*>//; s/<.*//' \
-		| tr -d ' ' \
-		`) & \
-		i=$$((i+1)); [ $$((i % 20)) = 0 ] && wait; \
-	done > .gone.fresh; wait
-	sort -k1.3nr .gone | cut -d ' ' -f 1,2 > .gone.sorted
-	sort -k1.3nr .gone.fresh | join .gone.sorted - > .gone
+	make refetch --silent
 	cat .gone all-closed.txt | sort -k1.3nr > .closed
 	mv .closed all-closed.txt
 	git add all-closed.txt
@@ -40,6 +31,18 @@ closed:
 	:
 	@cat .gone | cut -f 1,3 -d ' ' \
 	| sed "s,^,https://petitions.assemblee-nationale.fr/initiatives/,"
+
+refetch:
+	for id in `cat .gone | cut -d ' ' -f 1`; do ( \
+		echo $$id `\
+		curl -sL petitions.assemblee-nationale.fr/initiatives/$$id \
+		| grep progress__bar__number | sed 's/[^>]*>//; s/<.*//' \
+		| tr -d ' ' \
+		`) & \
+		i=$$((i+1)); [ $$((i % 20)) = 0 ] && wait; \
+	done > .gone.fresh; wait
+	sort -k1.3nr .gone | cut -d ' ' -f 1,2 > .gone.sorted
+	sort -k1.3nr .gone.fresh | join .gone.sorted - > .gone
 
 gone:
 	@git diff \
