@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2738	c-8	52	2754	Des véhicules du quotidien abordables et légers
+i-2738	c-8	51	2754	Des véhicules du quotidien abordables et légers
 i-2642	c-6	55	524
-i-2743	c-7	80	98
-i-2763	c-7	105	1542	Parrainage citoyens des candidats Présidentielle
+i-2743	c-7	81	99
+i-2763	c-7	104	1542	Parrainage citoyens des candidats Présidentielle
 i-2760	c-8	123	29470	Abrogation des ZFE (#gueux)
-i-2697	c-2	163	1470	Pour une loi «un pour un» dans les médias
-i-2728	c-5	195	5339	Reconnaissance de la fibromyalgie
+i-2697	c-2	165	1472	Pour une loi «un pour un» dans les médias
+i-2728	c-5	197	5341	Reconnaissance de la fibromyalgie
 i-2855	c-1	243	243
-i-2793	c-7	379	16753	6ème République - convocation d'une Constituante
-i-2737	c-7	497	17460	Création de l’infraction d’homicide routier
+i-2793	c-7	377	16754	6ème République - convocation d'une Constituante
+i-2737	c-7	492	17464	Création de l’infraction d’homicide routier
 
-voix en 10 j :	2717
+voix en 10 j :	2732
