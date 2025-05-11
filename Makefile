@@ -30,7 +30,7 @@ closed:
 	done > .gone.fresh; wait
 	sort -k1.3nr .gone | cut -d ' ' -f 1,2 > .gone.sorted
 	sort -k1.3nr .gone.fresh | join .gone.sorted - > .gone
-	cat .gone all-closed.txt | sort -t - -k2nr > .closed
+	cat .gone all-closed.txt | sort -k1.3nr > .closed
 	mv .closed all-closed.txt
 	git add all-closed.txt
 	git commit --untracked-files=no \
