@@ -26,6 +26,7 @@ closed:
 		| grep progress__bar__number | sed 's/[^>]*>//; s/<.*//' \
 		| tr -d ' ' \
 		`) & \
+		i=$$((i+1)); [ $$((i % 20)) = 0 ] && wait; \
 	done > .gone.fresh; wait
 	sort -k1.3nr .gone | cut -d ' ' -f 1,2 > .gone.sorted
 	sort -k1.3nr .gone.fresh | join .gone.sorted - > .gone
