@@ -8,6 +8,6 @@ i-2697	c-2	164	1479	Pour une loi «un pour un» dans les médias
 i-2728	c-5	194	5360	Reconnaissance de la fibromyalgie
 i-2855	c-1	248	248
 i-2793	c-7	376	16766	6ème République - convocation d'une Constituante
-i-2737	c-7	420	17479	Création de l’infraction d’homicide routier
+i-2737	c-7	420	17480	Création de l’infraction d’homicide routier
 
-voix en 10 j :	2603
+voix en 10 j :	2602
