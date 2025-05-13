@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2642	c-6	56	528
 i-2763	c-7	74	1551	Parrainage citoyens des candidats Présidentielle
-i-2743	c-7	102	123
+i-2743	c-7	103	124
 i-2760	c-8	107	29486	Abrogation des ZFE (#gueux)
 i-2697	c-2	161	1482	Pour une loi «un pour un» dans les médias
 i-2855	c-1	255	255
-i-2728	c-5	315	5496	Reconnaissance de la fibromyalgie
-i-2793	c-7	386	16787	6ème République - convocation d'une Constituante
-i-2737	c-7	395	17510	Création de l’infraction d’homicide routier
-i-2863	c-5	495	495	Contre le projet de loi fin de vie
+i-2728	c-5	317	5498	Reconnaissance de la fibromyalgie
+i-2793	c-7	385	16787	6ème République - convocation d'une Constituante
+i-2737	c-7	396	17511	Création de l’infraction d’homicide routier
+i-2863	c-5	507	507	Contre le projet de loi fin de vie
 
-voix en 10 j :	3259
+voix en 10 j :	3300
