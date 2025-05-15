@@ -1,5 +1,4 @@
 i-2421	Logement sans condition pour les sans-abri
-i-2427	Repos hebdo 2 jours pour les 55+
 i-2428	Legalize It
 i-2469	Repas 1€ au resto-U pour les étudiant-es
 i-2489	Stop centrales photovoltaïques milieu naturel
@@ -20,10 +19,7 @@ i-2863	Contre le projet de loi fin de vie
 
 # ^ tracked ^     ▼ not tracked ▼
 
-i-2419	Prolongation congé maternel + parental
-i-2431	Adoption Loi sur la fin de vie
 i-2438	Accueil des Libanais en France
-i-2526	Ministère Protection Enfance + réforme ASE
 i-2640	Non à la suppression de l'abattement de 10%
 i-2644	Pour des trimestres TUC réputés cotisés
 i-2697	Pour une loi «un pour un» dans les médias
