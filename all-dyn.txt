@@ -5,9 +5,9 @@ i-2760	c-8	135	29534	Abrogation des ZFE (#gueux)
 i-2697	c-2	142	1500	Pour une loi «un pour un» dans les médias
 i-2743	c-7	149	176
 i-2855	c-1	336	336
-i-2737	c-7	353	17561	Création de l’infraction d’homicide routier
+i-2737	c-7	351	17561	Création de l’infraction d’homicide routier
 i-2728	c-5	376	5573	Reconnaissance de la fibromyalgie
-i-2793	c-7	798	17234	6ème République - convocation d'une Constituante
-i-2863	c-5	16968	16968	Contre le projet de loi fin de vie
+i-2793	c-7	799	17235	6ème République - convocation d'une Constituante
+i-2863	c-5	16985	16985	Contre le projet de loi fin de vie
 
-voix en 10 j :	20614
+voix en 10 j :	20630
