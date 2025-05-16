@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2576	c-7	79	1310
-i-2697	c-2	102	1508	Pour une loi «un pour un» dans les médias
-i-2760	c-8	151	29583	Abrogation des ZFE (#gueux)
-i-2828	c-1	159	159
-i-2737	c-7	299	17616	Création de l’infraction d’homicide routier
-i-2728	c-5	344	5629	Reconnaissance de la fibromyalgie
+i-2576	c-7	82	1313
+i-2697	c-2	99	1508	Pour une loi «un pour un» dans les médias
+i-2760	c-8	156	29588	Abrogation des ZFE (#gueux)
+i-2828	c-1	161	161
+i-2737	c-7	295	17617	Création de l’infraction d’homicide routier
+i-2728	c-5	343	5629	Reconnaissance de la fibromyalgie
 i-2855	c-1	348	348
-i-2793	c-7	859	17326	6ème République - convocation d'une Constituante
-i-2743	c-7	6857	6885	Macron Destitution (art. 68)
-i-2863	c-5	22784	22784	Contre le projet de loi fin de vie
+i-2793	c-7	863	17330	6ème République - convocation d'une Constituante
+i-2743	c-7	7507	7535	Macron Destitution (art. 68)
+i-2863	c-5	22879	22879	Contre le projet de loi fin de vie
 
-voix en 10 j :	33823
+voix en 10 j :	34619
