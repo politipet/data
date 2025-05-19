@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2828	c-1	196	211
 i-2576	c-7	207	1445
-i-2856	c-1	233	233
-i-2760	c-8	285	29732	Abrogation des ZFE (#gueux)
-i-2728	c-5	342	5652	Reconnaissance de la fibromyalgie
+i-2856	c-1	234	234
+i-2760	c-8	290	29737	Abrogation des ZFE (#gueux)
+i-2728	c-5	341	5652	Reconnaissance de la fibromyalgie
 i-2737	c-7	355	17781	Création de l’infraction d’homicide routier
-i-2855	c-1	679	896
-i-2793	c-7	729	17422	6ème République - convocation d'une Constituante
-i-2743	c-7	25928	26013	Macron Destitution (art. 68)
-i-2863	c-5	26139	26139	Contre le projet de loi fin de vie
+i-2855	c-1	681	898
+i-2793	c-7	725	17423	6ème République - convocation d'une Constituante
+i-2743	c-7	26110	26195	Macron Destitution (art. 68)
+i-2863	c-5	26217	26217	Contre le projet de loi fin de vie
 
-voix en 10 j :	58990
+voix en 10 j :	59302
