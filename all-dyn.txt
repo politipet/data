@@ -6,8 +6,8 @@ i-2728	c-5	339	5677	Reconnaissance de la fibromyalgie
 i-2760	c-8	382	29850	Abrogation des ZFE (#gueux)
 i-2737	c-7	390	17849	Création de l’infraction d’homicide routier
 i-2793	c-7	739	17487	6ème République - convocation d'une Constituante
-i-2855	c-1	775	1016
-i-2863	c-5	29247	29247	Contre le projet de loi fin de vie
-i-2743	c-7	32367	32465	Macron Destitution (art. 68)
+i-2855	c-1	777	1018
+i-2863	c-5	29258	29258	Contre le projet de loi fin de vie
+i-2743	c-7	32401	32499	Macron Destitution (art. 68)
 
-voix en 10 j :	70230
+voix en 10 j :	70280
