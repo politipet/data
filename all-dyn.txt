@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2576	c-7	274	1584
+i-2576	c-7	275	1585
 i-2856	c-1	283	317
 i-2793	c-7	317	17643	6ème République - convocation d'une Constituante
-i-2483	c-7	332	6500	Référendum obligatoire (article 89)
-i-2737	c-7	350	17966	Création de l’infraction d’homicide routier
+i-2483	c-7	333	6501	Référendum obligatoire (article 89)
+i-2737	c-7	351	17967	Création de l’infraction d’homicide routier
 i-2760	c-8	378	29961	Abrogation des ZFE (#gueux)
-i-2763	c-7	388	1966	Parrainage citoyens des candidats Présidentielle
+i-2763	c-7	389	1967	Parrainage citoyens des candidats Présidentielle
 i-2855	c-1	737	1085
-i-2863	c-5	14922	37706	Contre le projet de loi fin de vie
-i-2743	c-7	30405	37290	Macron Destitution (art. 68)
+i-2863	c-5	15112	37896	Contre le projet de loi fin de vie
+i-2743	c-7	30437	37322	Macron Destitution (art. 68)
 
-voix en 10 j :	54780
+voix en 10 j :	55019
