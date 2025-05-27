@@ -5,9 +5,9 @@ i-2793	c-7	312	17648	6ème République - convocation d'une Constituante
 i-2483	c-7	331	6505	Référendum obligatoire (article 89)
 i-2737	c-7	349	17970	Création de l’infraction d’homicide routier
 i-2760	c-8	376	29973	Abrogation des ZFE (#gueux)
-i-2763	c-7	393	1973	Parrainage citoyens des candidats Présidentielle
-i-2855	c-1	735	1086
-i-2863	c-5	15441	38611	Contre le projet de loi fin de vie
-i-2743	c-7	27682	37469	Macron Destitution (art. 68)
+i-2763	c-7	392	1973	Parrainage citoyens des candidats Présidentielle
+i-2855	c-1	733	1086
+i-2863	c-5	15428	38623	Contre le projet de loi fin de vie
+i-2743	c-7	27475	37474	Macron Destitution (art. 68)
 
-voix en 10 j :	52447
+voix en 10 j :	52222
