@@ -7,7 +7,7 @@ i-2760	c-8	181	30031	Abrogation des ZFE (#gueux)
 i-2483	c-7	306	6550	Référendum obligatoire (article 89)
 i-2763	c-7	354	2017	Parrainage citoyens des candidats Présidentielle
 i-2793	c-7	478	17965	6ème République - convocation d'une Constituante
-i-2743	c-7	7897	40343	Macron Destitution (art. 68)
-i-2863	c-5	11963	41207	Contre le projet de loi fin de vie
+i-2743	c-7	7881	40346	Macron Destitution (art. 68)
+i-2863	c-5	11961	41208	Contre le projet de loi fin de vie
 
-voix en 10 j :	25611
+voix en 10 j :	25591
