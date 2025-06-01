@@ -6,8 +6,8 @@ i-2760	c-8	158	30039	Abrogation des ZFE (#gueux)
 i-2491	c-7	182	5685	RIC-Constituant #4 (article 89)
 i-2483	c-7	312	6565	Référendum obligatoire (article 89)
 i-2763	c-7	347	2019	Parrainage citoyens des candidats Présidentielle
-i-2793	c-7	541	18086	6ème République - convocation d'une Constituante
-i-2743	c-7	6684	40870	Macron Destitution (art. 68)
-i-2863	c-5	10232	41340	Contre le projet de loi fin de vie
+i-2793	c-7	542	18087	6ème République - convocation d'une Constituante
+i-2743	c-7	6688	40874	Macron Destitution (art. 68)
+i-2863	c-5	10237	41345	Contre le projet de loi fin de vie
 
-voix en 10 j :	22230
+voix en 10 j :	22241
