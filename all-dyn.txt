@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2875	c-5	103	168
-i-2737	c-7	125	18023	Création de l’infraction d’homicide routier
-i-2854	c-7	137	319
+i-2737	c-7	124	18023	Création de l’infraction d’homicide routier
+i-2854	c-7	136	319
 i-2760	c-8	155	30039	Abrogation des ZFE (#gueux)
-i-2491	c-7	185	5689	RIC-Constituant #4 (article 89)
-i-2483	c-7	312	6570	Référendum obligatoire (article 89)
+i-2491	c-7	184	5689	RIC-Constituant #4 (article 89)
+i-2483	c-7	311	6570	Référendum obligatoire (article 89)
 i-2763	c-7	346	2020	Parrainage citoyens des candidats Présidentielle
-i-2793	c-7	554	18108	6ème République - convocation d'une Constituante
-i-2743	c-7	6563	40986	Macron Destitution (art. 68)
-i-2863	c-5	9898	41367	Contre le projet de loi fin de vie
+i-2793	c-7	556	18113	6ème République - convocation d'une Constituante
+i-2743	c-7	6529	41007	Macron Destitution (art. 68)
+i-2863	c-5	9818	41375	Contre le projet de loi fin de vie
 
-voix en 10 j :	21663
+voix en 10 j :	21526
