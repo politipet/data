@@ -7,7 +7,7 @@ i-2491	c-7	183	5695	RIC-Constituant #4 (article 89)
 i-2483	c-7	307	6576	Référendum obligatoire (article 89)
 i-2763	c-7	357	2034	Parrainage citoyens des candidats Présidentielle
 i-2793	c-7	597	18189	6ème République - convocation d'une Constituante
-i-2743	c-7	5750	41817	Macron Destitution (art. 68)
-i-2863	c-5	8084	41576	Contre le projet de loi fin de vie
+i-2743	c-7	5753	41823	Macron Destitution (art. 68)
+i-2863	c-5	8084	41578	Contre le projet de loi fin de vie
 
-voix en 10 j :	18706
+voix en 10 j :	18710
