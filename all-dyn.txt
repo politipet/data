@@ -3,11 +3,11 @@ i-2738	c-8	95	2952	Des véhicules du quotidien abordables et légers
 i-2875	c-5	101	218
 i-2737	c-7	116	18065	Création de l’infraction d’homicide routier
 i-2854	c-7	117	354
-i-2760	c-8	122	30066	Abrogation des ZFE (#gueux)
+i-2760	c-8	123	30067	Abrogation des ZFE (#gueux)
 i-2483	c-7	138	6586	Référendum obligatoire (article 89)
 i-2763	c-7	144	2039	Parrainage citoyens des candidats Présidentielle
 i-2793	c-7	613	18225	6ème République - convocation d'une Constituante
-i-2743	c-7	5592	42428	Macron Destitution (art. 68)
-i-2863	c-5	6601	41674	Contre le projet de loi fin de vie
+i-2743	c-7	5622	42458	Macron Destitution (art. 68)
+i-2863	c-5	6603	41676	Contre le projet de loi fin de vie
 
-voix en 10 j :	16369
+voix en 10 j :	16420
