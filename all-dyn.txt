@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2738	c-8	81	2953	Des véhicules du quotidien abordables et légers
-i-2763	c-7	92	2041	Parrainage citoyens des candidats Présidentielle
-i-2483	c-7	100	6589	Référendum obligatoire (article 89)
-i-2854	c-7	112	359
-i-2737	c-7	115	18075	Création de l’infraction d’homicide routier
-i-2760	c-8	124	30080	Abrogation des ZFE (#gueux)
-i-2875	c-5	127	253
-i-2793	c-7	612	18244	6ème République - convocation d'une Constituante
-i-2863	c-5	5363	41724	Contre le projet de loi fin de vie
-i-2743	c-7	5711	42831	Macron Destitution (art. 68)
+i-2738	c-8	81	2954	Des véhicules du quotidien abordables et légers
+i-2763	c-7	89	2041	Parrainage citoyens des candidats Présidentielle
+i-2483	c-7	97	6589	Référendum obligatoire (article 89)
+i-2854	c-7	110	359
+i-2737	c-7	116	18076	Création de l’infraction d’homicide routier
+i-2760	c-8	125	30082	Abrogation des ZFE (#gueux)
+i-2875	c-5	127	254
+i-2793	c-7	613	18246	6ème République - convocation d'une Constituante
+i-2863	c-5	5230	41732	Contre le projet de loi fin de vie
+i-2743	c-7	5706	42846	Macron Destitution (art. 68)
 
-voix en 10 j :	14994
+voix en 10 j :	14825
