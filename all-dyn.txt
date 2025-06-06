@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2856	c-1	78	398
 i-2738	c-8	80	2956	Des véhicules du quotidien abordables et légers
 i-2483	c-7	87	6598	Référendum obligatoire (article 89)
-i-2854	c-7	102	365
-i-2737	c-7	112	18084	Création de l’infraction d’homicide routier
-i-2760	c-8	119	30095	Abrogation des ZFE (#gueux)
-i-2875	c-5	146	281
-i-2793	c-7	625	18276	6ème République - convocation d'une Constituante
-i-2863	c-5	2393	41806	Contre le projet de loi fin de vie
-i-2743	c-7	6572	44176	Macron Destitution (art. 68)
+i-2854	c-7	103	366
+i-2737	c-7	113	18085	Création de l’infraction d’homicide routier
+i-2760	c-8	122	30098	Abrogation des ZFE (#gueux)
+i-2875	c-5	147	282
+i-2793	c-7	627	18278	6ème République - convocation d'une Constituante
+i-2863	c-5	2397	41810	Contre le projet de loi fin de vie
+i-2743	c-7	6642	44246	Macron Destitution (art. 68)
 
-voix en 10 j :	12812
+voix en 10 j :	12939
