@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2576	c-7	84	1676
-i-2483	c-7	85	6602	Référendum obligatoire (article 89)
-i-2854	c-7	101	372
-i-2737	c-7	113	18093	Création de l’infraction d’homicide routier
-i-2760	c-8	125	30113	Abrogation des ZFE (#gueux)
+i-2483	c-7	86	6603	Référendum obligatoire (article 89)
+i-2854	c-7	101	373
+i-2737	c-7	112	18093	Création de l’infraction d’homicide routier
+i-2760	c-8	123	30113	Abrogation des ZFE (#gueux)
 i-2875	c-5	167	309
-i-2890	c-3	261	261
-i-2793	c-7	614	18301	6ème République - convocation d'une Constituante
-i-2863	c-5	1297	41869	Contre le projet de loi fin de vie
-i-2743	c-7	7151	45184	Macron Destitution (art. 68)
+i-2890	c-3	267	267
+i-2793	c-7	613	18301	6ème République - convocation d'une Constituante
+i-2863	c-5	1274	41869	Contre le projet de loi fin de vie
+i-2743	c-7	7182	45228	Macron Destitution (art. 68)
 
-voix en 10 j :	12613
+voix en 10 j :	12619
