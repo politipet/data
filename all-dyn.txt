@@ -5,9 +5,9 @@ i-2854	c-7	98	375
 i-2737	c-7	111	18099	Création de l’infraction d’homicide routier
 i-2760	c-8	116	30118	Abrogation des ZFE (#gueux)
 i-2875	c-5	166	315
-i-2890	c-3	323	323
+i-2890	c-3	324	324
 i-2793	c-7	481	18311	6ème République - convocation d'une Constituante
 i-2863	c-5	1078	41903	Contre le projet de loi fin de vie
-i-2743	c-7	7799	46069	Macron Destitution (art. 68)
+i-2743	c-7	7813	46083	Macron Destitution (art. 68)
 
-voix en 10 j :	13048
+voix en 10 j :	13064
