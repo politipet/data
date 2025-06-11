@@ -1,6 +1,5 @@
 i-2421	Logement sans condition pour les sans-abri
 i-2428	Legalize It
-i-2469	Repas 1€ au resto-U pour les étudiant-es
 i-2489	Stop centrales photovoltaïques milieu naturel
 i-2490	Présomption de légitime défense des FDO
 i-2483	Référendum obligatoire (article 89)
