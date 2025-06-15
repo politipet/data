@@ -6,8 +6,8 @@ i-2875	c-5	97	339
 i-2760	c-8	99	30175	Abrogation des ZFE (#gueux)
 i-2885	c-4	150	150
 i-2793	c-7	159	18400	6ème République - convocation d'une Constituante
-i-2863	c-5	397	42106	Contre le projet de loi fin de vie
+i-2863	c-5	398	42107	Contre le projet de loi fin de vie
 i-2890	c-3	487	487	Sauver Lormauto, retrofit bas carbone citoyen
-i-2743	c-7	6848	49629	Macron Destitution (art. 68)
+i-2743	c-7	6851	49632	Macron Destitution (art. 68)
 
-voix en 10 j :	10681
+voix en 10 j :	10692
