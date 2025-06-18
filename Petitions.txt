@@ -31,3 +31,4 @@ i-2803	Transparence au concours de thanatopraxie
 i-2806	Reconnaissance de la nudité à domicile
 i-2885	Reconnaissance immédiate de la Palestine
 i-2890	Sauver Lormauto, retrofit bas carbone citoyen
+i-2961	Reconnaissance police municipale gardes champêtres
