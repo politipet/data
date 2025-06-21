@@ -7,7 +7,7 @@ i-2793	c-7	100	18438	6ème République - convocation d'une Constituante
 i-2886	c-6	125	126
 i-2885	c-4	204	206	Reconnaissance immédiate de la Palestine
 i-2863	c-5	230	42245	Contre le projet de loi fin de vie
-i-2961	c-7	1684	1684	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2572	50707	Macron Destitution (art. 68)
+i-2961	c-7	1685	1685	Reconnaissance police municipale gardes champêtres
+i-2743	c-7	2557	50707	Macron Destitution (art. 68)
 
-voix en 10 j :	6652
+voix en 10 j :	6632
