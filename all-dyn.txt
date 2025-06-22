@@ -3,11 +3,11 @@ i-2890	c-3	44	509	Sauver Lormauto, retrofit bas carbone citoyen
 i-2899	c-3	50	58
 i-2793	c-7	66	18439	6ème République - convocation d'une Constituante
 i-2760	c-8	83	30221	Abrogation des ZFE (#gueux)
-i-2894	c-4	115	115
-i-2885	c-4	120	207	Reconnaissance immédiate de la Palestine
-i-2886	c-6	124	131
-i-2863	c-5	204	42252	Contre le projet de loi fin de vie
-i-2961	c-7	1743	1743	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2096	50794	Macron Destitution (art. 68)
+i-2885	c-4	116	207	Reconnaissance immédiate de la Palestine
+i-2894	c-4	116	116
+i-2886	c-6	123	131
+i-2863	c-5	202	42252	Contre le projet de loi fin de vie
+i-2961	c-7	1747	1747	Reconnaissance police municipale gardes champêtres
+i-2743	c-7	2085	50799	Macron Destitution (art. 68)
 
-voix en 10 j :	6044
+voix en 10 j :	6029
