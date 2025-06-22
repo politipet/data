@@ -3,11 +3,11 @@ i-2737	c-7	40	18170	Création de l’infraction d’homicide routier
 i-2899	c-3	50	58
 i-2760	c-8	56	30221	Abrogation des ZFE (#gueux)
 i-2793	c-7	61	18440	6ème République - convocation d'une Constituante
-i-2885	c-4	88	209	Reconnaissance immédiate de la Palestine
-i-2886	c-6	113	131
+i-2885	c-4	85	209	Reconnaissance immédiate de la Palestine
+i-2886	c-6	114	132
 i-2894	c-4	121	121
-i-2863	c-5	192	42256	Contre le projet de loi fin de vie
-i-2961	c-7	1772	1772	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	1945	50860	Macron Destitution (art. 68)
+i-2863	c-5	193	42257	Contre le projet de loi fin de vie
+i-2961	c-7	1774	1774	Reconnaissance police municipale gardes champêtres
+i-2743	c-7	1943	50861	Macron Destitution (art. 68)
 
 voix en 10 j :	5783
