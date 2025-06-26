@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2885	c-4	48	219	Reconnaissance immédiate de la Palestine
 i-2899	c-3	48	60
-i-2498	c-7	53	250
-i-2760	c-8	61	30254	Abrogation des ZFE (#gueux)
+i-2498	c-7	52	250
+i-2760	c-8	60	30254	Abrogation des ZFE (#gueux)
 i-2737	c-7	100	18247	Création de l’infraction d’homicide routier
 i-2886	c-6	110	137
-i-2863	c-5	157	42306	Contre le projet de loi fin de vie
+i-2863	c-5	158	42308	Contre le projet de loi fin de vie
 i-2894	c-4	182	182
 i-2961	c-7	1916	1916	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2129	52142	Macron Destitution (art. 68)
+i-2743	c-7	2129	52148	Macron Destitution (art. 68)
 
-voix en 10 j :	6178
+voix en 10 j :	6175
