@@ -5,9 +5,9 @@ i-2885	c-4	52	219	Reconnaissance immédiate de la Palestine
 i-2760	c-8	70	30249	Abrogation des ZFE (#gueux)
 i-2737	c-7	87	18234	Création de l’infraction d’homicide routier
 i-2886	c-6	109	136
-i-2894	c-4	161	161
+i-2894	c-4	163	163
 i-2863	c-5	166	42292	Contre le projet de loi fin de vie
 i-2961	c-7	1899	1899	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2006	51852	Macron Destitution (art. 68)
+i-2743	c-7	2011	51861	Macron Destitution (art. 68)
 
-voix en 10 j :	5984
+voix en 10 j :	5990
