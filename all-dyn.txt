@@ -4,10 +4,10 @@ i-2563	c-3	52	103
 i-2760	c-8	54	30273	Abrogation des ZFE (#gueux)
 i-2989	c-2	54	54
 i-2863	c-5	107	42338	Contre le projet de loi fin de vie
-i-2737	c-7	119	18276	Création de l’infraction d’homicide routier
+i-2737	c-7	120	18277	Création de l’infraction d’homicide routier
 i-2894	c-4	134	203
 i-2846	c-7	345	478
-i-2961	c-7	382	1979	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2119	52715	Macron Destitution (art. 68)
+i-2961	c-7	381	1979	Reconnaissance police municipale gardes champêtres
+i-2743	c-7	2121	52722	Macron Destitution (art. 68)
 
-voix en 10 j :	4926
+voix en 10 j :	4927
