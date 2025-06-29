@@ -8,6 +8,6 @@ i-2863	c-5	125	42326	Contre le projet de loi fin de vie
 i-2894	c-4	163	194
 i-2846	c-7	338	470
 i-2961	c-7	645	1973	Reconnaissance police municipale gardes champêtres
-i-2743	c-7	2173	52579	Macron Destitution (art. 68)
+i-2743	c-7	2174	52580	Macron Destitution (art. 68)
 
-voix en 10 j :	5420
+voix en 10 j :	5421
