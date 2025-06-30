@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2760	c-8	56	30276	Abrogation des ZFE (#gueux)
 i-2563	c-3	57	108
-i-2989	c-2	65	65
+i-2989	c-2	66	66
 i-2863	c-5	107	42351	Contre le projet de loi fin de vie
 i-2894	c-4	123	207
-i-2737	c-7	131	18291	Création de l’infraction d’homicide routier
-i-2902	c-8	252	252
+i-2737	c-7	132	18292	Création de l’infraction d’homicide routier
 i-2961	c-7	322	2002	Reconnaissance police municipale gardes champêtres
 i-2846	c-7	353	486
-i-2743	c-7	2147	52830	Macron Destitution (art. 68)
+i-2902	c-8	419	419
+i-2743	c-7	2154	52837	Macron Destitution (art. 68)
 
-voix en 10 j :	5195
+voix en 10 j :	5375
