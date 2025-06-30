@@ -7,7 +7,7 @@ i-2894	c-4	122	211
 i-2737	c-7	133	18294	Création de l’infraction d’homicide routier
 i-2961	c-7	319	2003	Reconnaissance police municipale gardes champêtres
 i-2846	c-7	353	486
-i-2902	c-8	809	809
-i-2743	c-7	2161	52864	Macron Destitution (art. 68)
+i-2902	c-8	850	850
+i-2743	c-7	2162	52865	Macron Destitution (art. 68)
 
-voix en 10 j :	5783
+voix en 10 j :	5825
