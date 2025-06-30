@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2793	c-7	37	18474	6ème République - convocation d'une Constituante
 i-2563	c-3	56	107
 i-2760	c-8	56	30276	Abrogation des ZFE (#gueux)
-i-2989	c-2	62	62
+i-2989	c-2	65	65
 i-2863	c-5	106	42350	Contre le projet de loi fin de vie
-i-2894	c-4	125	207
-i-2737	c-7	129	18289	Création de l’infraction d’homicide routier
-i-2961	c-7	323	1996	Reconnaissance police municipale gardes champêtres
-i-2846	c-7	352	485
-i-2743	c-7	2137	52809	Macron Destitution (art. 68)
+i-2894	c-4	124	207
+i-2737	c-7	130	18290	Création de l’infraction d’homicide routier
+i-2961	c-7	321	1997	Reconnaissance police municipale gardes champêtres
+i-2846	c-7	353	486
+i-2743	c-7	2139	52817	Macron Destitution (art. 68)
 
 voix en 10 j :	4931
