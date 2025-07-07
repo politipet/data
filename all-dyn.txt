@@ -3,11 +3,11 @@ i-2806	c-7	26	565	Reconnaissance de la nudité à domicile
 i-2994	c-7	36	36
 i-2989	c-2	44	80
 i-2894	c-4	57	249
-i-2737	c-7	60	18322	Création de l’infraction d’homicide routier
+i-2737	c-7	59	18322	Création de l’infraction d’homicide routier
 i-2863	c-5	76	42397	Contre le projet de loi fin de vie
-i-2961	c-7	132	2057	Reconnaissance police municipale gardes champêtres
-i-2846	c-7	242	683
+i-2961	c-7	133	2058	Reconnaissance police municipale gardes champêtres
+i-2846	c-7	243	685
 i-2902	c-8	1447	1447
-i-2743	c-7	1474	53874	Macron Destitution (art. 68)
+i-2743	c-7	1469	53880	Macron Destitution (art. 68)
 
-voix en 10 j :	4760
+voix en 10 j :	4758
