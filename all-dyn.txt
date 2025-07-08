@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2806	c-7	26	565	Reconnaissance de la nudité à domicile
+i-2806	c-7	25	565	Reconnaissance de la nudité à domicile
 i-2994	c-7	37	37
-i-2989	c-2	44	80
-i-2894	c-4	59	252
+i-2989	c-2	43	80
 i-2737	c-7	60	18323	Création de l’infraction d’homicide routier
-i-2863	c-5	78	42399	Contre le projet de loi fin de vie
+i-2894	c-4	60	253
+i-2863	c-5	79	42400	Contre le projet de loi fin de vie
 i-2961	c-7	120	2059	Reconnaissance police municipale gardes champêtres
-i-2846	c-7	245	695
-i-2743	c-7	1446	53898	Macron Destitution (art. 68)
+i-2846	c-7	247	699
+i-2743	c-7	1444	53899	Macron Destitution (art. 68)
 i-2902	c-8	1449	1449
 
-voix en 10 j :	4743
+voix en 10 j :	4740
