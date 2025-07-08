@@ -5,9 +5,9 @@ i-2994	c-7	39	39
 i-2737	c-7	60	18328	Création de l’infraction d’homicide routier
 i-2894	c-4	61	255
 i-2863	c-5	77	42402	Contre le projet de loi fin de vie
-i-2961	c-7	89	2060	Reconnaissance police municipale gardes champêtres
+i-2961	c-7	88	2060	Reconnaissance police municipale gardes champêtres
 i-2846	c-7	260	730
-i-2743	c-7	1400	53937	Macron Destitution (art. 68)
+i-2743	c-7	1393	53940	Macron Destitution (art. 68)
 i-2902	c-8	1450	1450
 
-voix en 10 j :	4649
+voix en 10 j :	4637
