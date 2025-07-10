@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2994	c-7	41	41
-i-2924	c-8	46	94
-i-2737	c-7	52	18332	Création de l’infraction d’homicide routier
-i-2894	c-4	61	265
-i-2863	c-5	64	42407	Contre le projet de loi fin de vie
-i-2961	c-7	82	2065	Reconnaissance police municipale gardes champêtres
-i-2846	c-7	277	755
-i-2743	c-7	1270	54013	Macron Destitution (art. 68)
+i-2924	c-8	49	97
+i-2737	c-7	53	18333	Création de l’infraction d’homicide routier
+i-2894	c-4	62	266
+i-2863	c-5	63	42407	Contre le projet de loi fin de vie
+i-2961	c-7	79	2065	Reconnaissance police municipale gardes champêtres
+i-2846	c-7	277	756
+i-2743	c-7	1268	54014	Macron Destitution (art. 68)
 i-2902	c-8	1452	1453
-i-2610	c-7	2431	4545	Stop usage X pour la comm' du gouv'
+i-2610	c-7	2479	4593	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	7025
+voix en 10 j :	7070
