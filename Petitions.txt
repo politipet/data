@@ -1,4 +1,3 @@
-i-2421	Logement sans condition pour les sans-abri
 i-2428	Legalize It
 i-2489	Stop centrales photovoltaïques milieu naturel
 i-2490	Présomption de légitime défense des FDO
@@ -12,7 +11,6 @@ i-2657	Éradication de la pauvreté en France
 i-2728	Reconnaissance de la fibromyalgie
 i-2737	Création de l’infraction d’homicide routier
 i-2743	Macron Destitution (art. 68)
-i-2510	Abrogation des ZFE
 i-2760	Abrogation des ZFE (#gueux)
 i-2793	6ème République - convocation d'une Constituante
 i-2863	Contre le projet de loi fin de vie
