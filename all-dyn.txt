@@ -3,11 +3,11 @@ i-2894	c-4	51	277
 i-2961	c-7	51	2069	Reconnaissance police municipale gardes champêtres
 i-2863	c-5	59	42414	Contre le projet de loi fin de vie
 i-2924	c-8	61	111
-i-2846	c-7	284	771
-i-2902	c-8	292	1454
-i-3019	c-5	807	807
-i-3014	c-3	816	816
-i-2743	c-7	1162	54087	Macron Destitution (art. 68)
-i-2610	c-7	3312	5427	Stop usage X pour la comm' du gouv'
+i-2846	c-7	283	771
+i-2902	c-8	283	1454
+i-3019	c-5	833	833
+i-3014	c-3	913	913
+i-2743	c-7	1159	54092	Macron Destitution (art. 68)
+i-2610	c-7	3326	5441	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	8343
+voix en 10 j :	8471
