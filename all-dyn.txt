@@ -2,12 +2,12 @@ id	comm	diff	score	theme
 i-2894	c-4	51	277
 i-2961	c-7	51	2069	Reconnaissance police municipale gardes champêtres
 i-2863	c-5	59	42414	Contre le projet de loi fin de vie
-i-2924	c-8	61	111
+i-2924	c-8	62	112
 i-2846	c-7	283	771
 i-2902	c-8	283	1454
-i-3019	c-5	833	833
-i-3014	c-3	913	913
-i-2743	c-7	1159	54092	Macron Destitution (art. 68)
-i-2610	c-7	3326	5441	Stop usage X pour la comm' du gouv'
+i-3019	c-5	853	853
+i-3014	c-3	983	983
+i-2743	c-7	1165	54098	Macron Destitution (art. 68)
+i-2610	c-7	3338	5453	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	8471
+voix en 10 j :	8580
