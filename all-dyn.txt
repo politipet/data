@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2971	c-5	49	90
+i-2961	c-7	50	2073	Reconnaissance police municipale gardes champêtres
 i-2894	c-4	54	282
 i-2863	c-5	57	42416	Contre le projet de loi fin de vie
 i-2924	c-8	65	115
-i-2902	c-8	170	1456
-i-2846	c-7	284	775
-i-3019	c-5	1062	1062
-i-2743	c-7	1136	54140	Macron Destitution (art. 68)
-i-3014	c-3	1869	1869	Non à la loi Duplomb !
-i-2610	c-7	3463	5578	Stop usage X pour la comm' du gouv'
+i-2902	c-8	166	1456
+i-2846	c-7	285	776
+i-3019	c-5	1068	1068
+i-2743	c-7	1135	54142	Macron Destitution (art. 68)
+i-3014	c-3	1913	1913	Non à la loi Duplomb !
+i-2610	c-7	3469	5584	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	9682
+voix en 10 j :	9737
