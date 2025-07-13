@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2971	c-5	51	93
 i-2863	c-5	53	42417	Contre le projet de loi fin de vie
-i-2894	c-4	54	282
+i-2894	c-4	56	284
 i-2924	c-8	64	117
 i-2902	c-8	99	1456
 i-2846	c-7	286	779
-i-2743	c-7	1086	54189	Macron Destitution (art. 68)
-i-3019	c-5	1152	1152	Reconnaissance des kinés
-i-3014	c-3	2475	2475	Non à la loi Duplomb !
-i-2610	c-7	3530	5645	Stop usage X pour la comm' du gouv'
+i-2743	c-7	1091	54194	Macron Destitution (art. 68)
+i-3019	c-5	1155	1155	Reconnaissance des kinés
+i-3014	c-3	2536	2536	Non à la loi Duplomb !
+i-2610	c-7	3536	5651	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	10282
+voix en 10 j :	10366
