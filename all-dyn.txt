@@ -5,9 +5,9 @@ i-2894	c-4	54	282
 i-2924	c-8	64	117
 i-2902	c-8	110	1456
 i-2846	c-7	285	778
-i-2743	c-7	1098	54182	Macron Destitution (art. 68)
-i-3019	c-5	1135	1135	Reconnaissance des kinés
-i-3014	c-3	2376	2376	Non à la loi Duplomb !
-i-2610	c-7	3526	5641	Stop usage X pour la comm' du gouv'
+i-2743	c-7	1103	54187	Macron Destitution (art. 68)
+i-3019	c-5	1142	1142	Reconnaissance des kinés
+i-3014	c-3	2418	2418	Non à la loi Duplomb !
+i-2610	c-7	3527	5642	Stop usage X pour la comm' du gouv'
 
-voix en 10 j :	10218
+voix en 10 j :	10276
