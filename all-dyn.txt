@@ -3,11 +3,11 @@ i-2863	c-5	44	42423	Contre le projet de loi fin de vie
 i-2971	c-5	50	92
 i-2894	c-4	60	291
 i-2924	c-8	66	123
-i-2902	c-8	127	1538
+i-2902	c-8	128	1539
 i-2846	c-7	295	789
-i-2743	c-7	869	54323	Macron Destitution (art. 68)
-i-3019	c-5	1350	1350	Reconnaissance des kinés
-i-2610	c-7	3650	5766	Stop usage X pour la comm' du gouv'
-i-3014	c-3	4022	4022	Non à la loi Duplomb !
+i-2743	c-7	862	54323	Macron Destitution (art. 68)
+i-3019	c-5	1359	1359	Reconnaissance des kinés
+i-2610	c-7	3652	5768	Stop usage X pour la comm' du gouv'
+i-3014	c-3	4065	4065	Non à la loi Duplomb !
 
-voix en 10 j :	11882
+voix en 10 j :	11930
