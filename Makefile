@@ -183,7 +183,8 @@ diff-stats:
 		END { for (x in s) print x, c[x], d[x], s[x] }' \
 	| sort > .1
 	@sed '/^#/ d' Petitions.txt | sort > .2
-	@join .1 .2 -a 1 | sort -n -k3 \
+	@join .1 .2 -a 1 | sort -nr -k3 \
+		| head -10 \
 		| sed 's/ /\t/;s/ /\t/;s/ /\t/;s/ /\t/'
 	@printf "\nvoix en $(since:days=j) :\t"
 	@cat .1 | cut -d ' ' -f 3 | grep -v - | xargs | tr ' ' + | bc
