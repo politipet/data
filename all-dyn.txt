@@ -1,5 +1,4 @@
 id	comm	diff	score	theme
-: diff stats since 10 days
 i-3014	c-3	26285	26285	Non à la loi Duplomb !
 i-2610	c-7	3745	5861	Stop usage X pour la comm' du gouv'
 i-3019	c-5	1871	1871	Reconnaissance des kinés

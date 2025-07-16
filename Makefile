@@ -171,7 +171,6 @@ cross-talk:
 
 since ?= 10 days
 diff-stats:
-	: diff stats since $(since)
 	@git diff \
 		`git log --since "$(since)" --format=%h $(data) \
 		 | tail -1` \
