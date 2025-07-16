@@ -86,7 +86,7 @@ top-10:
 	while read v; do				\
 		git checkout -q $$v $(data)		;\
 		make --no-print-directory		\
-			diff-stats | tail > .$@		;\
+			diff-stats > .$@		;\
 		{ echo; $(commit-date) $$v; } >> .$@	;\
 		clear && cat .$@			;\
 		sleep .1 				;\
@@ -217,7 +217,7 @@ all-stat:
 all-dyn:
 	git fetch --shallow-since="11 days"
 	echo "id\tcomm\tdiff\tscore\ttheme" > $@.txt
-	make --no-print-directory diff-stats | tail -12 >> $@.txt
+	make --no-print-directory diff-stats >> $@.txt
 
 update: all-stat _all-votes all-dyn
 
