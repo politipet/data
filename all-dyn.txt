@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	32366	32366	Non à la loi Duplomb !
-i-2610	c-7	3758	5874	Stop usage X pour la comm' du gouv'
-i-3019	c-5	1976	1976	Reconnaissance des kinés
-i-3021	c-8	1915	1915
-i-2743	c-7	858	54619	Macron Destitution (art. 68)
-i-2846	c-7	218	810
-i-2924	c-8	138	196
+i-3014	c-3	34279	34279	Non à la loi Duplomb !
+i-2610	c-7	3759	5875	Stop usage X pour la comm' du gouv'
+i-3021	c-8	2070	2070
+i-3019	c-5	2011	2011	Reconnaissance des kinés
+i-2743	c-7	858	54633	Macron Destitution (art. 68)
+i-2846	c-7	211	810
+i-2924	c-8	143	201
 i-2902	c-8	130	1571
-i-2793	c-7	116	18605	6ème République - convocation d'une Constituante
-i-2894	c-4	70	311
+i-2793	c-7	120	18610	6ème République - convocation d'une Constituante
+i-2894	c-4	69	311
 
-voix en 10 j :	44072
+voix en 10 j :	46226
