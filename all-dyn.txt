@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	119716	119716	Non à la loi Duplomb !
-i-3021	c-8	7691	7691	Sortie des pesticides de synthèse !
-i-2610	c-7	3954	6072	Stop usage X pour la comm' du gouv'
-i-3019	c-5	2391	2391	Reconnaissance des kinés
-i-2743	c-7	1189	55078	Macron Destitution (art. 68)
-i-2924	c-8	280	338
-i-2793	c-7	247	18739	6ème République - convocation d'une Constituante
-i-3023	c-3	244	244
-i-3026	c-5	218	218
-i-2902	c-8	135	1584
+i-3014	c-3	125891	125891	Non à la loi Duplomb !
+i-3021	c-8	7948	7948	Sortie des pesticides de synthèse !
+i-2610	c-7	3961	6079	Stop usage X pour la comm' du gouv'
+i-3019	c-5	2408	2408	Reconnaissance des kinés
+i-2743	c-7	1206	55098	Macron Destitution (art. 68)
+i-2924	c-8	289	348
+i-3023	c-3	258	258
+i-2793	c-7	251	18743	6ème République - convocation d'une Constituante
+i-3026	c-5	225	225
+i-2737	c-7	139	18462	Création de l’infraction d’homicide routier
 
-voix en 10 j :	140995
+voix en 10 j :	147644
