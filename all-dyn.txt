@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	669330	669330	Non à la loi Duplomb !
-i-3021	c-8	18580	18580	Sortie des pesticides de synthèse !
-i-3019	c-5	2715	2715	Reconnaissance des kinés
-i-2610	c-7	2575	6675	Stop usage X pour la comm' du gouv'
-i-2743	c-7	2574	56578	Macron Destitution (art. 68)
-i-3023	c-3	1031	1031
-i-2924	c-8	928	1019
-i-3026	c-5	920	920
-i-2793	c-7	786	19292	6ème République - convocation d'une Constituante
-i-3008	c-6	538	538
+i-3014	c-3	689333	689333	Non à la loi Duplomb !
+i-3021	c-8	18928	18928	Sortie des pesticides de synthèse !
+i-2743	c-7	2780	56785	Macron Destitution (art. 68)
+i-3019	c-5	2740	2740	Reconnaissance des kinés
+i-2610	c-7	2435	6700	Stop usage X pour la comm' du gouv'
+i-3023	c-3	1071	1071
+i-3026	c-5	975	975
+i-2924	c-8	968	1061
+i-2793	c-7	822	19329	6ème République - convocation d'une Constituante
+i-3008	c-6	572	572
 
-voix en 10 j :	719495
+voix en 10 j :	741122
