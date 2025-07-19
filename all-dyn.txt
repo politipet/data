@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	303200	303200	Non à la loi Duplomb !
-i-3021	c-8	12203	12203	Sortie des pesticides de synthèse !
-i-2610	c-7	4049	6267	Stop usage X pour la comm' du gouv'
-i-3019	c-5	2524	2524	Reconnaissance des kinés
-i-2743	c-7	1558	55517	Macron Destitution (art. 68)
-i-3023	c-3	519	519
-i-2924	c-8	472	533
-i-2793	c-7	413	18910	6ème République - convocation d'une Constituante
-i-3026	c-5	384	384
+i-3014	c-3	305966	305966	Non à la loi Duplomb !
+i-3021	c-8	12291	12291	Sortie des pesticides de synthèse !
+i-2610	c-7	4052	6270	Stop usage X pour la comm' du gouv'
+i-3019	c-5	2526	2526	Reconnaissance des kinés
+i-2743	c-7	1564	55523	Macron Destitution (art. 68)
+i-3023	c-3	522	522
+i-2924	c-8	476	537
+i-2793	c-7	417	18914	6ème République - convocation d'une Constituante
+i-3026	c-5	390	390
 i-2601	c-7	251	10794	Abrogation décret feux vélo clignotants
 
-voix en 10 j :	333875
+voix en 10 j :	336852
