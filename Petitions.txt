@@ -14,6 +14,7 @@ i-2743	Macron Destitution (art. 68)
 i-2760	Abrogation des ZFE (#gueux)
 i-2793	6ème République - convocation d'une Constituante
 i-2863	Contre le projet de loi fin de vie
+i-3008	Contribution ultra-riches et grandes entreprises
 i-3014	Non à la loi Duplomb !
 i-3021	Sortie des pesticides de synthèse !
 
