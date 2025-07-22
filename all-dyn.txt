@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	1555266	1556734	Non à la loi Duplomb !
-i-3021	c-8	31139	31139	Sortie des pesticides de synthèse !
-i-3008	c-6	13525	13525
-i-2743	c-7	9305	63423	Macron Destitution (art. 68)
-i-3092	c-3	3692	3692
-i-3019	c-5	3315	4295	Reconnaissance des kinés
-i-3026	c-5	3305	3305
-i-2924	c-8	2787	2900
-i-2610	c-7	2525	8017	Stop usage X pour la comm' du gouv'
-i-3023	c-3	2350	2350
+i-3014	c-3	1569716	1571248	Non à la loi Duplomb !
+i-3021	c-8	31303	31303	Sortie des pesticides de synthèse !
+i-3008	c-6	13836	13836
+i-2743	c-7	9401	63521	Macron Destitution (art. 68)
+i-3092	c-3	4456	4456
+i-3019	c-5	3388	4382	Reconnaissance des kinés
+i-3026	c-5	3326	3326
+i-2924	c-8	2807	2921
+i-2610	c-7	2543	8039	Stop usage X pour la comm' du gouv'
+i-3023	c-3	2355	2355
 
-voix en 10 j :	1701490
+voix en 10 j :	1719190
