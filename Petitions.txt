@@ -17,6 +17,8 @@ i-2863	Contre le projet de loi fin de vie
 i-3008	Contribution ultra-riches et grandes entreprises
 i-3014	Non à la loi Duplomb !
 i-3021	Sortie des pesticides de synthèse !
+i-2894	Sanction contre Israël
+i-3279	Gaza a faim : accès immédiat à l'aide humanitaire
 
 # ^ tracked ^     ▼ not tracked ▼
 
