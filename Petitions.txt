@@ -36,3 +36,4 @@ i-2885	Reconnaissance immédiate de la Palestine
 i-2890	Sauver Lormauto, retrofit bas carbone citoyen
 i-2961	Reconnaissance police municipale gardes champêtres
 i-3019	Reconnaissance des kinés
+i-3070	Abrogation contrôle technique moto
