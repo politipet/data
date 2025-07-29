@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3014	c-3	1657646	2045204	Non à la loi Duplomb !
-i-3279	c-4	31470	31470	Gaza a faim : accès immédiat à l'aide humanitaire
-i-3070	c-8	25405	25405	Abrogation contrôle technique moto
-i-3008	c-6	24761	25008	Contribution ultra-riches et grandes entreprises
-i-3021	c-8	24263	38152	Sortie des pesticides de synthèse !
-i-2894	c-4	19030	19467	Sanction contre Israël
-i-3092	c-3	18294	18294
-i-2743	c-7	13949	69600	Macron Destitution (art. 68)
-i-3019	c-5	6852	9412	Reconnaissance des kinés
-i-3259	c-3	6650	6650
+i-3014	c-3	1635526	2046144	Non à la loi Duplomb !
+i-3279	c-4	31688	31688	Gaza a faim : accès immédiat à l'aide humanitaire
+i-3070	c-8	25470	25470	Abrogation contrôle technique moto
+i-3008	c-6	24762	25020	Contribution ultra-riches et grandes entreprises
+i-3021	c-8	23830	38171	Sortie des pesticides de synthèse !
+i-2894	c-4	19045	19494	Sanction contre Israël
+i-3092	c-3	18301	18301
+i-2743	c-7	13920	69607	Macron Destitution (art. 68)
+i-3019	c-5	6844	9415	Reconnaissance des kinés
+i-3259	c-3	6659	6659
 
-voix en 10 j :	1993858
+voix en 10 j :	1971293
