@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3603	c-2	29791	29803	Non aux réseaux sociaux utilisés comme arme
-i-3014	c-3	26016	2123126	Non à la loi Duplomb !
-i-3070	c-8	7288	40858	Abrogation contrôle technique moto
-i-3279	c-4	6957	51185	Gaza a faim : accès immédiat à l'aide humanitaire
-i-3346	c-2	2696	16277	Suppression de l'ARCOM
-i-2894	c-4	2055	23958	Sanction contre Israël
-i-2743	c-7	1628	73023	Macron Destitution (art. 68)
-i-3026	c-5	1321	6044	Contre la suppression des 2 jours fériés
-i-3021	c-8	1121	40290	Sortie des pesticides de synthèse !
-i-3008	c-6	654	26413	Contribution ultra-riches et grandes entreprises
+i-3603	c-2	29798	29810	Non aux réseaux sociaux utilisés comme arme
+i-3014	c-3	25997	2123127	Non à la loi Duplomb !
+i-3070	c-8	7288	40860	Abrogation contrôle technique moto
+i-3279	c-4	6948	51185	Gaza a faim : accès immédiat à l'aide humanitaire
+i-3346	c-2	2683	16280	Suppression de l'ARCOM
+i-2894	c-4	2055	23959	Sanction contre Israël
+i-2743	c-7	1629	73025	Macron Destitution (art. 68)
+i-3026	c-5	1320	6046	Contre la suppression des 2 jours fériés
+i-3021	c-8	1120	40290	Sortie des pesticides de synthèse !
+i-3008	c-6	651	26413	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	100446
+voix en 10 j :	100291
