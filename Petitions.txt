@@ -41,3 +41,4 @@ i-3070	Abrogation contrôle technique moto
 i-3346	Suppression de l'ARCOM
 i-3603	Non aux réseaux sociaux utilisés comme arme
 i-3635	Suppression de l'ADEME
+i-3583	Refus de la destruction contraceptifs USAID
