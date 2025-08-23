@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3070	c-8	5648	46506	Abrogation contrôle technique moto
-i-3603	c-2	2968	32771	Non aux réseaux sociaux utilisés comme arme
-i-3014	c-3	2860	2125986	Non à la loi Duplomb !
-i-3346	c-2	2412	18689	Suppression de l'ARCOM
-i-3279	c-4	2152	53337	Gaza a faim : accès immédiat à l'aide humanitaire
-i-2743	c-7	1199	74222	Macron Destitution (art. 68)
-i-3026	c-5	1001	7045	Contre la suppression des 2 jours fériés
-i-2894	c-4	610	24568	Sanction contre Israël
-i-3721	c-4	579	760
+i-3070	c-8	5647	46507	Abrogation contrôle technique moto
+i-3603	c-2	2963	32773	Non aux réseaux sociaux utilisés comme arme
+i-3014	c-3	2860	2125987	Non à la loi Duplomb !
+i-3346	c-2	2409	18689	Suppression de l'ARCOM
+i-3279	c-4	2153	53338	Gaza a faim : accès immédiat à l'aide humanitaire
+i-2743	c-7	1197	74222	Macron Destitution (art. 68)
+i-3026	c-5	999	7045	Contre la suppression des 2 jours fériés
+i-2894	c-4	609	24568	Sanction contre Israël
+i-3721	c-4	580	761
 i-3717	c-3	439	491
 
-voix en 10 j :	32118
+voix en 10 j :	32106
