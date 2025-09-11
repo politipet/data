@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	37749	158841	Macron Destitution (art. 68)
-i-3603	c-2	28415	68172	Non aux réseaux sociaux utilisés comme arme
-i-3867	c-7	11409	11409
-i-3070	c-8	3959	53076	Abrogation contrôle technique moto
-i-3019	c-5	2484	13383	Reconnaissance des kinés
-i-3014	c-3	2218	2129607	Non à la loi Duplomb !
-i-3290	c-7	1520	1794
-i-3036	c-	689	689
-i-3279	c-4	496	54579	Gaza a faim : accès immédiat à l'aide humanitaire
-i-3008	c-6	386	27577	Contribution ultra-riches et grandes entreprises
+i-2743	c-7	36922	158994	Macron Destitution (art. 68)
+i-3603	c-2	28437	68300	Non aux réseaux sociaux utilisés comme arme
+i-3867	c-7	11590	11590
+i-3070	c-8	3961	53093	Abrogation contrôle technique moto
+i-3019	c-5	2524	13434	Reconnaissance des kinés
+i-3014	c-3	2224	2129620	Non à la loi Duplomb !
+i-3290	c-7	1525	1800
+i-3036	c-	692	692
+i-3279	c-4	491	54584	Gaza a faim : accès immédiat à l'aide humanitaire
+i-3008	c-6	391	27583	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	108050
+voix en 10 j :	107388
