@@ -177,8 +177,8 @@ diff-stats:
 		 $(data) \
 	| egrep '[+-]i-' | sed 's/i-/ i-/' \
 	| awk ' { id=$$2; score=$$4; comm=$$3 } \
-		{ s[id] = score; c[id] = comm } \
 		{ d[id] += ($$1 == "+" ? score : -score) } \
+		/^+/ { s[id] = score; c[id] = comm } \
 		END { for (x in s) print x, c[x], d[x], s[x] }' \
 	| sort > .1
 	@sed '/^#/ d' Petitions.txt | sort > .2
