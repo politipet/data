@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3603	c-2	28161	69754	Non aux réseaux sociaux utilisés comme arme
-i-2743	c-7	19382	142912	Macron Destitution (art. 68)
-i-3867	c-7	15507	15507	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	3447	53917	Abrogation contrôle technique moto
-i-3019	c-5	2464	14338	Reconnaissance des kinés
-i-3290	c-7	2101	2388
-i-3014	c-3	1151	2129842	Non à la loi Duplomb !
-i-3781	c-5	890	1118
-i-3034	c-6	561	2325
-i-3200	c-	506	506
+i-3603	c-2	28166	69762	Non aux réseaux sociaux utilisés comme arme
+i-2743	c-7	19317	143002	Macron Destitution (art. 68)
+i-3867	c-7	15558	15558	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	3450	53935	Abrogation contrôle technique moto
+i-3019	c-5	2466	14363	Reconnaissance des kinés
+i-3290	c-7	2118	2405
+i-3014	c-3	1118	2129848	Non à la loi Duplomb !
+i-3781	c-5	891	1120
+i-3034	c-6	563	2327
+i-3200	c-	507	507
 
-voix en 10 j :	89615
+voix en 10 j :	89545
