@@ -44,3 +44,4 @@ i-3603	Non aux réseaux sociaux utilisés comme arme
 i-3635	Suppression de l'ADEME
 i-3583	Refus de la destruction contraceptifs USAID
 i-3867	Pour la reconnaissance de la GROSSOPHOBIE
+i-3034	Soutien à la taxe Zucman, pour une fiscalité juste
