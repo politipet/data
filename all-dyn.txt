@@ -10,4 +10,4 @@ i-3866	c-5	389	503
 i-4298	c-8	277	277
 i-3008	c-6	277	29854	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	19794
+voix en 10 j :	19797
