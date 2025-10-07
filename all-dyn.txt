@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	2930	31502	Pour la reconnaissance de la GROSSOPHOBIE
-i-2743	c-7	2705	169687	Macron Destitution (art. 68)
-i-4023	c-7	2238	15332	Macron Destitution — 09/25 (art. 68)
-i-3070	c-8	1599	56956	Abrogation contrôle technique moto
-i-3603	c-3	1046	105284	Non aux réseaux sociaux utilisés comme arme
-i-3019	c-5	849	19054	Reconnaissance des kinés
-i-3034	c-6	438	7459	Soutien à la taxe Zucman, pour une fiscalité juste
-i-4216	c-7	412	412
-i-4298	c-8	395	395
+i-3867	c-7	2911	31506	Pour la reconnaissance de la GROSSOPHOBIE
+i-2743	c-7	2745	169731	Macron Destitution (art. 68)
+i-4023	c-7	2268	15366	Macron Destitution — 09/25 (art. 68)
+i-3070	c-8	1588	56961	Abrogation contrôle technique moto
+i-3603	c-3	1032	105284	Non aux réseaux sociaux utilisés comme arme
+i-3019	c-5	851	19061	Reconnaissance des kinés
+i-3034	c-6	434	7459	Soutien à la taxe Zucman, pour une fiscalité juste
+i-4216	c-7	414	414
+i-4298	c-8	396	396
 i-3866	c-5	395	514
 
-voix en 10 j :	21622
+voix en 10 j :	21647
