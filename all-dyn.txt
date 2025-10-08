@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	3754	170887	Macron Destitution (art. 68)
-i-3867	c-7	2953	31899	Pour la reconnaissance de la GROSSOPHOBIE
-i-4023	c-7	2676	15873	Macron Destitution — 09/25 (art. 68)
-i-3070	c-8	1543	57159	Abrogation contrôle technique moto
-i-3019	c-5	968	19235	Reconnaissance des kinés
-i-3603	c-3	557	105325	Non aux réseaux sociaux utilisés comme arme
+i-2743	c-7	3767	170901	Macron Destitution (art. 68)
+i-3867	c-7	2951	31912	Pour la reconnaissance de la GROSSOPHOBIE
+i-4023	c-7	2683	15884	Macron Destitution — 09/25 (art. 68)
+i-3070	c-8	1538	57161	Abrogation contrôle technique moto
+i-3019	c-5	968	19236	Reconnaissance des kinés
+i-3603	c-3	553	105327	Non aux réseaux sociaux utilisés comme arme
 i-4216	c-7	446	446
+i-4253	c-3	442	442
 i-4298	c-8	434	434
-i-4253	c-3	421	421
 i-3866	c-5	401	531
 
-voix en 10 j :	22864
+voix en 10 j :	22920
