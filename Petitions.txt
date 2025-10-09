@@ -1,13 +1,9 @@
-i-2428	Legalize It
 i-2489	Stop centrales photovoltaïques milieu naturel
-i-2490	Présomption de légitime défense des FDO
 i-2483	Référendum obligatoire (article 89)
 i-2491	RIC-Constituant #4 (article 89)
 i-2601	Abrogation décret feux vélo clignotants
 i-2610	Stop usage X pour la comm' du gouv'
 i-2554	Pour une loi anti-trust en Outre-Mer
-i-2632	Pour un statut AESH et temps plein 24h de service
-i-2657	Éradication de la pauvreté en France
 i-2728	Reconnaissance de la fibromyalgie
 i-2737	Création de l’infraction d’homicide routier
 i-2743	Macron Destitution (art. 68)
@@ -26,12 +22,7 @@ i-4023	Macron Destitution — 09/25 (art. 68)
 
 i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
-i-2644	Pour des trimestres TUC réputés cotisés
-i-2697	Pour une loi «un pour un» dans les médias
-i-2714	Imprescription des viols et vss sur mineur
 i-2738	Des véhicules du quotidien abordables et légers
-i-2763	Parrainage citoyens des candidats Présidentielle
-i-2784	Pérennisation du poker associatif
 i-2803	Transparence au concours de thanatopraxie
 i-2806	Reconnaissance de la nudité à domicile
 i-2885	Reconnaissance immédiate de la Palestine
