@@ -19,6 +19,7 @@ i-3014	Non à la loi Duplomb !
 i-3021	Sortie des pesticides de synthèse !
 i-2894	Sanction contre Israël
 i-3279	Gaza a faim : accès immédiat à l'aide humanitaire
+i-3070	Abrogation contrôle technique moto
 i-4023	Macron Destitution — 09/25 (art. 68)
 
 # ^ tracked ^     ▼ not tracked ▼
@@ -38,7 +39,6 @@ i-2890	Sauver Lormauto, retrofit bas carbone citoyen
 i-2961	Reconnaissance police municipale gardes champêtres
 i-3019	Reconnaissance des kinés
 i-3026	Contre la suppression des 2 jours fériés
-i-3070	Abrogation contrôle technique moto
 i-3346	Suppression de l'ARCOM
 i-3603	Non aux réseaux sociaux utilisés comme arme
 i-3635	Suppression de l'ADEME
