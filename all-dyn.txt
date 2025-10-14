@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	4054	171815	Macron Destitution (art. 68)
-i-3867	c-7	3816	35076	Pour la reconnaissance de la GROSSOPHOBIE
-i-4023	c-7	3543	17085	Macron Destitution — 09/25 (art. 68)
-i-4253	c-3	1573	1573	Non à Chat-Control, outil de surveillance de masse
-i-3070	c-8	1069	57777	Abrogation contrôle technique moto
-i-4411	c-5	988	988
+i-2743	c-7	4055	171817	Macron Destitution (art. 68)
+i-3867	c-7	3896	35165	Pour la reconnaissance de la GROSSOPHOBIE
+i-4023	c-7	3543	17088	Macron Destitution — 09/25 (art. 68)
+i-4253	c-3	1577	1577	Non à Chat-Control, outil de surveillance de masse
+i-3070	c-8	1069	57781	Abrogation contrôle technique moto
+i-4411	c-5	994	994
 i-4089	c-4	700	729
-i-3019	c-5	649	19589	Reconnaissance des kinés
-i-4321	c-7	565	565
-i-3448	c-2	454	1492
+i-3019	c-5	649	19590	Reconnaissance des kinés
+i-4321	c-7	596	596
+i-3448	c-2	460	1498
 
-voix en 10 j :	25371
+voix en 10 j :	25501
