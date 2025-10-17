@@ -37,3 +37,4 @@ i-3583	Refus de la destruction contraceptifs USAID
 i-3867	Pour la reconnaissance de la GROSSOPHOBIE
 i-3034	Soutien à la taxe Zucman, pour une fiscalité juste
 i-4253	Non à Chat-Control, outil de surveillance de masse
+i-4479	Non aux malus écologique rétroactif sur les autos
