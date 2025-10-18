@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	4590	36506	Pour la reconnaissance de la GROSSOPHOBIE
-i-4479	c-	3960	3960	Non aux malus écologique rétroactif sur les autos
-i-4253	c-3	1356	1807	Non à Chat-Control, outil de surveillance de masse
-i-4023	c-7	1352	17237	Macron Destitution — 09/25 (art. 68)
-i-3070	c-8	1128	58292	Abrogation contrôle technique moto
-i-2743	c-7	1126	172041	Macron Destitution (art. 68)
-i-4321	c-7	1032	1036
+i-3867	c-7	4600	36520	Pour la reconnaissance de la GROSSOPHOBIE
+i-4479	c-	3966	3966	Non aux malus écologique rétroactif sur les autos
+i-4023	c-7	1349	17237	Macron Destitution — 09/25 (art. 68)
+i-4253	c-3	1339	1808	Non à Chat-Control, outil de surveillance de masse
+i-3070	c-8	1131	58300	Abrogation contrôle technique moto
+i-2743	c-7	1120	172042	Macron Destitution (art. 68)
+i-4321	c-7	1036	1040
 i-4411	c-5	1024	1024
-i-3436	c-5	946	3512
+i-3436	c-5	948	3514
 i-3448	c-2	738	1778
 
-voix en 10 j :	25842
+voix en 10 j :	25843
