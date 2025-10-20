@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	4634	36688	Pour la reconnaissance de la GROSSOPHOBIE
-i-4479	c-	4265	4265	Non au malus écologique rétroactif sur les autos
-i-4023	c-7	1306	17268	Macron Destitution — 09/25 (art. 68)
-i-3070	c-8	1291	58635	Abrogation contrôle technique moto
-i-3436	c-5	1170	3750	Non à la suppression du bilan de compétences sur CPF
-i-4321	c-7	1100	1106
-i-2743	c-7	987	172093	Macron Destitution (art. 68)
-i-4253	c-3	877	1856	Non à Chat-Control, outil de surveillance de masse
-i-3448	c-2	752	1821
-i-4411	c-5	540	1028	Non au zonage des taxis conventionnés CNAM
+i-3867	c-7	4629	36688	Pour la reconnaissance de la GROSSOPHOBIE
+i-4479	c-	4296	4296	Non au malus écologique rétroactif sur les autos
+i-4023	c-7	1301	17269	Macron Destitution — 09/25 (art. 68)
+i-3070	c-8	1295	58648	Abrogation contrôle technique moto
+i-3436	c-5	1202	3782	Non à la suppression du bilan de compétences sur CPF
+i-4321	c-7	1103	1109
+i-2743	c-7	984	172095	Macron Destitution (art. 68)
+i-4253	c-3	870	1860	Non à Chat-Control, outil de surveillance de masse
+i-3448	c-2	757	1826
+i-4411	c-5	516	1028	Non au zonage des taxis conventionnés CNAM
 
-voix en 10 j :	25660
+voix en 10 j :	25741
