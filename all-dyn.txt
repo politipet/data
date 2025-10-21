@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	4709	36829	Pour la reconnaissance de la GROSSOPHOBIE
-i-4479	c-	4613	4613	Non au malus écologique rétroactif sur les autos
-i-3436	c-5	1827	4420	Non à la suppression du bilan de compétences sur CPF
-i-3070	c-8	1319	58798	Abrogation contrôle technique moto
-i-4023	c-7	1221	17294	Macron Destitution — 09/25 (art. 68)
+i-3867	c-7	4717	36838	Pour la reconnaissance de la GROSSOPHOBIE
+i-4479	c-	4620	4620	Non au malus écologique rétroactif sur les autos
+i-3436	c-5	1850	4443	Non à la suppression du bilan de compétences sur CPF
+i-3070	c-8	1315	58800	Abrogation contrôle technique moto
+i-4023	c-7	1217	17294	Macron Destitution — 09/25 (art. 68)
 i-4321	c-7	1138	1144
-i-2743	c-7	748	172145	Macron Destitution (art. 68)
-i-4253	c-3	744	1887	Non à Chat-Control, outil de surveillance de masse
-i-3034	c-6	700	8222	Soutien à la taxe Zucman, pour une fiscalité juste
-i-3448	c-2	608	1863	Retour au déclaratif pour l'Instruction En Famille
+i-2743	c-7	747	172148	Macron Destitution (art. 68)
+i-4253	c-3	742	1888	Non à Chat-Control, outil de surveillance de masse
+i-3034	c-6	711	8233	Soutien à la taxe Zucman, pour une fiscalité juste
+i-3448	c-2	600	1863	Retour au déclaratif pour l'Instruction En Famille
 
-voix en 10 j :	27751
+voix en 10 j :	27803
