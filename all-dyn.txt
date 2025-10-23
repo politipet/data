@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4479	c-	4816	4816	Non au malus écologique rétroactif sur les autos
-i-3867	c-7	4453	36940	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	2647	5245	Non à la suppression du bilan de compétences sur CPF
-i-3070	c-8	1240	58880	Abrogation contrôle technique moto
+i-4479	c-	4820	4820	Non au malus écologique rétroactif sur les autos
+i-3867	c-7	4348	36942	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	2656	5255	Non à la suppression du bilan de compétences sur CPF
+i-3070	c-8	1241	58887	Abrogation contrôle technique moto
 i-4321	c-7	1158	1166
-i-3034	c-6	894	8426	Soutien à la taxe Zucman, pour une fiscalité juste
-i-4253	c-3	621	1945	Non à Chat-Control, outil de surveillance de masse
-i-2743	c-7	601	172200	Macron Destitution (art. 68)
-i-4458	c-6	539	539
-i-3019	c-5	525	19990	Reconnaissance des kinés
+i-3034	c-6	896	8430	Soutien à la taxe Zucman, pour une fiscalité juste
+i-4253	c-3	606	1950	Non à Chat-Control, outil de surveillance de masse
+i-2743	c-7	583	172200	Macron Destitution (art. 68)
+i-4458	c-6	542	542
+i-3019	c-5	514	19993	Reconnaissance des kinés
 
-voix en 10 j :	27999
+voix en 10 j :	27728
