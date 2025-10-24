@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-4479	c-	4885	4885	Non au malus écologique rétroactif sur les autos
-i-3436	c-5	3163	5769	Non à la suppression du bilan de compétences sur CPF
-i-3867	c-7	1732	37006	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	1220	59006	Abrogation contrôle technique moto
-i-3034	c-6	977	8526	Soutien à la taxe Zucman, pour une fiscalité juste
-i-4458	c-6	582	582
-i-4340	c-3	513	525
-i-4321	c-7	510	1176
+i-3436	c-5	3174	5781	Non à la suppression du bilan de compétences sur CPF
+i-3867	c-7	1679	37011	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	1219	59009	Abrogation contrôle technique moto
+i-3034	c-6	978	8529	Soutien à la taxe Zucman, pour une fiscalité juste
+i-4458	c-6	585	585
+i-4340	c-3	515	527
+i-4321	c-7	478	1176
 i-3019	c-5	459	20051	Reconnaissance des kinés
-i-3448	c-2	417	1918	Retour au déclaratif pour l'Instruction En Famille
+i-3448	c-2	415	1918	Retour au déclaratif pour l'Instruction En Famille
 
-voix en 10 j :	24278
+voix en 10 j :	24198
