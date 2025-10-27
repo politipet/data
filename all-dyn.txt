@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3436	c-5	2942	6089	Non à la suppression du bilan de compétences sur CPF
-i-4479	c-	2908	4913	Non au malus écologique rétroactif sur les autos
-i-3034	c-6	1114	8710	Soutien à la taxe Zucman, pour une fiscalité juste
-i-3070	c-8	1108	59089	Abrogation contrôle technique moto
-i-3867	c-7	996	37184	Pour la reconnaissance de la GROSSOPHOBIE
-i-4458	c-6	619	655
-i-3866	c-5	562	1178
-i-4340	c-3	560	573
-i-2743	c-7	368	172333	Macron Destitution (art. 68)
-i-3008	c-6	344	30326	Contribution ultra-riches et grandes entreprises
+i-3436	c-5	2940	6111	Non à la suppression du bilan de compétences sur CPF
+i-4479	c-	2681	4913	Non au malus écologique rétroactif sur les autos
+i-3034	c-6	1119	8715	Soutien à la taxe Zucman, pour une fiscalité juste
+i-3070	c-8	1112	59095	Abrogation contrôle technique moto
+i-3867	c-7	993	37186	Pour la reconnaissance de la GROSSOPHOBIE
+i-4458	c-6	618	657
+i-3866	c-5	569	1185
+i-4340	c-3	564	577
+i-2743	c-7	366	172335	Macron Destitution (art. 68)
+i-3008	c-6	346	30329	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	20116
+voix en 10 j :	19900
