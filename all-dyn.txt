@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3436	c-5	2727	7360	Non à la suppression du bilan de compétences sur CPF
-i-3867	c-7	1231	38101	Pour la reconnaissance de la GROSSOPHOBIE
-i-3034	c-6	1148	9424	Soutien à la taxe Zucman, pour une fiscalité juste
-i-3866	c-5	938	1663
-i-3070	c-8	726	59544	Abrogation contrôle technique moto
-i-4458	c-6	624	1070
-i-4340	c-3	544	743
-i-3019	c-5	361	20283	Reconnaissance des kinés
-i-2743	c-7	302	172465	Macron Destitution (art. 68)
-i-3008	c-6	298	30507	Contribution ultra-riches et grandes entreprises
+i-3436	c-5	2721	7365	Non à la suppression du bilan de compétences sur CPF
+i-3867	c-7	1253	38129	Pour la reconnaissance de la GROSSOPHOBIE
+i-3034	c-6	1142	9425	Soutien à la taxe Zucman, pour une fiscalité juste
+i-3866	c-5	959	1685
+i-3070	c-8	723	59546	Abrogation contrôle technique moto
+i-4458	c-6	621	1070
+i-4340	c-3	544	745
+i-3019	c-5	362	20284	Reconnaissance des kinés
+i-2743	c-7	301	172465	Macron Destitution (art. 68)
+i-3008	c-6	299	30508	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	16599
+voix en 10 j :	16595
