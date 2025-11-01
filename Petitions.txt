@@ -41,3 +41,4 @@ i-4479	Non au malus écologique rétroactif sur les autos
 i-3436	Non à la suppression du bilan de compétences sur CPF
 i-4411	Non au zonage des taxis conventionnés CNAM
 i-3448	Retour au déclaratif pour l'Instruction En Famille
+i-3866	Liberté de choix de la mutuelle fonctionnaires EducNat
