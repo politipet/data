@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	2241	39209	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	2141	7594	Non à la suppression du bilan de compétences sur CPF
-i-3866	c-5	1418	2207	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-3034	c-6	1202	9667	Soutien à la taxe Zucman, pour une fiscalité juste
-i-3070	c-8	739	59686	Abrogation contrôle technique moto
+i-3867	c-7	2254	39222	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	2139	7596	Non à la suppression du bilan de compétences sur CPF
+i-3866	c-5	1416	2209	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-3034	c-6	1203	9668	Soutien à la taxe Zucman, pour une fiscalité juste
+i-3070	c-8	738	59687	Abrogation contrôle technique moto
 i-4458	c-6	611	1174	Pour l’instauration d’une taxe Zucman sur les ultra-riches
 i-4490	c-5	362	362	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
 i-4340	c-3	325	770	Liberté énergétique, prod+conso électricité renouvelable
-i-2743	c-7	296	172512	Macron Destitution (art. 68)
+i-2743	c-7	296	172514	Macron Destitution (art. 68)
 i-3008	c-6	295	30557	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	16903
+voix en 10 j :	16915
