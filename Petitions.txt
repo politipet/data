@@ -42,3 +42,6 @@ i-3436	Non à la suppression du bilan de compétences sur CPF
 i-4411	Non au zonage des taxis conventionnés CNAM
 i-3448	Retour au déclaratif pour l'Instruction En Famille
 i-3866	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-4458	Pour l’instauration d’une taxe Zucman sur les ultra-riches
+i-4340	Liberté énergétique, prod+conso électricité renouvelable
+i-4490	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
