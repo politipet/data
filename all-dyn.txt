@@ -1,6 +1,6 @@
 id	comm	diff	score	theme
-i-3867	c-7	2265	39233	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	2140	7599	Non à la suppression du bilan de compétences sur CPF
+i-3867	c-7	2266	39234	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	2141	7600	Non à la suppression du bilan de compétences sur CPF
 i-3866	c-5	1417	2210	Liberté de choix de la mutuelle fonctionnaires EducNat
 i-3034	c-6	1205	9670	Soutien à la taxe Zucman, pour une fiscalité juste
 i-3070	c-8	739	59688	Abrogation contrôle technique moto
@@ -10,4 +10,4 @@ i-4340	c-3	325	770	Liberté énergétique, prod+conso électricité renouvelable
 i-3008	c-6	296	30558	Contribution ultra-riches et grandes entreprises
 i-2743	c-7	296	172514	Macron Destitution (art. 68)
 
-voix en 10 j :	16947
+voix en 10 j :	16964
