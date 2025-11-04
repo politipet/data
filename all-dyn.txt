@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	2693	39723	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	2006	7856	Non à la suppression du bilan de compétences sur CPF
-i-3866	c-5	1282	2313	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-3034	c-6	1235	9788	Soutien à la taxe Zucman, pour une fiscalité juste
-i-3070	c-8	723	59745	Abrogation contrôle technique moto
-i-4458	c-6	686	1282	Pour l’instauration d’une taxe Zucman sur les ultra-riches
-i-4317	c-3	570	882
-i-4490	c-5	386	386	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
-i-3019	c-5	304	20362	Reconnaissance des kinés
-i-4340	c-3	295	832	Liberté énergétique, prod+conso électricité renouvelable
+i-3867	c-7	2741	39771	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	2010	7868	Non à la suppression du bilan de compétences sur CPF
+i-3866	c-5	1275	2314	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-3034	c-6	1247	9800	Soutien à la taxe Zucman, pour une fiscalité juste
+i-3070	c-8	722	59747	Abrogation contrôle technique moto
+i-4458	c-6	685	1282	Pour l’instauration d’une taxe Zucman sur les ultra-riches
+i-4317	c-3	582	894
+i-4490	c-5	387	387	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
+i-3019	c-5	306	20365	Reconnaissance des kinés
+i-4340	c-3	294	834	Liberté énergétique, prod+conso électricité renouvelable
 
-voix en 10 j :	17996
+voix en 10 j :	18092
