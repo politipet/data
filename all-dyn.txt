@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	3276	40459	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	2089	8164	Non à la suppression du bilan de compétences sur CPF
-i-3866	c-5	1226	2399	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-3034	c-6	1214	9916	Soutien à la taxe Zucman, pour une fiscalité juste
-i-4317	c-3	1073	1389	Non aux boutiques SHEIN en France !!
-i-3070	c-8	806	59891	Abrogation contrôle technique moto
-i-4458	c-6	719	1370	Pour l’instauration d’une taxe Zucman sur les ultra-riches
-i-4594	c-5	579	579
-i-2482	c-6	463	682
+i-3867	c-7	3286	40469	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	2084	8165	Non à la suppression du bilan de compétences sur CPF
+i-3866	c-5	1224	2399	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-3034	c-6	1211	9918	Soutien à la taxe Zucman, pour une fiscalité juste
+i-4317	c-3	1078	1394	Non aux boutiques SHEIN en France !!
+i-3070	c-8	806	59892	Abrogation contrôle technique moto
+i-4458	c-6	719	1372	Pour l’instauration d’une taxe Zucman sur les ultra-riches
+i-4594	c-5	582	582
+i-2482	c-6	468	687
 i-4490	c-5	410	410	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
 
-voix en 10 j :	21178
+voix en 10 j :	21227
