@@ -4,7 +4,6 @@ i-2491	RIC-Constituant #4 (article 89)
 i-2601	Abrogation décret feux vélo clignotants
 i-2610	Stop usage X pour la comm' du gouv'
 i-2554	Pour une loi anti-trust en Outre-Mer
-i-2728	Reconnaissance de la fibromyalgie
 i-2737	Création de l’infraction d’homicide routier
 i-2743	Macron Destitution (art. 68)
 i-2760	Abrogation des ZFE (#gueux)
@@ -23,7 +22,6 @@ i-4023	Macron Destitution — 09/25 (art. 68)
 i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
 i-2738	Des véhicules du quotidien abordables et légers
-i-2803	Transparence au concours de thanatopraxie
 i-2806	Reconnaissance de la nudité à domicile
 i-2885	Reconnaissance immédiate de la Palestine
 i-2890	Sauver Lormauto, retrofit bas carbone citoyen
