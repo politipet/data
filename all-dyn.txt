@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	3469	41022	Pour la reconnaissance de la GROSSOPHOBIE
-i-3436	c-5	1828	8415	Non à la suppression du bilan de compétences sur CPF
-i-3866	c-5	1198	2459	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-4317	c-3	1145	1464	Non aux boutiques SHEIN en France !!
-i-3034	c-6	1140	9962	Soutien à la taxe Zucman, pour une fiscalité juste
-i-4594	c-5	822	822
-i-4458	c-6	719	1410	Pour l’instauration d’une taxe Zucman sur les ultra-riches
-i-3070	c-8	714	59954	Abrogation contrôle technique moto
+i-3867	c-7	3473	41039	Pour la reconnaissance de la GROSSOPHOBIE
+i-3436	c-5	1808	8418	Non à la suppression du bilan de compétences sur CPF
+i-3866	c-5	1197	2460	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-4317	c-3	1148	1467	Non aux boutiques SHEIN en France !!
+i-3034	c-6	1125	9962	Soutien à la taxe Zucman, pour une fiscalité juste
+i-4594	c-5	829	829
+i-4458	c-6	715	1410	Pour l’instauration d’une taxe Zucman sur les ultra-riches
+i-3070	c-8	684	59957	Abrogation contrôle technique moto
 i-2482	c-6	513	735
-i-4553	c-3	493	493
+i-4553	c-3	496	496
 
-voix en 10 j :	22571
+voix en 10 j :	22478
