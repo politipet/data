@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	2280	41489	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	2193	61879	Abrogation contrôle technique moto
-i-3700	c-5	1823	1991	Reconnaissance du SOPK en ALD
-i-3436	c-5	1161	8755	Non à la suppression du bilan de compétences sur CPF
-i-4594	c-5	1157	1157	Non aux franchises médicales et participations forfaitaires !
-i-4317	c-3	1126	1505	Non aux boutiques SHEIN en France !!
-i-3165	c-5	769	1440	Reconnaissance du SOPK et accès équitable à la PMA
+i-3867	c-7	2267	41489	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	2206	61893	Abrogation contrôle technique moto
+i-3700	c-5	1844	2012	Reconnaissance du SOPK en ALD
+i-3436	c-5	1161	8757	Non à la suppression du bilan de compétences sur CPF
+i-4594	c-5	1159	1159	Non aux franchises médicales et participations forfaitaires !
+i-4317	c-3	1125	1505	Non aux boutiques SHEIN en France !!
+i-3165	c-5	779	1450	Reconnaissance du SOPK et accès équitable à la PMA
 i-2482	c-6	554	795
 i-3781	c-5	498	2210
 i-4688	c-3	491	491
 
-voix en 10 j :	23072
+voix en 10 j :	23101
