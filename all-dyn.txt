@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3867	c-7	2599	41461	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	1909	61543	Abrogation contrôle technique moto
-i-3700	c-5	1652	1820
-i-3436	c-5	1197	8698	Non à la suppression du bilan de compétences sur CPF
+i-3867	c-7	2576	41463	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	1943	61584	Abrogation contrôle technique moto
+i-3700	c-5	1659	1827
+i-3436	c-5	1195	8702	Non à la suppression du bilan de compétences sur CPF
 i-4317	c-3	1154	1500	Non aux boutiques SHEIN en France !!
-i-4594	c-5	1130	1130
-i-3165	c-5	697	1368
+i-4594	c-5	1132	1132
+i-3165	c-5	701	1372
 i-2482	c-6	514	754
-i-4688	c-3	486	486
-i-3781	c-5	482	2192
+i-4688	c-3	487	487
+i-3781	c-5	485	2195
 
-voix en 10 j :	23113
+voix en 10 j :	23075
