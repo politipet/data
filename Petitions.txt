@@ -45,3 +45,4 @@ i-4340	Liberté énergétique, prod+conso électricité renouvelable
 i-4490	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
 i-4623	Référendum pour la taxe Zucman
 i-4317	Non aux boutiques SHEIN en France !!
+i-3700	Reconnaissance du SOPK en ALD
