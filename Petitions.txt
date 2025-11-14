@@ -22,7 +22,6 @@ i-4023	Macron Destitution — 09/25 (art. 68)
 i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
 i-2738	Des véhicules du quotidien abordables et légers
-i-2806	Reconnaissance de la nudité à domicile
 i-2885	Reconnaissance immédiate de la Palestine
 i-2890	Sauver Lormauto, retrofit bas carbone citoyen
 i-2961	Reconnaissance police municipale gardes champêtres
