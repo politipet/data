@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3070	c-8	2550	62441	Abrogation contrôle technique moto
-i-3700	c-5	2332	2506	Reconnaissance du SOPK en ALD
-i-3867	c-7	1236	41680	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	2553	62444	Abrogation contrôle technique moto
+i-3700	c-5	2336	2510	Reconnaissance du SOPK en ALD
+i-3867	c-7	1229	41684	Pour la reconnaissance de la GROSSOPHOBIE
 i-3165	c-5	886	1562	Reconnaissance du SOPK et accès équitable à la PMA
-i-4594	c-5	689	1266	Non aux franchises médicales et participations forfaitaires !
-i-3436	c-5	665	8824	Non à la suppression du bilan de compétences sur CPF
-i-4513	c-5	559	600
+i-4594	c-5	692	1270	Non aux franchises médicales et participations forfaitaires !
+i-3436	c-5	663	8825	Non à la suppression du bilan de compétences sur CPF
+i-4513	c-5	572	613
 i-4553	c-3	446	722
-i-2743	c-7	387	172989	Macron Destitution (art. 68)
-i-4688	c-3	380	509
+i-2743	c-7	388	172991	Macron Destitution (art. 68)
+i-4595	c-6	379	382
 
-voix en 10 j :	19002
+voix en 10 j :	18993
