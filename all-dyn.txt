@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3070	c-8	2631	62580	Abrogation contrôle technique moto
-i-3700	c-5	2451	2627	Reconnaissance du SOPK en ALD
-i-3165	c-5	907	1585	Reconnaissance du SOPK et accès équitable à la PMA
-i-3867	c-7	888	41754	Pour la reconnaissance de la GROSSOPHOBIE
-i-4513	c-5	789	869	Gratuité totale des parkings à l’hôpital public
-i-4594	c-5	580	1318	Non aux franchises médicales et participations forfaitaires !
-i-3436	c-5	483	8855	Non à la suppression du bilan de compétences sur CPF
-i-3866	c-5	386	2838	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-2902	c-8	343	2219
-i-2743	c-7	288	173014	Macron Destitution (art. 68)
+i-3070	c-8	2643	62593	Abrogation contrôle technique moto
+i-3700	c-5	2457	2633	Reconnaissance du SOPK en ALD
+i-3165	c-5	908	1586	Reconnaissance du SOPK et accès équitable à la PMA
+i-3867	c-7	873	41755	Pour la reconnaissance de la GROSSOPHOBIE
+i-4513	c-5	806	886	Gratuité totale des parkings à l’hôpital public
+i-4594	c-5	574	1318	Non aux franchises médicales et participations forfaitaires !
+i-3436	c-5	478	8861	Non à la suppression du bilan de compétences sur CPF
+i-3866	c-5	392	2844	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-2902	c-8	362	2238
+i-4553	c-3	287	771
 
-voix en 10 j :	17627
+voix en 10 j :	17685
