@@ -5,9 +5,9 @@ i-3165	c-5	917	1595	Reconnaissance du SOPK et accès équitable à la PMA
 i-4513	c-5	857	942	Gratuité totale des parkings à l’hôpital public
 i-3867	c-7	646	41773	Pour la reconnaissance de la GROSSOPHOBIE
 i-3866	c-5	490	2954	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-4594	c-5	477	1332	Non aux franchises médicales et participations forfaitaires !
+i-4594	c-5	476	1332	Non aux franchises médicales et participations forfaitaires !
 i-3436	c-5	459	8890	Non à la suppression du bilan de compétences sur CPF
-i-2902	c-8	415	2291
+i-2902	c-8	417	2293
 i-4553	c-3	289	795
 
-voix en 10 j :	17629
+voix en 10 j :	17631
