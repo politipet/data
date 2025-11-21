@@ -1,7 +1,7 @@
 id	comm	diff	score	theme
-i-3070	c-8	1717	62786	Abrogation contrôle technique moto
+i-3070	c-8	1718	62788	Abrogation contrôle technique moto
 i-4513	c-5	1497	1613	Gratuité totale des parkings à l’hôpital public
-i-3700	c-5	1482	2936	Reconnaissance du SOPK en ALD
+i-3700	c-5	1479	2936	Reconnaissance du SOPK en ALD
 i-3866	c-5	843	3365	Liberté de choix de la mutuelle fonctionnaires EducNat
 i-4313	c-1	730	736
 i-3867	c-7	530	41918	Pour la reconnaissance de la GROSSOPHOBIE
