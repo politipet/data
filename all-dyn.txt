@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4513	c-5	1647	1832	Gratuité totale des parkings à l’hôpital public
-i-3700	c-5	1067	3184	Reconnaissance du SOPK en ALD
-i-3866	c-5	1055	3618	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-4313	c-1	1052	1059
-i-3070	c-8	978	63033	Abrogation contrôle technique moto
-i-4753	c-5	899	899
-i-4583	c-8	508	526
-i-2743	c-7	475	173421	Macron Destitution (art. 68)
+i-4513	c-5	1646	1832	Gratuité totale des parkings à l’hôpital public
+i-3700	c-5	1066	3193	Reconnaissance du SOPK en ALD
+i-3866	c-5	1056	3619	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-4313	c-1	1053	1060
+i-3070	c-8	987	63052	Abrogation contrôle technique moto
+i-4753	c-5	909	909
+i-4583	c-8	522	540
+i-2743	c-7	484	173431	Macron Destitution (art. 68)
 i-2902	c-8	464	2343
-i-3867	c-7	455	41969	Pour la reconnaissance de la GROSSOPHOBIE
+i-3867	c-7	455	41970	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	16184
+voix en 10 j :	16253
