@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4583	c-8	4079	4225
-i-4753	c-5	1969	2503
-i-3781	c-5	1815	4075
-i-4793	c-5	1164	1164
-i-3866	c-5	1123	4562	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-2743	c-7	704	173947	Macron Destitution (art. 68)
-i-3070	c-8	685	63514	Abrogation contrôle technique moto
-i-3700	c-5	665	3693	Reconnaissance du SOPK en ALD
-i-3867	c-7	533	42477	Pour la reconnaissance de la GROSSOPHOBIE
-i-3346	c-2	355	20856	Suppression de l'ARCOM
+i-4583	c-8	4176	4343
+i-4753	c-5	1957	2513
+i-3781	c-5	1817	4077
+i-4793	c-5	1165	1165
+i-3866	c-5	1123	4563	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-2743	c-7	701	173952	Macron Destitution (art. 68)
+i-3070	c-8	700	63533	Abrogation contrôle technique moto
+i-3700	c-5	655	3693	Reconnaissance du SOPK en ALD
+i-3867	c-7	540	42486	Pour la reconnaissance de la GROSSOPHOBIE
+i-3346	c-2	356	20857	Suppression de l'ARCOM
 
-voix en 10 j :	19832
+voix en 10 j :	19981
