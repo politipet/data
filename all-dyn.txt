@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4583	c-8	7619	8376
-i-4753	c-5	2083	3403
-i-4793	c-5	1231	1231
-i-3866	c-5	985	4652	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-3070	c-8	966	64128	Abrogation contrôle technique moto
-i-3781	c-5	945	4142
-i-3867	c-7	600	42599	Pour la reconnaissance de la GROSSOPHOBIE
-i-2743	c-7	478	174058	Macron Destitution (art. 68)
-i-4828	c-5	416	416
-i-4829	c-8	406	406
+i-4583	c-8	7643	8414
+i-4753	c-5	2064	3409
+i-4793	c-5	1233	1233
+i-3866	c-5	983	4652	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-3070	c-8	974	64139	Abrogation contrôle technique moto
+i-3781	c-5	930	4144
+i-3867	c-7	601	42601	Pour la reconnaissance de la GROSSOPHOBIE
+i-4829	c-8	558	558
+i-2743	c-7	472	174059	Macron Destitution (art. 68)
+i-4828	c-5	437	437
 
-voix en 10 j :	23538
+voix en 10 j :	23671
