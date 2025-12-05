@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4583	c-8	8071	9231	Stop au massacre injustifié des renards 🦊
-i-4753	c-5	2090	3704
-i-4829	c-8	1370	1370
-i-4793	c-5	1245	1245
-i-3070	c-8	1232	64453	Abrogation contrôle technique moto
-i-3866	c-5	861	4689	Liberté de choix de la mutuelle fonctionnaires EducNat
-i-4828	c-5	782	782
-i-3867	c-7	650	42676	Pour la reconnaissance de la GROSSOPHOBIE
-i-3781	c-5	640	4166
-i-2743	c-7	474	174137	Macron Destitution (art. 68)
+i-4583	c-8	8106	9285	Stop au massacre injustifié des renards 🦊
+i-4753	c-5	2096	3722
+i-4829	c-8	1381	1381
+i-3070	c-8	1238	64466	Abrogation contrôle technique moto
+i-4793	c-5	1220	1245
+i-3866	c-5	851	4692	Liberté de choix de la mutuelle fonctionnaires EducNat
+i-4828	c-5	801	801
+i-3867	c-7	654	42681	Pour la reconnaissance de la GROSSOPHOBIE
+i-3781	c-5	608	4167
+i-2743	c-7	477	174144	Macron Destitution (art. 68)
 
-voix en 10 j :	25738
+voix en 10 j :	25704
