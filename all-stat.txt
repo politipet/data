@@ -4,5 +4,5 @@
     115	Affaires étrangères
     265	Affaires sociales
     232	Finances
-    486	Lois et administration
+    488	Lois et administration
     105	Développement durable
