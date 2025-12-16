@@ -51,3 +51,4 @@ i-3700	Reconnaissance du SOPK en ALD
 i-3165	Reconnaissance du SOPK et accès équitable à la PMA
 i-4513	Gratuité totale des parkings à l’hôpital public
 i-4594	Non aux franchises médicales et participations forfaitaires !
+i-4768	STOP à l'abattage inutile du bétail / dermatose nodulaire
