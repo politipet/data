@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	15007	189247	Macron Destitution (art. 68)
-i-4553	c-3	11469	12384
-i-4828	c-5	6401	7520
-i-4768	c-3	2560	2614
-i-4583	c-8	2299	11939	Stop au massacre injustifié des renards 🦊
-i-4753	c-5	1105	5033
-i-3070	c-8	586	65136	Abrogation contrôle technique moto
-i-3867	c-7	429	43154	Pour la reconnaissance de la GROSSOPHOBIE
-i-3900	c-7	415	1793
-i-4715	c-4	381	552
+i-2743	c-7	15105	189350	Macron Destitution (art. 68)
+i-4553	c-3	11513	12428
+i-4828	c-5	6404	7534
+i-4768	c-3	2566	2620
+i-4583	c-8	2285	11940	Stop au massacre injustifié des renards 🦊
+i-4753	c-5	1097	5033
+i-3070	c-8	582	65138	Abrogation contrôle technique moto
+i-3867	c-7	428	43157	Pour la reconnaissance de la GROSSOPHOBIE
+i-3900	c-7	415	1795
+i-4715	c-4	384	555
 
-voix en 10 j :	50405
+voix en 10 j :	50565
