@@ -17,6 +17,8 @@ i-3279	Gaza a faim : accès immédiat à l'aide humanitaire
 i-3070	Abrogation contrôle technique moto
 i-4023	Macron Destitution — 09/25 (art. 68)
 i-4583	Stop au massacre injustifié des renards 🦊
+i-4553	Filière bovine en péril - Dermatose nodulaire contagieuse
+i-4828	Pénurie de dermatologues
 
 # ^ tracked ^     ▼ not tracked ▼
 
