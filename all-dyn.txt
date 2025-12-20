@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	19745	194126	Macron Destitution (art. 68)
-i-4553	c-3	12783	13723	Filière bovine en péril - Dermatose nodulaire contagieuse
-i-4828	c-5	7212	9191	Pénurie de dermatologues
+i-2743	c-7	19762	194147	Macron Destitution (art. 68)
+i-4553	c-3	12784	13732	Filière bovine en péril - Dermatose nodulaire contagieuse
+i-4828	c-5	7188	9195	Pénurie de dermatologues
 i-4768	c-3	2824	2883	STOP à l'abattage inutile du bétail / dermatose nodulaire
-i-4583	c-8	1582	12094	Stop au massacre injustifié des renards 🦊
-i-3867	c-7	869	43690	Pour la reconnaissance de la GROSSOPHOBIE
-i-4715	c-4	749	928
-i-4753	c-5	725	5136	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-4089	c-4	620	1834
+i-4583	c-8	1581	12096	Stop au massacre injustifié des renards 🦊
+i-3867	c-7	877	43698	Pour la reconnaissance de la GROSSOPHOBIE
+i-4715	c-4	752	931
+i-4753	c-5	721	5136	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4089	c-4	622	1836
 i-3070	c-8	499	65289	Abrogation contrôle technique moto
 
-voix en 10 j :	58097
+voix en 10 j :	58101
