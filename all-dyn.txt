@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2743	c-7	2190	196138	Macron Destitution (art. 68)
-i-4753	c-5	2102	7235	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-4828	c-5	1312	10429	Pénurie de dermatologues
-i-3070	c-8	1175	66453	Abrogation contrôle technique moto
-i-3867	c-7	844	44483	Pour la reconnaissance de la GROSSOPHOBIE
-i-4583	c-8	390	12475	Stop au massacre injustifié des renards 🦊
-i-2610	c-7	386	10910	Stop usage X pour la comm' du gouv'
-i-3781	c-5	382	4617
-i-4715	c-4	378	1279
-i-4282	c-7	358	1104
+i-2743	c-7	2195	196143	Macron Destitution (art. 68)
+i-4753	c-5	2106	7239	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4828	c-5	1316	10433	Pénurie de dermatologues
+i-3070	c-8	1195	66473	Abrogation contrôle technique moto
+i-3867	c-7	858	44497	Pour la reconnaissance de la GROSSOPHOBIE
+i-4583	c-8	391	12476	Stop au massacre injustifié des renards 🦊
+i-2610	c-7	387	10911	Stop usage X pour la comm' du gouv'
+i-3781	c-5	383	4618
+i-4715	c-4	379	1280
+i-4282	c-7	363	1109
 
-voix en 10 j :	14881
+voix en 10 j :	14955
