@@ -5,7 +5,7 @@ data="all-data.txt"
 TZ="Europe/Paris"
 
 main() {
-	sum_votes | sum_days # | bars
+	sum_votes | sum_days | tr ' ' '\t' # | bars
 }
 
 sum_votes() {
