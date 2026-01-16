@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4583	c-8	3033	15838	Stop au massacre injustifié des renards 🦊
-i-2743	c-7	2064	198801	Macron Destitution (art. 68)
-i-3867	c-7	1822	47302	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	1073	69661	Abrogation contrôle technique moto
-i-4828	c-5	1043	11970	Pénurie de dermatologues
-i-3781	c-5	717	5418
-i-4753	c-5	715	8244	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-4989	c-3	665	682
-i-3700	c-5	587	10646	Reconnaissance du SOPK en ALD
-i-4715	c-4	444	1892
+i-4583	c-8	3040	15847	Stop au massacre injustifié des renards 🦊
+i-2743	c-7	2065	198803	Macron Destitution (art. 68)
+i-3867	c-7	1820	47303	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	1062	69662	Abrogation contrôle technique moto
+i-4828	c-5	1038	11971	Pénurie de dermatologues
+i-3781	c-5	718	5419
+i-4753	c-5	716	8247	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4989	c-3	666	683
+i-3700	c-5	587	10649	Reconnaissance du SOPK en ALD
+i-4715	c-4	445	1893
 
-voix en 10 j :	19050
+voix en 10 j :	19087
