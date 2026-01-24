@@ -3,7 +3,6 @@ i-2483	Référendum obligatoire (article 89)
 i-2491	RIC-Constituant #4 (article 89)
 i-2601	Abrogation décret feux vélo clignotants
 i-2610	Stop usage X pour la comm' du gouv'
-i-2554	Pour une loi anti-trust en Outre-Mer
 i-2737	Création de l’infraction d’homicide routier
 i-2743	Macron Destitution (art. 68)
 i-2760	Abrogation des ZFE (#gueux)
@@ -16,7 +15,6 @@ i-3279	Gaza a faim : accès immédiat à l'aide humanitaire
 i-3070	Abrogation contrôle technique moto
 i-4023	Macron Destitution — 09/25 (art. 68)
 i-4583	Stop au massacre injustifié des renards 🦊
-i-4553	Filière bovine en péril - Dermatose nodulaire contagieuse
 i-4828	Pénurie de dermatologues
 
 # ^ tracked ^     ▼ not tracked ▼
@@ -25,12 +23,8 @@ i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
 i-2738	Des véhicules du quotidien abordables et légers
 i-2885	Reconnaissance immédiate de la Palestine
-i-2890	Sauver Lormauto, retrofit bas carbone citoyen
-i-2961	Reconnaissance police municipale gardes champêtres
 i-3019	Reconnaissance des kinés
-i-3026	Contre la suppression des 2 jours fériés
 i-3346	Suppression de l'ARCOM
-i-3603	Non aux réseaux sociaux utilisés comme arme
 i-3635	Suppression de l'ADEME
 i-3583	Refus de la destruction contraceptifs USAID
 i-3867	Pour la reconnaissance de la GROSSOPHOBIE
