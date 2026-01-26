@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3700	c-5	4534	15215	Reconnaissance du SOPK en ALD
-i-4583	c-8	4274	21485	Stop au massacre injustifié des renards 🦊
-i-3867	c-7	1798	49347	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	1786	71581	Abrogation contrôle technique moto
-i-3900	c-7	622	3021
-i-4828	c-5	617	12671	Pénurie de dermatologues
-i-2743	c-7	506	199346	Macron Destitution (art. 68)
-i-4282	c-7	385	2141
-i-5016	c-3	301	301
-i-2863	c-5	284	45557	Contre le projet de loi fin de vie
+i-3700	c-5	4555	15237	Reconnaissance du SOPK en ALD
+i-4583	c-8	4215	21495	Stop au massacre injustifié des renards 🦊
+i-3867	c-7	1793	49350	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	1790	71590	Abrogation contrôle technique moto
+i-3900	c-7	625	3025
+i-4828	c-5	618	12672	Pénurie de dermatologues
+i-2743	c-7	505	199347	Macron Destitution (art. 68)
+i-4282	c-7	387	2144
+i-5016	c-3	309	309
+i-2863	c-5	285	45558	Contre le projet de loi fin de vie
 
-voix en 10 j :	20950
+voix en 10 j :	20914
