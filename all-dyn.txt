@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	29116	29116	Non c'est Non, Monsieur Duplomb !
-i-5015	c-4	11310	22115	Référendum consultatif sur la relation France–UE
-i-4583	c-8	6078	28452	Stop au massacre injustifié des renards 🦊
-i-3867	c-7	1171	50674	Pour la reconnaissance de la GROSSOPHOBIE
-i-5090	c-4	1011	1450	Référendum sortie éventuelle de la France de l'UE
-i-3781	c-5	991	6587
-i-3070	c-8	832	72595	Abrogation contrôle technique moto
-i-4753	c-5	610	9176	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3700	c-5	588	16570	Reconnaissance du SOPK en ALD
-i-4828	c-5	577	13498	Pénurie de dermatologues
+i-5103	c-3	29281	29281	Non c'est Non, Monsieur Duplomb !
+i-5015	c-4	11229	22119	Référendum consultatif sur la relation France–UE
+i-4583	c-8	6075	28457	Stop au massacre injustifié des renards 🦊
+i-3867	c-7	1170	50675	Pour la reconnaissance de la GROSSOPHOBIE
+i-5090	c-4	1005	1450	Référendum sortie éventuelle de la France de l'UE
+i-3781	c-5	994	6590
+i-3070	c-8	825	72595	Abrogation contrôle technique moto
+i-4753	c-5	611	9177	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3700	c-5	582	16573	Reconnaissance du SOPK en ALD
+i-4828	c-5	576	13498	Pénurie de dermatologues
 
-voix en 10 j :	63550
+voix en 10 j :	63577
