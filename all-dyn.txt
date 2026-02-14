@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	247559	248642	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	4730	32029	Stop au massacre injustifié des renards 🦊
-i-5015	c-4	2556	22703	Référendum consultatif sur la relation France–UE
-i-3867	c-7	1013	51207	Pour la reconnaissance de la GROSSOPHOBIE
-i-3259	c-3	960	9138
-i-3021	c-8	944	43000	Sortie des pesticides de synthèse !
-i-4828	c-5	663	13923	Pénurie de dermatologues
-i-3781	c-5	653	6870	Reconnaissance de la fibromyalgie
-i-3070	c-8	627	72856	Abrogation contrôle technique moto
-i-3700	c-5	491	16844	Reconnaissance du SOPK en ALD
+i-5103	c-3	248676	249919	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	4765	32088	Stop au massacre injustifié des renards 🦊
+i-5015	c-4	2535	22704	Référendum consultatif sur la relation France–UE
+i-3867	c-7	1012	51210	Pour la reconnaissance de la GROSSOPHOBIE
+i-3259	c-3	959	9141
+i-3021	c-8	946	43003	Sortie des pesticides de synthèse !
+i-4828	c-5	660	13923	Pénurie de dermatologues
+i-3781	c-5	656	6873	Reconnaissance de la fibromyalgie
+i-3070	c-8	632	72863	Abrogation contrôle technique moto
+i-3700	c-5	488	16846	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	279275
+voix en 10 j :	280539
