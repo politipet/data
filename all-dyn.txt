@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	273210	283813	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	5251	33278	Stop au massacre injustifié des renards 🦊
-i-5015	c-4	1548	22933	Référendum consultatif sur la relation France–UE
-i-3867	c-7	1081	51574	Pour la reconnaissance de la GROSSOPHOBIE
-i-3021	c-8	987	43096	Sortie des pesticides de synthèse !
-i-3259	c-3	942	9231
-i-3781	c-5	655	6926	Reconnaissance de la fibromyalgie
-i-3070	c-8	588	73037	Abrogation contrôle technique moto
-i-4828	c-5	576	14009	Pénurie de dermatologues
-i-3008	c-6	555	31599	Contribution ultra-riches et grandes entreprises
+i-5103	c-3	273670	284614	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	5441	33487	Stop au massacre injustifié des renards 🦊
+i-5015	c-4	1519	22938	Référendum consultatif sur la relation France–UE
+i-3867	c-7	1083	51586	Pour la reconnaissance de la GROSSOPHOBIE
+i-3021	c-8	990	43099	Sortie des pesticides de synthèse !
+i-3259	c-3	944	9235
+i-3781	c-5	654	6926	Reconnaissance de la fibromyalgie
+i-3070	c-8	588	73047	Abrogation contrôle technique moto
+i-4828	c-5	572	14012	Pénurie de dermatologues
+i-3008	c-6	554	31599	Contribution ultra-riches et grandes entreprises
 
-voix en 10 j :	305919
+voix en 10 j :	306587
