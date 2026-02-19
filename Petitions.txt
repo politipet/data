@@ -1,4 +1,3 @@
-i-2489	Stop centrales photovoltaïques milieu naturel
 i-2483	Référendum obligatoire (article 89)
 i-2491	RIC-Constituant #4 (article 89)
 i-2601	Abrogation décret feux vélo clignotants
@@ -22,7 +21,6 @@ i-5103	Non c'est Non, Monsieur Duplomb !
 
 i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
-i-2738	Des véhicules du quotidien abordables et légers
 i-2885	Reconnaissance immédiate de la Palestine
 i-3019	Reconnaissance des kinés
 i-3346	Suppression de l'ARCOM
@@ -34,7 +32,6 @@ i-4253	Non à Chat-Control, outil de surveillance de masse
 i-4479	Non au malus écologique rétroactif sur les autos
 i-3436	Non à la suppression du bilan de compétences sur CPF
 i-4411	Non au zonage des taxis conventionnés CNAM
-i-3448	Retour au déclaratif pour l'Instruction En Famille
 i-3866	Liberté de choix de la mutuelle fonctionnaires EducNat
 i-4458	Pour l’instauration d’une taxe Zucman sur les ultra-riches
 i-4340	Liberté énergétique, prod+conso électricité renouvelable
