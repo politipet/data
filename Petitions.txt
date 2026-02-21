@@ -47,3 +47,5 @@ i-4768	STOP à l'abattage inutile du bétail / dermatose nodulaire
 i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-5015	Référendum consultatif sur la relation France–UE
 i-5090	Référendum sortie éventuelle de la France de l'UE
+i-5174	Facturation électronique obligatoire, c'est non !
+i-4180	Dissolution du parti politique LFI (29/09/2025)
