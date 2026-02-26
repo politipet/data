@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	76571	360384	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	4594	37872	Stop au massacre injustifié des renards 🦊
-i-5174	c-3	3109	3109	Facturation électronique obligatoire, c'est non !
-i-4180	c-	1947	2476	Dissolution du parti politique LFI (29/09/2025)
-i-3867	c-7	765	52339	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	728	73765	Abrogation contrôle technique moto
-i-5266	c-7	657	657
-i-5273	c-7	629	629
-i-5259	c-1	610	610
-i-4828	c-5	546	14555	Pénurie de dermatologues
+i-5103	c-3	76154	361173	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	4278	37883	Stop au massacre injustifié des renards 🦊
+i-5174	c-3	3128	3128	Facturation électronique obligatoire, c'est non !
+i-4180	c-	1884	2480	Dissolution du parti politique LFI (29/09/2025)
+i-3867	c-7	751	52342	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	719	73769	Abrogation contrôle technique moto
+i-5266	c-7	673	673
+i-5273	c-7	635	635
+i-5259	c-1	616	616
+i-4828	c-5	547	14561	Pénurie de dermatologues
 
-voix en 10 j :	104635
+voix en 10 j :	103853
