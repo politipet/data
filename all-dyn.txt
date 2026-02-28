@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	72048	366016	Non c'est Non, Monsieur Duplomb !
-i-5174	c-3	3275	3275	Facturation électronique obligatoire, c'est non !
-i-4583	c-8	2679	38175	Stop au massacre injustifié des renards 🦊
-i-4180	c-	1417	2540	Dissolution du parti politique LFI (29/09/2025)
-i-5266	c-7	938	938
-i-3070	c-8	680	73822	Abrogation contrôle technique moto
+i-5103	c-3	72038	366063	Non c'est Non, Monsieur Duplomb !
+i-5174	c-3	3278	3278	Facturation électronique obligatoire, c'est non !
+i-4583	c-8	2683	38196	Stop au massacre injustifié des renards 🦊
+i-4180	c-	1403	2542	Dissolution du parti politique LFI (29/09/2025)
+i-5266	c-7	956	956
+i-3070	c-8	677	73822	Abrogation contrôle technique moto
 i-5273	c-7	659	659
-i-5259	c-1	656	656
+i-5259	c-1	658	658
 i-5200	c-2	546	546
-i-3867	c-7	537	52368	Pour la reconnaissance de la GROSSOPHOBIE
+i-3867	c-7	533	52368	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	97467
+voix en 10 j :	97598
