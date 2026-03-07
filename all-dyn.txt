@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	25653	374877	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	2370	39989	Stop au massacre injustifié des renards 🦊
-i-5266	c-7	1760	2035	Loi d'urgence usurpation d'identité
+i-5103	c-3	25665	374889	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	2375	39994	Stop au massacre injustifié des renards 🦊
+i-5266	c-7	1766	2041	Loi d'urgence usurpation d'identité
 i-5174	c-3	775	3636	Facturation électronique obligatoire, c'est non !
+i-5254	c-5	678	771
 i-3781	c-5	677	8064	Reconnaissance de la fibromyalgie
-i-5254	c-5	672	765
 i-3700	c-5	499	17816	Reconnaissance du SOPK en ALD
 i-4828	c-5	453	14903	Pénurie de dermatologues
-i-3070	c-8	431	74095	Abrogation contrôle technique moto
-i-4282	c-7	430	3099
+i-4282	c-7	437	3106
+i-3070	c-8	432	74096	Abrogation contrôle technique moto
 
-voix en 10 j :	43388
+voix en 10 j :	43443
