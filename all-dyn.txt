@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	11255	376309	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	2231	40212	Stop au massacre injustifié des renards 🦊
-i-5266	c-7	1405	2270	Loi d'urgence usurpation d'identité
-i-5254	c-5	867	1184	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-5103	c-3	11098	376352	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	2233	40222	Stop au massacre injustifié des renards 🦊
+i-5266	c-7	1402	2273	Loi d'urgence usurpation d'identité
+i-5254	c-5	872	1191	Mutuelle complémentaire gérée par la Sécurité Sociale
 i-3781	c-5	749	8169	Reconnaissance de la fibromyalgie
-i-4282	c-7	586	3272
-i-3700	c-5	505	17906	Reconnaissance du SOPK en ALD
-i-5174	c-3	457	3698	Facturation électronique obligatoire, c'est non !
-i-3070	c-8	452	74256	Abrogation contrôle technique moto
-i-4828	c-5	377	14982	Pénurie de dermatologues
+i-4282	c-7	587	3274
+i-3700	c-5	506	17907	Reconnaissance du SOPK en ALD
+i-3070	c-8	462	74268	Abrogation contrôle technique moto
+i-5174	c-3	455	3701	Facturation électronique obligatoire, c'est non !
+i-4828	c-5	379	14987	Pénurie de dermatologues
 
-voix en 10 j :	26474
+voix en 10 j :	26286
