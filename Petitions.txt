@@ -14,6 +14,7 @@ i-3279	Gaza a faim : accès immédiat à l'aide humanitaire
 i-3070	Abrogation contrôle technique moto
 i-4023	Macron Destitution — 09/25 (art. 68)
 i-4583	Stop au massacre injustifié des renards 🦊
+i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-4828	Pénurie de dermatologues
 i-5103	Non c'est Non, Monsieur Duplomb !
 
@@ -44,7 +45,6 @@ i-3165	Reconnaissance du SOPK et accès équitable à la PMA
 i-4513	Gratuité totale des parkings à l’hôpital public
 i-4594	Non aux franchises médicales et participations forfaitaires !
 i-4768	STOP à l'abattage inutile du bétail / dermatose nodulaire
-i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-5015	Référendum consultatif sur la relation France–UE
 i-5090	Référendum sortie éventuelle de la France de l'UE
 i-5174	Facturation électronique obligatoire, c'est non !
