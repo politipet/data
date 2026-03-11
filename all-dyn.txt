@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	22537	32232	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5103	c-3	8028	377498	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	1295	40538	Stop au massacre injustifié des renards 🦊
-i-5266	c-7	1005	2408	Loi d'urgence usurpation d'identité
-i-5254	c-5	954	1318	Mutuelle complémentaire gérée par la Sécurité Sociale
-i-4282	c-7	630	3382	Journée nationale contre la non-représentation d’enfant
-i-3700	c-5	608	18106	Reconnaissance du SOPK en ALD
-i-4828	c-5	495	15139	Pénurie de dermatologues
-i-3070	c-8	478	74356	Abrogation contrôle technique moto
-i-3781	c-5	457	8214	Reconnaissance de la fibromyalgie
+i-4753	c-5	23281	32976	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5103	c-3	7943	377542	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	1275	40544	Stop au massacre injustifié des renards 🦊
+i-5266	c-7	995	2410	Loi d'urgence usurpation d'identité
+i-5254	c-5	951	1320	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-4282	c-7	625	3382	Journée nationale contre la non-représentation d’enfant
+i-3700	c-5	611	18113	Reconnaissance du SOPK en ALD
+i-4828	c-5	501	15147	Pénurie de dermatologues
+i-3070	c-8	482	74361	Abrogation contrôle technique moto
+i-3781	c-5	446	8215	Reconnaissance de la fibromyalgie
 
-voix en 10 j :	44159
+voix en 10 j :	44809
