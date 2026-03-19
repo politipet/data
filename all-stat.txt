@@ -2,7 +2,7 @@
      82	Éducation et culture
     250	Affaires économiques
     137	Affaires étrangères
-    304	Affaires sociales
-    252	Finances
+    305	Affaires sociales
+    253	Finances
     454	Lois et administration
      86	Développement durable
