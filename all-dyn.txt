@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	35643	46724	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5103	c-3	4180	380777	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	2149	42432	Stop au massacre injustifié des renards 🦊
-i-5174	c-3	847	4566	Facturation électronique obligatoire, c'est non !
-i-3700	c-5	620	18557	Reconnaissance du SOPK en ALD
-i-5164	c-2	590	758
-i-4828	c-5	588	15590	Pénurie de dermatologues
-i-2743	c-7	532	201260	Macron Destitution (art. 68)
-i-5254	c-5	530	1753	Mutuelle complémentaire gérée par la Sécurité Sociale
-i-3867	c-7	408	53055	Pour la reconnaissance de la GROSSOPHOBIE
+i-4753	c-5	33992	46729	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5103	c-3	4139	380787	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	2136	42436	Stop au massacre injustifié des renards 🦊
+i-5174	c-3	850	4570	Facturation électronique obligatoire, c'est non !
+i-3700	c-5	611	18557	Reconnaissance du SOPK en ALD
+i-5164	c-2	592	760
+i-4828	c-5	584	15590	Pénurie de dermatologues
+i-2743	c-7	531	201262	Macron Destitution (art. 68)
+i-5254	c-5	527	1755	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-3867	c-7	407	53055	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	53477
+voix en 10 j :	51713
