@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	15482	46933	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5103	c-3	3564	381029	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	2034	42565	Stop au massacre injustifié des renards 🦊
-i-5174	c-3	826	4624	Facturation électronique obligatoire, c'est non !
-i-5164	c-2	659	850
-i-5015	c-4	547	24319	Référendum consultatif sur la relation France–UE
-i-4282	c-7	547	3929	Journée nationale contre la non-représentation d’enfant
-i-5254	c-5	541	1859	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-4753	c-5	15490	46941	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5103	c-3	3570	381035	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	2037	42568	Stop au massacre injustifié des renards 🦊
+i-5174	c-3	828	4626	Facturation électronique obligatoire, c'est non !
+i-5164	c-2	660	851
+i-4282	c-7	553	3935	Journée nationale contre la non-représentation d’enfant
+i-5015	c-4	552	24324	Référendum consultatif sur la relation France–UE
+i-5254	c-5	543	1861	Mutuelle complémentaire gérée par la Sécurité Sociale
 i-2743	c-7	526	201288	Macron Destitution (art. 68)
 i-4828	c-5	506	15637	Pénurie de dermatologues
 
-voix en 10 j :	32050
+voix en 10 j :	32105
