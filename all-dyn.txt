@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	5077	47155	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5103	c-3	2957	381388	Non c'est Non, Monsieur Duplomb !
-i-4583	c-8	1903	42698	Stop au massacre injustifié des renards 🦊
-i-5174	c-3	776	4689	Facturation électronique obligatoire, c'est non !
-i-5015	c-4	655	24474	Référendum consultatif sur la relation France–UE
-i-5164	c-2	640	880
-i-5254	c-5	550	1915	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-4753	c-5	4730	47176	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5103	c-3	2911	381428	Non c'est Non, Monsieur Duplomb !
+i-4583	c-8	1888	42701	Stop au massacre injustifié des renards 🦊
+i-5174	c-3	766	4692	Facturation électronique obligatoire, c'est non !
+i-5015	c-4	661	24484	Référendum consultatif sur la relation France–UE
+i-5164	c-2	640	885
+i-5254	c-5	553	1923	Mutuelle complémentaire gérée par la Sécurité Sociale
 i-2743	c-7	526	201312	Macron Destitution (art. 68)
-i-4282	c-7	512	4000	Journée nationale contre la non-représentation d’enfant
-i-3700	c-5	500	18694	Reconnaissance du SOPK en ALD
+i-4282	c-7	511	4005	Journée nationale contre la non-représentation d’enfant
+i-3700	c-5	501	18700	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	20934
+voix en 10 j :	20518
