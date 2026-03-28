@@ -17,6 +17,7 @@ i-4583	Stop au massacre injustifié des renards 🦊
 i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-4828	Pénurie de dermatologues
 i-5103	Non c'est Non, Monsieur Duplomb !
+i-5158	Non à la loi Yadan
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -52,4 +53,3 @@ i-4180	Dissolution du parti politique LFI (29/09/2025)
 i-5266	Loi d'urgence usurpation d'identité
 i-5254	Mutuelle complémentaire gérée par la Sécurité Sociale
 i-4282	Journée nationale contre la non-représentation d’enfant
-i-5158	Non à la loi Yadan
