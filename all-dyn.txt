@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-4	16636	17206	Non à la loi Yadan
-i-5103	c-3	2720	383814	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	2168	76864	Abrogation contrôle technique moto
-i-4583	c-8	1425	44029	Stop au massacre injustifié des renards 🦊
-i-4282	c-7	1318	5264	Journée nationale contre la non-représentation d’enfant
-i-4753	c-5	1113	48113	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5200	c-2	835	1624
-i-3700	c-5	817	19447	Reconnaissance du SOPK en ALD
-i-5174	c-3	588	5233	Facturation électronique obligatoire, c'est non !
-i-5015	c-4	507	24893	Référendum consultatif sur la relation France–UE
+i-5158	c-4	17108	17678	Non à la loi Yadan
+i-5103	c-3	2727	383824	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	2173	76870	Abrogation contrôle technique moto
+i-4583	c-8	1495	44101	Stop au massacre injustifié des renards 🦊
+i-4282	c-7	1317	5264	Journée nationale contre la non-représentation d’enfant
+i-4753	c-5	1111	48115	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5200	c-2	827	1624
+i-3700	c-5	816	19447	Reconnaissance du SOPK en ALD
+i-5174	c-3	601	5247	Facturation électronique obligatoire, c'est non !
+i-5015	c-4	500	24896	Référendum consultatif sur la relation France–UE
 
-voix en 10 j :	37904
+voix en 10 j :	38533
