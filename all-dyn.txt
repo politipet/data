@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-7	128355	128952	Non à la loi Yadan
-i-4583	c-8	3991	46749	Stop au massacre injustifié des renards 🦊
-i-5103	c-3	3972	385604	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	2377	77179	Abrogation contrôle technique moto
-i-4282	c-7	1187	5333	Journée nationale contre la non-représentation d’enfant
-i-4753	c-5	1159	48464	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5158	c-7	130735	131333	Non à la loi Yadan
+i-4583	c-8	4043	46801	Stop au massacre injustifié des renards 🦊
+i-5103	c-3	4012	385644	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	2385	77188	Abrogation contrôle technique moto
+i-4282	c-7	1187	5334	Journée nationale contre la non-représentation d’enfant
+i-4753	c-5	1166	48472	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-3700	c-5	820	19557	Reconnaissance du SOPK en ALD
-i-5174	c-3	685	5422	Facturation électronique obligatoire, c'est non !
-i-5200	c-2	672	1662	Non à la dématérialisation des cours de français FLE
-i-2743	c-7	617	201936	Macron Destitution (art. 68)
+i-5174	c-3	686	5423	Facturation électronique obligatoire, c'est non !
+i-5200	c-2	671	1662	Non à la dématérialisation des cours de français FLE
+i-2743	c-7	623	201942	Macron Destitution (art. 68)
 
-voix en 10 j :	159916
+voix en 10 j :	162474
