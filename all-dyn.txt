@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-7	207647	208443	Non à la loi Yadan
-i-4583	c-8	6606	49448	Stop au massacre injustifié des renards 🦊
-i-5103	c-3	5454	387242	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	2711	77534	Abrogation contrôle technique moto
-i-4753	c-5	1310	48744	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-4282	c-7	1045	5351	Journée nationale contre la non-représentation d’enfant
-i-2743	c-7	827	202160	Macron Destitution (art. 68)
-i-3279	c-4	703	56972	Gaza a faim : accès immédiat à l'aide humanitaire
-i-3700	c-5	682	19609	Reconnaissance du SOPK en ALD
-i-5174	c-3	680	5471	Facturation électronique obligatoire, c'est non !
+i-5158	c-7	209542	210348	Non à la loi Yadan
+i-4583	c-8	6639	49483	Stop au massacre injustifié des renards 🦊
+i-5103	c-3	5492	387283	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	2721	77544	Abrogation contrôle technique moto
+i-4753	c-5	1314	48749	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4282	c-7	1042	5351	Journée nationale contre la non-représentation d’enfant
+i-2743	c-7	829	202162	Macron Destitution (art. 68)
+i-3279	c-4	705	56974	Gaza a faim : accès immédiat à l'aide humanitaire
+i-5174	c-3	680	5472	Facturation électronique obligatoire, c'est non !
+i-3700	c-5	679	19610	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	246755
+voix en 10 j :	248813
