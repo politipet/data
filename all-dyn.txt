@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-7	332040	334041	Non à la loi Yadan
-i-4583	c-8	8715	51801	Stop au massacre injustifié des renards 🦊
-i-5103	c-3	7789	390063	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	2045	77912	Abrogation contrôle technique moto
-i-4753	c-5	1483	49152	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-2743	c-7	1066	202436	Macron Destitution (art. 68)
-i-3279	c-4	1056	57340	Gaza a faim : accès immédiat à l'aide humanitaire
-i-4282	c-7	849	5364	Journée nationale contre la non-représentation d’enfant
-i-2894	c-4	755	27728	Sanction contre Israël
-i-3867	c-7	613	53945	Pour la reconnaissance de la GROSSOPHOBIE
+i-5158	c-7	337831	339893	Non à la loi Yadan
+i-4583	c-8	8770	51915	Stop au massacre injustifié des renards 🦊
+i-5103	c-3	7931	390222	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	1994	77947	Abrogation contrôle technique moto
+i-4753	c-5	1495	49171	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-2743	c-7	1078	202452	Macron Destitution (art. 68)
+i-3279	c-4	1072	57356	Gaza a faim : accès immédiat à l'aide humanitaire
+i-4282	c-7	837	5364	Journée nationale contre la non-représentation d’enfant
+i-2894	c-4	768	27741	Sanction contre Israël
+i-3867	c-7	616	53949	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	380037
+voix en 10 j :	386211
