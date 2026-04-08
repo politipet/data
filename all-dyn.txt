@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-7	572208	578031	Non à la loi Yadan
-i-5103	c-3	11995	394727	Non c'est Non, Monsieur Duplomb !
-i-4753	c-5	2140	49998	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3279	c-4	1712	58016	Gaza a faim : accès immédiat à l'aide humanitaire
-i-3070	c-8	1703	78349	Abrogation contrôle technique moto
-i-2743	c-7	1551	202951	Macron Destitution (art. 68)
-i-2894	c-4	1187	28180	Sanction contre Israël
-i-3008	c-6	929	32933	Contribution ultra-riches et grandes entreprises
-i-3867	c-7	874	54254	Pour la reconnaissance de la GROSSOPHOBIE
-i-5546	c-7	854	854
+i-5158	c-7	575350	581291	Non à la loi Yadan
+i-5103	c-3	12067	394819	Non c'est Non, Monsieur Duplomb !
+i-4753	c-5	2148	50013	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3279	c-4	1721	58025	Gaza a faim : accès immédiat à l'aide humanitaire
+i-3070	c-8	1701	78359	Abrogation contrôle technique moto
+i-2743	c-7	1560	202962	Macron Destitution (art. 68)
+i-2894	c-4	1195	28188	Sanction contre Israël
+i-3008	c-6	938	32943	Contribution ultra-riches et grandes entreprises
+i-3867	c-7	877	54259	Pour la reconnaissance de la GROSSOPHOBIE
+i-5546	c-7	862	862
 
-voix en 10 j :	626331
+voix en 10 j :	629719
