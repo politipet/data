@@ -4,7 +4,7 @@ i-5428	c-7	21369	21392	Touchez pas à nos fêtes !
 i-5103	c-3	10842	398927	Non c'est Non, Monsieur Duplomb !
 i-4753	c-5	1992	50851	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-3700	c-5	1870	21510	Reconnaissance du SOPK en ALD
-i-5695	c-7	1837	1837	Non à la prop. de loi "1er mai" au rabais
+i-5695	c-7	1837	1837	Non à la prop. de loi «1er mai» au rabais
 i-3279	c-4	1463	58532	Gaza a faim : accès immédiat à l'aide humanitaire
 i-2743	c-7	1312	203550	Macron Destitution (art. 68)
 i-3070	c-8	1308	78975	Abrogation contrôle technique moto
