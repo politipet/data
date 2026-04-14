@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5158	c-7	446714	694508	Non à la loi Yadan
-i-5428	c-7	21472	21495	Touchez pas à nos fêtes !
-i-5103	c-3	10870	398955	Non c'est Non, Monsieur Duplomb !
-i-4753	c-5	1995	50854	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3700	c-5	1875	21515	Reconnaissance du SOPK en ALD
-i-5695	c-7	1843	1843	Non à la prop. de loi «1er mai» au rabais
-i-3279	c-4	1469	58538	Gaza a faim : accès immédiat à l'aide humanitaire
-i-2743	c-7	1317	203555	Macron Destitution (art. 68)
-i-3070	c-8	1308	78975	Abrogation contrôle technique moto
-i-2894	c-4	1165	28714	Sanction contre Israël
+i-5158	c-7	444530	695516	Non à la loi Yadan
+i-5428	c-7	21718	21741	Touchez pas à nos fêtes !
+i-5103	c-3	10855	398994	Non c'est Non, Monsieur Duplomb !
+i-4753	c-5	2001	50869	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3700	c-5	1882	21524	Reconnaissance du SOPK en ALD
+i-5695	c-7	1851	1851	Non à la prop. de loi «1er mai» au rabais
+i-3279	c-4	1469	58546	Gaza a faim : accès immédiat à l'aide humanitaire
+i-2743	c-7	1327	203568	Macron Destitution (art. 68)
+i-3070	c-8	1298	78978	Abrogation contrôle technique moto
+i-2894	c-4	1164	28717	Sanction contre Israël
 
-voix en 10 j :	524802
+voix en 10 j :	523021
