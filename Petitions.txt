@@ -15,7 +15,6 @@ i-4023	Macron Destitution — 09/25 (art. 68)
 i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-4828	Pénurie de dermatologues
 i-5103	Non c'est Non, Monsieur Duplomb !
-i-5158	Non à la loi Yadan
 i-5428	Touchez pas à nos fêtes !
 
 # ^ tracked ^     ▼ not tracked ▼
@@ -31,17 +30,12 @@ i-3867	Pour la reconnaissance de la GROSSOPHOBIE
 i-3034	Soutien à la taxe Zucman, pour une fiscalité juste
 i-4253	Non à Chat-Control, outil de surveillance de masse
 i-4479	Non au malus écologique rétroactif sur les autos
-i-3436	Non à la suppression du bilan de compétences sur CPF
-i-4411	Non au zonage des taxis conventionnés CNAM
-i-3866	Liberté de choix de la mutuelle fonctionnaires EducNat
 i-4458	Pour l’instauration d’une taxe Zucman sur les ultra-riches
 i-4340	Liberté énergétique, prod+conso électricité renouvelable
 i-4490	Vapoter n'est pas fumer, retrait de l'art. 23 du budget
 i-4623	Référendum pour la taxe Zucman
 i-4317	Non aux boutiques SHEIN en France !!
-i-3781	Reconnaissance de la fibromyalgie
 i-3700	Reconnaissance du SOPK en ALD
-i-3165	Reconnaissance du SOPK et accès équitable à la PMA
 i-4513	Gratuité totale des parkings à l’hôpital public
 i-4594	Non aux franchises médicales et participations forfaitaires !
 i-4768	STOP à l'abattage inutile du bétail / dermatose nodulaire
