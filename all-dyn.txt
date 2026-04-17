@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5428	c-7	26657	26705	Touchez pas à nos fêtes !
-i-5103	c-3	7583	399800	Non c'est Non, Monsieur Duplomb !
-i-5521	c-3	5242	5242	Action immédiate contre la contamination au cadmium
-i-3700	c-5	2087	21865	Reconnaissance du SOPK en ALD
+i-5428	c-7	26815	26863	Touchez pas à nos fêtes !
+i-5103	c-3	7466	399816	Non c'est Non, Monsieur Duplomb !
+i-5521	c-3	5584	5584	Action immédiate contre la contamination au cadmium
+i-3700	c-5	2090	21871	Reconnaissance du SOPK en ALD
 i-5695	c-7	1988	1988	Non à la prop. de loi «1er mai» au rabais
-i-4753	c-5	1599	51119	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-2743	c-7	1124	203788	Macron Destitution (art. 68)
-i-3070	c-8	1106	79270	Abrogation contrôle technique moto
-i-3279	c-4	1042	58678	Gaza a faim : accès immédiat à l'aide humanitaire
-i-2894	c-4	952	28861	Sanction contre Israël
+i-4753	c-5	1586	51126	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-2743	c-7	1114	203791	Macron Destitution (art. 68)
+i-3070	c-8	1106	79283	Abrogation contrôle technique moto
+i-3279	c-4	1023	58678	Gaza a faim : accès immédiat à l'aide humanitaire
+i-2894	c-4	945	28861	Sanction contre Israël
 
-voix en 10 j :	78636
+voix en 10 j :	78823
