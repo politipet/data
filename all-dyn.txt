@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5428	c-7	27357	27420	Touchez pas à nos fêtes !
-i-5521	c-3	6692	6692	Action immédiate contre la contamination au cadmium
-i-5103	c-3	5895	399885	Non c'est Non, Monsieur Duplomb !
-i-3700	c-5	2083	21907	Reconnaissance du SOPK en ALD
+i-5428	c-7	27399	27462	Touchez pas à nos fêtes !
+i-5521	c-3	6736	6736	Action immédiate contre la contamination au cadmium
+i-5103	c-3	5874	399886	Non c'est Non, Monsieur Duplomb !
+i-3700	c-5	2082	21908	Reconnaissance du SOPK en ALD
 i-5695	c-7	1996	1996	Non à la prop. de loi «1er mai» au rabais
-i-4753	c-5	1324	51157	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3070	c-8	1022	79305	Abrogation contrôle technique moto
-i-2743	c-7	953	203814	Macron Destitution (art. 68)
-i-5535	c-5	914	1688
-i-5379	c-2	845	895
+i-4753	c-5	1318	51158	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3070	c-8	1022	79306	Abrogation contrôle technique moto
+i-2743	c-7	949	203815	Macron Destitution (art. 68)
+i-5535	c-5	915	1689
+i-5379	c-2	844	895
 
 voix en 10 j :	75244
