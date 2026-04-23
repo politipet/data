@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5428	c-7	13731	30534	Touchez pas à nos fêtes !
-i-5521	c-3	10027	10068	Action immédiate contre la contamination au cadmium
-i-5103	c-3	2501	400640	Non c'est Non, Monsieur Duplomb !
-i-5725	c-5	1547	1547
-i-5535	c-5	1394	2452
-i-5174	c-3	1266	7104	Facturation électronique obligatoire, c'est non !
+i-5428	c-7	13749	30552	Touchez pas à nos fêtes !
+i-5521	c-3	10031	10072	Action immédiate contre la contamination au cadmium
+i-5103	c-3	2502	400641	Non c'est Non, Monsieur Duplomb !
+i-5725	c-5	1615	1615
+i-5535	c-5	1395	2453
+i-5174	c-3	1277	7115	Facturation électronique obligatoire, c'est non !
 i-3700	c-5	986	22211	Reconnaissance du SOPK en ALD
-i-3070	c-8	821	79622	Abrogation contrôle technique moto
-i-4753	c-5	743	51409	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5546	c-7	738	2138	Pour la gratuité de la justice, non au timbre fiscal !
+i-3070	c-8	822	79623	Abrogation contrôle technique moto
+i-4753	c-5	744	51410	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5546	c-7	739	2139	Pour la gratuité de la justice, non au timbre fiscal !
 
-voix en 10 j :	51357
+voix en 10 j :	51492
