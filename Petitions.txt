@@ -16,6 +16,7 @@ i-4753	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-4828	Pénurie de dermatologues
 i-5103	Non c'est Non, Monsieur Duplomb !
 i-5428	Touchez pas à nos fêtes !
+i-5521	Action immédiate contre la contamination au cadmium
 
 # ^ tracked ^     ▼ not tracked ▼
 
@@ -47,6 +48,5 @@ i-5266	Loi d'urgence usurpation d'identité
 i-5254	Mutuelle complémentaire gérée par la Sécurité Sociale
 i-4282	Journée nationale contre la non-représentation d’enfant
 i-5200	Non à la dématérialisation des cours de français FLE
-i-5521	Action immédiate contre la contamination au cadmium
 i-5546	Pour la gratuité de la justice, non au timbre fiscal !
 i-5695	Non à la prop. de loi «1er mai» au rabais
