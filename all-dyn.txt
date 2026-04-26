@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5521	c-3	10618	14694	Action immédiate contre la contamination au cadmium
-i-5725	c-5	5911	5911
-i-5428	c-7	5840	31990	Touchez pas à nos fêtes !
-i-5174	c-3	2453	8478	Facturation électronique obligatoire, c'est non !
-i-5103	c-3	1382	401119	Non c'est Non, Monsieur Duplomb !
-i-5535	c-5	1218	2722
-i-5706	c-3	1021	1021
-i-5546	c-7	761	2307	Pour la gratuité de la justice, non au timbre fiscal !
-i-5648	c-5	674	776
-i-3700	c-5	572	22387	Reconnaissance du SOPK en ALD
+i-5521	c-3	10642	14740	Action immédiate contre la contamination au cadmium
+i-5725	c-5	5985	5985
+i-5428	c-7	5809	32002	Touchez pas à nos fêtes !
+i-5174	c-3	2458	8486	Facturation électronique obligatoire, c'est non !
+i-5103	c-3	1377	401120	Non c'est Non, Monsieur Duplomb !
+i-5535	c-5	1212	2724
+i-5706	c-3	1021	1022
+i-5546	c-7	763	2309	Pour la gratuité de la justice, non au timbre fiscal !
+i-5648	c-5	672	778
+i-3700	c-5	567	22390	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	41485
+voix en 10 j :	41578
