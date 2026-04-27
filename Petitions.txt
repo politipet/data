@@ -50,3 +50,4 @@ i-4282	Journée nationale contre la non-représentation d’enfant
 i-5200	Non à la dématérialisation des cours de français FLE
 i-5546	Pour la gratuité de la justice, non au timbre fiscal !
 i-5695	Non à la prop. de loi «1er mai» au rabais
+i-5725	Abrogation obligations vaccinales pédiatriques
