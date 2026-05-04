@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5521	c-3	8510	19200	Contamination au cadmium : action immédiate !
-i-4991	c-7	7021	7129	Pour une commission d'enquête féminicides
-i-5725	c-5	5049	9093	Abrogation obligations vaccinales pédiatriques
-i-5174	c-3	1978	9567	Facturation électronique obligatoire, c'est non !
-i-5428	c-7	1907	33222	Touchez pas à nos fêtes !
-i-5273	c-7	1340	2864
-i-5103	c-3	1213	401974	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	925	80589	Abrogation contrôle technique moto
-i-5648	c-5	540	1156
-i-5706	c-3	465	1334
+i-5521	c-3	8473	19205	Contamination au cadmium : action immédiate !
+i-4991	c-7	7029	7137	Pour une commission d'enquête féminicides
+i-5725	c-5	4964	9109	Abrogation obligations vaccinales pédiatriques
+i-5174	c-3	1938	9567	Facturation électronique obligatoire, c'est non !
+i-5428	c-7	1886	33224	Touchez pas à nos fêtes !
+i-5273	c-7	1351	2875
+i-5103	c-3	1201	401975	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	918	80591	Abrogation contrôle technique moto
+i-5648	c-5	491	1157
+i-4753	c-5	461	51922	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 
-voix en 10 j :	39999
+voix en 10 j :	39758
