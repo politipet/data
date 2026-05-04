@@ -52,3 +52,4 @@ i-5546	Pour la gratuité de la justice, non au timbre fiscal !
 i-5695	Non à la prop. de loi «1er mai» au rabais
 i-5725	Abrogation obligations vaccinales pédiatriques
 i-5273	Commission d'enquête sur l'affaire Epstein en France
+i-5648	Encadrement formations + conseils psychothérapeutes
