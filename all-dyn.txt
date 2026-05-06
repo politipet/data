@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4991	c-7	10923	11033	Pour une commission d'enquête féminicides
-i-5521	c-3	5558	19873	Contamination au cadmium : action immédiate !
-i-5725	c-5	4861	10384	Abrogation obligations vaccinales pédiatriques
-i-5428	c-7	2533	34441	Touchez pas à nos fêtes !
-i-5273	c-7	1960	3491	Commission d'enquête sur l'affaire Epstein en France
-i-5174	c-3	1406	9788	Facturation électronique obligatoire, c'est non !
-i-5103	c-3	1196	402271	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	1074	80839	Abrogation contrôle technique moto
-i-5848	c-5	559	559
-i-4753	c-5	498	52048	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4991	c-7	11075	11185	Pour une commission d'enquête féminicides
+i-5521	c-3	5542	19918	Contamination au cadmium : action immédiate !
+i-5725	c-5	4853	10408	Abrogation obligations vaccinales pédiatriques
+i-5428	c-7	2601	34529	Touchez pas à nos fêtes !
+i-5273	c-7	2019	3550	Commission d'enquête sur l'affaire Epstein en France
+i-5174	c-3	1405	9799	Facturation électronique obligatoire, c'est non !
+i-5103	c-3	1215	402295	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	1095	80865	Abrogation contrôle technique moto
+i-5848	c-5	734	734
+i-4753	c-5	514	52066	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 
-voix en 10 j :	43486
+voix en 10 j :	44335
