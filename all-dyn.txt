@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4991	c-7	15309	15420	Pour une commission d'enquête féminicides
-i-5521	c-3	4383	20597	Contamination au cadmium : action immédiate !
-i-5725	c-5	3581	10720	Abrogation obligations vaccinales pédiatriques
-i-5428	c-7	3022	35293	Touchez pas à nos fêtes !
-i-5848	c-5	2996	2996
-i-5273	c-7	2488	4075	Commission d'enquête sur l'affaire Epstein en France
-i-5651	c-8	1492	1505
-i-5103	c-3	1276	402572	Non c'est Non, Monsieur Duplomb !
-i-3070	c-8	1256	81162	Abrogation contrôle technique moto
-i-5174	c-3	997	9907	Facturation électronique obligatoire, c'est non !
+i-4991	c-7	15433	15544	Pour une commission d'enquête féminicides
+i-5521	c-3	4564	20778	Contamination au cadmium : action immédiate !
+i-5725	c-5	3590	10729	Abrogation obligations vaccinales pédiatriques
+i-5848	c-5	3291	3291
+i-5428	c-7	3032	35303	Touchez pas à nos fêtes !
+i-5273	c-7	2520	4107	Commission d'enquête sur l'affaire Epstein en France
+i-5651	c-8	1509	1522
+i-5103	c-3	1293	402589	Non c'est Non, Monsieur Duplomb !
+i-3070	c-8	1263	81169	Abrogation contrôle technique moto
+i-5174	c-3	1003	9913	Facturation électronique obligatoire, c'est non !
 
-voix en 10 j :	51057
+voix en 10 j :	51923
