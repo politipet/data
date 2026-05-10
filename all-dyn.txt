@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4991	c-7	15137	16841	Pour une commission d'enquête féminicides
-i-5848	c-5	4775	4775	La France championne du cadmium - Stop au poison !
-i-5521	c-3	3894	21498	Contamination au cadmium : action immédiate !
-i-5725	c-5	3324	10932	Abrogation obligations vaccinales pédiatriques
-i-5428	c-7	3033	35523	Touchez pas à nos fêtes !
-i-5273	c-7	2866	4671	Commission d'enquête sur l'affaire Epstein en France
-i-5651	c-8	1800	1816
-i-3070	c-8	1514	81526	Abrogation contrôle technique moto
-i-5103	c-3	1264	402757	Non c'est Non, Monsieur Duplomb !
-i-5706	c-3	850	1957
+i-4991	c-7	14812	16916	Pour une commission d'enquête féminicides
+i-5848	c-5	4821	4821	La France championne du cadmium - Stop au poison !
+i-5521	c-3	3800	21516	Contamination au cadmium : action immédiate !
+i-5725	c-5	3302	10946	Abrogation obligations vaccinales pédiatriques
+i-5428	c-7	3023	35533	Touchez pas à nos fêtes !
+i-5273	c-7	2861	4699	Commission d'enquête sur l'affaire Epstein en France
+i-5651	c-8	1817	1833
+i-3070	c-8	1521	81549	Abrogation contrôle technique moto
+i-5103	c-3	1249	402762	Non c'est Non, Monsieur Duplomb !
+i-5706	c-3	850	1961
 
-voix en 10 j :	53225
+voix en 10 j :	52810
