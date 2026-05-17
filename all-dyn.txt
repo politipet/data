@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5174	c-3	7800	17671	Facturation électronique obligatoire, c'est non !
-i-4991	c-7	6451	20477	Pour une commission d'enquête féminicides
-i-5651	c-8	4899	6237	Conserver les délégations régionales de l’ADEME
-i-5848	c-5	4453	7014	La France championne du cadmium - Stop au poison !
-i-5521	c-3	4428	24772	Contamination au cadmium : action immédiate !
+i-5174	c-3	7819	17690	Facturation électronique obligatoire, c'est non !
+i-4991	c-7	6459	20485	Pour une commission d'enquête féminicides
+i-5651	c-8	4906	6244	Conserver les délégations régionales de l’ADEME
+i-5848	c-5	4459	7020	La France championne du cadmium - Stop au poison !
+i-5521	c-3	4437	24781	Contamination au cadmium : action immédiate !
 i-5273	c-7	1917	5848	Commission d'enquête sur l'affaire Epstein en France
-i-5725	c-5	1718	12356	Abrogation obligations vaccinales pédiatriques
-i-5706	c-3	1371	3043
-i-3070	c-8	1279	82338	Abrogation contrôle technique moto
-i-5103	c-3	1063	403546	Non c'est Non, Monsieur Duplomb !
+i-5725	c-5	1719	12357	Abrogation obligations vaccinales pédiatriques
+i-5706	c-3	1372	3044
+i-3070	c-8	1280	82339	Abrogation contrôle technique moto
+i-5103	c-3	1067	403550	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	50216
+voix en 10 j :	50317
