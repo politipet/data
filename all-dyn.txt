@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5174	c-3	8752	18683	Facturation électronique obligatoire, c'est non !
-i-5651	c-8	5142	6737	Conserver les délégations régionales de l’ADEME
-i-4991	c-7	4763	20671	Pour une commission d'enquête féminicides
-i-5521	c-3	3930	25042	Contamination au cadmium : action immédiate !
-i-5848	c-5	3245	7163	La France championne du cadmium - Stop au poison !
-i-5725	c-5	1635	12409	Abrogation obligations vaccinales pédiatriques
-i-5273	c-7	1617	5879	Commission d'enquête sur l'affaire Epstein en France
-i-5865	c-2	1590	2047	Suppression du programme Bienvenue en France
-i-5706	c-3	1215	3093	Stop aux captures de dauphins - Sea Shepherd .fr
-i-3070	c-8	1198	82407	Abrogation contrôle technique moto
+i-5174	c-3	8766	18701	Facturation électronique obligatoire, c'est non !
+i-5651	c-8	5135	6740	Conserver les délégations régionales de l’ADEME
+i-4991	c-7	4719	20673	Pour une commission d'enquête féminicides
+i-5521	c-3	3909	25046	Contamination au cadmium : action immédiate !
+i-5848	c-5	3179	7165	La France championne du cadmium - Stop au poison !
+i-5725	c-5	1623	12410	Abrogation obligations vaccinales pédiatriques
+i-5865	c-2	1607	2064	Suppression du programme Bienvenue en France
+i-5273	c-7	1598	5882	Commission d'enquête sur l'affaire Epstein en France
+i-5706	c-3	1212	3098	Stop aux captures de dauphins - Sea Shepherd .fr
+i-3070	c-8	1188	82408	Abrogation contrôle technique moto
 
-voix en 10 j :	48099
+voix en 10 j :	47870
