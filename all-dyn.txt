@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5174	c-3	8106	19789	Facturation électronique obligatoire, c'est non !
-i-5651	c-8	5110	7289	Conserver les délégations régionales de l’ADEME
-i-5865	c-2	3747	4247	Suppression du programme Bienvenue en France
-i-5521	c-3	3692	25532	Contamination au cadmium : action immédiate !
-i-4991	c-7	3570	20979	Pour une commission d'enquête féminicides
-i-5848	c-5	2134	7333	La France championne du cadmium - Stop au poison !
-i-5725	c-5	1277	12525	Abrogation obligations vaccinales pédiatriques
-i-5706	c-3	1166	3160	Stop aux captures de dauphins - Sea Shepherd .fr
-i-4753	c-5	1158	53590	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5273	c-7	1021	5945	Commission d'enquête sur l'affaire Epstein en France
+i-5174	c-3	7664	19903	Facturation électronique obligatoire, c'est non !
+i-5651	c-8	5024	7334	Conserver les délégations régionales de l’ADEME
+i-5865	c-2	3912	4420	Suppression du programme Bienvenue en France
+i-5521	c-3	3581	25579	Contamination au cadmium : action immédiate !
+i-4991	c-7	3431	21021	Pour une commission d'enquête féminicides
+i-5848	c-5	1989	7347	La France championne du cadmium - Stop au poison !
+i-4753	c-5	1349	53805	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5725	c-5	1199	12543	Abrogation obligations vaccinales pédiatriques
+i-5706	c-3	1164	3167	Stop aux captures de dauphins - Sea Shepherd .fr
+i-5273	c-7	967	5951	Commission d'enquête sur l'affaire Epstein en France
 
-voix en 10 j :	45470
+voix en 10 j :	44209
