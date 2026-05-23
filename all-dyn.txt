@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5174	c-3	6057	20807	Facturation électronique obligatoire, c'est non !
-i-5865	c-2	5008	5739	Suppression du programme Bienvenue en France
-i-5651	c-8	3868	7683	Conserver les délégations régionales de l’ADEME
-i-4753	c-5	2885	55564	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5521	c-3	2719	26003	Contamination au cadmium : action immédiate !
-i-4991	c-7	2110	21215	Pour une commission d'enquête féminicides
-i-5848	c-5	1723	8030	La France championne du cadmium - Stop au poison !
-i-5706	c-3	1079	3214	Stop aux captures de dauphins - Sea Shepherd .fr
-i-5428	c-7	908	36750	Touchez pas à nos fêtes !
-i-5103	c-3	770	403974	Non c'est Non, Monsieur Duplomb !
+i-5174	c-3	6078	20828	Facturation électronique obligatoire, c'est non !
+i-5865	c-2	5030	5761	Suppression du programme Bienvenue en France
+i-5651	c-8	3875	7690	Conserver les délégations régionales de l’ADEME
+i-4753	c-5	2949	55628	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5521	c-3	2727	26011	Contamination au cadmium : action immédiate !
+i-4991	c-7	2115	21220	Pour une commission d'enquête féminicides
+i-5848	c-5	1730	8037	La France championne du cadmium - Stop au poison !
+i-5706	c-3	1080	3215	Stop aux captures de dauphins - Sea Shepherd .fr
+i-5428	c-7	910	36752	Touchez pas à nos fêtes !
+i-5103	c-3	773	403977	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	39896
+voix en 10 j :	40129
