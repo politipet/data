@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5174	c-3	5627	21042	Facturation électronique obligatoire, c'est non !
-i-5865	c-2	5170	5965	Suppression du programme Bienvenue en France
-i-4753	c-5	3502	56252	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5651	c-8	2819	7739	Conserver les délégations régionales de l’ADEME
-i-5521	c-3	2443	26116	Contamination au cadmium : action immédiate !
-i-5848	c-5	1632	8139	La France championne du cadmium - Stop au poison !
-i-4991	c-7	1516	21250	Pour une commission d'enquête féminicides
-i-5428	c-7	898	36808	Touchez pas à nos fêtes !
-i-5103	c-3	708	404026	Non c'est Non, Monsieur Duplomb !
-i-3700	c-5	566	23450	Reconnaissance du SOPK en ALD
+i-5174	c-3	5642	21057	Facturation électronique obligatoire, c'est non !
+i-5865	c-2	5194	5989	Suppression du programme Bienvenue en France
+i-4753	c-5	3559	56309	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5651	c-8	2823	7743	Conserver les délégations régionales de l’ADEME
+i-5521	c-3	2450	26123	Contamination au cadmium : action immédiate !
+i-5848	c-5	1640	8147	La France championne du cadmium - Stop au poison !
+i-4991	c-7	1518	21252	Pour une commission d'enquête féminicides
+i-5428	c-7	900	36810	Touchez pas à nos fêtes !
+i-5103	c-3	710	404028	Non c'est Non, Monsieur Duplomb !
+i-3700	c-5	568	23452	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	37087
+voix en 10 j :	37298
