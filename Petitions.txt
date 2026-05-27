@@ -24,7 +24,6 @@ i-2438	Accueil des Libanais en France
 i-2640	Non à la suppression de l'abattement de 10%
 i-2885	Reconnaissance immédiate de la Palestine
 i-3019	Reconnaissance des kinés
-i-3346	Suppression de l'ARCOM
 i-3635	Suppression de l'ADEME
 i-3583	Refus de la destruction contraceptifs USAID
 i-3867	Pour la reconnaissance de la GROSSOPHOBIE
