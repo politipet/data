@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	7773	62064	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5865	c-2	4138	9010	Suppression du programme Bienvenue en France
-i-5174	c-3	2054	22317	Facturation électronique obligatoire, c'est non !
-i-5848	c-5	1248	8838	La France championne du cadmium - Stop au poison !
-i-5521	c-3	1200	26923	Contamination au cadmium : action immédiate !
-i-5651	c-8	882	8378	Conserver les délégations régionales de l’ADEME
-i-5725	c-5	847	13425	Abrogation obligations vaccinales pédiatriques
-i-4991	c-7	670	21773	Pour une commission d'enquête féminicides
-i-5428	c-7	572	37197	Touchez pas à nos fêtes !
-i-5103	c-3	566	404471	Non c'est Non, Monsieur Duplomb !
+i-4753	c-5	7775	62069	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5865	c-2	4135	9010	Suppression du programme Bienvenue en France
+i-5174	c-3	2050	22321	Facturation électronique obligatoire, c'est non !
+i-5848	c-5	1242	8839	La France championne du cadmium - Stop au poison !
+i-5521	c-3	1201	26929	Contamination au cadmium : action immédiate !
+i-5651	c-8	883	8379	Conserver les délégations régionales de l’ADEME
+i-5725	c-5	850	13428	Abrogation obligations vaccinales pédiatriques
+i-4991	c-7	669	21774	Pour une commission d'enquête féminicides
+i-5428	c-7	569	37198	Touchez pas à nos fêtes !
+i-5103	c-3	569	404474	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	30100
+voix en 10 j :	30097
