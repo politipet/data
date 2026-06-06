@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5848	c-5	4448	12892	La France championne du cadmium - Stop au poison !
-i-4753	c-5	3779	63225	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5725	c-5	3583	16485	Abrogation obligations vaccinales pédiatriques
-i-5521	c-3	3123	29593	Contamination au cadmium : action immédiate !
-i-5174	c-3	1965	23671	Facturation électronique obligatoire, c'est non !
-i-5865	c-2	1859	9677	Suppression du programme Bienvenue en France
-i-5103	c-3	1367	405588	Non c'est Non, Monsieur Duplomb !
-i-6098	c-8	842	842
-i-5651	c-8	709	8752	Conserver les délégations régionales de l’ADEME
-i-4828	c-5	577	18947	Pénurie de dermatologues
+i-5848	c-5	4407	12914	La France championne du cadmium - Stop au poison !
+i-5725	c-5	3571	16522	Abrogation obligations vaccinales pédiatriques
+i-5521	c-3	3081	29616	Contamination au cadmium : action immédiate !
+i-4753	c-5	2220	63251	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5174	c-3	1921	23726	Facturation électronique obligatoire, c'est non !
+i-5865	c-2	1646	9686	Suppression du programme Bienvenue en France
+i-5103	c-3	1350	405616	Non c'est Non, Monsieur Duplomb !
+i-6098	c-8	940	940
+i-5651	c-8	671	8766	Conserver les délégations régionales de l’ADEME
+i-4828	c-5	566	18961	Pénurie de dermatologues
 
-voix en 10 j :	35824
+voix en 10 j :	33606
