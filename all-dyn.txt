@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6098	c-8	4008	4008	Préservation du réseau territorial de l’ADEME
-i-5848	c-3	3266	13279	La France championne du cadmium - Stop au poison !
-i-5521	c-3	2735	30002	Contamination au cadmium : action immédiate !
-i-5725	c-5	2069	17084	Abrogation obligations vaccinales pédiatriques
-i-5174	c-3	1876	24397	Facturation électronique obligatoire, c'est non !
-i-4753	c-5	1824	64165	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5103	c-3	1449	406067	Non c'est Non, Monsieur Duplomb !
+i-6098	c-8	4088	4088	Préservation du réseau territorial de l’ADEME
+i-5848	c-3	3001	13286	La France championne du cadmium - Stop au poison !
+i-5521	c-3	2672	30010	Contamination au cadmium : action immédiate !
+i-5174	c-3	1861	24415	Facturation électronique obligatoire, c'est non !
+i-4753	c-5	1854	64287	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5725	c-5	1844	17092	Abrogation obligations vaccinales pédiatriques
+i-5103	c-3	1445	406086	Non c'est Non, Monsieur Duplomb !
 i-6118	c-7	806	806
-i-5865	c-2	769	10048	Suppression du programme Bienvenue en France
-i-6110	c-2	665	665
+i-5865	c-2	762	10059	Suppression du programme Bienvenue en France
+i-6110	c-2	669	669
 
-voix en 10 j :	34762
+voix en 10 j :	34263
