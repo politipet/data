@@ -57,3 +57,4 @@ i-5651	Conserver les délégations régionales de l’ADEME
 i-6098	Préservation du réseau territorial de l’ADEME
 i-5706	Stop aux captures de dauphins - Sea Shepherd .fr
 i-5865	Suppression du programme Bienvenue en France
+i-6205	Loi intégrale contre les VSS sur femmes & enfants
