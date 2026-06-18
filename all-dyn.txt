@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6098	c-8	3640	5016	Préservation du réseau territorial de l’ADEME
-i-6205	c-7	2717	2717	Loi intégrale contre les VSS sur femmes & enfants
-i-4753	c-5	1367	64700	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6098	c-8	3625	5018	Préservation du réseau territorial de l’ADEME
+i-6205	c-7	2722	2722	Loi intégrale contre les VSS sur femmes & enfants
+i-4753	c-5	1366	64703	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-3867	c-7	1358	57285	Pour la reconnaissance de la GROSSOPHOBIE
-i-5103	c-3	961	406710	Non c'est Non, Monsieur Duplomb !
-i-5174	c-3	952	24842	Facturation électronique obligatoire, c'est non !
-i-5725	c-5	732	17416	Abrogation obligations vaccinales pédiatriques
-i-5651	c-8	578	9388	Conserver les délégations régionales de l’ADEME
-i-5865	c-2	577	10323	Suppression du programme Bienvenue en France
-i-3070	c-8	493	83629	Abrogation contrôle technique moto
+i-5103	c-3	961	406712	Non c'est Non, Monsieur Duplomb !
+i-5174	c-3	942	24843	Facturation électronique obligatoire, c'est non !
+i-5725	c-5	728	17416	Abrogation obligations vaccinales pédiatriques
+i-5865	c-2	580	10326	Suppression du programme Bienvenue en France
+i-5651	c-8	576	9388	Conserver les délégations régionales de l’ADEME
+i-3070	c-8	491	83629	Abrogation contrôle technique moto
 
-voix en 10 j :	25600
+voix en 10 j :	25608
