@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	2127	408523	Non c'est Non, Monsieur Duplomb !
-i-6205	c-7	1241	3410	Loi intégrale contre les VSS sur femmes & enfants
-i-6098	c-8	1020	5827	Préservation du réseau territorial de l’ADEME
-i-5174	c-3	980	25671	Facturation électronique obligatoire, c'est non !
-i-6230	c-7	903	975
-i-5725	c-5	841	18206	Abrogation obligations vaccinales pédiatriques
-i-3867	c-7	623	57418	Pour la reconnaissance de la GROSSOPHOBIE
-i-5428	c-7	518	38301	Touchez pas à nos fêtes !
-i-4828	c-5	329	19642	Pénurie de dermatologues
-i-6238	c-5	321	396
+i-5103	c-3	2132	408623	Non c'est Non, Monsieur Duplomb !
+i-6205	c-7	1087	3420	Loi intégrale contre les VSS sur femmes & enfants
+i-5174	c-3	999	25719	Facturation électronique obligatoire, c'est non !
+i-6098	c-8	978	5832	Préservation du réseau territorial de l’ADEME
+i-5725	c-5	836	18208	Abrogation obligations vaccinales pédiatriques
+i-6230	c-7	811	975
+i-5428	c-7	519	38307	Touchez pas à nos fêtes !
+i-3867	c-7	433	57421	Pour la reconnaissance de la GROSSOPHOBIE
+i-6219	c-7	349	563
+i-4828	c-5	314	19646	Pénurie de dermatologues
 
-voix en 10 j :	18030
+voix en 10 j :	17341
