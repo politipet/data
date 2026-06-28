@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5103	c-3	2733	409519	Non c'est Non, Monsieur Duplomb !
-i-6318	c-5	1369	1369
-i-5174	c-3	1025	25934	Facturation électronique obligatoire, c'est non !
-i-5725	c-5	767	18290	Abrogation obligations vaccinales pédiatriques
-i-6098	c-8	744	5869	Préservation du réseau territorial de l’ADEME
-i-6205	c-7	692	3523	Loi intégrale contre les VSS sur femmes & enfants
-i-6219	c-7	590	825
+i-5103	c-3	2788	409574	Non c'est Non, Monsieur Duplomb !
+i-6318	c-5	1377	1377
+i-5174	c-3	1033	25942	Facturation électronique obligatoire, c'est non !
+i-5725	c-5	771	18294	Abrogation obligations vaccinales pédiatriques
+i-6098	c-8	746	5871	Préservation du réseau territorial de l’ADEME
+i-6205	c-7	698	3529	Loi intégrale contre les VSS sur femmes & enfants
+i-6219	c-7	592	827
 i-5428	c-7	507	38341	Touchez pas à nos fêtes !
-i-6230	c-7	395	982
+i-6230	c-7	396	983
 i-4753	c-5	306	65049	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 
-voix en 10 j :	17811
+voix en 10 j :	18006
