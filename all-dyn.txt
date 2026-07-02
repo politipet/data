@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-	43912	43912
-i-5103	c-3	5950	413077	Non c'est Non, Monsieur Duplomb !
-i-6318	c-5	1486	1486
-i-5725	c-5	1353	19321	Abrogation obligations vaccinales pédiatriques
-i-5174	c-3	1071	26382	Facturation électronique obligatoire, c'est non !
-i-6219	c-7	757	1041
-i-6283	c-3	741	809
-i-6205	c-7	609	3775	Loi intégrale contre les VSS sur femmes & enfants
-i-5428	c-7	555	38482	Touchez pas à nos fêtes !
-i-5165	c-3	493	2346
+i-6334	c-	50487	50487
+i-5103	c-3	6081	413221	Non c'est Non, Monsieur Duplomb !
+i-6318	c-5	1489	1489
+i-5725	c-5	1347	19344	Abrogation obligations vaccinales pédiatriques
+i-5174	c-3	1056	26401	Facturation électronique obligatoire, c'est non !
+i-6219	c-7	760	1047
+i-6283	c-3	747	820
+i-6205	c-7	593	3782	Loi intégrale contre les VSS sur femmes & enfants
+i-5428	c-7	571	38501	Touchez pas à nos fêtes !
+i-5165	c-3	508	2362
 
-voix en 10 j :	69180
+voix en 10 j :	76400
