@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-	107680	107680
-i-5103	c-3	7080	414278	Non c'est Non, Monsieur Duplomb !
-i-6318	c-5	1505	1505
-i-5725	c-5	1361	19440	Abrogation obligations vaccinales pédiatriques
-i-5174	c-3	1027	26505	Facturation électronique obligatoire, c'est non !
-i-6219	c-7	837	1128
-i-6283	c-3	834	929
-i-5428	c-7	697	38639	Touchez pas à nos fêtes !
-i-4753	c-5	633	65508	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5165	c-3	547	2421
+i-6334	c-	114149	114149
+i-5103	c-3	7210	414408	Non c'est Non, Monsieur Duplomb !
+i-6318	c-5	1506	1506
+i-5725	c-5	1366	19445	Abrogation obligations vaccinales pédiatriques
+i-5174	c-3	1035	26513	Facturation électronique obligatoire, c'est non !
+i-6283	c-3	855	950
+i-6219	c-7	842	1133
+i-5428	c-7	708	38650	Touchez pas à nos fêtes !
+i-4753	c-5	649	65524	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5165	c-3	556	2430
 
-voix en 10 j :	137266
+voix en 10 j :	144296
