@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-	386849	386952	Contre la présomption de légitime défense des FdO
-i-6392	c-3	28285	28285
-i-5103	c-3	9697	419216	Non c'est Non, Monsieur Duplomb !
-i-6283	c-3	1369	1655
-i-4753	c-5	1362	66411	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5725	c-5	1360	19650	Abrogation obligations vaccinales pédiatriques
-i-6449	c-7	1204	1204
-i-5165	c-3	1195	3149
-i-3279	c-4	1055	60410	Gaza a faim : accès immédiat à l'aide humanitaire
-i-6205	c-7	1020	4543	Loi intégrale contre les VSS sur femmes & enfants
+i-6334	c-	402897	403026	Contre la présomption de légitime défense des FdO
+i-6392	c-3	29512	29512
+i-5103	c-3	9839	419413	Non c'est Non, Monsieur Duplomb !
+i-6283	c-3	1399	1686
+i-4753	c-5	1399	66448	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5725	c-5	1362	19656	Abrogation obligations vaccinales pédiatriques
+i-6449	c-7	1285	1285
+i-5165	c-3	1230	3185
+i-3279	c-4	1085	60440	Gaza a faim : accès immédiat à l'aide humanitaire
+i-6205	c-7	1027	4556	Loi intégrale contre les VSS sur femmes & enfants
 
-voix en 10 j :	465392
+voix en 10 j :	483872
