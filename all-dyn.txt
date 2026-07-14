@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-7	483668	648276	Contre la présomption de légitime défense des FdO
-i-6392	c-3	59745	59745	Duplomb II - Non c'est toujours Non !
-i-5103	c-3	8714	424277	Non c'est Non, Monsieur Duplomb !
-i-6449	c-7	2346	2346
-i-5896	c-7	2226	2351
-i-4753	c-5	1642	67359	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5165	c-3	1572	4087
-i-6416	c-5	1398	1398
-i-3279	c-4	1229	61080	Gaza a faim : accès immédiat à l'aide humanitaire
-i-6454	c-7	1202	1202
+i-6334	c-7	481692	648925	Contre la présomption de légitime défense des FdO
+i-6392	c-3	60090	60090	Duplomb II - Non c'est toujours Non !
+i-5103	c-3	8713	424325	Non c'est Non, Monsieur Duplomb !
+i-6449	c-7	2349	2349
+i-5896	c-7	2235	2360
+i-4753	c-5	1641	67366	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5165	c-3	1583	4102
+i-6416	c-5	1424	1424
+i-3279	c-4	1232	61089	Gaza a faim : accès immédiat à l'aide humanitaire
+i-6454	c-7	1212	1212
 
-voix en 10 j :	601540
+voix en 10 j :	600006
