@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-7	341099	681270	Contre la présomption de légitime défense des FdO
-i-6392	c-3	55857	79549	Duplomb II - Non c'est toujours Non !
-i-5103	c-3	7737	426370	Non c'est Non, Monsieur Duplomb !
-i-5896	c-7	2450	2632
-i-6449	c-7	2187	2476
-i-6454	c-7	1680	1680
-i-6416	c-5	1630	1632
-i-5165	c-3	1459	4513
-i-4753	c-5	1319	67636	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6408	c-7	1267	1279
+i-6334	c-7	335542	683078	Contre la présomption de légitime défense des FdO
+i-6392	c-3	56138	80623	Duplomb II - Non c'est toujours Non !
+i-5103	c-3	7712	426449	Non c'est Non, Monsieur Duplomb !
+i-5896	c-7	2412	2636
+i-6449	c-7	2003	2481
+i-6454	c-7	1686	1686
+i-6416	c-5	1631	1633
+i-5165	c-3	1464	4528
+i-4753	c-5	1306	67640	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6408	c-7	1275	1288
 
-voix en 10 j :	450064
+voix en 10 j :	444483
