@@ -132,10 +132,11 @@ TZ  ?= Europe/Paris
 rate-stat. rate-stat.id:
 	@echo "please specify <id>"
 
+calibre ?= 10
 rate-stat.%:
 	@make day-scores.$* --no-print-directory \
 	|awk '{printf("%s\t%d\t+%d\t%*c\n",	\
-		$$1, $$2, $$3, $$3/10+.5, ".")}'	\
+		$$1, $$2, $$3, $$3/$(calibre)+.5, ".")}'	\
 	| tr ' ' .
 
 rate-split. rate-split.id:
