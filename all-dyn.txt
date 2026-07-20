@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6334	c-7	142504	717186	Contre la présomption de légitime défense des FdO
-i-6392	c-3	73700	117367	Duplomb II - Non c'est toujours Non !
-i-5103	c-3	7234	428940	Non c'est Non, Monsieur Duplomb !
-i-6546	c-8	1852	1852
-i-5165	c-3	1750	5362
-i-6454	c-7	1454	1886
-i-6283	c-3	1332	3297	Non à la loi d'urgence agricole
-i-5896	c-7	1277	2730
-i-6408	c-7	1247	1416
-i-6416	c-5	1131	1665
+i-6334	c-7	138593	718115	Contre la présomption de légitime défense des FdO
+i-6392	c-3	73946	118491	Duplomb II - Non c'est toujours Non !
+i-5103	c-3	7252	429087	Non c'est Non, Monsieur Duplomb !
+i-6546	c-8	2071	2071
+i-5165	c-3	1774	5410
+i-6454	c-7	1420	1892
+i-6283	c-3	1347	3327	Non à la loi d'urgence agricole
+i-6408	c-7	1263	1434
+i-5896	c-7	1226	2738
+i-6416	c-5	1107	1666
 
-voix en 10 j :	262513
+voix en 10 j :	258685
