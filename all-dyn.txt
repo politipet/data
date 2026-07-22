@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6392	c-3	77926	128637	Duplomb II - Non c'est toujours Non !
-i-5103	c-3	7319	430479	Non c'est Non, Monsieur Duplomb !
-i-6546	c-8	2492	2492
-i-5165	c-3	1954	5805
-i-6283	c-3	1644	3777	Non à la loi d'urgence agricole
-i-6408	c-7	1304	1511
-i-6454	c-7	1085	1942
-i-6416	c-5	867	1676
-i-4753	c-5	854	68026	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5896	c-7	719	2782
+i-6392	c-3	78041	128945	Duplomb II - Non c'est toujours Non !
+i-5103	c-3	7318	430507	Non c'est Non, Monsieur Duplomb !
+i-6546	c-8	2504	2504
+i-5165	c-3	1960	5815
+i-6283	c-3	1654	3788	Non à la loi d'urgence agricole
+i-6408	c-7	1306	1515
+i-6454	c-7	1082	1944
+i-4753	c-5	855	68031	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6416	c-5	842	1676
+i-5896	c-7	712	2784
 
-voix en 10 j :	123543
+voix en 10 j :	123710
