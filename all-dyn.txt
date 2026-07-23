@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6392	c-3	75758	130552	Duplomb II - Non c'est toujours Non !
-i-5103	c-3	7050	430737	Non c'est Non, Monsieur Duplomb !
-i-6546	c-8	2562	2562
-i-5165	c-3	1950	5883
-i-6283	c-3	1627	3837	Non à la loi d'urgence agricole
-i-6408	c-7	1308	1533
-i-4180	c-	1126	4110	Dissolution du parti politique LFI (29/09/2025)
-i-6454	c-7	946	1951
-i-4753	c-5	800	68048	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5174	c-3	685	27973	Facturation électronique obligatoire, c'est non !
+i-6392	c-3	75323	130832	Duplomb II - Non c'est toujours Non !
+i-5103	c-3	7014	430783	Non c'est Non, Monsieur Duplomb !
+i-6546	c-8	2572	2572
+i-5165	c-3	1950	5898
+i-6283	c-3	1625	3846	Non à la loi d'urgence agricole
+i-6408	c-7	1310	1537
+i-4180	c-	1205	4189	Dissolution du parti politique LFI (29/09/2025)
+i-6454	c-7	895	1954
+i-4753	c-5	787	68051	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5174	c-3	671	27981	Facturation électronique obligatoire, c'est non !
 
-voix en 10 j :	120715
+voix en 10 j :	120161
