@@ -56,3 +56,8 @@ i-5706	Stop aux captures de dauphins - Sea Shepherd .fr
 i-5865	Suppression du programme Bienvenue en France
 i-6205	Loi intégrale contre les VSS sur femmes & enfants
 i-6283	Non à la loi d'urgence agricole
+i-6546	Interdiction de la chasse pendant 1 an
+i-5165	Non à la Loi Duplomb 2 — (Eléonore PATTERY reloaded)
+i-6408	Opposition à la Loi BERGÉ 2026
+i-6595	Pour suspendre la plateforme des PAN ou lui donner des dents
+i-6580	Un casier judiciaire vierge pour un mandat
