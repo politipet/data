@@ -61,3 +61,4 @@ i-5165	Non à la Loi Duplomb 2 — (Eléonore PATTERY reloaded)
 i-6408	Opposition à la Loi BERGÉ 2026
 i-6595	Pour suspendre la plateforme des PAN ou lui donner des dents
 i-6580	Un casier judiciaire vierge pour un mandat
+i-6690	Non à la garantie publique par l'État du financement du RN
