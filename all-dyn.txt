@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6392	c-3	25835	135844	Duplomb II - Non c'est toujours Non !
-i-6690	c-7	8529	8529	Non à la garantie publique par l'État du financement du RN
-i-6546	c-8	5014	5795	Interdiction de la chasse pendant 1 an
-i-5103	c-3	3367	431542	Non c'est Non, Monsieur Duplomb !
-i-4180	c-	2421	5417	Dissolution du parti politique LFI (29/09/2025)
-i-6668	c-8	1394	1394
-i-5165	c-3	1007	6116	Non à la Loi Duplomb 2 — (Eléonore PATTERY reloaded)
-i-6595	c-7	979	979	Pour suspendre la plateforme des PAN ou lui donner des dents
-i-6283	c-3	978	4068	Non à la loi d'urgence agricole
-i-3700	c-5	820	24989	Reconnaissance du SOPK en ALD
+i-6392	c-3	24225	135895	Duplomb II - Non c'est toujours Non !
+i-6690	c-7	9479	9479	Non à la garantie publique par l'État du financement du RN
+i-6546	c-8	4982	5818	Interdiction de la chasse pendant 1 an
+i-5103	c-3	3221	431555	Non c'est Non, Monsieur Duplomb !
+i-4180	c-	2427	5424	Dissolution du parti politique LFI (29/09/2025)
+i-6668	c-8	1477	1477
+i-6595	c-7	984	984	Pour suspendre la plateforme des PAN ou lui donner des dents
+i-5165	c-3	963	6123	Non à la Loi Duplomb 2 — (Eléonore PATTERY reloaded)
+i-6283	c-3	944	4073	Non à la loi d'urgence agricole
+i-3700	c-5	879	25054	Reconnaissance du SOPK en ALD
 
-voix en 10 j :	70241
+voix en 10 j :	69516
