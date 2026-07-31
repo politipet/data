@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6690	c-7	16455	16455	Non à la garantie publique par l'État du financement du RN
-i-6392	c-3	10830	136473	Duplomb II - Non c'est toujours Non !
-i-6546	c-8	3727	6146	Interdiction de la chasse pendant 1 an
-i-6668	c-8	2774	2774
-i-4180	c-	2447	5488	Dissolution du parti politique LFI (29/09/2025)
-i-5103	c-3	1590	431758	Non c'est Non, Monsieur Duplomb !
-i-6703	c-7	1424	1424
-i-3700	c-5	1189	25387	Reconnaissance du SOPK en ALD
-i-6595	c-7	994	1021	Pour suspendre la plateforme des PAN ou lui donner des dents
-i-6118	c-7	630	1682
+i-6690	c-7	16670	16670	Non à la garantie publique par l'État du financement du RN
+i-6392	c-3	10845	136488	Duplomb II - Non c'est toujours Non !
+i-6546	c-8	3736	6155	Interdiction de la chasse pendant 1 an
+i-6668	c-8	2809	2809
+i-4180	c-	2453	5494	Dissolution du parti politique LFI (29/09/2025)
+i-5103	c-3	1606	431774	Non c'est Non, Monsieur Duplomb !
+i-6703	c-7	1459	1459
+i-3700	c-5	1193	25391	Reconnaissance du SOPK en ALD
+i-6595	c-7	995	1022	Pour suspendre la plateforme des PAN ou lui donner des dents
+i-6118	c-7	633	1685
 
-voix en 10 j :	59987
+voix en 10 j :	60643
