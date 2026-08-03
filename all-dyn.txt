@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6690	c-7	18631	18631	Non à la garantie publique par l'État du financement du RN
-i-6392	c-3	4033	136915	Duplomb II - Non c'est toujours Non !
-i-6668	c-8	3353	3353
-i-6546	c-8	2715	6362	Interdiction de la chasse pendant 1 an
-i-6703	c-7	2028	2028
-i-4753	c-5	1606	69681	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3700	c-5	1252	25471	Reconnaissance du SOPK en ALD
-i-5103	c-3	933	431971	Non c'est Non, Monsieur Duplomb !
-i-4180	c-	775	5563	Dissolution du parti politique LFI (29/09/2025)
-i-6118	c-7	696	1771
+i-6690	c-7	18655	18655	Non à la garantie publique par l'État du financement du RN
+i-6392	c-3	3945	136937	Duplomb II - Non c'est toujours Non !
+i-6668	c-8	3363	3363
+i-6546	c-8	2656	6364	Interdiction de la chasse pendant 1 an
+i-6703	c-7	2034	2034
+i-4753	c-5	1654	69734	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3700	c-5	1251	25471	Reconnaissance du SOPK en ALD
+i-5103	c-3	925	431975	Non c'est Non, Monsieur Duplomb !
+i-4180	c-	747	5563	Dissolution du parti politique LFI (29/09/2025)
+i-6118	c-7	697	1772
 
-voix en 10 j :	52054
+voix en 10 j :	51950
