@@ -64,3 +64,4 @@ i-6580	Un casier judiciaire vierge pour un mandat
 i-6690	Non à la garantie publique par l'État du financement du RN
 i-6668	Suspendre la chasse pendant l'été suite aux incendies
 i-6703	Non à la garantie par l'État d'un prêt bancaire au RN
+i-6118	Formation moto 125cc étendue au 250cc
