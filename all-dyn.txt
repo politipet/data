@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6690	c-7	19154	19154	Non à la garantie publique par l'État du financement du RN
-i-6668	c-8	3593	3593
-i-6392	c-3	2734	137271	Duplomb II - Non c'est toujours Non !
-i-4753	c-5	2397	70509	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6703	c-7	2216	2216
-i-6546	c-8	1513	6447	Interdiction de la chasse pendant 1 an
+i-6690	c-7	19157	19157	Non à la garantie publique par l'État du financement du RN
+i-6668	c-8	3597	3597
+i-6392	c-3	2662	137274	Duplomb II - Non c'est toujours Non !
+i-4753	c-5	2401	70513	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6703	c-7	2217	2217
+i-6546	c-8	1426	6447	Interdiction de la chasse pendant 1 an
 i-3700	c-5	1289	25517	Reconnaissance du SOPK en ALD
-i-5103	c-3	823	432094	Non c'est Non, Monsieur Duplomb !
+i-5103	c-3	807	432096	Non c'est Non, Monsieur Duplomb !
 i-6118	c-7	703	1791
-i-5174	c-3	550	28652	Facturation électronique obligatoire, c'est non !
+i-5174	c-3	556	28661	Facturation électronique obligatoire, c'est non !
 
-voix en 10 j :	49988
+voix en 10 j :	49665
