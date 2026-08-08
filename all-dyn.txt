@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6690	c-7	12449	19382	Non à la garantie publique par l'État du financement du RN
-i-4753	c-5	2606	70775	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6668	c-8	2407	3700	Suspendre la chasse pendant l'été suite aux incendies
-i-6703	c-7	1939	2318	Non à la garantie par l'État d'un prêt bancaire au RN
-i-6392	c-3	1673	137449	Duplomb II - Non c'est toujours Non !
-i-6546	c-8	732	6492	Interdiction de la chasse pendant 1 an
-i-5103	c-3	653	432175	Non c'est Non, Monsieur Duplomb !
-i-6118	c-7	633	1819	Formation moto 125cc étendue au 250cc
-i-3700	c-5	621	25541	Reconnaissance du SOPK en ALD
-i-5174	c-3	500	28747	Facturation électronique obligatoire, c'est non !
+i-6690	c-7	10856	19385	Non à la garantie publique par l'État du financement du RN
+i-4753	c-5	2613	70786	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6668	c-8	2308	3702	Suspendre la chasse pendant l'été suite aux incendies
+i-6703	c-7	1819	2320	Non à la garantie par l'État d'un prêt bancaire au RN
+i-6392	c-3	1612	137456	Duplomb II - Non c'est toujours Non !
+i-6546	c-8	701	6496	Interdiction de la chasse pendant 1 an
+i-5103	c-3	636	432178	Non c'est Non, Monsieur Duplomb !
+i-6118	c-7	589	1819	Formation moto 125cc étendue au 250cc
+i-3700	c-5	553	25542	Reconnaissance du SOPK en ALD
+i-5174	c-3	499	28751	Facturation électronique obligatoire, c'est non !
 
-voix en 10 j :	36678
+voix en 10 j :	34338
