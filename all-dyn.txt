@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-3700	c-5	25558	25558	Reconnaissance du SOPK en ALD
-i-6690	c-7	4765	19458	Non à la garantie publique par l'État du financement du RN
-i-4753	c-5	2786	70998	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3635	c-8	2092	2092	Suppression de l'ADEME
-i-3475	c-4	2005	2005
-i-3721	c-4	1763	1763
-i-3520	c-4	1697	1697
-i-6668	c-8	1372	3730	Suspendre la chasse pendant l'été suite aux incendies
-i-6392	c-3	1219	137561	Duplomb II - Non c'est toujours Non !
-i-6703	c-7	1155	2353	Non à la garantie par l'État d'un prêt bancaire au RN
+i-6690	c-7	4453	19467	Non à la garantie publique par l'État du financement du RN
+i-4753	c-5	2792	71006	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6668	c-8	1257	3731	Suspendre la chasse pendant l'été suite aux incendies
+i-6392	c-3	1186	137574	Duplomb II - Non c'est toujours Non !
+i-6703	c-7	1103	2357	Non à la garantie par l'État d'un prêt bancaire au RN
+i-5103	c-3	506	432221	Non c'est Non, Monsieur Duplomb !
+i-6546	c-8	491	6539	Interdiction de la chasse pendant 1 an
+i-5174	c-3	455	28804	Facturation électronique obligatoire, c'est non !
+i-6710	c-8	362	390
+i-5254	c-5	330	4582	Mutuelle complémentaire gérée par la Sécurité Sociale
 
-voix en 10 j :	77414
+voix en 10 j :	23179
