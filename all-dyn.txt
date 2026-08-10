@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-6690	c-7	4906	19456	Non à la garantie publique par l'État du financement du RN
-i-4753	c-5	2782	70993	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4753	c-5	2783	70994	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6668	c-8	1454	3730	Suspendre la chasse pendant l'été suite aux incendies
-i-6392	c-3	1230	137555	Duplomb II - Non c'est toujours Non !
+i-6392	c-3	1231	137556	Duplomb II - Non c'est toujours Non !
 i-6703	c-7	1175	2353	Non à la garantie par l'État d'un prêt bancaire au RN
 i-6546	c-8	549	6529	Interdiction de la chasse pendant 1 an
-i-5103	c-3	536	432218	Non c'est Non, Monsieur Duplomb !
+i-5103	c-3	537	432219	Non c'est Non, Monsieur Duplomb !
 i-5174	c-3	466	28798	Facturation électronique obligatoire, c'est non !
 i-6710	c-8	372	386
 i-5254	c-5	326	4578	Mutuelle complémentaire gérée par la Sécurité Sociale
 
-voix en 10 j :	24277
+voix en 10 j :	24286
