@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-3700	c-5	25558	25558	Reconnaissance du SOPK en ALD
-i-6690	c-7	4763	19456	Non à la garantie publique par l'État du financement du RN
-i-4753	c-5	2783	70995	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6690	c-7	4765	19458	Non à la garantie publique par l'État du financement du RN
+i-4753	c-5	2786	70998	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-3635	c-8	2092	2092	Suppression de l'ADEME
 i-3475	c-4	2005	2005
 i-3721	c-4	1763	1763
 i-3520	c-4	1697	1697
 i-6668	c-8	1372	3730	Suspendre la chasse pendant l'été suite aux incendies
-i-6392	c-3	1216	137558	Duplomb II - Non c'est toujours Non !
+i-6392	c-3	1219	137561	Duplomb II - Non c'est toujours Non !
 i-6703	c-7	1155	2353	Non à la garantie par l'État d'un prêt bancaire au RN
 
-voix en 10 j :	77373
+voix en 10 j :	77414
