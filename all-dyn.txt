@@ -10,4 +10,4 @@ i-6703	c-7	276	2407	Non à la garantie par l'État d'un prêt bancaire au RN
 i-6674	c-5	260	648
 i-6546	c-8	240	6655	Interdiction de la chasse pendant 1 an
 
-voix en 10 j :	12866
+voix en 10 j :	12870
