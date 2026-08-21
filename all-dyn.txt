@@ -1,6 +1,6 @@
 id	comm	diff	score	theme
 i-4753	c-5	716	71836	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6690	c-7	694	20198	Non à la garantie publique par l'État du financement du RN
+i-6690	c-7	693	20198	Non à la garantie publique par l'État du financement du RN
 i-5174	c-3	444	29268	Facturation électronique obligatoire, c'est non !
 i-6392	c-3	333	137960	Duplomb II - Non c'est toujours Non !
 i-6668	c-8	323	4072	Suspendre la chasse pendant l'été suite aux incendies
@@ -10,4 +10,4 @@ i-6710	c-8	196	598
 i-3867	c-7	188	59018	Pour la reconnaissance de la GROSSOPHOBIE
 i-5725	c-5	183	20528	Abrogation obligations vaccinales pédiatriques
 
-voix en 10 j :	9408
+voix en 10 j :	9405
