@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6710	c-8	857	1289	Suspendre la chasse pendant 3 ans suite aux incendies
-i-6690	c-7	656	20232	Non à la garantie publique par l'État du financement du RN
-i-5174	c-3	655	29514	Facturation électronique obligatoire, c'est non !
-i-4753	c-5	644	71908	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-4829	c-8	323	3306	La France tire sur ses loups… et sur la nature !
-i-6392	c-3	303	137989	Duplomb II - Non c'est toujours Non !
-i-6668	c-8	274	4088	Suspendre la chasse pendant l'été suite aux incendies
-i-6730	c-7	190	282
-i-3867	c-7	180	59024	Pour la reconnaissance de la GROSSOPHOBIE
-i-6238	c-5	178	1163
+i-6710	c-8	868	1301	Suspendre la chasse pendant 3 ans suite aux incendies
+i-5174	c-3	664	29526	Facturation électronique obligatoire, c'est non !
+i-6690	c-7	655	20234	Non à la garantie publique par l'État du financement du RN
+i-4753	c-5	632	71910	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4829	c-8	327	3310	La France tire sur ses loups… et sur la nature !
+i-6392	c-3	298	137990	Duplomb II - Non c'est toujours Non !
+i-6668	c-8	273	4089	Suspendre la chasse pendant l'été suite aux incendies
+i-6730	c-7	188	283
+i-6238	c-5	181	1166
+i-3867	c-7	181	59026	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	10154
+voix en 10 j :	10104
