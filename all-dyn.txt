@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-6710	c-8	1585	2029	Suspendre la chasse pendant 3 ans suite aux incendies
+i-6710	c-8	1586	2030	Suspendre la chasse pendant 3 ans suite aux incendies
 i-5174	c-3	941	29885	Facturation électronique obligatoire, c'est non !
 i-6690	c-7	589	20292	Non à la garantie publique par l'État du financement du RN
 i-4753	c-5	549	72019	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
