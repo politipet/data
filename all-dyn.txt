@@ -10,4 +10,4 @@ i-6673	c-8	318	610
 i-6238	c-5	281	1272
 i-6392	c-3	262	138140	Duplomb II - Non c'est toujours Non !
 
-voix en 10 j :	12568
+voix en 10 j :	12570
