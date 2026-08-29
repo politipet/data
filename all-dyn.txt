@@ -8,6 +8,6 @@ i-6282	c-7	316	798
 i-6673	c-8	307	616
 i-6238	c-5	278	1274
 i-6392	c-3	250	138159	Duplomb II - Non c'est toujours Non !
-i-6690	c-7	232	20364	Non à la garantie publique par l'État du financement du RN
+i-6690	c-7	231	20364	Non à la garantie publique par l'État du financement du RN
 
-voix en 10 j :	12026
+voix en 10 j :	12022
