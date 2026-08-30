@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-6710	c-8	1580	2177	Suspendre la chasse pendant 3 ans suite aux incendies
-i-5174	c-3	1173	30432	Facturation électronique obligatoire, c'est non !
-i-6759	c-8	906	906
+i-5174	c-3	1174	30433	Facturation électronique obligatoire, c'est non !
+i-6759	c-8	948	948
 i-4753	c-5	552	72383	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6668	c-8	391	4462	Suspendre la chasse pendant l'été suite aux incendies
 i-6282	c-7	295	813
-i-6673	c-8	282	628
+i-6673	c-8	283	629
 i-4829	c-8	265	3354	La France tire sur ses loups… et sur la nature !
 i-6238	c-5	239	1276
 i-6392	c-3	231	138191	Duplomb II - Non c'est toujours Non !
 
-voix en 10 j :	12619
+voix en 10 j :	12669
