@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6710	c-8	1579	2178	Suspendre la chasse pendant 3 ans suite aux incendies
-i-6759	c-8	1220	1220
-i-5174	c-3	1171	30439	Facturation électronique obligatoire, c'est non !
+i-6710	c-8	1563	2178	Suspendre la chasse pendant 3 ans suite aux incendies
+i-6759	c-8	1258	1258
+i-5174	c-3	1173	30441	Facturation électronique obligatoire, c'est non !
 i-4753	c-5	554	72390	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6668	c-8	391	4463	Suspendre la chasse pendant l'été suite aux incendies
+i-6668	c-8	390	4463	Suspendre la chasse pendant l'été suite aux incendies
 i-6282	c-7	293	814
 i-6673	c-8	286	632
 i-6392	c-3	239	138199	Duplomb II - Non c'est toujours Non !
-i-6238	c-5	222	1276
+i-6238	c-5	217	1276
 i-3867	c-7	212	59230	Pour la reconnaissance de la GROSSOPHOBIE
 
-voix en 10 j :	12881
+voix en 10 j :	12879
