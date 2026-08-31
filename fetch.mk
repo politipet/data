@@ -22,6 +22,6 @@ page.%:
 nb_pages = $(shell curl -s -H "Accept: text/html" $(VOTE) \
 	| grep -A1 initiatives-count \
 	| tail -1 \
-	| awk '{print $$1/100 + ($$1 % 100 ? 1 : 0) }' \
+	| awk '{print int($$1/100) + ($$1 % 100 ? 1 : 0) }' \
 )
 all_pages = $(shell seq $(nb_pages))
