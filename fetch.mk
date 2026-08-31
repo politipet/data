@@ -2,6 +2,7 @@ VOTE ?= "https://petitions.assemblee-nationale.fr/initiatives?"
 
 all-data:
 	make -f fetch.mk --jobs $(all_pages:%=page.%)
+	! wc -l page.* | grep "^ *0 "
 	cat page.* > $@.txt
 	\rm page.*
 
