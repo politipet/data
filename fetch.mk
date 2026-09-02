@@ -1,9 +1,11 @@
 VOTE ?= "https://petitions.assemblee-nationale.fr/initiatives?"
 
+OUTPUT ?= all-data.txt
+
 all-data:
 	make -f fetch.mk --jobs $(all_pages:%=page.%)
 	! wc -l page.* | grep "^ *0 "
-	cat page.* > $@.txt
+	cat page.* > $(OUTPUT)
 	\rm page.*
 
 page_url = $(VOTE)&order=recent&per_page=100&
