@@ -10,4 +10,4 @@ i-6392	c-3	232	138252	Duplomb II - Non c'est toujours Non !
 i-5103	c-3	216	432714	Non c'est Non, Monsieur Duplomb !
 i-6668	c-8	214	4513	Suspendre la chasse pendant l'été suite aux incendies
 
-voix en 10 j :	11833
+voix en 10 j :	11838
