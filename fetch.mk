@@ -3,6 +3,7 @@ VOTE ?= https://petitions.assemblee-nationale.fr
 OUTPUT ?= all-data.txt
 
 all-data:
+	\rm -f page.*
 	VOTE=$(VOTE) \
 	make -f fetch.mk --jobs $(all_pages:%=page.%)
 	! wc -l page.* | grep "^ *0 "
