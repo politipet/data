@@ -62,6 +62,13 @@ votes:
 	done
 
 
+cese:  VOTE=https://petitions.lecese.fr
+senat: VOTE=https://petitions.senat.fr
+cese senat:
+	OUTPUT=all-$@.txt VOTE=$(VOTE) make -f fetch.mk || true
+
+fetch: cese senat
+
 composed = $(shell cat compose.txt | sed 's/ =.*//')
 composed: $(composed:%=%.compose)
 
