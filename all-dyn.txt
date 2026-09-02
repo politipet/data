@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6759	c-8	1933	1933	Moratoire immédiat sur la chasse cf urgence climatique
-i-5174	c-3	949	30584	Facturation électronique obligatoire, c'est non !
-i-6710	c-8	726	2294	Suspendre la chasse pendant 3 ans suite aux incendies
-i-4753	c-5	519	72471	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6759	c-8	1941	1941	Moratoire immédiat sur la chasse cf urgence climatique
+i-5174	c-3	955	30590	Facturation électronique obligatoire, c'est non !
+i-6710	c-8	728	2296	Suspendre la chasse pendant 3 ans suite aux incendies
+i-4753	c-5	521	72473	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6668	c-8	365	4510	Suspendre la chasse pendant l'été suite aux incendies
 i-3867	c-7	281	59309	Pour la reconnaissance de la GROSSOPHOBIE
 i-6673	c-8	268	667
 i-5698	c-7	240	2098
 i-6392	c-3	239	138246	Duplomb II - Non c'est toujours Non !
-i-4828	c-5	228	21186	Pénurie de dermatologues
+i-4828	c-5	229	21187	Pénurie de dermatologues
 
-voix en 10 j :	12447
+voix en 10 j :	12514
