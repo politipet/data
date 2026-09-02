@@ -1,14 +1,15 @@
-VOTE ?= "https://petitions.assemblee-nationale.fr/initiatives?"
+VOTE ?= https://petitions.assemblee-nationale.fr
 
 OUTPUT ?= all-data.txt
 
 all-data:
+	VOTE=$(VOTE) \
 	make -f fetch.mk --jobs $(all_pages:%=page.%)
 	! wc -l page.* | grep "^ *0 "
 	cat page.* > $(OUTPUT)
 	\rm page.*
 
-page_url = $(VOTE)&order=recent&per_page=100&
+page_url = $(VOTE)/initiatives?order=recent&per_page=100&
 page.%:
 	curl -s -H "Accept: text/html" "$(page_url)page=$*" \
 	| egrep 'progress__bar__number|card__button|area_id%' \
@@ -21,7 +22,7 @@ page.%:
 		/i-/ { id = $$1; print id, "c-" area, score; area="" } \
 	' > $@.txt
 
-nb_pages = $(shell curl -s -H "Accept: text/html" $(VOTE) \
+nb_pages = $(shell curl -s -H "Accept: text/html" $(VOTE)/initiatives \
 	| grep -A1 initiatives-count \
 	| tail -1 \
 	| awk '{print int($$1/100) + ($$1 % 100 ? 1 : 0) }' \
