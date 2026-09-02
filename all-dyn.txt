@@ -6,8 +6,8 @@ i-4753	c-5	522	72458	Rendre obligatoire l'affichage du Nutri-Score sur les embal
 i-6668	c-8	410	4508	Suspendre la chasse pendant l'été suite aux incendies
 i-6673	c-8	294	661
 i-3867	c-7	280	59307	Pour la reconnaissance de la GROSSOPHOBIE
-i-6282	c-7	260	823
+i-6282	c-7	261	824
 i-6392	c-3	243	138241	Duplomb II - Non c'est toujours Non !
 i-5698	c-7	233	2088
 
-voix en 10 j :	12891
+voix en 10 j :	12896
