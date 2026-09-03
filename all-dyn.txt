@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-6759	c-8	1989	1989	Moratoire immédiat sur la chasse cf urgence climatique
+i-6759	c-8	1990	1990	Moratoire immédiat sur la chasse cf urgence climatique
 i-5174	c-3	823	30634	Facturation électronique obligatoire, c'est non !
 i-4753	c-5	498	72495	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6710	c-8	306	2300	Suspendre la chasse pendant 3 ans suite aux incendies
@@ -10,4 +10,4 @@ i-6392	c-3	233	138266	Duplomb II - Non c'est toujours Non !
 i-5103	c-3	217	432726	Non c'est Non, Monsieur Duplomb !
 i-5015	c-4	208	27691	Référendum consultatif sur la relation France–UE
 
-voix en 10 j :	11819
+voix en 10 j :	11824
