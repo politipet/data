@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-6759	c-8	2015	2015	Moratoire immédiat sur la chasse cf urgence climatique
-i-5174	c-3	770	30651	Facturation électronique obligatoire, c'est non !
+i-5174	c-3	769	30651	Facturation électronique obligatoire, c'est non !
 i-4753	c-5	493	72512	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3867	c-7	285	59321	Pour la reconnaissance de la GROSSOPHOBIE
-i-6710	c-8	278	2304	Suspendre la chasse pendant 3 ans suite aux incendies
-i-6392	c-3	258	138306	Duplomb II - Non c'est toujours Non !
+i-3867	c-7	286	59322	Pour la reconnaissance de la GROSSOPHOBIE
+i-6710	c-8	277	2304	Suspendre la chasse pendant 3 ans suite aux incendies
+i-6392	c-3	259	138307	Duplomb II - Non c'est toujours Non !
 i-4828	c-5	248	21234	Pénurie de dermatologues
-i-5015	c-4	243	27731	Référendum consultatif sur la relation France–UE
+i-5015	c-4	244	27732	Référendum consultatif sur la relation France–UE
 i-5698	c-7	239	2129
-i-5103	c-3	239	432754	Non c'est Non, Monsieur Duplomb !
+i-5103	c-3	238	432754	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11785
+voix en 10 j :	11817
