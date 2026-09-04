@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6759	c-8	2021	2021	Moratoire immédiat sur la chasse cf urgence climatique
-i-5174	c-3	739	30660	Facturation électronique obligatoire, c'est non !
-i-4753	c-5	349	72514	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-3867	c-7	289	59326	Pour la reconnaissance de la GROSSOPHOBIE
-i-6710	c-8	263	2305	Suspendre la chasse pendant 3 ans suite aux incendies
-i-6392	c-3	260	138312	Duplomb II - Non c'est toujours Non !
-i-4828	c-5	256	21247	Pénurie de dermatologues
-i-5015	c-4	251	27739	Référendum consultatif sur la relation France–UE
-i-5698	c-7	241	2132
+i-6759	c-8	2023	2023	Moratoire immédiat sur la chasse cf urgence climatique
+i-5174	c-3	732	30662	Facturation électronique obligatoire, c'est non !
+i-4753	c-5	342	72514	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-3867	c-7	289	59328	Pour la reconnaissance de la GROSSOPHOBIE
+i-6710	c-8	261	2305	Suspendre la chasse pendant 3 ans suite aux incendies
+i-6392	c-3	259	138314	Duplomb II - Non c'est toujours Non !
+i-4828	c-5	256	21249	Pénurie de dermatologues
+i-5015	c-4	251	27740	Référendum consultatif sur la relation France–UE
+i-5698	c-7	239	2132
 i-5103	c-3	237	432759	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11685
+voix en 10 j :	11627
