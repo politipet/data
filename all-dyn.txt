@@ -10,4 +10,4 @@ i-5015	c-4	246	27734	Référendum consultatif sur la relation France–UE
 i-5698	c-7	241	2131
 i-5103	c-3	238	432754	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11819
+voix en 10 j :	11821
