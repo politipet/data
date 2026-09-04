@@ -6,8 +6,8 @@ i-3867	c-7	287	59323	Pour la reconnaissance de la GROSSOPHOBIE
 i-6710	c-8	275	2304	Suspendre la chasse pendant 3 ans suite aux incendies
 i-6392	c-3	259	138307	Duplomb II - Non c'est toujours Non !
 i-4828	c-5	248	21234	Pénurie de dermatologues
-i-5015	c-4	245	27733	Référendum consultatif sur la relation France–UE
-i-5698	c-7	240	2130
+i-5015	c-4	246	27734	Référendum consultatif sur la relation France–UE
+i-5698	c-7	241	2131
 i-5103	c-3	238	432754	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11815
+voix en 10 j :	11818
