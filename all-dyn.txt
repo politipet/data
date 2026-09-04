@@ -5,9 +5,9 @@ i-4753	c-5	353	72514	Rendre obligatoire l'affichage du Nutri-Score sur les embal
 i-3867	c-7	288	59325	Pour la reconnaissance de la GROSSOPHOBIE
 i-6710	c-8	264	2305	Suspendre la chasse pendant 3 ans suite aux incendies
 i-6392	c-3	259	138310	Duplomb II - Non c'est toujours Non !
-i-4828	c-5	252	21242	Pénurie de dermatologues
+i-4828	c-5	253	21243	Pénurie de dermatologues
 i-5015	c-4	250	27738	Référendum consultatif sur la relation France–UE
 i-5698	c-7	242	2132
 i-5103	c-3	236	432757	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11712
+voix en 10 j :	11731
