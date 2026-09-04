@@ -4,10 +4,10 @@ i-5174	c-3	715	30669	Facturation électronique obligatoire, c'est non !
 i-4753	c-5	329	72517	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-3867	c-7	289	59329	Pour la reconnaissance de la GROSSOPHOBIE
 i-6710	c-8	257	2306	Suspendre la chasse pendant 3 ans suite aux incendies
+i-4828	c-5	256	21254	Pénurie de dermatologues
 i-6392	c-3	255	138316	Duplomb II - Non c'est toujours Non !
-i-4828	c-5	255	21253	Pénurie de dermatologues
 i-5015	c-4	252	27741	Référendum consultatif sur la relation France–UE
+i-6860	c-8	239	239
 i-5698	c-7	238	2133
-i-6860	c-8	236	236
 
-voix en 10 j :	11661
+voix en 10 j :	11669
