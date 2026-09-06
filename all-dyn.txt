@@ -10,4 +10,4 @@ i-4828	c-5	238	21269	Pénurie de dermatologues
 i-5698	c-7	229	2147
 i-6392	c-3	227	138332	Duplomb II - Non c'est toujours Non !
 
-voix en 10 j :	11147
+voix en 10 j :	11145
