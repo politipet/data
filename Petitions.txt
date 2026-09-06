@@ -69,3 +69,4 @@ i-6118	Formation moto 125cc étendue au 250cc
 i-6759	Moratoire immédiat sur la chasse cf urgence climatique
 i-6306	Retour de l'instruction obligatoire à 6 ans
 i-6860	Non à l'obligation du port du casque à vélo
+i-5698	Lutte contre l’abandon et la maltraitance animale
