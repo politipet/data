@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6759	c-8	2107	2107	Moratoire immédiat sur la chasse cf urgence climatique
-i-6306	c-2	1603	2163	Retour de l'instruction obligatoire à 6 ans
-i-5174	c-3	440	30731	Facturation électronique obligatoire, c'est non !
-i-6860	c-8	395	395	Non à l'obligation du port du casque à vélo
-i-3867	c-7	301	59389	Pour la reconnaissance de la GROSSOPHOBIE
-i-4753	c-5	278	72579	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5698	c-7	234	2160	Lutte contre l’abandon et la maltraitance animale
-i-5015	c-4	210	27768	Référendum consultatif sur la relation France–UE
-i-4828	c-5	210	21277	Pénurie de dermatologues
-i-5103	c-3	207	432792	Non c'est Non, Monsieur Duplomb !
+i-6759	c-8	2108	2108	Moratoire immédiat sur la chasse cf urgence climatique
+i-6306	c-2	1676	2236	Retour de l'instruction obligatoire à 6 ans
+i-5174	c-3	440	30736	Facturation électronique obligatoire, c'est non !
+i-6860	c-8	408	408	Non à l'obligation du port du casque à vélo
+i-3867	c-7	304	59392	Pour la reconnaissance de la GROSSOPHOBIE
+i-4753	c-5	280	72584	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5698	c-7	236	2162	Lutte contre l’abandon et la maltraitance animale
+i-5015	c-4	209	27768	Référendum consultatif sur la relation France–UE
+i-4828	c-5	209	21279	Pénurie de dermatologues
+i-5103	c-3	207	432793	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	11880
+voix en 10 j :	12004
