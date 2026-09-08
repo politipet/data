@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	10097	82448	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	2953	3516	Retour de l'instruction obligatoire à 6 ans
-i-6759	c-8	2088	2143	Moratoire immédiat sur la chasse cf urgence climatique
-i-6755	c-8	1082	1082
-i-6205	c-7	1077	6416	Loi intégrale contre les VSS sur femmes & enfants
-i-6860	c-8	640	644	Non à l'obligation du port du casque à vélo
-i-5174	c-3	469	30856	Facturation électronique obligatoire, c'est non !
-i-3867	c-7	435	59610	Pour la reconnaissance de la GROSSOPHOBIE
-i-5254	c-5	412	5082	Mutuelle complémentaire gérée par la Sécurité Sociale
-i-6963	c-7	337	337
+i-4753	c-5	10118	82469	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	2959	3522	Retour de l'instruction obligatoire à 6 ans
+i-6759	c-8	2089	2144	Moratoire immédiat sur la chasse cf urgence climatique
+i-6755	c-8	1089	1089
+i-6205	c-7	1078	6417	Loi intégrale contre les VSS sur femmes & enfants
+i-6860	c-8	644	648	Non à l'obligation du port du casque à vélo
+i-3867	c-7	472	59647	Pour la reconnaissance de la GROSSOPHOBIE
+i-5174	c-3	471	30858	Facturation électronique obligatoire, c'est non !
+i-5254	c-5	417	5087	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-6963	c-7	348	348
 
-voix en 10 j :	26789
+voix en 10 j :	26893
