@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-6306	c-2	2500	3062	Retour de l'instruction obligatoire à 6 ans
+i-6306	c-2	2510	3072	Retour de l'instruction obligatoire à 6 ans
 i-6759	c-8	2120	2122	Moratoire immédiat sur la chasse cf urgence climatique
-i-6755	c-8	700	700
-i-6205	c-7	667	6000	Loi intégrale contre les VSS sur femmes & enfants
-i-6860	c-8	514	518	Non à l'obligation du port du casque à vélo
-i-4753	c-5	483	72805	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5174	c-3	406	30743	Facturation électronique obligatoire, c'est non !
+i-4753	c-5	1002	73324	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6755	c-8	703	703
+i-6205	c-7	679	6012	Loi intégrale contre les VSS sur femmes & enfants
+i-6860	c-8	515	519	Non à l'obligation du port du casque à vélo
+i-5174	c-3	407	30744	Facturation électronique obligatoire, c'est non !
 i-3867	c-7	317	59409	Pour la reconnaissance de la GROSSOPHOBIE
-i-5698	c-7	239	2174	Lutte contre l’abandon et la maltraitance animale
-i-5103	c-3	206	432804	Non c'est Non, Monsieur Duplomb !
+i-5698	c-7	240	2175	Lutte contre l’abandon et la maltraitance animale
+i-5103	c-3	208	432806	Non c'est Non, Monsieur Duplomb !
 
-voix en 10 j :	14407
+voix en 10 j :	14980
