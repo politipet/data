@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
 i-2760	c-8	33519	33519
-i-4753	c-5	15317	87686	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	3265	3830	Retour de l'instruction obligatoire à 6 ans
-i-3867	c-7	1826	61041	Pour la reconnaissance de la GROSSOPHOBIE
-i-6759	c-8	1767	2160	Moratoire immédiat sur la chasse cf urgence climatique
-i-6755	c-8	1292	1292
+i-4753	c-5	15605	87977	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	3290	3855	Retour de l'instruction obligatoire à 6 ans
+i-3867	c-7	1883	61100	Pour la reconnaissance de la GROSSOPHOBIE
+i-6759	c-8	1755	2160	Moratoire immédiat sur la chasse cf urgence climatique
+i-6755	c-8	1298	1298
 i-6205	c-7	1157	6498	Loi intégrale contre les VSS sur femmes & enfants
-i-6860	c-8	802	808	Non à l'obligation du port du casque à vélo
-i-5254	c-5	637	5307	Mutuelle complémentaire gérée par la Sécurité Sociale
-i-6963	c-7	612	612
+i-6860	c-8	812	819	Non à l'obligation du port du casque à vélo
+i-5254	c-5	646	5316	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-6963	c-7	622	622
 
-voix en 10 j :	68520
+voix en 10 j :	68972
