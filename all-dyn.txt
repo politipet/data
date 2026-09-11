@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2760	c-8	33528	33528	Abrogation des ZFE (#gueux)
-i-4753	c-5	20829	93260	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	4477	5051	Retour de l'instruction obligatoire à 6 ans
-i-3867	c-7	2605	61885	Pour la reconnaissance de la GROSSOPHOBIE
+i-2760	c-8	33529	33529	Abrogation des ZFE (#gueux)
+i-4753	c-5	20907	93339	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	4510	5084	Retour de l'instruction obligatoire à 6 ans
+i-3867	c-7	2604	61890	Pour la reconnaissance de la GROSSOPHOBIE
 i-6755	c-8	1420	1420
 i-6205	c-7	1229	6575	Loi intégrale contre les VSS sur femmes & enfants
-i-6860	c-8	1004	1015	Non à l'obligation du port du casque à vélo
-i-6963	c-7	928	928
-i-5254	c-5	808	5481	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
-i-5254	c-5	808	5481	Mutuelle complémentaire gérée par la Sécurité Sociale
+i-6860	c-8	1011	1022	Non à l'obligation du port du casque à vélo
+i-6963	c-7	933	933
+i-5254	c-5	809	5482	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
+i-5254	c-5	809	5482	Mutuelle complémentaire gérée par la Sécurité Sociale
 
-voix en 10 j :	75988
+voix en 10 j :	76098
