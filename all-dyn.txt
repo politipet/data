@@ -1,6 +1,6 @@
 id	comm	diff	score	theme
 i-2760	c-8	33531	33531	Abrogation des ZFE (#gueux)
-i-4753	c-5	21354	93817	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4753	c-5	21357	93820	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6306	c-2	4902	5496	Retour de l'instruction obligatoire à 6 ans
 i-3867	c-7	2638	61946	Pour la reconnaissance de la GROSSOPHOBIE
 i-6755	c-8	1439	1439
@@ -10,4 +10,4 @@ i-6963	c-7	988	988
 i-5254	c-5	826	5504	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-5254	c-5	826	5504	Mutuelle complémentaire gérée par la Sécurité Sociale
 
-voix en 10 j :	76981
+voix en 10 j :	76984
