@@ -3,6 +3,6 @@
     195	Affaires économiques
     172	Affaires étrangères
     307	Affaires sociales
-    318	Finances
-    505	Lois et administration
-    163	Développement durable
+    319	Finances
+    508	Lois et administration
+    164	Développement durable
