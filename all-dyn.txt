@@ -10,4 +10,4 @@ i-5254	c-5	957	5645	Pour une Mutuelle complémentaire gérée par la Sécurité 
 i-6860	c-8	862	1224	Non à l'obligation du port du casque à vélo
 i-5174	c-3	643	31365	Facturation électronique obligatoire, c'est non !
 
-votes en 10 j :		80612
+votes en 10 j :		80616
