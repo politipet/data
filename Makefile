@@ -193,7 +193,7 @@ diff-stats:
 	@join .1 .2 -a 1 | sort -nr -k3 \
 		| head -10 \
 		| sed 's/ /\t/;s/ /\t/;s/ /\t/;s/ /\t/'
-	@printf "\nvotes en $(since:days=j) : "
+	@printf "\nvotes en $(since:days=j) :\t\t"
 	@cat .1 | cut -d ' ' -f 3 | grep -v - | xargs | tr ' ' + | bc
 	@\rm .1 .2
 
