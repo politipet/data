@@ -8,6 +8,6 @@ i-6205	c-7	1292	6684	Loi intégrale contre les VSS sur femmes & enfants
 i-6963	c-7	1240	1262	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
 i-5254	c-5	957	5645	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-6860	c-8	862	1224	Non à l'obligation du port du casque à vélo
-i-5174	c-3	643	31365	Facturation électronique obligatoire, c'est non !
+i-5174	c-3	644	31366	Facturation électronique obligatoire, c'est non !
 
-votes en 10 j :		80593
+votes en 10 j :		80600
