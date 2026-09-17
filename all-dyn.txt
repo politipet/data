@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-2760	c-8	33555	33555	Abrogation des ZFE (#gueux)
-i-4753	c-5	23962	96552	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	4049	6712	Retour de l'instruction obligatoire à 6 ans
-i-3867	c-7	2833	62238	Pour la reconnaissance de la GROSSOPHOBIE
+i-2760	c-8	33556	33556	Abrogation des ZFE (#gueux)
+i-4753	c-5	23974	96564	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	4055	6718	Retour de l'instruction obligatoire à 6 ans
+i-3867	c-7	2835	62240	Pour la reconnaissance de la GROSSOPHOBIE
 i-6205	c-7	1282	6692	Loi intégrale contre les VSS sur femmes & enfants
-i-6963	c-7	1243	1276	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
+i-6963	c-7	1244	1277	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
 i-6755	c-8	1072	1496	Au moins une plage accessible aux chiens par commune littorale
 i-5254	c-5	959	5649	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-6860	c-8	769	1227	Non à l'obligation du port du casque à vélo
-i-5174	c-3	636	31375	Facturation électronique obligatoire, c'est non !
+i-5174	c-3	639	31378	Facturation électronique obligatoire, c'est non !
 
-votes en 10 j :		79463
+votes en 10 j :		79528
