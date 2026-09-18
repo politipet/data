@@ -10,4 +10,4 @@ i-6205	c-7	749	6695	Loi intégrale contre les VSS sur femmes & enfants
 i-6860	c-8	717	1228	Non à l'obligation du port du casque à vélo
 i-5174	c-3	642	31385	Facturation électronique obligatoire, c'est non !
 
-votes en 10 j :		78388
+votes en 10 j :		78390
