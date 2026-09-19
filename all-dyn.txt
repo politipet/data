@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	6461	96873	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	2722	6814	Retour de l'instruction obligatoire à 6 ans
-i-3867	c-7	769	62289	Pour la reconnaissance de la GROSSOPHOBIE
+i-4753	c-5	6243	96874	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	2591	6817	Retour de l'instruction obligatoire à 6 ans
+i-3867	c-7	683	62289	Pour la reconnaissance de la GROSSOPHOBIE
 i-5266	c-7	605	4745	Loi d'urgence usurpation d'identité
-i-6963	c-7	582	1313	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
-i-6860	c-8	349	1232	Non à l'obligation du port du casque à vélo
-i-5174	c-3	330	31404	Facturation électronique obligatoire, c'est non !
-i-5273	c-7	291	7539	Commission d'enquête sur l'affaire Epstein en France
-i-5254	c-5	291	5667	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
-i-6759	c-8	262	2426	Moratoire immédiat sur la chasse cf urgence climatique
+i-6963	c-7	569	1314	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
+i-6860	c-8	337	1232	Non à l'obligation du port du casque à vélo
+i-5174	c-3	320	31404	Facturation électronique obligatoire, c'est non !
+i-5273	c-7	295	7543	Commission d'enquête sur l'affaire Epstein en France
+i-5254	c-5	281	5667	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
+i-6759	c-8	261	2426	Moratoire immédiat sur la chasse cf urgence climatique
 
-votes en 10 j :		19775
+votes en 10 j :		19274
