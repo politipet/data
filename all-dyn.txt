@@ -10,4 +10,4 @@ i-5254	c-5	560	5664	Pour une Mutuelle complémentaire gérée par la Sécurité 
 i-5174	c-3	542	31402	Facturation électronique obligatoire, c'est non !
 i-6755	c-8	396	1500	Au moins une plage accessible aux chiens par commune littorale
 
-votes en 10 j :		65497
+votes en 10 j :		65498
