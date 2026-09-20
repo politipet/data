@@ -10,4 +10,4 @@ i-5273	c-7	298	7546	Commission d'enquête sur l'affaire Epstein en France
 i-5254	c-5	280	5667	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-6759	c-8	261	2426	Moratoire immédiat sur la chasse cf urgence climatique
 
-votes en 10 j :		19083
+votes en 10 j :		19084
