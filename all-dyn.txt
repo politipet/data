@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	2639	97208	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-6306	c-2	1146	6925	Retour de l'instruction obligatoire à 6 ans
-i-6963	c-7	420	1446	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
-i-5266	c-7	407	4765	Loi d'urgence usurpation d'identité
-i-3867	c-7	343	62339	Pour la reconnaissance de la GROSSOPHOBIE
-i-5273	c-7	331	7585	Commission d'enquête sur l'affaire Epstein en France
+i-4753	c-5	2596	97217	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-6306	c-2	1124	6928	Retour de l'instruction obligatoire à 6 ans
+i-6963	c-7	416	1448	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
+i-5266	c-7	405	4765	Loi d'urgence usurpation d'identité
+i-3867	c-7	339	62339	Pour la reconnaissance de la GROSSOPHOBIE
+i-5273	c-7	332	7586	Commission d'enquête sur l'affaire Epstein en France
 i-6759	c-8	243	2431	Moratoire immédiat sur la chasse cf urgence climatique
-i-5254	c-5	210	5721	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
-i-4828	c-5	209	21609	Pénurie de dermatologues
-i-3070	c-8	202	85570	Abrogation contrôle technique moto
+i-4828	c-5	214	21615	Pénurie de dermatologues
+i-5254	c-5	208	5721	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
+i-3070	c-8	203	85571	Abrogation contrôle technique moto
 
-votes en 10 j :		12621
+votes en 10 j :		12581
