@@ -6,8 +6,8 @@ i-5273	c-7	357	7614	Commission d'enquête sur l'affaire Epstein en France
 i-5266	c-7	351	4766	Loi d'urgence usurpation d'identité
 i-6963	c-7	348	1474	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
 i-4828	c-5	244	21648	Pénurie de dermatologues
-i-3070	c-8	211	85597	Abrogation contrôle technique moto
+i-3070	c-8	210	85596	Abrogation contrôle technique moto
+i-6759	c-8	196	2434	Moratoire immédiat sur la chasse cf urgence climatique
 i-5254	c-5	196	5733	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
-i-6759	c-8	195	2433	Moratoire immédiat sur la chasse cf urgence climatique
 
-votes en 10 j :		11437
+votes en 10 j :		11439
