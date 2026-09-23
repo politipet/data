@@ -10,4 +10,4 @@ i-4828	c-5	222	21625	Pénurie de dermatologues
 i-5254	c-5	206	5725	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-3070	c-8	198	85573	Abrogation contrôle technique moto
 
-votes en 10 j :		12226
+votes en 10 j :		12221
