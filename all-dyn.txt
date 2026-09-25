@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-4753	c-5	3879	99713	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4753	c-5	3883	99717	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6306	c-2	635	7107	Retour de l'instruction obligatoire à 6 ans
 i-3867	c-7	368	62513	Pour la reconnaissance de la GROSSOPHOBIE
 i-5273	c-7	359	7618	Commission d'enquête sur l'affaire Epstein en France
@@ -8,6 +8,6 @@ i-6963	c-7	307	1482	Consulter les citoyen.nes pour la réunion du 44 avec la Bre
 i-4828	c-5	227	21684	Pénurie de dermatologues
 i-4089	c-4	212	3025
 i-3070	c-8	200	85611	Abrogation contrôle technique moto
-i-5820	c-2	172	374
+i-5820	c-2	173	375
 
-votes en 10 j :		13322
+votes en 10 j :		13325
