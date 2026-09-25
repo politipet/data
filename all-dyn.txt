@@ -8,6 +8,6 @@ i-6963	c-7	307	1482	Consulter les citoyen.nes pour la réunion du 44 avec la Bre
 i-4828	c-5	227	21684	Pénurie de dermatologues
 i-4089	c-4	212	3025
 i-3070	c-8	200	85611	Abrogation contrôle technique moto
-i-5820	c-2	171	373
+i-5820	c-2	172	374
 
-votes en 10 j :		13320
+votes en 10 j :		13322
