@@ -5,9 +5,9 @@ i-5273	c-7	358	7621	Commission d'enquête sur l'affaire Epstein en France
 i-3867	c-7	352	62530	Pour la reconnaissance de la GROSSOPHOBIE
 i-4089	c-4	277	3095
 i-6963	c-7	275	1502	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
-i-5820	c-2	220	423
+i-5820	c-2	221	424
 i-3070	c-8	213	85636	Abrogation contrôle technique moto
 i-4828	c-5	208	21699	Pénurie de dermatologues
 i-5266	c-7	185	4776	Loi d'urgence usurpation d'identité
 
-votes en 10 j :		12872
+votes en 10 j :		12891
