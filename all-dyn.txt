@@ -1,5 +1,5 @@
 id	comm	diff	score	theme
-i-4753	c-5	7973	104850	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4753	c-5	7974	104851	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6369	c-7	679	797
 i-6306	c-2	396	7219	Retour de l'instruction obligatoire à 6 ans
 i-4089	c-4	393	3220	Contre la proposition de directive européenne Omnibus
@@ -10,4 +10,4 @@ i-6963	c-7	260	1575	Consulter les citoyen.nes pour la réunion du 44 avec la Bre
 i-6392	c-3	209	138792	Duplomb II - Non c'est toujours Non !
 i-4828	c-5	204	21771	Pénurie de dermatologues
 
-votes en 10 j :		17985
+votes en 10 j :		17993
