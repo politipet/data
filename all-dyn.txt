@@ -3,7 +3,7 @@ i-4753	c-5	7973	104850	Rendre obligatoire l'affichage du Nutri-Score sur les emb
 i-6369	c-7	679	797
 i-6306	c-2	398	7219	Retour de l'instruction obligatoire à 6 ans
 i-4089	c-4	393	3220	Contre la proposition de directive européenne Omnibus
-i-3867	c-7	305	62595	Pour la reconnaissance de la GROSSOPHOBIE
+i-3867	c-7	304	62595	Pour la reconnaissance de la GROSSOPHOBIE
 i-5103	c-3	296	433465	Non c'est Non, Monsieur Duplomb !
 i-5820	c-2	270	474	Supprimer CNews de l'audiovisuel français
 i-6963	c-7	261	1575	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
