@@ -8,6 +8,6 @@ i-3867	c-7	294	62602	Pour la reconnaissance de la GROSSOPHOBIE
 i-5820	c-2	276	482	Supprimer CNews de l'audiovisuel français
 i-4828	c-5	219	21789	Pénurie de dermatologues
 i-6963	c-7	218	1578	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
-i-6392	c-3	204	138807	Duplomb II - Non c'est toujours Non !
+i-6392	c-3	202	138807	Duplomb II - Non c'est toujours Non !
 
-votes en 10 j :		18086
+votes en 10 j :		18082
