@@ -73,3 +73,4 @@ i-6963	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
 i-6755	Au moins une plage accessible aux chiens par commune littorale
 i-4089	Contre la proposition de directive européenne Omnibus
 i-5820	Supprimer CNews de l'audiovisuel français
+i-7052	Protéger nos aînés, oui. Décider sans les écouter, non.
