@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	8129	105320	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-4753	c-5	8122	105326	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-6369	c-7	704	823
-i-4089	c-4	410	3252	Contre la proposition de directive européenne Omnibus
-i-6306	c-2	349	7269	Retour de l'instruction obligatoire à 6 ans
-i-5103	c-3	286	433513	Non c'est Non, Monsieur Duplomb !
-i-5820	c-2	283	489	Supprimer CNews de l'audiovisuel français
-i-3867	c-7	268	62606	Pour la reconnaissance de la GROSSOPHOBIE
-i-3070	c-8	239	85808	Abrogation contrôle technique moto
-i-5711	c-7	226	355
-i-4828	c-5	222	21826	Pénurie de dermatologues
+i-4089	c-4	411	3253	Contre la proposition de directive européenne Omnibus
+i-6306	c-2	348	7269	Retour de l'instruction obligatoire à 6 ans
+i-5820	c-2	284	490	Supprimer CNews de l'audiovisuel français
+i-5103	c-3	284	433514	Non c'est Non, Monsieur Duplomb !
+i-3867	c-7	269	62607	Pour la reconnaissance de la GROSSOPHOBIE
+i-3070	c-8	240	85810	Abrogation contrôle technique moto
+i-5711	c-7	227	356
+i-4828	c-5	219	21827	Pénurie de dermatologues
 
-votes en 10 j :		17924
+votes en 10 j :		17872
