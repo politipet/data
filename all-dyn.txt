@@ -8,6 +8,6 @@ i-5820	c-2	281	487	Supprimer CNews de l'audiovisuel français
 i-3867	c-7	270	62604	Pour la reconnaissance de la GROSSOPHOBIE
 i-4828	c-5	226	21818	Pénurie de dermatologues
 i-5711	c-7	224	353
-i-3070	c-8	222	85788	Abrogation contrôle technique moto
+i-3070	c-8	223	85789	Abrogation contrôle technique moto
 
-votes en 10 j :		17930
+votes en 10 j :		17932
