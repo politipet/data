@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-4753	c-5	6984	106934	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-7052	c-5	4116	4116	Protéger nos aînés, oui. Décider sans les écouter, non.
-i-6369	c-7	721	840
-i-3867	c-7	674	63199	Pour la reconnaissance de la GROSSOPHOBIE
-i-5103	c-3	428	433697	Non c'est Non, Monsieur Duplomb !
+i-4753	c-5	7071	107023	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7052	c-5	4127	4127	Protéger nos aînés, oui. Décider sans les écouter, non.
+i-6369	c-7	722	841
+i-3867	c-7	680	63205	Pour la reconnaissance de la GROSSOPHOBIE
+i-5103	c-3	433	433702	Non c'est Non, Monsieur Duplomb !
 i-5711	c-7	268	399
-i-6168	c-6	239	355
+i-6168	c-6	240	356
 i-3070	c-8	230	85860	Abrogation contrôle technique moto
-i-6392	c-3	219	138896	Duplomb II - Non c'est toujours Non !
-i-4089	c-4	213	3281	Contre la proposition de directive européenne Omnibus
+i-6392	c-3	220	138897	Duplomb II - Non c'est toujours Non !
+i-4089	c-4	215	3283	Contre la proposition de directive européenne Omnibus
 
-votes en 10 j :		20736
+votes en 10 j :		20871
