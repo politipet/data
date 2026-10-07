@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-7231	c-7	62148	62148	Empêchons la police de mutiler les jeunes !
-i-4753	c-5	6416	110168	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-7052	c-5	4930	4930	Protéger nos aînés, oui. Décider sans les écouter, non.
-i-3867	c-7	829	63387	Pour la reconnaissance de la GROSSOPHOBIE
+i-7231	c-7	63717	63717	Empêchons la police de mutiler les jeunes !
+i-4753	c-5	6406	110202	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7052	c-5	4935	4935	Protéger nos aînés, oui. Décider sans les écouter, non.
+i-3867	c-7	828	63388	Pour la reconnaissance de la GROSSOPHOBIE
 i-6369	c-7	726	846	Juger les mineurs comme les adultes pour des faits graves
-i-5103	c-3	644	434050	Non c'est Non, Monsieur Duplomb !
-i-6392	c-3	361	139115	Duplomb II - Non c'est toujours Non !
-i-5711	c-7	277	429
-i-3070	c-8	252	85909	Abrogation contrôle technique moto
-i-3008	c-6	235	37294	Contribution ultra-riches et grandes entreprises
+i-5103	c-3	649	434058	Non c'est Non, Monsieur Duplomb !
+i-6392	c-3	366	139121	Duplomb II - Non c'est toujours Non !
+i-5711	c-7	275	429
+i-3070	c-8	251	85911	Abrogation contrôle technique moto
+i-3008	c-6	236	37295	Contribution ultra-riches et grandes entreprises
 
-votes en 10 j :		86278
+votes en 10 j :		87914
