@@ -1,6 +1,6 @@
 id	comm	diff	score	theme
-i-7231	c-7	41098	41098	Empêchons la police de mutiler les jeunes !
-i-4753	c-5	6457	109413	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7231	c-7	41182	41182	Empêchons la police de mutiler les jeunes !
+i-4753	c-5	6451	109414	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-7052	c-5	4834	4834	Protéger nos aînés, oui. Décider sans les écouter, non.
 i-3867	c-7	794	63343	Pour la reconnaissance de la GROSSOPHOBIE
 i-6369	c-7	723	843	Juger les mineurs comme les adultes pour des faits graves
@@ -10,4 +10,4 @@ i-5711	c-7	285	422
 i-3070	c-8	250	85899	Abrogation contrôle technique moto
 i-6168	c-6	235	359
 
-votes en 10 j :		64015
+votes en 10 j :		64118
