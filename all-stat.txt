@@ -1,5 +1,5 @@
      31	Défense nationale
-    111	Éducation et culture
+    112	Éducation et culture
     213	Affaires économiques
     181	Affaires étrangères
     326	Affaires sociales
