@@ -21,6 +21,7 @@ i-6392	Duplomb II - Non c'est toujours Non !
 i-6398	Uniforme 🦄 + équipement floral 💐 pour les FdO 😘
 i-5254	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
 i-7231	Stop à la police qui mutile les jeunes
+i-7242	Stop à la répression des jeunes
 
 
 # ^ tracked ^     ▼ not tracked ▼
