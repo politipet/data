@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-7231	c-7	111412	111412	Stop à la police qui mutile les jeunes
-i-4753	c-5	8157	113506	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5015	c-4	6786	34661	Référendum consultatif sur la relation France–UE
-i-7052	c-5	5936	6403	Protéger nos aînés, oui. Décider sans les écouter, non.
-i-7242	c-2	2828	2828	Stop à la répression des jeunes
-i-5090	c-4	1429	4090	Référendum sortie éventuelle de la France de l'UE
-i-5103	c-3	1077	434598	Non c'est Non, Monsieur Duplomb !
-i-3867	c-7	1001	63608	Pour la reconnaissance de la GROSSOPHOBIE
-i-6392	c-3	639	139466	Duplomb II - Non c'est toujours Non !
-i-4089	c-4	424	3680	Contre la proposition de directive européenne Omnibus
+i-7231	c-7	111889	111889	Stop à la police qui mutile les jeunes
+i-4753	c-5	8181	113530	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5015	c-4	6812	34687	Référendum consultatif sur la relation France–UE
+i-7052	c-5	5940	6407	Protéger nos aînés, oui. Décider sans les écouter, non.
+i-7242	c-2	2859	2859	Stop à la répression des jeunes
+i-5090	c-4	1434	4095	Référendum sortie éventuelle de la France de l'UE
+i-5103	c-3	1079	434600	Non c'est Non, Monsieur Duplomb !
+i-3867	c-7	1004	63611	Pour la reconnaissance de la GROSSOPHOBIE
+i-6392	c-3	642	139469	Duplomb II - Non c'est toujours Non !
+i-7210	c-2	633	633
 
-votes en 10 j :		155369
+votes en 10 j :		156590
