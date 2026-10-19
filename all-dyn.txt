@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-7231	c-7	49542	142601	Stop à la police qui mutile les jeunes
-i-7210	c-2	25361	25361	Abonnements numériques : garantir le droit aux places payées
+i-7231	c-7	50013	143072	Stop à la police qui mutile les jeunes
+i-7210	c-2	25448	25448	Abonnements numériques : garantir le droit aux places payées
 i-5015	c-4	4546	35522	Référendum consultatif sur la relation France–UE
-i-7242	c-2	4200	5530	Stop à la répression des jeunes
-i-4753	c-5	2517	114494	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-7052	c-5	1752	7449	Protéger nos aînés, oui. Décider sans les écouter, non.
-i-5103	c-3	842	435189	Non c'est Non, Monsieur Duplomb !
+i-7242	c-2	4206	5536	Stop à la répression des jeunes
+i-4753	c-5	2521	114498	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7052	c-5	1763	7460	Protéger nos aînés, oui. Décider sans les écouter, non.
+i-5103	c-3	845	435192	Non c'est Non, Monsieur Duplomb !
 i-5090	c-4	731	4327	Référendum sortie éventuelle de la France de l'UE
 i-4089	c-4	520	3912	Contre la proposition de directive européenne Omnibus
-i-6392	c-3	501	139788	Duplomb II - Non c'est toujours Non !
+i-6392	c-3	508	139795	Duplomb II - Non c'est toujours Non !
 
-votes en 10 j :		103066
+votes en 10 j :		103780
