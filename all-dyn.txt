@@ -1,7 +1,7 @@
 id	comm	diff	score	theme
-i-7210	c-2	23707	34267	Abonnements numériques : garantir le droit aux places payées
-i-7231	c-7	20221	148133	Stop à la police qui mutile les jeunes
-i-7415	c-2	8004	8004
+i-7210	c-2	23700	34267	Abonnements numériques : garantir le droit aux places payées
+i-7231	c-7	20206	148133	Stop à la police qui mutile les jeunes
+i-7415	c-2	8005	8005
 i-7242	c-2	2532	6024	Stop à la répression des jeunes
 i-7052	c-5	1179	7804	Protéger nos aînés, oui. Décider sans les écouter, non.
 i-7080	c-5	1137	1137
@@ -10,4 +10,4 @@ i-7249	c-6	886	886
 i-5015	c-4	692	35745	Référendum consultatif sur la relation France–UE
 i-5103	c-3	526	435403	Non c'est Non, Monsieur Duplomb !
 
-votes en 10 j :		71629
+votes en 10 j :		71608
