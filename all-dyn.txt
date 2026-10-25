@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-7210	c-2	17234	34944	Abonnements numériques : garantir le droit aux places payées
-i-7231	c-7	13591	149357	Stop à la police qui mutile les jeunes
-i-7415	c-2	9210	9210	Abrogation de Parcoursup et budget d’urgence dès 2027
-i-7242	c-2	2143	6124	Stop à la répression des jeunes
-i-7080	c-5	1256	1256
-i-7052	c-5	1145	7863	Protéger nos aînés, oui. Décider sans les écouter, non.
-i-7249	c-6	988	988
+i-7210	c-2	17262	34972	Abonnements numériques : garantir le droit aux places payées
+i-7231	c-7	13652	149418	Stop à la police qui mutile les jeunes
+i-7415	c-2	9227	9227	Abrogation de Parcoursup et budget d’urgence dès 2027
+i-7242	c-2	2148	6129	Stop à la répression des jeunes
+i-7080	c-5	1257	1257
+i-7052	c-5	1146	7864	Protéger nos aînés, oui. Décider sans les écouter, non.
+i-7249	c-6	992	992
 i-4753	c-5	778	114914	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5015	c-4	650	35911	Référendum consultatif sur la relation France–UE
-i-6404	c-8	458	562
+i-5015	c-4	656	35917	Référendum consultatif sur la relation France–UE
+i-6404	c-8	460	564
 
-votes en 10 j :		58913
+votes en 10 j :		59129
