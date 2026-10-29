@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5820	c-2	84396	84925	Supprimer CNews de l'audiovisuel français
-i-7210	c-2	11634	35889	Abonnements numériques : garantir le droit aux places payées
+i-5820	c-2	84872	85401	Supprimer CNews de l'audiovisuel français
+i-7210	c-2	11631	35890	Abonnements numériques : garantir le droit aux places payées
 i-7415	c-2	11609	11609	Abrogation de Parcoursup et budget d’urgence dès 2027
-i-7231	c-7	11253	152877	Stop à la police qui mutile les jeunes
-i-7249	c-6	2935	2935
+i-7231	c-7	11254	152881	Stop à la police qui mutile les jeunes
+i-7249	c-6	2936	2936
 i-7080	c-5	1365	1365
 i-7242	c-2	845	6259	Stop à la répression des jeunes
-i-5103	c-3	782	435941	Non c'est Non, Monsieur Duplomb !
+i-5103	c-3	785	435944	Non c'est Non, Monsieur Duplomb !
 i-4753	c-5	771	115192	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 i-7052	c-5	661	7952	Protéger nos aînés, oui. Décider sans les écouter, non.
 
-votes en 10 j :		142223
+votes en 10 j :		142728
