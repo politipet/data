@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5820	c-2	121602	122133	Supprimer CNews de l'audiovisuel français
-i-7415	c-2	11754	11754	Abrogation de Parcoursup et budget d’urgence dès 2027
-i-7210	c-2	11007	36057	Abonnements numériques : garantir le droit aux places payées
-i-7231	c-7	10973	153433	Stop à la police qui mutile les jeunes
-i-7249	c-6	3158	3158
-i-7080	c-5	1241	1372
-i-5103	c-3	1012	436192	Non c'est Non, Monsieur Duplomb !
-i-4753	c-5	823	115294	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-7242	c-2	760	6277	Stop à la répression des jeunes
-i-5015	c-4	615	36127	Référendum consultatif sur la relation France–UE
+i-5820	c-2	122323	122854	Supprimer CNews de l'audiovisuel français
+i-7415	c-2	11757	11757	Abrogation de Parcoursup et budget d’urgence dès 2027
+i-7231	c-7	10907	153440	Stop à la police qui mutile les jeunes
+i-7210	c-2	10819	36060	Abonnements numériques : garantir le droit aux places payées
+i-7249	c-6	3160	3160
+i-7080	c-5	1180	1373
+i-5103	c-3	1011	436196	Non c'est Non, Monsieur Duplomb !
+i-4753	c-5	815	115295	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7242	c-2	756	6277	Stop à la répression des jeunes
+i-5015	c-4	613	36128	Référendum consultatif sur la relation France–UE
 
-votes en 10 j :		180785
+votes en 10 j :		181107
