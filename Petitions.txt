@@ -17,6 +17,7 @@ i-4991	Pour une commission d'enquête féminicides
 i-5103	Non c'est Non, Monsieur Duplomb !
 i-5428	Touchez pas à nos fêtes !
 i-5521	Contamination au cadmium : action immédiate !
+i-5820	Supprimer CNews de l'audiovisuel français
 i-6392	Duplomb II - Non c'est toujours Non !
 i-6398	Uniforme 🦄 + équipement floral 💐 pour les FdO 😘
 i-5254	Pour une Mutuelle complémentaire gérée par la Sécurité Sociale
@@ -77,5 +78,4 @@ i-6369	Juger les mineurs comme les adultes pour des faits graves
 i-6963	Consulter les citoyen.nes pour la réunion du 44 avec la Bretagne
 i-6755	Au moins une plage accessible aux chiens par commune littorale
 i-4089	Contre la proposition de directive européenne Omnibus
-i-5820	Supprimer CNews de l'audiovisuel français
 i-7052	Protéger nos aînés, oui. Décider sans les écouter, non.
