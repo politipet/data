@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5820	c-2	305512	306095	Supprimer CNews de l'audiovisuel français
-i-7415	c-2	12046	12046	Abrogation de Parcoursup et budget d’urgence dès 2027
-i-7231	c-7	10139	155662	Stop à la police qui mutile les jeunes
-i-7210	c-2	8607	36430	Abonnements numériques : garantir le droit aux places payées
-i-7249	c-6	3110	3407
-i-5103	c-3	2304	437572	Non c'est Non, Monsieur Duplomb !
-i-6921	c-2	1548	1569
-i-4753	c-5	1043	115694	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-5851	c-2	1006	1123
-i-7386	c-8	923	923
+i-5820	c-2	310113	310698	Supprimer CNews de l'audiovisuel français
+i-7415	c-2	12051	12051	Abrogation de Parcoursup et budget d’urgence dès 2027
+i-7231	c-7	10129	155724	Stop à la police qui mutile les jeunes
+i-7210	c-2	8575	36441	Abonnements numériques : garantir le droit aux places payées
+i-7249	c-6	3090	3412
+i-5103	c-3	2334	437606	Non c'est Non, Monsieur Duplomb !
+i-6921	c-2	1556	1577
+i-4753	c-5	1050	115705	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5851	c-2	1015	1133
+i-7386	c-8	930	930
 
-votes en 10 j :		370122
+votes en 10 j :		374830
