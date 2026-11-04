@@ -27,6 +27,7 @@ i-7242	Stop à la répression des jeunes
 i-7415	Abrogation de Parcoursup et budget d’urgence dès 2027
 i-7662	Soutien à CNews
 i-7477	Annulation des poursuites contre les lycéen⋅nes
+i-7121	Abolition de la chasse à courre
 
 
 # ^ tracked ^     ▼ not tracked ▼
