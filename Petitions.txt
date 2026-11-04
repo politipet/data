@@ -25,6 +25,7 @@ i-7210	Abonnements numériques : garantir le droit aux places payées
 i-7231	Stop à la police qui mutile les jeunes
 i-7242	Stop à la répression des jeunes
 i-7415	Abrogation de Parcoursup et budget d’urgence dès 2027
+i-7662	Soutien à CNews
 
 
 # ^ tracked ^     ▼ not tracked ▼
