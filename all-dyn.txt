@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5820	c-2	907339	908742	Supprimer CNews de l'audiovisuel français
-i-7662	c-2	63238	63238	Soutien à CNews
-i-7121	c-8	17282	17282	Abolition de la chasse à courre
-i-7231	c-7	13097	164111	Stop à la police qui mutile les jeunes
-i-5103	c-3	8937	444444	Non c'est Non, Monsieur Duplomb !
-i-5851	c-2	3505	3641
-i-6921	c-2	3453	3476
-i-6392	c-3	3058	143032	Duplomb II - Non c'est toujours Non !
-i-4753	c-5	2733	117707	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
-i-7415	c-2	2398	13140	Abrogation de Parcoursup et budget d’urgence dès 2027
+i-5820	c-2	909311	910714	Supprimer CNews de l'audiovisuel français
+i-7662	c-2	63910	63910	Soutien à CNews
+i-7121	c-8	17415	17415	Abolition de la chasse à courre
+i-7231	c-7	13186	164200	Stop à la police qui mutile les jeunes
+i-5103	c-3	8974	444481	Non c'est Non, Monsieur Duplomb !
+i-5851	c-2	3514	3650
+i-6921	c-2	3504	3527
+i-6392	c-3	3067	143041	Duplomb II - Non c'est toujours Non !
+i-4753	c-5	2741	117715	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-7415	c-2	2402	13144	Abrogation de Parcoursup et budget d’urgence dès 2027
 
-votes en 10 j :		1094506
+votes en 10 j :		1097937
