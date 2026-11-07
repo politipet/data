@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5820	c-2	912472	973495	Supprimer CNews de l'audiovisuel français
-i-7662	c-2	78696	78696	Soutien à CNews
-i-7121	c-8	22877	22877	Abolition de la chasse à courre
-i-7231	c-7	14022	166626	Stop à la police qui mutile les jeunes
-i-5103	c-3	9630	445462	Non c'est Non, Monsieur Duplomb !
-i-6921	c-2	3994	4018	Revalorisation des ATSEM en catégorie B
-i-5851	c-2	3649	3938	Pour le retrait de CNews de la TNT
-i-6392	c-3	3295	143387	Duplomb II - Non c'est toujours Non !
-i-7649	c-2	3168	3168
-i-4753	c-5	2869	118024	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
+i-5820	c-2	908696	974666	Supprimer CNews de l'audiovisuel français
+i-7662	c-2	79081	79081	Soutien à CNews
+i-7121	c-8	22984	22984	Abolition de la chasse à courre
+i-7231	c-7	14023	166675	Stop à la police qui mutile les jeunes
+i-5103	c-3	9625	445481	Non c'est Non, Monsieur Duplomb !
+i-6921	c-2	4012	4036	Revalorisation des ATSEM en catégorie B
+i-5851	c-2	3638	3941	Pour le retrait de CNews de la TNT
+i-6392	c-3	3295	143394	Duplomb II - Non c'est toujours Non !
+i-7649	c-2	3195	3195
+i-4753	c-5	2868	118030	Rendre obligatoire l'affichage du Nutri-Score sur les emballages
 
-votes en 10 j :		1133979
+votes en 10 j :		1130740
