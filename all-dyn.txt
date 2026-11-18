@@ -1,13 +1,13 @@
 id	comm	diff	score	theme
-i-5851	c-2	64204	68152	Pour le retrait de CNews de la TNT
-i-7121	c-8	62705	86378	Abolition de la chasse à courre
-i-7662	c-2	18628	98741	Soutien à CNews
-i-7649	c-2	4236	7483
-i-7231	c-7	4166	170987	Stop à la police qui mutile les jeunes
-i-7622	c-7	2822	3365
-i-7594	c-2	2726	3864
-i-5103	c-3	2530	448063	Non c'est Non, Monsieur Duplomb !
+i-5851	c-2	64301	68249	Pour le retrait de CNews de la TNT
+i-7121	c-8	62624	86413	Abolition de la chasse à courre
+i-7662	c-2	18545	98742	Soutien à CNews
+i-7649	c-2	4235	7495
+i-7231	c-7	4132	170993	Stop à la police qui mutile les jeunes
+i-7622	c-7	2812	3365
+i-7594	c-2	2724	3870
+i-5103	c-3	2526	448068	Non c'est Non, Monsieur Duplomb !
 i-7004	c-3	1499	1655
-i-7249	c-6	1433	5379
+i-7249	c-6	1430	5380
 
-votes en 10 j :		214549
+votes en 10 j :		214368
